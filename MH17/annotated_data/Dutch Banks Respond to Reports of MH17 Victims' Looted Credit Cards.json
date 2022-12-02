@@ -1,0 +1,270 @@
+{
+    "Dutch Banks Respond to Reports of MH17 Victims' Looted Credit Cards": {
+        "fe's without links": {
+            "t144": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Using@Agent",
+                    "Robbery@Perpetrator"
+                ],
+                "lemma": "resident",
+                "sentence": "7",
+                "target phrase": "local resident"
+            },
+            "t149": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Using@Instrument"
+                ],
+                "lemma": "credit",
+                "sentence": "7",
+                "target phrase": "credit"
+            },
+            "t56": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Robbery@Source"
+                ],
+                "lemma": "credit",
+                "sentence": "5",
+                "target phrase": "credit"
+            },
+            "t98": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Emotion_directed@Stimulus"
+                ],
+                "lemma": "treatment",
+                "sentence": "6",
+                "target phrase": "the body and evidence in the mile debris field of the treatment of"
+            }
+        },
+        "frames/links": {
+            "Q1631025548534": {
+                "t153": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Catastrophe@Patient"
+                    ],
+                    "lemma": "victim",
+                    "reftype": "evoke",
+                    "sentence": "7",
+                    "target phrase": "the victim"
+                },
+                "t156": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Catastrophe@Patient"
+                    ],
+                    "lemma": "victim",
+                    "reftype": "evoke",
+                    "sentence": "8",
+                    "target phrase": "victim"
+                },
+                "t182": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Ride_vehicle",
+                    "frame elements": [
+                        "Ride_vehicle@Theme",
+                        "Death@Protagonist"
+                    ],
+                    "lemma": "passenger",
+                    "reftype": "evoke",
+                    "sentence": "9",
+                    "target phrase": "the 298 passenger who perish aboard MH17"
+                },
+                "t184": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Death",
+                    "frame elements": null,
+                    "lemma": "perish",
+                    "reftype": "type",
+                    "sentence": "9"
+                },
+                "t63": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Catastrophe@Patient",
+                        "Robbery@Victim"
+                    ],
+                    "lemma": "victim",
+                    "reftype": "evoke",
+                    "sentence": "5",
+                    "target phrase": "the victim of Malaysia Airlines MH17"
+                }
+            },
+            "Q1631864271612": {
+                "mw1": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event",
+                        "Catastrophe@Undesirable_event",
+                        "Catastrophe@Undesirable_event",
+                        "Emotion_directed@Topic"
+                    ],
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "6",
+                    "target phrase": "shoot down"
+                },
+                "t113": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient",
+                        "Ride_vehicle@Vehicle"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "6",
+                    "target phrase": "the plane that be over airspace Thursday"
+                }
+            },
+            "Q17374096": {
+                "mw1": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event",
+                        "Catastrophe@Undesirable_event",
+                        "Catastrophe@Undesirable_event",
+                        "Emotion_directed@Topic"
+                    ],
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "6",
+                    "target phrase": "shoot down"
+                },
+                "t120": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Ride_vehicle@Area"
+                    ],
+                    "lemma": "Ukraine",
+                    "sentence": "6",
+                    "target phrase": "Ukraine"
+                }
+            }
+        },
+        "historical distance": 2,
+        "implicated fe's": [
+            "Downing@Agent",
+            "Using@Purpose",
+            "Ride_vehicle@Source",
+            "Ride_vehicle@Path",
+            "Ride_vehicle@Goal",
+            "Emotion_directed@Experiencer",
+            "Emotion_directed@Expressor",
+            "Evidence@Support",
+            "Evidence@Proposition"
+        ],
+        "raw text": "Dutch Banks Respond to Reports of MH17 Victims' Looted Credit Cards.\n\nBreaking News Emails Get breaking news alerts and special reports. The news and stories that matter, delivered weekday mornings. July 19, 2014, 8:40 PM GMT / Updated July 19, 2014, 8:40 PM GMT Reports that credit cards have been looted from the victims of Malaysia Airlines MH17 have prompted Dutch banks to take \u201cpreventative measures\u201d against possible fraud, the Dutch Banking Association said in a statement Saturday. International outrage has erupted over the treatment of the bodies and evidence in the 16-square-mile debris field of the plane that was shot down over contested Ukraine airspace Thursday. Alexander Borodai, the prime minister of the self-proclaimed Donetsk People's Republic, said Saturday that local residents may have used the credit cards of the victims. The victims\u2019 next of kin will be reimbursed for any credit card \u201cabuse,\u201d according to the Dutch Banking Association. Of the 298 passengers who perished aboard MH17, 193 were Dutch. IN-DEPTH SOCIAL \u2014 Elisha Fieldstadt\n",
+        "subevents": {
+            "t103": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": null,
+                "lemma": "evidence",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t147": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Using",
+                "frame elements": null,
+                "lemma": "use",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t60": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Robbery",
+                "frame elements": null,
+                "lemma": "loot",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t93": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Emotion_directed",
+                "frame elements": null,
+                "lemma": "outrage",
+                "reftype": "type",
+                "sentence": "6"
+            }
+        }
+    }
+}

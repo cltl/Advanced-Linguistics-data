@@ -1,0 +1,1007 @@
+{
+    "Dutch Experts Help Recover MH17 Crash Items Despite Nearby Clashes": {
+        "fe's without links": {
+            "t108": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Investigator"
+                ],
+                "lemma": "Dutch",
+                "sentence": "5",
+                "target phrase": "Dutch"
+            },
+            "t141": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Gathering_up@Agent"
+                ],
+                "lemma": "team",
+                "sentence": "6",
+                "target phrase": "the team"
+            },
+            "t143": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Gathering_up@Individuals"
+                ],
+                "lemma": "item",
+                "sentence": "6",
+                "target phrase": "item include book , tube"
+            },
+            "t198": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Rebellion@Current_leadership"
+                ],
+                "lemma": "ukrainian",
+                "sentence": "8",
+                "target phrase": "ukrainian"
+            },
+            "t199": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Hostile_encounter@Side_1",
+                    "Rebellion@Current_leadership"
+                ],
+                "lemma": "troop",
+                "sentence": "8",
+                "target phrase": "ukrainian troop and the - russian separatist -PRON- be fight"
+            },
+            "t20": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arriving@Theme",
+                    "Getting@Recipient",
+                    "Getting@Recipient"
+                ],
+                "lemma": "expert",
+                "sentence": "3",
+                "target phrase": "four dutch expert"
+            },
+            "t234": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Filling@Agent"
+                ],
+                "lemma": "official",
+                "sentence": "10",
+                "target phrase": "Emergency Ministry official"
+            },
+            "t237": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Filling@Theme"
+                ],
+                "lemma": "item",
+                "sentence": "10",
+                "target phrase": "the item on a small cargo truck mean"
+            },
+            "t24": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arriving@Goal"
+                ],
+                "lemma": "site",
+                "sentence": "3",
+                "target phrase": "the crash site of Airlines Flight MH17 in"
+            },
+            "t242": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Filling@Goal"
+                ],
+                "lemma": "truck",
+                "sentence": "10",
+                "target phrase": "a small cargo truck mean to take -PRON- from back"
+            },
+            "t289": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Categorization@Cognizer"
+                ],
+                "lemma": "team",
+                "sentence": "12",
+                "target phrase": "the dutch forensic team in the Netherlands"
+            },
+            "t32": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Ride_vehicle@Area",
+                    "Ride_vehicle@Area"
+                ],
+                "lemma": "Ukraine",
+                "sentence": "3",
+                "target phrase": "east Ukraine"
+            },
+            "t342": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Rebellion@Current_leadership"
+                ],
+                "lemma": "government",
+                "sentence": "13",
+                "target phrase": "government"
+            },
+            "t343": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Hostile_encounter@Side_2"
+                ],
+                "lemma": "force",
+                "sentence": "13",
+                "target phrase": "government force"
+            },
+            "t378": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Hostile_encounter@Issue",
+                    "Hostile_encounter@Issue",
+                    "Being_in_control@Dependent_entity",
+                    "Hostile_encounter@Issue",
+                    "Hostile_encounter@Issue",
+                    "Hostile_encounter@Issue"
+                ],
+                "lemma": "territory",
+                "sentence": "14",
+                "target phrase": "the territory"
+            },
+            "t39": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Getting@Theme",
+                    "Getting@Theme"
+                ],
+                "lemma": "belonging",
+                "sentence": "3",
+                "target phrase": "personal belonging of victim"
+            },
+            "t423": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Killing@Frequency",
+                    "Impact@Impactor",
+                    "Shoot_projectiles@Projectile"
+                ],
+                "lemma": "missile",
+                "sentence": "16",
+                "target phrase": "a surface - to - air missile fire from territory"
+            },
+            "t443": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Judgment_communication@Reason"
+                ],
+                "lemma": "arm",
+                "sentence": "17",
+                "target phrase": "arm -PRON-"
+            },
+            "t45": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Rebellion@Current_leadership"
+                ],
+                "lemma": "government",
+                "sentence": "3",
+                "target phrase": "government"
+            },
+            "t46": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Hostile_encounter@Side_1",
+                    "Hostile_encounter@Side_2"
+                ],
+                "lemma": "troop",
+                "sentence": "3",
+                "target phrase": "government troop and separatist rebel"
+            }
+        },
+        "frames/links": {
+            "Q159": {
+                "t441": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Judgment_communication@Evaluee"
+                    ],
+                    "lemma": "Moscow",
+                    "sentence": "17",
+                    "target phrase": "Moscow"
+                }
+            },
+            "Q1631025548534": {
+                "t102": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Catastrophe@Patient"
+                    ],
+                    "lemma": "victim",
+                    "reftype": "evoke",
+                    "sentence": "5",
+                    "target phrase": "the victim"
+                },
+                "t258": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Catastrophe@Patient"
+                    ],
+                    "lemma": "victim",
+                    "reftype": "evoke",
+                    "sentence": "10",
+                    "target phrase": "the victim '"
+                },
+                "t296": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Categorization@Item",
+                        "Catastrophe@Patient"
+                    ],
+                    "lemma": "victim",
+                    "reftype": "evoke",
+                    "sentence": "12",
+                    "target phrase": "272 victim of the crash"
+                },
+                "t299": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Impact",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event"
+                    ],
+                    "lemma": "crash",
+                    "reftype": "type",
+                    "sentence": "12",
+                    "target phrase": "the crash"
+                },
+                "t41": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Catastrophe@Patient",
+                        "Ride_vehicle@Theme"
+                    ],
+                    "lemma": "victim",
+                    "reftype": "evoke",
+                    "sentence": "3",
+                    "target phrase": "victim"
+                },
+                "t85": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Ride_vehicle",
+                    "frame elements": [
+                        "Killing@Victim",
+                        "Ride_vehicle@Theme"
+                    ],
+                    "lemma": "passenger",
+                    "reftype": "evoke",
+                    "sentence": "4",
+                    "target phrase": "all 298 passenger and crew"
+                }
+            },
+            "Q1631864085791": {
+                "t205": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel",
+                        "Hostile_encounter@Side_2"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "8",
+                    "target phrase": "the pro - russian separatist -PRON- be fight"
+                },
+                "t266": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "11",
+                    "target phrase": "armed pro - russian rebel"
+                },
+                "t340": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel",
+                        "Hostile_encounter@Side_1"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "13",
+                    "target phrase": "the separatist and government force"
+                },
+                "t345": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel",
+                        "Hostile_encounter@Side_1"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "14",
+                    "target phrase": "separatist of the proclaim People Republic fighting to split Ukraine from on"
+                },
+                "t355": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Hostile_encounter",
+                    "frame elements": null,
+                    "lemma": "fighting",
+                    "reftype": "type",
+                    "sentence": "14"
+                },
+                "t357": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hostile_encounter@Purpose",
+                        "Hostile_encounter@Purpose",
+                        "Hostile_encounter@Purpose",
+                        "Hostile_encounter@Purpose",
+                        "Hostile_encounter@Purpose"
+                    ],
+                    "lemma": "split",
+                    "sentence": "14",
+                    "target phrase": "to split east Ukraine from Kiev on Monday"
+                },
+                "t361": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Rebellion@Current_leadership",
+                        "Hostile_encounter@Side_2",
+                        "Rebellion@Current_leadership",
+                        "Rebellion@Current_order",
+                        "Judgment_communication@Communicator"
+                    ],
+                    "lemma": "Kiev",
+                    "sentence": "14",
+                    "target phrase": "Kiev"
+                },
+                "t380": {
+                    "POS": "DET",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Being_in_control@Controlling_entity"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "14",
+                    "target phrase": "-PRON-"
+                },
+                "t430": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Hit_target@Agent",
+                        "Shoot_projectiles@Agent",
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "16",
+                    "target phrase": "the separatist"
+                },
+                "t438": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Judgment@Evaluee",
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "17",
+                    "target phrase": "the rebel"
+                },
+                "t447": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel",
+                        "Affirm_or_deny@Speaker",
+                        "Judgment_communication@Evaluee"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "18",
+                    "target phrase": "the rebel and Moscow"
+                },
+                "t49": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Hostile_encounter@Side_2",
+                        "Rebellion@Rebel",
+                        "Destroying@Destroyer",
+                        "Killing@Killer",
+                        "Criminal_investigation@Suspect",
+                        "Downing@Agent",
+                        "Hostile_encounter@Side_1"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "3",
+                    "target phrase": "separatist rebel"
+                }
+            },
+            "Q1631864271612": {
+                "t120": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "Boeing",
+                    "sentence": "5",
+                    "target phrase": "Boeing"
+                },
+                "t397": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Ride_vehicle",
+                    "frame elements": [
+                        "Hit_target@Target",
+                        "Ride_vehicle@Vehicle"
+                    ],
+                    "lemma": "aircraft",
+                    "reftype": "evoke",
+                    "sentence": "16",
+                    "target phrase": "the aircraft , which be en route from to ,"
+                },
+                "t404": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Ride_vehicle@Source",
+                        "Ride_vehicle@Source"
+                    ],
+                    "lemma": "Amsterdam",
+                    "sentence": "16",
+                    "target phrase": "Amsterdam"
+                },
+                "t406": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Ride_vehicle@Goal",
+                        "Ride_vehicle@Goal"
+                    ],
+                    "lemma": "Kuala",
+                    "sentence": "16",
+                    "target phrase": "Kuala"
+                },
+                "t74": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Destroying@Patient",
+                        "Impact@Impactee",
+                        "Catastrophe@Patient",
+                        "Ride_vehicle@Vehicle"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "4",
+                    "target phrase": "the plane"
+                }
+            },
+            "Q1636580448374": {
+                "t432": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Judgment@Cognizer",
+                        "Rebellion@Current_leadership",
+                        "Judgment_communication@Communicator"
+                    ],
+                    "lemma": "Kiev",
+                    "sentence": "17",
+                    "target phrase": "Kiev"
+                }
+            },
+            "Q17374096": {
+                "mw1": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Destroying",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event",
+                        "Killing@Means",
+                        "Catastrophe@Undesirable_event",
+                        "Catastrophe@Undesirable_event",
+                        "Affirm_or_deny@Topic",
+                        "Judgment_communication@Topic",
+                        "Judgment_communication@Reason"
+                    ],
+                    "lemma": "bring down",
+                    "reftype": "type",
+                    "sentence": "4",
+                    "target phrase": "bring down"
+                },
+                "t123": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event",
+                        "Criminal_investigation@Incident"
+                    ],
+                    "lemma": "down",
+                    "reftype": "type",
+                    "sentence": "5",
+                    "target phrase": "how the Boeing 777 be down"
+                },
+                "t299": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Impact",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event"
+                    ],
+                    "lemma": "crash",
+                    "reftype": "type",
+                    "sentence": "12",
+                    "target phrase": "the crash"
+                },
+                "t435": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Judgment@Reason",
+                        "Judgment_communication@Topic"
+                    ],
+                    "lemma": "incident",
+                    "reftype": "type",
+                    "sentence": "17",
+                    "target phrase": "the incident"
+                }
+            }
+        },
+        "historical distance": 88,
+        "implicated fe's": [
+            "Gathering_up@Aggregate",
+            "Categorization@Category",
+            "Categorization@Criteria",
+            "Being_in_control@Degree",
+            "Judgment@Expressor",
+            "Judgment_communication@Medium",
+            "Judgment_communication@Expressor",
+            "Affirm_or_deny@Medium",
+            "Judgment_communication@Medium",
+            "Judgment_communication@Expressor",
+            "Ride_vehicle@Path",
+            "Ride_vehicle@Path"
+        ],
+        "raw text": "Dutch Experts Help Recover MH17 Crash Items Despite Nearby Clashes.\n\nHRABOVE Ukraine (Reuters) - Four Dutch experts visited the crash site of Malaysia Airlines Flight MH17 in east Ukraine on Monday to help recover personal belongings of victims despite fighting between government troops and separatist rebels nearby. The experts said they were on hand to advise a local Emergencies Ministry team combing the wreckage in the fields where the plane was brought down on July 17, killing all 298 passengers and crew, a Reuters correspondent on the scene said. Two-thirds of the victims were Dutch nationals and the Dutch Safety Board is in charge of the investigation into how the Boeing 777 was downed. A short but intense exchange of artillery fire played out near the grassy fields where the team collected items including books, toothpaste tubes, playing cards, a plastic watch and a stick of antiperspirant. Many items were too badly burned to identify. Black smoke rose in the distance less than five km (three miles) away from the site, despite a ceasefire agreed on Sept. 5 between Ukrainian troops and the pro-Russian separatists they are fighting. Although ceasefire violations have been sporadic around strategically important locations in east Ukraine they have led to a decrease in fighting. Emergency Ministry officials loaded the items on a small cargo truck meant to take them from the fields near the village of Hrabove back to the victims' families. Armed pro-Russian rebels stood around the site while workers from the European rights and security watchdog OSCE monitored the recovery process. The Dutch forensics teams in the Netherlands have identified 272 victims of the crash but there are still believed to be remains in the area. Dutch Prime Minister Mark Rutte said on Friday he was furious that Dutch investigators had been unable to finish work in the area because of fighting between the separatists and government forces. Separatists of the self-proclaimed Donetsk People's Republic fighting to split east Ukraine from Kiev on Monday said 36 civilians, including one child, were killed in shelling of the territory under their control last week. More than 3,500 people have been killed in the conflict. The aircraft, which was en route from Amsterdam to Kuala Lumpur, is widely believed to have been hit by a surface-to-air missile fired from territory held by the separatists. Kiev blames the incident on the rebels and accuses Moscow of arming them. The rebels and Moscow deny the accusations.\n",
+        "subevents": {
+            "t116": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t142": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Gathering_up",
+                "frame elements": null,
+                "lemma": "collect",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t208": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "fight",
+                "reftype": "type",
+                "sentence": "8"
+            },
+            "t21": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "visit",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t235": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Filling",
+                "frame elements": null,
+                "lemma": "load",
+                "reftype": "type",
+                "sentence": "10"
+            },
+            "t283": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Getting",
+                "frame elements": null,
+                "lemma": "recovery",
+                "reftype": "type",
+                "sentence": "11"
+            },
+            "t294": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Categorization",
+                "frame elements": null,
+                "lemma": "identify",
+                "reftype": "type",
+                "sentence": "12"
+            },
+            "t337": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "fighting",
+                "reftype": "type",
+                "sentence": "13"
+            },
+            "t37": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Getting",
+                "frame elements": null,
+                "lemma": "recover",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t381": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_in_control",
+                "frame elements": null,
+                "lemma": "control",
+                "reftype": "type",
+                "sentence": "14"
+            },
+            "t394": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "conflict",
+                "reftype": "type",
+                "sentence": "15"
+            },
+            "t415": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hit_target",
+                "frame elements": null,
+                "lemma": "hit",
+                "reftype": "type",
+                "sentence": "16"
+            },
+            "t424": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": null,
+                "lemma": "fire",
+                "reftype": "type",
+                "sentence": "16"
+            },
+            "t43": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "fight",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t433": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Judgment",
+                "frame elements": null,
+                "lemma": "blame",
+                "reftype": "type",
+                "sentence": "17"
+            },
+            "t440": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Judgment_communication",
+                "frame elements": null,
+                "lemma": "accuse",
+                "reftype": "type",
+                "sentence": "17"
+            },
+            "t450": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Affirm_or_deny",
+                "frame elements": null,
+                "lemma": "deny",
+                "reftype": "type",
+                "sentence": "18"
+            },
+            "t452": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Judgment_communication",
+                "frame elements": [
+                    "Affirm_or_deny@Message"
+                ],
+                "lemma": "accusation",
+                "reftype": "type",
+                "sentence": "18",
+                "target phrase": "the accusation"
+            },
+            "t82": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Killing",
+                "frame elements": null,
+                "lemma": "kill",
+                "reftype": "type",
+                "sentence": "4"
+            }
+        }
+    }
+}

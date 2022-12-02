@@ -1,0 +1,576 @@
+{
+    "Politie Utrecht houdt klopjacht op 37-jarige verdachte G\u00f6kmen Tanis": {
+        "fe's without links": {
+            "t103": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Attempt_suasion@Addressee",
+                    "Residence@Resident"
+                ],
+                "lemma": "inwoner",
+                "sentence": "7",
+                "target phrase": "inwoner"
+            },
+            "t132": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Piracy@Vehicle",
+                    "Piracy@Vehicle"
+                ],
+                "lemma": "renault",
+                "sentence": "9",
+                "target phrase": "een rood renault clio"
+            },
+            "t143": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Locating@Sought_entity"
+                ],
+                "lemma": "renault",
+                "sentence": "11",
+                "target phrase": "de renault"
+            },
+            "t2": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Statement@Speaker",
+                    "Suspicion@Authority"
+                ],
+                "lemma": "politie",
+                "sentence": "1",
+                "target phrase": "de politie"
+            },
+            "t35": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Statement@Speaker"
+                ],
+                "lemma": "politie",
+                "sentence": "3",
+                "target phrase": "de politie"
+            },
+            "t38": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Seeking@Cognizer_agent"
+                ],
+                "lemma": "politie",
+                "sentence": "4",
+                "target phrase": "de politie"
+            },
+            "t5": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Statement@Message"
+                ],
+                "lemma": "identiteit",
+                "sentence": "1",
+                "target phrase": "van de aanslagvanochtend tram de identiteit van de verdenken"
+            },
+            "t67": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Seeking@Cognizer_agent",
+                    "Statement@Speaker"
+                ],
+                "lemma": "politie",
+                "sentence": "5",
+                "target phrase": "de politie"
+            },
+            "t74": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Creating@Created_entity"
+                ],
+                "lemma": "beeld",
+                "sentence": "6",
+                "target phrase": "van beeld die zijn maken in een tram ,"
+            }
+        },
+        "frames/links": {
+            "Q62090804": {
+                "t12.c0": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "aanslagvanochtend",
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Statement@Topic",
+                        "Suspicion@Incident",
+                        "Catastrophe@Undesirable_event",
+                        "Catastrophe@Undesirable_event"
+                    ],
+                    "function": "head",
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "aanslagvanochtend"
+                },
+                "t123": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "het"
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": null,
+                    "lemma": "incident",
+                    "reftype": "evoke",
+                    "sentence": "9"
+                },
+                "t158": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Attack",
+                    "frame elements": null,
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "12"
+                },
+                "t17": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Locating@Ground"
+                    ],
+                    "lemma": "utrecht",
+                    "sentence": "1",
+                    "target phrase": "in utrecht"
+                },
+                "t42": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "het"
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": null,
+                    "lemma": "incident",
+                    "reftype": "evoke",
+                    "sentence": "4"
+                }
+            },
+            "Q62116513": {
+                "t24": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Suspicion@Suspect"
+                    ],
+                    "lemma": "g\u00f6km",
+                    "sentence": "2",
+                    "target phrase": "om de 37-jarige g\u00f6km tanis"
+                },
+                "t27": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Being_born@Child"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "3",
+                    "target phrase": "hij"
+                },
+                "t49": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Seeking@Sought_entity"
+                    ],
+                    "lemma": "man",
+                    "sentence": "4",
+                    "target phrase": "naar de man"
+                },
+                "t55": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Arriving@Goal",
+                        "Seeking@Sought_entity"
+                    ],
+                    "lemma": "hem",
+                    "sentence": "5",
+                    "target phrase": "hem"
+                },
+                "t86": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Committing_crime",
+                    "frame elements": [
+                        "Committing_crime@Perpetrator",
+                        "Attack@Assailant"
+                    ],
+                    "lemma": "dader",
+                    "reftype": "evoke",
+                    "sentence": "6",
+                    "target phrase": "de dader"
+                },
+                "t9": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Attack@Assailant",
+                        "Statement@Topic",
+                        "Statement@Topic",
+                        "Piracy@Perpetrator",
+                        "Piracy@Perpetrator",
+                        "Attack@Assailant"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "van de aanslagvanochtend in een tram utrecht van de verdenken"
+                }
+            },
+            "Q803": {
+                "t149": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Locating@Location"
+                    ],
+                    "lemma": "tichelaarslaan",
+                    "sentence": "11",
+                    "target phrase": "op de tichelaarslaan"
+                },
+                "t17": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Locating@Ground"
+                    ],
+                    "lemma": "utrecht",
+                    "sentence": "1",
+                    "target phrase": "in utrecht"
+                },
+                "t80": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Creating@Place"
+                    ],
+                    "lemma": "tram",
+                    "sentence": "6",
+                    "target phrase": "in een tram ,"
+                },
+                "t90": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Change_accessibility@Useful_location"
+                    ],
+                    "lemma": "straat",
+                    "sentence": "7",
+                    "target phrase": "straat in utrecht"
+                }
+            }
+        },
+        "historical distance": 0,
+        "implicated fe's": [
+            "Statement@Medium",
+            "Attack@Victim",
+            "Statement@Medium",
+            "Catastrophe@Patient",
+            "Arriving@Theme",
+            "Creating@Creator",
+            "Attack@Victim",
+            "Change_accessibility@Agent",
+            "Change_accessibility@Portal",
+            "Attempt_suasion@Speaker",
+            "Attempt_suasion@Topic",
+            "Attempt_suasion@Medium",
+            "Attempt_suasion@Salient_entity",
+            "Residence@Co_resident",
+            "Catastrophe@Patient",
+            "Piracy@Victim",
+            "Piracy@Victim",
+            "Locating@Perceiver",
+            "Attack@Victim"
+        ],
+        "raw text": "\nDe politie heeft de identiteit bekendgemaakt van de verdachte van de aanslagvanochtend in een tram in Utrecht. Het gaat om de 37-jarige G\u00f6kmen Tanis. Hij is in Turkije geboren, meldt de politie. De politie is sinds het incident met man en macht naar de man op zoek. \"Benader hem niet zelf maar bel direct de opsporingslijn\", twittert de politie. De tweet is vergezeld van beelden die zijn gemaakt in een tram, vermoedelijk die waar de dader vanochtend toesloeg. Straten in Utrecht werden in het eerste deel van de middag afgesloten en inwoners kregen het advies om binnen te blijven. Dat is inmiddels weer van de baan. Kort voor het incident is op de Amerikalaan in Utrecht een rode Renault Clio gekaapt; de politie spreekt van carjacking. De Renault is later teruggevonden op de Tichelaarslaan. Of er een verband is met de aanslag in de tram is onduidelijk.\n",
+        "subevents": {
+            "mw1": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Residence",
+                "frame elements": [
+                    "Attempt_suasion@Content"
+                ],
+                "lemma": "binnenblijven",
+                "reftype": "type",
+                "sentence": "7",
+                "target phrase": "binnenblijven"
+            },
+            "t101": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Change_accessibility",
+                "frame elements": null,
+                "lemma": "afsluiten",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t106": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Attempt_suasion",
+                "frame elements": null,
+                "lemma": "advies",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t134": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Piracy",
+                "frame elements": null,
+                "lemma": "kapen",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t140": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Piracy",
+                "frame elements": null,
+                "lemma": "carjacking",
+                "reftype": "type",
+                "sentence": "10"
+            },
+            "t146": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locating",
+                "frame elements": null,
+                "lemma": "terugvinden",
+                "reftype": "type",
+                "sentence": "11"
+            },
+            "t31": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_born",
+                "frame elements": [
+                    "Statement@Message"
+                ],
+                "lemma": "geboren",
+                "reftype": "type",
+                "sentence": "3",
+                "target phrase": "hij zijn in turkije geboren"
+            },
+            "t33": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "melden",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t51": {
+                "POS": "X",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Seeking",
+                "frame elements": null,
+                "lemma": "zoek",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "t54": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": [
+                    "Statement@Message"
+                ],
+                "lemma": "benaderen",
+                "reftype": "type",
+                "sentence": "5",
+                "target phrase": "_quot; benaderen hem niet zelf maar bel direct de opsporingslijn _quot; , twittert de politie ."
+            },
+            "t6": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "bekendmaken",
+                "reftype": "type",
+                "sentence": "1"
+            },
+            "t62.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "opsporingslijn",
+                "frame": "Seeking",
+                "frame elements": null,
+                "function": "modifier",
+                "lemma": "opsporing",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t65": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": [
+                    "Statement@Medium"
+                ],
+                "lemma": "twittert",
+                "reftype": "type",
+                "sentence": "5",
+                "target phrase": "twittert de politie"
+            },
+            "t77": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Creating",
+                "frame elements": null,
+                "lemma": "maken",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t88": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attack",
+                "frame elements": [
+                    "Committing_crime@Crime"
+                ],
+                "lemma": "toeslaan",
+                "reftype": "type",
+                "sentence": "6",
+                "target phrase": "die waar de dader vanochtend toeslaan"
+            }
+        }
+    }
+}

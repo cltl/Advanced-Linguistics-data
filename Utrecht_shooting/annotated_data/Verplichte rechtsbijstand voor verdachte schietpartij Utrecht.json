@@ -1,0 +1,551 @@
+{
+    "Verplichte rechtsbijstand voor verdachte schietpartij Utrecht": {
+        "fe's without links": {
+            "t100": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Trial@Defense",
+                    "Assistance@Helper",
+                    "Appointing@Official"
+                ],
+                "lemma": "advocaat",
+                "sentence": "6",
+                "target phrase": "advocaat een"
+            },
+            "t103": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Appointing@Role"
+                ],
+                "lemma": "raadsman",
+                "sentence": "6",
+                "target phrase": "als zijn raadsman"
+            },
+            "t108": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Assistance@Helper"
+                ],
+                "lemma": "raadsman",
+                "sentence": "7",
+                "target phrase": "deze raadsman"
+            },
+            "t115.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "rechtsbijstand",
+                "frame elements": [
+                    "Assistance@Focal_entity"
+                ],
+                "function": "modifier",
+                "lemma": "recht",
+                "sentence": "7",
+                "target phrase": "rechtsbijstand"
+            },
+            "t148": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Assistance@Helper"
+                ],
+                "lemma": "raadsman",
+                "sentence": "8",
+                "target phrase": "door een raadsman"
+            },
+            "t43": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Trial@Court"
+                ],
+                "lemma": "rechtbank",
+                "sentence": "3",
+                "target phrase": "de rechtbank"
+            },
+            "t50": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Investigator",
+                    "Criminal_investigation@Investigator",
+                    "Criminal_investigation@Investigator"
+                ],
+                "lemma": "deskundig",
+                "sentence": "3",
+                "target phrase": "door deskundig van het pieter baan centrum over verdenken"
+            },
+            "t64": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Coming_to_be@Entity"
+                ],
+                "lemma": "geestvermogen",
+                "sentence": "4",
+                "target phrase": "zijn geestvermogen"
+            },
+            "t76": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Trial@Court"
+                ],
+                "lemma": "rechtbank",
+                "sentence": "5",
+                "target phrase": "van de rechtbank"
+            },
+            "t95.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "rechtsbijstand",
+                "frame elements": [
+                    "Assistance@Focal_entity"
+                ],
+                "function": "modifier",
+                "lemma": "recht",
+                "sentence": "6",
+                "target phrase": "rechtsbijstand"
+            },
+            "t98": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Appointing@Selector"
+                ],
+                "lemma": "rechtbank",
+                "sentence": "6",
+                "target phrase": "de rechtbank"
+            }
+        },
+        "frames/links": {
+            "Q62090804": {
+                "t31": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Offenses",
+                    "frame elements": [
+                        "Trial@Charges",
+                        "Trial@Charges",
+                        "Criminal_investigation@Incident",
+                        "Criminal_investigation@Incident",
+                        "Criminal_investigation@Incident",
+                        "Suspicion@Incident",
+                        "Offenses@Offense",
+                        "Suspicion@Incident",
+                        "Suspicion@Incident",
+                        "Suspicion@Incident"
+                    ],
+                    "lemma": "feit",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "naar de feit waarvan hij worden verdenken"
+                },
+                "t33": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Trial@Defendant",
+                        "Criminal_investigation@Suspect",
+                        "Criminal_investigation@Suspect",
+                        "Criminal_investigation@Suspect",
+                        "Suspicion@Suspect",
+                        "Offenses@Perpetrator",
+                        "Assistance@Benefited_party"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "2",
+                    "target phrase": "hij"
+                },
+                "t35": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": null,
+                    "lemma": "verdenken",
+                    "reftype": "type",
+                    "sentence": "2"
+                }
+            },
+            "Q62116513": {
+                "t113": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Suspicion@Suspect",
+                        "Assistance@Benefited_party"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "7",
+                    "target phrase": "de verdenken van rechtsbijstand"
+                },
+                "t137": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Suspicion@Suspect"
+                    ],
+                    "lemma": "verdachtes",
+                    "reftype": "evoke",
+                    "sentence": "7",
+                    "target phrase": "verdachtes"
+                },
+                "t143": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Assistance@Benefited_party"
+                    ],
+                    "lemma": "man",
+                    "sentence": "8",
+                    "target phrase": "de man"
+                },
+                "t169": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Desiring@Experiencer"
+                    ],
+                    "lemma": "man",
+                    "sentence": "8",
+                    "target phrase": "van de man"
+                },
+                "t33": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Trial@Defendant",
+                        "Criminal_investigation@Suspect",
+                        "Criminal_investigation@Suspect",
+                        "Criminal_investigation@Suspect",
+                        "Suspicion@Suspect",
+                        "Offenses@Perpetrator",
+                        "Assistance@Benefited_party"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "2",
+                    "target phrase": "hij"
+                },
+                "t57": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Suspicion@Suspect"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "3",
+                    "target phrase": "over verdenken"
+                },
+                "t71": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Trial@Defendant",
+                        "Capability@Entity",
+                        "Emotion_directed@Experiencer",
+                        "Defending@Defender"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "5",
+                    "target phrase": "hij"
+                }
+            }
+        },
+        "historical distance": 276,
+        "implicated fe's": [
+            "Trial@Defense",
+            "Trial@Jury",
+            "Trial@Prosecution",
+            "Trial@Judge",
+            "Trial@Jury",
+            "Trial@Prosecution",
+            "Trial@Judge",
+            "Suspicion@Authority",
+            "Offenses@Victim",
+            "Suspicion@Authority",
+            "Suspicion@Authority",
+            "Suspicion@Authority",
+            "Emotion_directed@State",
+            "Emotion_directed@Stimulus",
+            "Defending@Assailant",
+            "Appointing@Body",
+            "Desiring@Focal_participant",
+            "Desiring@Location_of_event"
+        ],
+        "raw text": "\nInhoud 2 Tijdens de (regie)zitting van 16 december is de balans van het tot nu toe uitgevoerde onderzoek opgemaakt. Dat onderzoek gaat zowel over het onderzoek naar de feiten waarvan hij wordt verdacht, als naar zijn persoon. De rechtbank ontleent aan een rapport dat door deskundigen van het Pieter Baan Centrum over verdachte is opgesteld het vermoeden dat zijn geestvermogens gebrekkig ontwikkeld zijn. Hierdoor is hij volgens beslissing van de rechtbank niet zelf in staat zijn belangen in de strafzaak naar behoren te behartigen. Dat betekent voor zijn rechtsbijstand dat de rechtbank een advocaat als zijn raadsman heeft aangewezen. Deze raadsman heeft tot taak de verdachte van rechtsbijstand te voorzien, en heeft daarin een eigen verantwoordelijkheid, gelet op wat de rechtbank heeft beslist over het vermoeden over verdachtes geestvermogens. Eerder werd de man al bijgestaan door een raadsman, maar de raadsman werd toen in de uitoefening van zijn taak sterk beperkt, omdat de wensen van de man toen nog doorslaggevend konden zijn. Door de beslissing van de rechtbank is wat dat betreft de positie van de raadsman veranderd.\n",
+        "subevents": {
+            "t105": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Appointing",
+                "frame elements": null,
+                "lemma": "aanwijzen",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t115.c2": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "rechtsbijstand",
+                "frame": "Assistance",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "bijstand",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t145": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Assistance",
+                "frame elements": null,
+                "lemma": "bijstaan",
+                "reftype": "type",
+                "sentence": "8"
+            },
+            "t166": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Desiring",
+                "frame elements": [
+                    "Desiring@Event"
+                ],
+                "lemma": "wens",
+                "reftype": "evoke",
+                "sentence": "8",
+                "target phrase": "de wens van de man"
+            },
+            "t19": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "onderzoek",
+                "reftype": "evoke",
+                "sentence": "1"
+            },
+            "t23": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "onderzoek",
+                "reftype": "evoke",
+                "sentence": "2"
+            },
+            "t28": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "onderzoek",
+                "reftype": "evoke",
+                "sentence": "2"
+            },
+            "t6.c2": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "regie)zitting",
+                "frame": "Trial",
+                "frame elements": [
+                    "Trial@Case"
+                ],
+                "function": "head",
+                "lemma": "zitting",
+                "reftype": "evoke",
+                "sentence": "1",
+                "target phrase": "regie)zitting"
+            },
+            "t66": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Coming_to_be",
+                "frame elements": null,
+                "lemma": "ontwikkelen",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "t80": {
+                "POS": "X",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Capability",
+                "frame elements": null,
+                "lemma": "staat",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t82": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Emotion_directed",
+                "frame elements": [
+                    "Defending@Victim",
+                    "Assistance@Focal_entity"
+                ],
+                "lemma": "belang",
+                "reftype": "evoke",
+                "sentence": "5",
+                "target phrase": "zijn belang"
+            },
+            "t85": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Trial",
+                "frame elements": [
+                    "Trial@Case",
+                    "Emotion_directed@Topic"
+                ],
+                "lemma": "strafzaak",
+                "reftype": "evoke",
+                "sentence": "5",
+                "target phrase": "in de strafzaak"
+            },
+            "t89": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Defending",
+                "frame elements": [
+                    "Capability@Event",
+                    "Assistance@Goal",
+                    "Assistance@Goal",
+                    "Assistance@Goal"
+                ],
+                "lemma": "behartigen",
+                "reftype": "type",
+                "sentence": "5",
+                "target phrase": "te behartigen"
+            },
+            "t95.c2": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "rechtsbijstand",
+                "frame": "Assistance",
+                "frame elements": [
+                    "Appointing@Function"
+                ],
+                "function": "head",
+                "lemma": "bijstand",
+                "reftype": "evoke",
+                "sentence": "6",
+                "target phrase": "rechtsbijstand"
+            }
+        }
+    }
+}

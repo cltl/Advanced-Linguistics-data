@@ -1,0 +1,674 @@
+{
+    "Advocaat tramschutter G\u00f6kmen T. overlegt met Orde over levenslange straf": {
+        "fe's without links": {
+            "t100": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Statement@Message"
+                ],
+                "lemma": "zijn",
+                "sentence": "7",
+                "target phrase": "zijn"
+            },
+            "t108": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Statement@Speaker"
+                ],
+                "lemma": "advocaat",
+                "sentence": "7",
+                "target phrase": "de advocaat"
+            },
+            "t116": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Appeal@Representative"
+                ],
+                "lemma": "raadsman",
+                "sentence": "9",
+                "target phrase": "als raadsman"
+            },
+            "t123": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Appeal@Decision"
+                ],
+                "lemma": "straf",
+                "sentence": "9",
+                "target phrase": "tegen een levenslang straf"
+            },
+            "t126": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Discussion@Interlocutor_1"
+                ],
+                "lemma": "ik",
+                "sentence": "9",
+                "target phrase": "ik"
+            },
+            "t150": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Statement@Speaker"
+                ],
+                "lemma": "regeling",
+                "sentence": "11",
+                "target phrase": "de regeling"
+            },
+            "t156": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Statement@Message"
+                ],
+                "lemma": "zijn",
+                "sentence": "11",
+                "target phrase": "zijn"
+            },
+            "t159": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Desiring@Experiencer",
+                    "Discussion@Interlocutor_1"
+                ],
+                "lemma": "ik",
+                "sentence": "12",
+                "target phrase": "ik"
+            },
+            "t16": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Appeal@Representative"
+                ],
+                "lemma": "hij",
+                "sentence": "1",
+                "target phrase": "hij"
+            },
+            "t161": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Discussion@Topic"
+                ],
+                "lemma": "dit",
+                "sentence": "12",
+                "target phrase": "dit"
+            },
+            "t165": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Desiring@Event"
+                ],
+                "lemma": "doen",
+                "sentence": "12",
+                "target phrase": "ik willen dit toch in overleg doen met de rotterdams deken"
+            },
+            "t169": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Discussion@Interlocutor_2"
+                ],
+                "lemma": "deken",
+                "sentence": "12",
+                "target phrase": "met de rotterdams deken"
+            },
+            "t24": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Appeal@Decision"
+                ],
+                "lemma": "celstraf",
+                "sentence": "1",
+                "target phrase": "tegen de levenslang celstraf voor de tramschutter"
+            },
+            "t29": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Assistance@Helper"
+                ],
+                "lemma": "seebregt",
+                "sentence": "2",
+                "target phrase": "seebregt"
+            },
+            "t4": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Discussion@Interlocutor_1"
+                ],
+                "lemma": "andr\u00e9",
+                "sentence": "1",
+                "target phrase": "andr\u00e9 seebregts"
+            },
+            "t42": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Contacting@Addressee"
+                ],
+                "lemma": "hem",
+                "sentence": "2",
+                "target phrase": "met hem"
+            },
+            "t46": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Enforcing@Agent"
+                ],
+                "lemma": "midden",
+                "sentence": "3",
+                "target phrase": "midden"
+            },
+            "t52": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Enforcing@Rule"
+                ],
+                "lemma": "levenslang",
+                "sentence": "3",
+                "target phrase": "levenslang"
+            },
+            "t59": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Hit_target@Target",
+                    "Dead_or_alive@Protagonist",
+                    "Terrorism@Victim",
+                    "Hit_target@Target"
+                ],
+                "lemma": "mens",
+                "sentence": "3",
+                "target phrase": "van vi mens"
+            },
+            "t74": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Becoming_aware@Phenomenon"
+                ],
+                "lemma": "rechtbank",
+                "sentence": "5",
+                "target phrase": "de rechtbank"
+            },
+            "t80": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Desiring@Focal_participant"
+                ],
+                "lemma": "advocaat",
+                "sentence": "5",
+                "target phrase": "ook geen advocaat"
+            },
+            "t9": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Discussion@Interlocutor_2"
+                ],
+                "lemma": "orde",
+                "sentence": "1",
+                "target phrase": "van advocaten in zijn stad met de orde"
+            }
+        },
+        "frames/links": {
+            "Q62090804": {
+                "t56.c0": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "doodschieten",
+                    "frame": "Dead_or_alive",
+                    "frame elements": null,
+                    "function": "modifier",
+                    "lemma": "dood",
+                    "reftype": "evoke",
+                    "sentence": "3"
+                },
+                "t56.c1": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "doodschieten",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Terrorism@Act",
+                        "Committing_crime@Crime",
+                        "Suspicion@Incident"
+                    ],
+                    "function": "head",
+                    "lemma": "schieten",
+                    "reftype": "type",
+                    "sentence": "3",
+                    "target phrase": "doodschieten"
+                },
+                "t66": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Terrorism",
+                    "frame elements": null,
+                    "lemma": "terroristisch",
+                    "reftype": "evoke",
+                    "sentence": "4"
+                },
+                "t67": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": "Committing_crime",
+                    "frame elements": null,
+                    "lemma": "misdrijf",
+                    "reftype": "evoke",
+                    "sentence": "4"
+                }
+            },
+            "Q62116513": {
+                "t132": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Appeal@Convict",
+                        "Discussion@Interlocutor_2"
+                    ],
+                    "lemma": "cli\u00ebnt",
+                    "sentence": "9",
+                    "target phrase": "er met mijn cli\u00ebnt"
+                },
+                "t27.c0": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "tramschutter",
+                    "frame": null,
+                    "frame elements": [
+                        "Hit_target@Place"
+                    ],
+                    "function": "modifier",
+                    "lemma": "tram",
+                    "sentence": "1",
+                    "target phrase": "tramschutter"
+                },
+                "t27.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "tramschutter",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Appeal@Convict",
+                        "Terrorism@Terrorist",
+                        "Committing_crime@Perpetrator",
+                        "Hit_target@Agent"
+                    ],
+                    "function": "head",
+                    "lemma": "schutter",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "tramschutter"
+                },
+                "t31": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Assistance@Benefited_party"
+                    ],
+                    "lemma": "g\u00f6km",
+                    "sentence": "2",
+                    "target phrase": "g\u00f6km t."
+                },
+                "t36": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Desiring@Experiencer",
+                        "Contacting@Communicator"
+                    ],
+                    "lemma": "die",
+                    "sentence": "2",
+                    "target phrase": "die"
+                },
+                "t50": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hit_target@Agent"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "3",
+                    "target phrase": "t."
+                },
+                "t71": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Becoming_aware@Cognizer",
+                        "Desiring@Experiencer",
+                        "Suspicion@Suspect"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "5",
+                    "target phrase": "de 38-jarige verdenken"
+                }
+            }
+        },
+        "historical distance": 368,
+        "implicated fe's": [
+            "Assistance@Goal",
+            "Assistance@Focal_entity",
+            "Desiring@Focal_participant",
+            "Desiring@Location_of_event",
+            "Contacting@Topic",
+            "Contacting@Address",
+            "Contacting@Communication",
+            "Enforcing@Medium",
+            "Dead_or_alive@Figure",
+            "Becoming_aware@Means",
+            "Becoming_aware@Topic",
+            "Becoming_aware@Instrument",
+            "Desiring@Event",
+            "Desiring@Location_of_event",
+            "Statement@Topic",
+            "Statement@Medium",
+            "Desiring@Location_of_event",
+            "Desiring@Focal_participant",
+            "Statement@Topic",
+            "Statement@Medium",
+            "Suspicion@Authority"
+        ],
+        "raw text": "\nDe Rotterdamse advocaat Andr\u00e9 Seebregts overlegt met de Orde van Advocaten in zijn stad of hij in beroep moet gaan tegen de levenslange celstraf voor de tramschutter. Seebregts staat G\u00f6kmen T. bij, maar die wil geen enkel contact met hem. De rechtbank Midden-Nederland legde T. vrijdag levenslang op voor het doodschieten van vier mensen. De rechtbank spreekt van een terroristisch misdrijf. De 38-jarige verdachte erkent de rechtbank niet en wilde ook geen advocaat. De rechtbank heeft via een speciaal wetsartikel een advocaat toegewezen en dat werd Andr\u00e9 Seebregts. \"Dit is een uitzonderlijke situatie\", zegt de advocaat. \"Normaal gesproken zou je als raadsman in beroep gaan tegen een levenslange straf, maar ik kan er niet met mijn cli\u00ebnt over praten.\" Formeel is Seebregts bevoegd om hoger beroep aan te tekenen. \"De regeling zegt dat ik de baas ben. Maar ik wil dit toch in overleg doen met de Rotterdamse deken. Juist omdat het zo'n complexe zaak is.\n",
+        "subevents": {
+            "mw1": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Assistance",
+                "frame elements": null,
+                "lemma": "bijstaan",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "mw2": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Enforcing",
+                "frame elements": null,
+                "lemma": "opleggen",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "mw4": {
+                "POS": null,
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Appeal",
+                "frame elements": [
+                    "Discussion@Topic"
+                ],
+                "lemma": "in beroep gaan",
+                "reftype": "type",
+                "sentence": "1",
+                "target phrase": "in beroep gaan"
+            },
+            "mw5": {
+                "POS": null,
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Appeal",
+                "frame elements": [
+                    "Discussion@Topic"
+                ],
+                "lemma": "in beroep gaan",
+                "reftype": "type",
+                "sentence": "9",
+                "target phrase": "in beroep gaan"
+            },
+            "t106": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "zeggen",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t134": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "praten",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t151": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "zeggen",
+                "reftype": "type",
+                "sentence": "11"
+            },
+            "t160": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Desiring",
+                "frame elements": null,
+                "lemma": "willen",
+                "reftype": "type",
+                "sentence": "12"
+            },
+            "t164": {
+                "POS": "X",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "overleg",
+                "reftype": "type",
+                "sentence": "12"
+            },
+            "t37": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Desiring",
+                "frame elements": null,
+                "lemma": "willen",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t40": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Contacting",
+                "frame elements": [
+                    "Desiring@Event"
+                ],
+                "lemma": "contact",
+                "reftype": "type",
+                "sentence": "2",
+                "target phrase": "geen enkel contact"
+            },
+            "t6": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "overleggen",
+                "reftype": "type",
+                "sentence": "1"
+            },
+            "t72": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Becoming_aware",
+                "frame elements": null,
+                "lemma": "erkennen",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t77": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Desiring",
+                "frame elements": null,
+                "lemma": "willen",
+                "reftype": "type",
+                "sentence": "5"
+            }
+        }
+    }
+}

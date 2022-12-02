@@ -1,0 +1,439 @@
+{
+    "Rutte: vlaggen op overheidsgebouwen vandaag halfstok": {
+        "fe's without links": {
+            "t11": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Giving@Donor"
+                ],
+                "lemma": "rutte",
+                "sentence": "2",
+                "target phrase": "rutte"
+            },
+            "t129": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Sign@Indicated"
+                ],
+                "lemma": "liggen",
+                "sentence": "9",
+                "target phrase": "dat het motief in de persoonlijk sfeer liggen"
+            },
+            "t14": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Giving@Theme"
+                ],
+                "lemma": "vlaginstructie",
+                "sentence": "2",
+                "target phrase": "een vlaginstructie"
+            },
+            "t144": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Hostile_encounter@Purpose"
+                ],
+                "lemma": "leven",
+                "sentence": "11",
+                "target phrase": "voor hun leven"
+            },
+            "t34": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Emotion_directed@Experiencer"
+                ],
+                "lemma": "nederland",
+                "sentence": "4",
+                "target phrase": "heel nederland"
+            },
+            "t58": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Questioning@Topic",
+                    "Unattributed_information@Reported_fact"
+                ],
+                "lemma": "motief",
+                "sentence": "5",
+                "target phrase": "het motief van de dader"
+            }
+        },
+        "frames/links": {
+            "Q1632409367599": {
+                "t135": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Death@Protagonist"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "11",
+                    "target phrase": "drie mens"
+                },
+                "t141": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hostile_encounter@Side_1"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "11",
+                    "target phrase": "drie mens voor hun leven"
+                },
+                "t148": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Cause_harm",
+                    "frame elements": [
+                        "Cause_harm@Victim"
+                    ],
+                    "lemma": "winden",
+                    "reftype": "evoke",
+                    "sentence": "11",
+                    "target phrase": ", er zijn winden"
+                },
+                "t27": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Attack@Victim",
+                        "Attack@Victim",
+                        "Hit_target@Target",
+                        "Catastrophe@Patient",
+                        "Death@Protagonist",
+                        "Emotion_directed@Stimulus",
+                        "Terrorism@Victim",
+                        "Impact@Impactee"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "3",
+                    "target phrase": "drie mens"
+                },
+                "t92": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Cause_harm",
+                    "frame elements": [
+                        "Cause_harm@Victim"
+                    ],
+                    "lemma": "winden",
+                    "reftype": "evoke",
+                    "sentence": "7",
+                    "target phrase": "van de vijf winden"
+                }
+            },
+            "Q62090804": {
+                "t111": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Event",
+                    "frame elements": [
+                        "Event@Event"
+                    ],
+                    "lemma": "gebeurtenis",
+                    "reftype": "evoke",
+                    "sentence": "9",
+                    "target phrase": "de gebeurtenis"
+                },
+                "t115": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": "Attack",
+                    "frame elements": null,
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "9"
+                },
+                "t165": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": "Attack",
+                    "frame elements": null,
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "14"
+                },
+                "t20.c0": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietincident",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event",
+                        "Death@Manner",
+                        "Death@Manner"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schieten",
+                    "reftype": "type",
+                    "sentence": "2",
+                    "target phrase": "schietincident"
+                },
+                "t20.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietincident",
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Giving@Explanation",
+                        "Emotion_directed@Topic",
+                        "Committing_crime@Crime",
+                        "Terrorism@Act",
+                        "Impact@Impactor"
+                    ],
+                    "function": "head",
+                    "lemma": "incident",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "schietincident"
+                },
+                "t22": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Event@Place"
+                    ],
+                    "lemma": "utrecht",
+                    "sentence": "2",
+                    "target phrase": "in utrecht"
+                }
+            },
+            "Q62116513": {
+                "t61": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Committing_crime",
+                    "frame elements": [
+                        "Attack@Assailant",
+                        "Attack@Assailant",
+                        "Hit_target@Agent",
+                        "Committing_crime@Perpetrator",
+                        "Terrorism@Terrorist",
+                        "Cause_harm@Agent",
+                        "Cause_harm@Agent"
+                    ],
+                    "lemma": "dader",
+                    "reftype": "evoke",
+                    "sentence": "5",
+                    "target phrase": "van de dader"
+                }
+            },
+            "Q803": {
+                "t22": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Event@Place"
+                    ],
+                    "lemma": "utrecht",
+                    "sentence": "2",
+                    "target phrase": "in utrecht"
+                }
+            }
+        },
+        "historical distance": 0,
+        "implicated fe's": [
+            "Giving@Recipient",
+            "Emotion_directed@State",
+            "Questioning@Speaker",
+            "Questioning@Addressee",
+            "Questioning@Message",
+            "Cause_harm@Body_part",
+            "Event@Time",
+            "Sign@Indicator",
+            "Hostile_encounter@Side_2",
+            "Hostile_encounter@Issue",
+            "Cause_harm@Body_part"
+        ],
+        "raw text": "\nVandaag hangen de vlaggen op alle overheidsgebouwen halfstok. Premier Rutte heeft een vlaginstructie afgegeven in verband met het schietincident in Utrecht. Daarbij kwamen drie mensen om het leven. \"Heel Nederland leeft intens mee.\" Op een persconferentie zei de premier dat er nog veel vragen en geruchten zijn, vooral over het motief van de dader. Politie en justitie houden nog steeds rekening met een terroristisch motief, maar er kan ook een andere aanleiding zijn. Rutte zei ook dat drie van de vijf gewonden nog steeds in kritieke toestand zijn. 'Niet kleiner maken dan het is' Hij blijft de gebeurtenissen zien als een aanslag, ook al zijn er aanwijzingen dat het motief in de persoonlijke sfeer ligt. \"Er zijn drie mensen overleden, er vechten drie mensen voor hun leven, er zijn gewonden. De impact is groot.\" Premier Rutte legt uit waarom gesproken wordt van een aanslag.\n",
+        "subevents": {
+            "mw1": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Emotion_directed",
+                "frame elements": null,
+                "lemma": "meeleven",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "mw3": {
+                "POS": "MWE",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Death",
+                "frame elements": null,
+                "lemma": "om het leven komen",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t121": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Sign",
+                "frame elements": null,
+                "lemma": "aanwijzing",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t136": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Death",
+                "frame elements": null,
+                "lemma": "overlijden",
+                "reftype": "type",
+                "sentence": "11"
+            },
+            "t139": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "vechten",
+                "reftype": "type",
+                "sentence": "11"
+            },
+            "t15": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Giving",
+                "frame elements": null,
+                "lemma": "afgeven",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t151": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Impact",
+                "frame elements": null,
+                "lemma": "impact",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t50": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Questioning",
+                "frame elements": null,
+                "lemma": "vraag",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t52": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Unattributed_information",
+                "frame elements": null,
+                "lemma": "gerucht",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t72": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Terrorism",
+                "frame elements": null,
+                "lemma": "terroristisch",
+                "reftype": "evoke",
+                "sentence": "6"
+            }
+        }
+    }
+}

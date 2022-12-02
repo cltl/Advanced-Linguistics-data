@@ -1,0 +1,2918 @@
+{
+    "Levenslange gevangenisstraf ge\u00ebist voor aanslag in en rond Utrechtse tram": {
+        "fe's without links": {
+            "t110": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Arrest@Authorities",
+                    "Arriving@Theme"
+                ],
+                "lemma": "politie",
+                "sentence": "5",
+                "target phrase": "de politie"
+            },
+            "t134": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Becoming_aware@Cognizer"
+                ],
+                "lemma": "agent",
+                "sentence": "7",
+                "target phrase": "agent"
+            },
+            "t141": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Becoming_aware@Instrument"
+                ],
+                "lemma": "camerabeeld",
+                "sentence": "7",
+                "target phrase": "op camerabeeld uit de tram"
+            },
+            "t149": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Suspicion@Authority",
+                    "Seeking@Cognizer_agent",
+                    "Activity_start@Agent",
+                    "Criminal_investigation@Investigator"
+                ],
+                "lemma": "politie",
+                "sentence": "7",
+                "target phrase": "door politie en openbaar ministerie"
+            },
+            "t161": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Invading@Invader"
+                ],
+                "lemma": "politie",
+                "sentence": "8",
+                "target phrase": "de politie"
+            },
+            "t166": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Invading@Land"
+                ],
+                "lemma": "plek",
+                "sentence": "8",
+                "target phrase": "op divers plek"
+            },
+            "t258": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Investigator"
+                ],
+                "lemma": "politie",
+                "sentence": "15",
+                "target phrase": "door politie en openbaar ministerie"
+            },
+            "t3": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Suspicion@Authority",
+                    "Suspicion@Authority",
+                    "Suspicion@Authority",
+                    "Suspicion@Authority",
+                    "Suspicion@Authority",
+                    "Suspicion@Authority",
+                    "Suspicion@Authority",
+                    "Suspicion@Authority",
+                    "Rewards_and_punishments@Agent",
+                    "Request@Speaker",
+                    "Trial@Prosecution",
+                    "Coming_to_believe@Cognizer",
+                    "Rewards_and_punishments@Agent"
+                ],
+                "lemma": "ministerie",
+                "sentence": "1",
+                "target phrase": "ministerie"
+            },
+            "t311": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Trial@Prosecution",
+                    "Notification_of_charges@Arraign_authority"
+                ],
+                "lemma": "ministerie",
+                "sentence": "18",
+                "target phrase": "ministerie"
+            },
+            "t329": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Evidence@Support",
+                    "Delivery@Deliverer"
+                ],
+                "lemma": "camerabeeld",
+                "sentence": "19",
+                "target phrase": "de camerabeeld , forensisch onderzoek , de verklaring van getuige en verklaring verdenken zelf"
+            },
+            "t337": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Statement@Speaker"
+                ],
+                "lemma": "getuige",
+                "sentence": "19",
+                "target phrase": "van getuige"
+            },
+            "t347": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Suspicion@Authority",
+                    "Suspicion@Authority",
+                    "Delivery@Recipient",
+                    "Delivery@Goal"
+                ],
+                "lemma": "officier",
+                "sentence": "19",
+                "target phrase": "volgens de officier van justitie"
+            },
+            "t404": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Statement@Medium"
+                ],
+                "lemma": "uiten",
+                "sentence": "20",
+                "target phrase": "op divers wijze uiten"
+            },
+            "t426": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Misdeed@Injured_party"
+                ],
+                "lemma": "moslim",
+                "sentence": "21",
+                "target phrase": "moslim"
+            },
+            "t428": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Reason@State_of_affairs"
+                ],
+                "lemma": "aandoen",
+                "sentence": "21",
+                "target phrase": "dat moslim onrecht aandoen worden en dat hij willen"
+            },
+            "t446": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Cause_to_perceive@Perceiver"
+                ],
+                "lemma": "jullie",
+                "sentence": "22",
+                "target phrase": "jullie"
+            },
+            "t451": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Cause_to_perceive@Phenomenon"
+                ],
+                "lemma": "zijn",
+                "sentence": "22",
+                "target phrase": "zijn"
+            },
+            "t462": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Rebellion@Current_order"
+                ],
+                "lemma": "samenleving",
+                "sentence": "23",
+                "target phrase": "de nederlands samenleving"
+            },
+            "t464": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Evidence@Proposition"
+                ],
+                "lemma": "onaantastbaar",
+                "sentence": "23",
+                "target phrase": "dat de nederlands samenleving niet onaantastbaar zijn"
+            },
+            "t467": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Coming_to_believe@Means"
+                ],
+                "lemma": "kijken",
+                "sentence": "24",
+                "target phrase": "kijken naar zijn handeling en verklaring kunnen worden vaststellen richten ."
+            },
+            "t490": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Aiming@Targeted"
+                ],
+                "lemma": "bevolking",
+                "sentence": "24",
+                "target phrase": "van de bevolking"
+            },
+            "t492": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Cause_to_start@Effect"
+                ],
+                "lemma": "vrees",
+                "sentence": "24",
+                "target phrase": "ernstig vrees"
+            },
+            "t497": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Evidence@Support"
+                ],
+                "lemma": "daarmee",
+                "sentence": "25",
+                "target phrase": "daarmee"
+            },
+            "t515": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Scrutiny@Manner"
+                ],
+                "lemma": "psychologisch",
+                "sentence": "26",
+                "target phrase": "psychologisch"
+            },
+            "t520": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Scrutiny@Ground"
+                ],
+                "lemma": "vraag",
+                "sentence": "26",
+                "target phrase": "naar de vraag hoe verdenken daad zijn komen"
+            },
+            "t534": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Origin@Entity"
+                ],
+                "lemma": "dit",
+                "sentence": "27",
+                "target phrase": "dit"
+            },
+            "t542.c0": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "geloofsovertuiging",
+                "frame elements": [
+                    "Opinion@Opinion"
+                ],
+                "function": "modifier",
+                "lemma": "geloof",
+                "sentence": "27",
+                "target phrase": "geloofsovertuiging"
+            },
+            "t549.c0": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "persoonlijkheidsstoornis",
+                "frame elements": [
+                    "Medical_conditions@Ailment"
+                ],
+                "function": "modifier",
+                "lemma": "persoonlijkheid",
+                "sentence": "27",
+                "target phrase": "persoonlijkheidsstoornis"
+            },
+            "t551.c0": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "zwakbegaafdheid",
+                "frame elements": [
+                    "Mental_property@Degree"
+                ],
+                "function": "modifier",
+                "lemma": "zwak",
+                "sentence": "27",
+                "target phrase": "zwakbegaafdheid"
+            },
+            "t563": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Success_or_failure@Goal"
+                ],
+                "lemma": "leven",
+                "sentence": "27",
+                "target phrase": "en in het leven"
+            },
+            "t571": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Offering@Theme"
+                ],
+                "lemma": "identiteit",
+                "sentence": "28",
+                "target phrase": "een nieuw identiteit waarmee hij proberen leven te"
+            },
+            "t578": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Manipulation@Entity"
+                ],
+                "lemma": "leven",
+                "sentence": "28",
+                "target phrase": "op zijn leven"
+            },
+            "t583": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Suspicion@Authority",
+                    "Judgment@Cognizer"
+                ],
+                "lemma": "officier",
+                "sentence": "29",
+                "target phrase": "de officier van justitie"
+            },
+            "t609": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Robbery@Goods"
+                ],
+                "lemma": "leven",
+                "sentence": "30",
+                "target phrase": "van het leven"
+            },
+            "t640": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Bringing@Theme"
+                ],
+                "lemma": "gevolg",
+                "sentence": "31",
+                "target phrase": "de gevolg"
+            },
+            "t645": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Duration"
+                ],
+                "lemma": "leven",
+                "sentence": "31",
+                "target phrase": "van hun leven"
+            },
+            "t686.c0": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "veiligheidsgevoel",
+                "frame elements": [
+                    "Feeling@Emotion"
+                ],
+                "function": "modifier",
+                "lemma": "veiligheid",
+                "sentence": "34",
+                "target phrase": "veiligheidsgevoel"
+            },
+            "t689": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Feeling@Experiencer"
+                ],
+                "lemma": "nederlander",
+                "sentence": "34",
+                "target phrase": "van veel nederlander"
+            },
+            "t693": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Objective_influence@Degree"
+                ],
+                "lemma": "fundamenteel",
+                "sentence": "34",
+                "target phrase": "door de aanslag fundamenteel"
+            },
+            "t83": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Receiving@Recipient",
+                    "Reporting@Authorities"
+                ],
+                "lemma": "hulpdienst",
+                "sentence": "4",
+                "target phrase": "de hulpdienst"
+            }
+        },
+        "frames/links": {
+            "Q1632409367599": {
+                "t129": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hit_target@Target"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "6",
+                    "target phrase": "meerdere mens"
+                },
+                "t206": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Death@Protagonist",
+                        "Experience_bodily_harm@Experiencer",
+                        "Hit_target@Target"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "10",
+                    "target phrase": "drie mens te zijn als gevolg van schotwond"
+                },
+                "t219": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Experience_bodily_harm@Experiencer"
+                    ],
+                    "lemma": "anderen",
+                    "sentence": "11",
+                    "target phrase": "divers anderen"
+                },
+                "t229": {
+                    "POS": "DET",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Experience_bodily_harm@Experiencer",
+                        "Death@Protagonist"
+                    ],
+                    "lemma": "een",
+                    "sentence": "12",
+                    "target phrase": "een van hen"
+                },
+                "t299": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Catastrophe@Patient",
+                        "Catastrophe@Patient"
+                    ],
+                    "lemma": "slachtoffer",
+                    "reftype": "evoke",
+                    "sentence": "17",
+                    "target phrase": "van de slachtoffer en nabestaande"
+                },
+                "t40": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Attack@Victim",
+                        "Killing@Victim",
+                        "Terrorism@Victim",
+                        "Attack@Victim",
+                        "Attack@Victim",
+                        "Attack@Victim",
+                        "Hit_target@Target",
+                        "Hit_target@Target",
+                        "Terrorism@Victim",
+                        "Terrorism@Victim",
+                        "Terrorism@Victim",
+                        "Hit_target@Target",
+                        "Participation@Participant_2",
+                        "Hit_target@Target"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "2",
+                    "target phrase": "op vi mens"
+                },
+                "t46": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Killing@Victim"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "2",
+                    "target phrase": "op drie mens en bedreiging met een terroristisch misdrijf mens"
+                },
+                "t55": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Commitment@Addressee",
+                        "Terrorism@Victim"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "2",
+                    "target phrase": "van zeventi mens"
+                },
+                "t606": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Robbery@Victim",
+                        "Robbery@Source"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "30",
+                    "target phrase": "vi volstrekt willekeurig mens van het leven"
+                },
+                "t613": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Cause_harm@Victim"
+                    ],
+                    "lemma": "anderen",
+                    "sentence": "30",
+                    "target phrase": "anderen"
+                },
+                "t619": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Commitment@Addressee"
+                    ],
+                    "lemma": "anderen",
+                    "sentence": "30",
+                    "target phrase": "anderen"
+                },
+                "t626": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Catastrophe@Patient"
+                    ],
+                    "lemma": "slachtoffer",
+                    "reftype": "evoke",
+                    "sentence": "31",
+                    "target phrase": "voor deze slachtoffer en voor de nabestaande zijn 18 maart een gitzwart dag ."
+                },
+                "t647": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Bringing@Agent"
+                    ],
+                    "lemma": "zich",
+                    "sentence": "31",
+                    "target phrase": "zich"
+                }
+            },
+            "Q62090804": {
+                "t112": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Chaos",
+                    "frame elements": [
+                        "Chaos@State"
+                    ],
+                    "lemma": "chaotisch",
+                    "reftype": "evoke",
+                    "sentence": "5",
+                    "target phrase": "chaotisch"
+                },
+                "t113": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Arriving@Goal",
+                        "Chaos@Entity"
+                    ],
+                    "lemma": "situatie",
+                    "sentence": "5",
+                    "target phrase": "een chaotisch situatie"
+                },
+                "t15": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Suspicion@Incident",
+                        "Killing@Means",
+                        "Killing@Means",
+                        "Terrorism@Act",
+                        "Suspicion@Incident",
+                        "Suspicion@Incident",
+                        "Suspicion@Incident",
+                        "Suspicion@Incident",
+                        "Suspicion@Incident",
+                        "Suspicion@Incident",
+                        "Suspicion@Incident",
+                        "Terrorism@Act",
+                        "Purpose@Means",
+                        "Terrorism@Act",
+                        "Purpose@Means",
+                        "Terrorism@Act",
+                        "Purpose@Means",
+                        "Arrest@Offense",
+                        "Committing_crime@Crime",
+                        "Rewards_and_punishments@Reason",
+                        "Intentionally_act@Act",
+                        "Criminal_investigation@Incident",
+                        "Trial@Case",
+                        "Catastrophe@Undesirable_event",
+                        "Trial@Case",
+                        "Event@Event",
+                        "Intentionally_act@Act",
+                        "Statement@Topic",
+                        "Evidence@Support",
+                        "Intentionally_act@Act",
+                        "Statement@Topic",
+                        "Statement@Topic",
+                        "Coming_to_believe@Topic",
+                        "Aiming@Activity",
+                        "Cause_to_start@Cause",
+                        "Commitment@Medium",
+                        "Catastrophe@Undesirable_event",
+                        "Rewards_and_punishments@Reason"
+                    ],
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "van de aanslag"
+                },
+                "t22": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Event@Place"
+                    ],
+                    "lemma": "utrecht",
+                    "sentence": "1",
+                    "target phrase": "in utrecht"
+                },
+                "t25": {
+                    "POS": "NUM",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Event@Time"
+                    ],
+                    "lemma": "maart",
+                    "sentence": "1",
+                    "target phrase": "maart"
+                },
+                "t37": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Killing",
+                    "frame elements": [
+                        "Responsibility@Act",
+                        "Arrest@Charges",
+                        "Trial@Charges",
+                        "Trial@Charges",
+                        "Notification_of_charges@Charges"
+                    ],
+                    "lemma": "moord",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "voor de moord op vi mens"
+                },
+                "t378": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Event",
+                    "frame elements": [
+                        "Suspicion@Incident",
+                        "Suspicion@Incident",
+                        "Criminal_investigation@Incident",
+                        "Statement@Topic",
+                        "Statement@Topic",
+                        "Responsibility@Act"
+                    ],
+                    "lemma": "gebeurtenis",
+                    "reftype": "type",
+                    "sentence": "19",
+                    "target phrase": "voor de gebeurtenis die dag"
+                },
+                "t40": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Attack@Victim",
+                        "Killing@Victim",
+                        "Terrorism@Victim",
+                        "Attack@Victim",
+                        "Attack@Victim",
+                        "Attack@Victim",
+                        "Hit_target@Target",
+                        "Hit_target@Target",
+                        "Terrorism@Victim",
+                        "Terrorism@Victim",
+                        "Terrorism@Victim",
+                        "Hit_target@Target",
+                        "Participation@Participant_2",
+                        "Hit_target@Target"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "2",
+                    "target phrase": "op vi mens"
+                },
+                "t42": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Attempt",
+                    "frame elements": null,
+                    "lemma": "poging",
+                    "reftype": "evoke",
+                    "sentence": "2"
+                },
+                "t43": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Killing",
+                    "frame elements": [
+                        "Attempt@Goal"
+                    ],
+                    "lemma": "moord",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "poging moord op drie mens en bedreiging misdrijf"
+                },
+                "t46": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Killing@Victim"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "2",
+                    "target phrase": "op drie mens en bedreiging met een terroristisch misdrijf mens"
+                },
+                "t48": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Commitment",
+                    "frame elements": [
+                        "Committing_crime@Crime"
+                    ],
+                    "lemma": "bedreiging",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "en bedreiging met een terroristisch misdrijf van zeventi mens"
+                },
+                "t51": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Terrorism",
+                    "frame elements": null,
+                    "lemma": "terroristisch",
+                    "reftype": "evoke",
+                    "sentence": "2"
+                },
+                "t52": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": "Committing_crime",
+                    "frame elements": [
+                        "Commitment@Medium",
+                        "Terrorism@Act"
+                    ],
+                    "lemma": "misdrijf",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "met een terroristisch misdrijf van zeventi mens"
+                },
+                "t525": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Committing_crime",
+                    "frame elements": [
+                        "Suspicion@Incident",
+                        "Motion@Goal"
+                    ],
+                    "lemma": "daad",
+                    "reftype": "evoke",
+                    "sentence": "26",
+                    "target phrase": "tot zijn daad"
+                },
+                "t55": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Commitment@Addressee",
+                        "Terrorism@Victim"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "2",
+                    "target phrase": "van zeventi mens"
+                },
+                "t673": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Participation@Event"
+                    ],
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "33",
+                    "target phrase": "de aanslag"
+                },
+                "t97.c0": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Participation@Event",
+                        "Reporting@Behavior"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schiet",
+                    "reftype": "type",
+                    "sentence": "4",
+                    "target phrase": "schietpartij"
+                },
+                "t97.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Participation",
+                    "frame elements": null,
+                    "function": "head",
+                    "lemma": "partij",
+                    "reftype": "evoke",
+                    "sentence": "4"
+                }
+            },
+            "Q62116513": {
+                "t12": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Suspicion@Suspect",
+                        "Attack@Assailant",
+                        "Attack@Assailant",
+                        "Attack@Assailant",
+                        "Terrorism@Terrorist",
+                        "Terrorism@Terrorist",
+                        "Purpose@Agent",
+                        "Terrorism@Terrorist",
+                        "Purpose@Agent",
+                        "Hit_target@Agent",
+                        "Participation@Participant_1",
+                        "Rewards_and_punishments@Evaluee",
+                        "Reporting@Wrongdoer",
+                        "Hit_target@Agent",
+                        "Hit_target@Agent",
+                        "Criminal_investigation@Suspect",
+                        "Trial@Defendant",
+                        "Notification_of_charges@Accused",
+                        "Rewards_and_punishments@Evaluee"
+                    ],
+                    "lemma": "verdachte",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "tegen de verdachte van de aanslag"
+                },
+                "t136": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Suspicion@Suspect",
+                        "Hit_target@Agent",
+                        "Becoming_aware@Phenomenon"
+                    ],
+                    "lemma": "schutter",
+                    "reftype": "evoke",
+                    "sentence": "7",
+                    "target phrase": "de schutter"
+                },
+                "t15": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Suspicion@Incident",
+                        "Killing@Means",
+                        "Killing@Means",
+                        "Terrorism@Act",
+                        "Suspicion@Incident",
+                        "Suspicion@Incident",
+                        "Suspicion@Incident",
+                        "Suspicion@Incident",
+                        "Suspicion@Incident",
+                        "Suspicion@Incident",
+                        "Suspicion@Incident",
+                        "Terrorism@Act",
+                        "Purpose@Means",
+                        "Terrorism@Act",
+                        "Purpose@Means",
+                        "Terrorism@Act",
+                        "Purpose@Means",
+                        "Arrest@Offense",
+                        "Committing_crime@Crime",
+                        "Rewards_and_punishments@Reason",
+                        "Intentionally_act@Act",
+                        "Criminal_investigation@Incident",
+                        "Trial@Case",
+                        "Catastrophe@Undesirable_event",
+                        "Trial@Case",
+                        "Event@Event",
+                        "Intentionally_act@Act",
+                        "Statement@Topic",
+                        "Evidence@Support",
+                        "Intentionally_act@Act",
+                        "Statement@Topic",
+                        "Statement@Topic",
+                        "Coming_to_believe@Topic",
+                        "Aiming@Activity",
+                        "Cause_to_start@Cause",
+                        "Commitment@Medium",
+                        "Catastrophe@Undesirable_event",
+                        "Rewards_and_punishments@Reason"
+                    ],
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "van de aanslag"
+                },
+                "t157": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Seeking@Sought_entity"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "7",
+                    "target phrase": "op de verdenken"
+                },
+                "t173": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Want_suspect",
+                    "frame elements": null,
+                    "lemma": "gezocht",
+                    "reftype": "evoke",
+                    "sentence": "8"
+                },
+                "t174": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Want_suspect@Suspect"
+                    ],
+                    "lemma": "man",
+                    "sentence": "8",
+                    "target phrase": "aan de gezocht man"
+                },
+                "t189": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Suspicion@Suspect",
+                        "Arrest@Suspect"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "9",
+                    "target phrase": "van de verdenken in een woning aan de oudenoord utrecht"
+                },
+                "t22": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Event@Place"
+                    ],
+                    "lemma": "utrecht",
+                    "sentence": "1",
+                    "target phrase": "in utrecht"
+                },
+                "t25": {
+                    "POS": "NUM",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Event@Time"
+                    ],
+                    "lemma": "maart",
+                    "sentence": "1",
+                    "target phrase": "maart"
+                },
+                "t273": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Suspicion@Suspect",
+                        "Trial@Defendant"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "16",
+                    "target phrase": "tegen de verdenken"
+                },
+                "t286": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Suspicion@Suspect"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "17",
+                    "target phrase": "van de verdenken"
+                },
+                "t31": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Responsibility@Agent",
+                        "Killing@Killer",
+                        "Attempt@Agent",
+                        "Killing@Killer",
+                        "Commitment@Speaker",
+                        "Terrorism@Terrorist",
+                        "Committing_crime@Perpetrator"
+                    ],
+                    "lemma": "utrechter",
+                    "sentence": "2",
+                    "target phrase": "de 38-jarige utrechter"
+                },
+                "t342": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Suspicion@Suspect",
+                        "Criminal_investigation@Suspect",
+                        "Statement@Speaker"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "19",
+                    "target phrase": "van de verdenken"
+                },
+                "t358": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Suspicion@Suspect",
+                        "Hit_target@Agent",
+                        "Responsibility@Agent"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "19",
+                    "target phrase": "dat het de verdenken zijn die op 18 maart en rond de tram hebben schieten en die daarmee verantwoordelijk zijn gebeurtenis"
+                },
+                "t384": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Suspicion@Suspect",
+                        "Terrorism@Terrorist",
+                        "Purpose@Agent"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "20",
+                    "target phrase": "de verdenken"
+                },
+                "t395": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Intentionally_act@Agent"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "20",
+                    "target phrase": "hij"
+                },
+                "t400": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Statement@Speaker"
+                    ],
+                    "lemma": "zijn",
+                    "sentence": "20",
+                    "target phrase": "zijn"
+                },
+                "t407": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hit_target@Agent",
+                        "Reason@Agent"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "21",
+                    "target phrase": "hij"
+                },
+                "t432": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Cause_to_perceive@Agent"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "21",
+                    "target phrase": "hij"
+                },
+                "t456": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Suspicion@Suspect"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "23",
+                    "target phrase": "verdenken"
+                },
+                "t469": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Intentionally_act@Agent"
+                    ],
+                    "lemma": "zijn",
+                    "sentence": "24",
+                    "target phrase": "zijn"
+                },
+                "t472": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Statement@Speaker"
+                    ],
+                    "lemma": "zijn",
+                    "sentence": "24",
+                    "target phrase": "zijn"
+                },
+                "t478": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Purpose@Agent",
+                        "Aiming@Agent"
+                    ],
+                    "lemma": "zijn",
+                    "sentence": "24",
+                    "target phrase": "zijn"
+                },
+                "t522": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Suspicion@Suspect",
+                        "Committing_crime@Perpetrator",
+                        "Motion@Theme"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "26",
+                    "target phrase": "verdenken"
+                },
+                "t548": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Opinion@Cognizer",
+                        "Medical_conditions@Patient",
+                        "Mental_property@Protagonist"
+                    ],
+                    "lemma": "zijn",
+                    "sentence": "27",
+                    "target phrase": "zijn"
+                },
+                "t555": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Success_or_failure@Agent",
+                        "Judgment@Cognizer",
+                        "Judgment@Evaluee"
+                    ],
+                    "lemma": "zijn",
+                    "sentence": "27",
+                    "target phrase": "zijn"
+                },
+                "t568": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Offering@Potential_recipient",
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "hem",
+                    "sentence": "28",
+                    "target phrase": "hem"
+                },
+                "t573": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Attempt@Agent",
+                        "Manipulation@Agent"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "28",
+                    "target phrase": "hij"
+                },
+                "t589": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Suspicion@Suspect",
+                        "Judgment@Evaluee",
+                        "Robbery@Perpetrator",
+                        "Cause_harm@Agent",
+                        "Commitment@Speaker"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "29",
+                    "target phrase": "de verdenken"
+                },
+                "t594": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Opinion@Cognizer"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "29",
+                    "target phrase": "hij om overtuiging te"
+                },
+                "t596": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Cause_change_of_strength@Agent"
+                    ],
+                    "lemma": "zijn",
+                    "sentence": "29",
+                    "target phrase": "zijn"
+                },
+                "t66": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Terrorism@Terrorist",
+                        "Purpose@Agent",
+                        "Intentionally_act@Agent"
+                    ],
+                    "lemma": "man",
+                    "sentence": "3",
+                    "target phrase": "de man"
+                },
+                "t681": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Attack@Assailant",
+                        "Suspicion@Suspect",
+                        "Judgment@Evaluee"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "34",
+                    "target phrase": "aan verdenken"
+                },
+                "t692": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Suspicion@Incident",
+                        "Objective_influence@Influencing_situation"
+                    ],
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "34",
+                    "target phrase": "door de aanslag"
+                }
+            },
+            "Q803": {
+                "t22": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Event@Place"
+                    ],
+                    "lemma": "utrecht",
+                    "sentence": "1",
+                    "target phrase": "in utrecht"
+                }
+            }
+        },
+        "historical distance": 353,
+        "implicated fe's": [
+            "Killing@Instrument",
+            "Killing@Instrument",
+            "Commitment@Message",
+            "Commitment@Topic",
+            "Experience_bodily_harm@Body_part",
+            "Request@Addressee",
+            "Request@Medium",
+            "Receiving@Donor",
+            "Reporting@Informer",
+            "Becoming_aware@Topic",
+            "Becoming_aware@Means",
+            "Experience_bodily_harm@Body_part",
+            "Experience_bodily_harm@Body_part",
+            "Evidence@Support",
+            "Trial@Court",
+            "Trial@Defense",
+            "Trial@Jury",
+            "Trial@Judge",
+            "Trial@Court",
+            "Trial@Jury",
+            "Trial@Defense",
+            "Trial@Judge",
+            "Statement@Message",
+            "Statement@Medium",
+            "Statement@Message",
+            "Statement@Medium",
+            "Statement@Message",
+            "Misdeed@Wrongdoer",
+            "Statement@Message",
+            "Statement@Medium",
+            "Coming_to_believe@Medium",
+            "Scrutiny@Cognizer",
+            "Scrutiny@Medium",
+            "Scrutiny@Instrument",
+            "Motion@Source",
+            "Motion@Path",
+            "Motion@Distance",
+            "Motion@Direction",
+            "Mental_property@Behavior",
+            "Mental_property@Practice",
+            "Judgment@Reason",
+            "Judgment@Expressor",
+            "Manipulation@Bodypart_of_agent",
+            "Judgment@Expressor",
+            "Opinion@Opinion",
+            "Cause_harm@Body_part",
+            "Commitment@Message",
+            "Commitment@Topic",
+            "Bringing@Carrier",
+            "Bringing@Path",
+            "Bringing@Goal",
+            "Bringing@Source",
+            "Judgment@Cognizer",
+            "Judgment@Expressor",
+            "Feeling@Emotional_state",
+            "Assistance@Benefited_party",
+            "Assistance@Focal_entity",
+            "Assistance@Goal",
+            "Supply@Recipient"
+        ],
+        "raw text": "\nHet Openbaar Ministerie heeft vandaag een levenslange gevangenisstraf ge\u00ebist tegen de verdachte van de aanslag in en rond de tram in Utrecht op 18 maart vorig jaar. De 38-jarige Utrechter wordt verantwoordelijk gehouden voor de moord op vier mensen, poging moord op drie mensen en bedreiging met een terroristisch misdrijf van zeventien mensen. De officieren van justitie achten het bewezen dat de man handelde met een terroristisch oogmerk. Aanslag 18 maart 2019 Op 18 maart 2019 ontvangen de hulpdiensten rond kwart voor elf \u2019s ochtends een groot aantal meldingen van een schietpartij op het 24 Oktoberplein in Utrecht. Eenmaal ter plaatse treft de politie een chaotische situatie aan rondom een op het plein stilstaande tram. Al snel blijkt dat er meerdere mensen zijn neergeschoten. Nadat agenten de schutter al snel herkennen op camerabeelden uit de tram, wordt er door politie en Openbaar Ministerie een klopjacht op de verdachte geopend. De politie doet invallen op diverse plekken die gerelateerd kunnen worden aan de gezochte man. Dit leidt rond zes uur \u2018s avonds tot de aanhouding van de verdachte in een woning aan de Oudenoord in Utrecht. In en rond de tram blijken drie mensen om het leven te zijn gekomen als gevolg van schotwonden. Diverse anderen zijn gewond geraakt, van wie sommige ernstig. Een van hen overlijdt tien dagen later alsnog aan zijn verwondingen. Bewijsvoering; terroristisch oogmerk bewezen geacht In de periode na 18 maart is uitgebreid onderzoek gedaan door politie en Openbaar Ministerie. Maandag begon de inhoudelijke behandeling van de rechtszaak tegen de verdachte. Daarbij is het dossier doorlopen, is de persoon van de verdachte besproken en is er uitgebreid aandacht geweest voor de situatie van de slachtoffers en nabestaanden. Vandaag was het de beurt aan het Openbaar Ministerie om haar zienswijze op de zaak te geven en om tot een strafeis te komen. De camerabeelden, forensisch onderzoek, de verklaringen van getuigen en verklaringen van de verdachte zelf leveren volgens de officieren van justitie het wettige en overtuigende bewijs dat het de verdachte is die op 18 maart in en rond de tram heeft geschoten en die daarmee verantwoordelijk is voor de gebeurtenissen die dag. Dat de verdachte een terroristisch oogmerk had, blijkt uit de manier waarop hij gehandeld heeft en uit zijn op diverse wijzen geuite verklaringen. Hij heeft op klaarlichte dag op een publieke plek om zich heen geschoten en als reden daarvoor gegeven dat moslims onrecht aangedaan werd en dat hij wilde laten zien dat \u2018wij\u2019 niet van zand en dat \u2018jullie\u2019 niet van diamant zijn. Hieruit blijkt dat verdachte wilde aantonen dat de Nederlandse samenleving niet onaantastbaar is. Kijkend naar zijn handelingen en zijn verklaringen kan worden vastgesteld dat zijn oogmerk er op was gericht om tenminste een deel van de bevolking ernstige vrees aan te jagen. Daarmee is in juridisch opzicht in de visie van het OM een terroristisch oogmerk bewezen. Er is psychologisch onderzoek gedaan naar de vraag hoe verdachte tot zijn daad is gekomen. Het beeld is dat dat dit niet zo zeer voortkwam uit een innerlijke geloofsovertuiging maar meer vanuit een met zijn persoonlijkheidsstoornis en zwakbegaafdheid samenhangende frustratie over zijn eigen tekortkomingen en mislukkingen en in het leven. De radicalisering bood hem een nieuwe identiteit waarmee hij probeerde grip op zijn leven te krijgen. De officieren van justitie rekenen het de verdachte zeer zwaar aan dat hij om zijn eigen overtuiging kracht bij te zetten vier volstrekt willekeurige mensen van het leven heeft beroofd, anderen zwaar heeft verwond en weer anderen ernstig heeft bedreigd. Voor deze slachtoffers en voor de nabestaanden is 18 maart een gitzwarte dag waarvan ze de gevolgen de rest van hun leven met zich mee zullen dragen. Omstanders en hulpverleners hebben getuige moeten zijn van vaak traumatiserende gebeurtenissen. Ook buiten de kring van direct betrokkenen heeft de aanslag diepe indruk gemaakt. Het is aan verdachte te wijten dat het veiligheidsgevoel van veel Nederlanders door de aanslag fundamenteel is aangetast.\n",
+        "subevents": {
+            "mw10": {
+                "POS": "MWE",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Experience_bodily_harm",
+                "frame elements": null,
+                "lemma": "gewond raken",
+                "reftype": "type",
+                "sentence": "11"
+            },
+            "mw12": {
+                "POS": "MWE",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Manipulation",
+                "frame elements": [
+                    "Attempt@Goal"
+                ],
+                "lemma": "grip krijgen",
+                "reftype": "type",
+                "sentence": "28",
+                "target phrase": "grip krijgen"
+            },
+            "mw13": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "aantreffen",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "mw14": {
+                "POS": "MWE",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_to_perceive",
+                "frame elements": null,
+                "lemma": "laten zien",
+                "reftype": "type",
+                "sentence": "21"
+            },
+            "mw15": {
+                "POS": "MWE",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_change_of_strength",
+                "frame elements": null,
+                "lemma": "kracht bij zetten",
+                "reftype": "type",
+                "sentence": "29"
+            },
+            "mw16": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bringing",
+                "frame elements": null,
+                "lemma": "meedragen",
+                "reftype": "type",
+                "sentence": "31"
+            },
+            "mw5": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_to_start",
+                "frame elements": [
+                    "Purpose@Goal",
+                    "Coming_to_believe@Content"
+                ],
+                "lemma": "aanjagen",
+                "reftype": "type",
+                "sentence": "24",
+                "target phrase": "aanjagen"
+            },
+            "mw6": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Judgment",
+                "frame elements": null,
+                "lemma": "aanrekenen",
+                "reftype": "type",
+                "sentence": "29"
+            },
+            "mw9": {
+                "POS": "MWE",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Death",
+                "frame elements": [
+                    "Turning_out@State_of_affairs"
+                ],
+                "lemma": "om het leven komen",
+                "reftype": "evoke",
+                "sentence": "10",
+                "target phrase": "om het leven komen"
+            },
+            "t125": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Turning_out",
+                "frame elements": null,
+                "lemma": "blijken",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t131.c1": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "neerschieten",
+                "frame": "Hit_target",
+                "frame elements": [
+                    "Turning_out@State_of_affairs"
+                ],
+                "function": "head",
+                "lemma": "geschoten",
+                "reftype": "type",
+                "sentence": "6",
+                "target phrase": "neerschieten"
+            },
+            "t139": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Becoming_aware",
+                "frame elements": null,
+                "lemma": "herkennen",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t154": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame": "Seeking",
+                "frame elements": [
+                    "Activity_start@Activity"
+                ],
+                "lemma": "klopjacht",
+                "reftype": "evoke",
+                "sentence": "7",
+                "target phrase": "een klopjacht"
+            },
+            "t158": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Activity_start",
+                "frame elements": null,
+                "lemma": "openen",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t163": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Invading",
+                "frame elements": null,
+                "lemma": "inval",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t186": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Arrest",
+                "frame elements": null,
+                "lemma": "aanhouding",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t204": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Turning_out",
+                "frame elements": null,
+                "lemma": "blijken",
+                "reftype": "type",
+                "sentence": "10"
+            },
+            "t216.c0": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "schotwond",
+                "frame": "Hit_target",
+                "frame elements": [
+                    "Experience_bodily_harm@Manner"
+                ],
+                "function": "modifier",
+                "lemma": "schot",
+                "reftype": "evoke",
+                "sentence": "10",
+                "target phrase": "schotwond"
+            },
+            "t216.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "schotwond",
+                "frame": "Experience_bodily_harm",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "wonden",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t232": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Death",
+                "frame elements": null,
+                "lemma": "overlijden",
+                "reftype": "type",
+                "sentence": "12"
+            },
+            "t239": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Experience_bodily_harm",
+                "frame elements": null,
+                "lemma": "verwonding",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t241": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": null,
+                "lemma": "bewijsvoering",
+                "reftype": "type",
+                "sentence": "13"
+            },
+            "t243": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Terrorism",
+                "frame elements": [
+                    "Purpose@Goal",
+                    "Evidence@Proposition",
+                    "Evidence@Proposition"
+                ],
+                "lemma": "terroristisch",
+                "reftype": "evoke",
+                "sentence": "14",
+                "target phrase": "terroristisch"
+            },
+            "t244": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Purpose",
+                "frame elements": null,
+                "lemma": "oogmerk",
+                "reftype": "type",
+                "sentence": "14"
+            },
+            "t245": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": null,
+                "lemma": "bewijzen",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t255": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "onderzoek",
+                "reftype": "type",
+                "sentence": "15"
+            },
+            "t270": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Trial",
+                "frame elements": null,
+                "lemma": "rechtszaak",
+                "reftype": "type",
+                "sentence": "16"
+            },
+            "t317": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Trial",
+                "frame elements": null,
+                "lemma": "zaak",
+                "reftype": "type",
+                "sentence": "18"
+            },
+            "t324": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame": "Notification_of_charges",
+                "frame elements": null,
+                "lemma": "strafeis",
+                "reftype": "evoke",
+                "sentence": "18"
+            },
+            "t33": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Responsibility",
+                "frame elements": null,
+                "lemma": "verantwoordelijk",
+                "reftype": "evoke",
+                "sentence": "2"
+            },
+            "t332": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "onderzoek",
+                "reftype": "type",
+                "sentence": "19"
+            },
+            "t335": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "verklaring",
+                "reftype": "evoke",
+                "sentence": "19"
+            },
+            "t339": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "verklaring",
+                "reftype": "evoke",
+                "sentence": "19"
+            },
+            "t344": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Delivery",
+                "frame elements": null,
+                "lemma": "leveren",
+                "reftype": "type",
+                "sentence": "19"
+            },
+            "t354": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Evidence",
+                "frame elements": [
+                    "Delivery@Theme"
+                ],
+                "lemma": "bewijs",
+                "reftype": "evoke",
+                "sentence": "19",
+                "target phrase": "het wettig en overtuigen bewijs dat het de verdenken zijn die 18 en tram hebben schieten verantwoordelijk"
+            },
+            "t370": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hit_target",
+                "frame elements": null,
+                "lemma": "schieten",
+                "reftype": "type",
+                "sentence": "19"
+            },
+            "t374": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Responsibility",
+                "frame elements": [
+                    "Evidence@Proposition"
+                ],
+                "lemma": "verantwoordelijk",
+                "reftype": "evoke",
+                "sentence": "19",
+                "target phrase": "en die daarmee verantwoordelijk zijn voor de gebeurtenis die dag"
+            },
+            "t386": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Terrorism",
+                "frame elements": [
+                    "Purpose@Goal",
+                    "Evidence@Proposition"
+                ],
+                "lemma": "terroristisch",
+                "reftype": "evoke",
+                "sentence": "20",
+                "target phrase": "terroristisch"
+            },
+            "t387": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame": "Purpose",
+                "frame elements": null,
+                "lemma": "oogmerk",
+                "reftype": "type",
+                "sentence": "20"
+            },
+            "t390": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": null,
+                "lemma": "blijken",
+                "reftype": "type",
+                "sentence": "20"
+            },
+            "t396": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": [
+                    "Evidence@Support",
+                    "Evidence@Support",
+                    "Evidence@Support"
+                ],
+                "lemma": "handelen",
+                "reftype": "type",
+                "sentence": "20",
+                "target phrase": "waarop hij handelen hebben en uit zijn op divers wijze uiten verklaring"
+            },
+            "t405": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "verklaring",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t419": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hit_target",
+                "frame elements": [
+                    "Reason@Action"
+                ],
+                "lemma": "schieten",
+                "reftype": "type",
+                "sentence": "21",
+                "target phrase": "om zich heen schieten en als reden daarvoor geven dat onrecht aandoen worden"
+            },
+            "t422": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Reason",
+                "frame elements": null,
+                "lemma": "reden",
+                "reftype": "evoke",
+                "sentence": "21"
+            },
+            "t427": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Misdeed",
+                "frame elements": [
+                    "Misdeed@Misdeed"
+                ],
+                "lemma": "onrecht",
+                "reftype": "evoke",
+                "sentence": "21",
+                "target phrase": "moslim onrecht"
+            },
+            "t454": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Turning_out",
+                "frame elements": null,
+                "lemma": "blijken",
+                "reftype": "type",
+                "sentence": "23"
+            },
+            "t458": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": [
+                    "Turning_out@State_of_affairs"
+                ],
+                "lemma": "aantonen",
+                "reftype": "type",
+                "sentence": "23",
+                "target phrase": "dat verdenken willen aantonen dat de nederlands samenleving niet onaantastbaar zijn"
+            },
+            "t470": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": [
+                    "Purpose@Means",
+                    "Coming_to_believe@Evidence"
+                ],
+                "lemma": "handeling",
+                "reftype": "evoke",
+                "sentence": "24",
+                "target phrase": "naar zijn handeling"
+            },
+            "t473": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "verklaring",
+                "reftype": "evoke",
+                "sentence": "24"
+            },
+            "t476": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Coming_to_believe",
+                "frame elements": null,
+                "lemma": "vaststellen",
+                "reftype": "type",
+                "sentence": "24"
+            },
+            "t479": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Purpose",
+                "frame elements": null,
+                "lemma": "oogmerk",
+                "reftype": "type",
+                "sentence": "24"
+            },
+            "t483": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Aiming",
+                "frame elements": null,
+                "lemma": "richten",
+                "reftype": "type",
+                "sentence": "24"
+            },
+            "t509": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Terrorism",
+                "frame elements": [
+                    "Purpose@Goal",
+                    "Evidence@Proposition"
+                ],
+                "lemma": "terroristisch",
+                "reftype": "evoke",
+                "sentence": "25",
+                "target phrase": "terroristisch"
+            },
+            "t510": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame": "Purpose",
+                "frame elements": null,
+                "lemma": "oogmerk",
+                "reftype": "type",
+                "sentence": "25"
+            },
+            "t511": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": null,
+                "lemma": "bewijzen",
+                "reftype": "type",
+                "sentence": "25"
+            },
+            "t516": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Scrutiny",
+                "frame elements": null,
+                "lemma": "onderzoek",
+                "reftype": "evoke",
+                "sentence": "26"
+            },
+            "t527": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Motion",
+                "frame elements": null,
+                "lemma": "komen",
+                "reftype": "type",
+                "sentence": "26"
+            },
+            "t538": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Origin",
+                "frame elements": null,
+                "lemma": "voortkomen",
+                "reftype": "type",
+                "sentence": "27"
+            },
+            "t542.c2": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "geloofsovertuiging",
+                "frame": "Opinion",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "overtuiging",
+                "reftype": "evoke",
+                "sentence": "27"
+            },
+            "t549.c2": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "persoonlijkheidsstoornis",
+                "frame": "Medical_conditions",
+                "frame elements": [
+                    "Origin@Origin"
+                ],
+                "function": "head",
+                "lemma": "stoornis",
+                "reftype": "type",
+                "sentence": "27",
+                "target phrase": "persoonlijkheidsstoornis"
+            },
+            "t551.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "zwakbegaafdheid",
+                "frame": "Mental_property",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "begaafdheid",
+                "reftype": "evoke",
+                "sentence": "27"
+            },
+            "t557": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Judgment",
+                "frame elements": null,
+                "lemma": "tekortkoming",
+                "reftype": "evoke",
+                "sentence": "27"
+            },
+            "t559": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Success_or_failure",
+                "frame elements": null,
+                "lemma": "mislukking",
+                "reftype": "type",
+                "sentence": "27"
+            },
+            "t566": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Rebellion",
+                "frame elements": [
+                    "Offering@Offerer"
+                ],
+                "lemma": "radicalisering",
+                "reftype": "type",
+                "sentence": "28",
+                "target phrase": "de radicalisering"
+            },
+            "t567": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Offering",
+                "frame elements": null,
+                "lemma": "bieden",
+                "reftype": "type",
+                "sentence": "28"
+            },
+            "t574": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attempt",
+                "frame elements": null,
+                "lemma": "proberen",
+                "reftype": "type",
+                "sentence": "28"
+            },
+            "t598": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Opinion",
+                "frame elements": [
+                    "Cause_change_of_strength@Patient"
+                ],
+                "lemma": "overtuiging",
+                "reftype": "evoke",
+                "sentence": "29",
+                "target phrase": "zijn eigen overtuiging"
+            },
+            "t611": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Robbery",
+                "frame elements": [
+                    "Judgment@Reason",
+                    "Cause_change_of_strength@Cause"
+                ],
+                "lemma": "beroven",
+                "reftype": "type",
+                "sentence": "30",
+                "target phrase": "beroven"
+            },
+            "t616": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_harm",
+                "frame elements": null,
+                "lemma": "verwonden",
+                "reftype": "type",
+                "sentence": "30"
+            },
+            "t622": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Commitment",
+                "frame elements": null,
+                "lemma": "bedreigen",
+                "reftype": "type",
+                "sentence": "30"
+            },
+            "t63": {
+                "POS": "VERB",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Evidence",
+                "frame elements": null,
+                "lemma": "bewijzen",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t654.c0": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "hulpverlener",
+                "frame": "Assistance",
+                "frame elements": [
+                    "Supply@Theme",
+                    "Supply@Imposed_purpose"
+                ],
+                "function": "modifier",
+                "lemma": "hulp",
+                "reftype": "evoke",
+                "sentence": "32",
+                "target phrase": "hulpverlener"
+            },
+            "t654.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "hulpverlener",
+                "frame": "Supply",
+                "frame elements": [
+                    "Assistance@Helper",
+                    "Supply@Supplier"
+                ],
+                "function": "head",
+                "lemma": "verleners",
+                "reftype": "evoke",
+                "sentence": "32",
+                "target phrase": "hulpverlener"
+            },
+            "t67": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": [
+                    "Evidence@Proposition"
+                ],
+                "lemma": "handelen",
+                "reftype": "type",
+                "sentence": "3",
+                "target phrase": "dat de man handelen met een terroristisch oogmerk"
+            },
+            "t670": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Participation",
+                "frame elements": [
+                    "Participation@Participants"
+                ],
+                "lemma": "betrekken",
+                "reftype": "evoke",
+                "sentence": "33",
+                "target phrase": "van direct betrekken"
+            },
+            "t683": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Judgment",
+                "frame elements": null,
+                "lemma": "wijten",
+                "reftype": "type",
+                "sentence": "34"
+            },
+            "t686.c2": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "veiligheidsgevoel",
+                "frame": "Feeling",
+                "frame elements": [
+                    "Objective_influence@Dependent_entity"
+                ],
+                "function": "head",
+                "lemma": "gevoel",
+                "reftype": "evoke",
+                "sentence": "34",
+                "target phrase": "veiligheidsgevoel"
+            },
+            "t695": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Objective_influence",
+                "frame elements": [
+                    "Judgment@Reason",
+                    "Feeling@Evaluation"
+                ],
+                "lemma": "aantasten",
+                "reftype": "type",
+                "sentence": "34",
+                "target phrase": "dat het veiligheidsgevoel van veel nederlander door de aanslag fundamenteel zijn aantasten"
+            },
+            "t7": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Rewards_and_punishments",
+                "frame elements": [
+                    "Rewards_and_punishments@Response_action"
+                ],
+                "lemma": "levenslang",
+                "reftype": "type",
+                "sentence": "1",
+                "target phrase": "levenslang"
+            },
+            "t70": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Terrorism",
+                "frame elements": null,
+                "lemma": "terroristisch",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t71": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame": "Purpose",
+                "frame elements": null,
+                "lemma": "oogmerk",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t73": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attack",
+                "frame elements": null,
+                "lemma": "aanslag",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t8.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "gevangenisstraf",
+                "frame": "Rewards_and_punishments",
+                "frame elements": [
+                    "Request@Message",
+                    "Rewards_and_punishments@Response_action"
+                ],
+                "function": "head",
+                "lemma": "straf",
+                "reftype": "type",
+                "sentence": "1",
+                "target phrase": "gevangenisstraf"
+            },
+            "t81": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Receiving",
+                "frame elements": null,
+                "lemma": "ontvangen",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "t9": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Request",
+                "frame elements": null,
+                "lemma": "eisen",
+                "reftype": "type",
+                "sentence": "1"
+            },
+            "t94": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Reporting",
+                "frame elements": [
+                    "Receiving@Theme"
+                ],
+                "lemma": "melding",
+                "reftype": "evoke",
+                "sentence": "4",
+                "target phrase": "melding"
+            }
+        }
+    }
+}

@@ -1,0 +1,84 @@
+{
+    "Kamerbrief met nadere informatie naar aanleiding van de aanslag Utrecht 18 maart 2019": {
+        "fe's without links": {
+            "t2": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Telling@Speaker"
+                ],
+                "lemma": "grapperhau",
+                "sentence": "1",
+                "target phrase": "grapperhau"
+            },
+            "t5": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Telling@Addressee"
+                ],
+                "lemma": "tweede",
+                "sentence": "1",
+                "target phrase": "de tweede kamer"
+            },
+            "t9": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Telling@Topic"
+                ],
+                "lemma": "omstandigheid",
+                "sentence": "1",
+                "target phrase": "rond de aanslag in utrecht over de omstandigheid"
+            }
+        },
+        "frames/links": {
+            "Q62090804": {
+                "t12": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Attack",
+                    "frame elements": null,
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "1"
+                }
+            },
+            "Q803": {}
+        },
+        "historical distance": 37,
+        "implicated fe's": [
+            "Telling@Message",
+            "Telling@Medium",
+            "Attack@Victim",
+            "Attack@Assailant"
+        ],
+        "raw text": "\nMinister Grapperhaus informeert de Tweede Kamer over de omstandigheden rond de aanslag in Utrecht op 18 maart 2019. Daarbij gaat hij ook in op het functioneren van de nationale crisisstructuur.\n",
+        "subevents": {
+            "t3": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Telling",
+                "frame elements": null,
+                "lemma": "informeren",
+                "reftype": "type",
+                "sentence": "1"
+            }
+        }
+    }
+}

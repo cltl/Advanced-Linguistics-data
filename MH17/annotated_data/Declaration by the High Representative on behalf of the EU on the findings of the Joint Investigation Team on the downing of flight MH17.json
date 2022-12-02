@@ -1,0 +1,403 @@
+{
+    "Declaration by the High Representative on behalf of the EU on the findings of the Joint Investigation Team on the downing of flight MH17": {
+        "fe's without links": {
+            "t111": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Using@Agent",
+                    "Possession@Owner"
+                ],
+                "lemma": "armed",
+                "sentence": "4",
+                "target phrase": "armed"
+            },
+            "t115": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Verdict@Defendant",
+                    "Criminal_investigation@Suspect",
+                    "Destroying@Destroyer"
+                ],
+                "lemma": "Russian",
+                "sentence": "4",
+                "target phrase": "Russian"
+            },
+            "t119": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Request@Speaker",
+                    "Attempt@Agent"
+                ],
+                "lemma": "European",
+                "sentence": "5",
+                "target phrase": "European"
+            },
+            "t127": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Request@Message"
+                ],
+                "lemma": "accept",
+                "sentence": "5",
+                "target phrase": "to accept -PRON- responsibility and to fully cooperate with effort"
+            },
+            "t138": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Attempt@Goal"
+                ],
+                "lemma": "establish",
+                "sentence": "5",
+                "target phrase": "to establish accountability"
+            },
+            "t142": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Be_in_agreement_on_assessment@Cognizers"
+                ],
+                "lemma": "Candidate",
+                "sentence": "6",
+                "target phrase": "Candidate"
+            },
+            "t191": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Be_in_agreement_on_assessment@Opinion"
+                ],
+                "lemma": "declaration",
+                "sentence": "6",
+                "target phrase": "this declaration"
+            },
+            "t45": {
+                "POS": "DET",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Responsibility@Agent",
+                    "Downing@Agent"
+                ],
+                "lemma": "those",
+                "sentence": "2",
+                "target phrase": "those responsible for downing"
+            },
+            "t79": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Investigator"
+                ],
+                "lemma": "Joint",
+                "sentence": "3",
+                "target phrase": "Joint"
+            },
+            "t94": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Coming_to_believe@Cognizer"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "4",
+                "target phrase": "-PRON-"
+            },
+            "t98": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Using@Instrument",
+                    "Possession@Possession"
+                ],
+                "lemma": "BUK",
+                "sentence": "4",
+                "target phrase": "BUK"
+            }
+        },
+        "frames/links": {
+            "Q159": {
+                "t124": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Request@Addressee",
+                        "Responsibility@Agent"
+                    ],
+                    "lemma": "Russian",
+                    "sentence": "5",
+                    "target phrase": "Russian"
+                }
+            },
+            "Q1631864271612": {
+                "t104": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Destroying@Patient"
+                    ],
+                    "lemma": "flight",
+                    "sentence": "4",
+                    "target phrase": "flight"
+                },
+                "t51": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Ride_vehicle",
+                    "frame elements": [
+                        "Downing@Patient",
+                        "Ride_vehicle@Vehicle"
+                    ],
+                    "lemma": "flight",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "flight"
+                }
+            },
+            "Q1636580448374": {},
+            "Q17374096": {
+                "mw1": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Destroying",
+                    "frame elements": [
+                        "Using@Purpose",
+                        "Coming_to_believe@Topic"
+                    ],
+                    "lemma": "bring down",
+                    "reftype": "type",
+                    "sentence": "4",
+                    "target phrase": "bring down"
+                },
+                "t49": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Responsibility@Act",
+                        "Verdict@Charges",
+                        "Criminal_investigation@Incident",
+                        "Responsibility@Act",
+                        "Be_in_agreement_on_assessment@Topic"
+                    ],
+                    "lemma": "downing",
+                    "reftype": "type",
+                    "sentence": "2",
+                    "target phrase": "the downing of flight MH17 on 17 July 2014"
+                },
+                "t51": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Ride_vehicle",
+                    "frame elements": [
+                        "Downing@Patient",
+                        "Ride_vehicle@Vehicle"
+                    ],
+                    "lemma": "flight",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "flight"
+                }
+            }
+        },
+        "historical distance": 1408,
+        "implicated fe's": [
+            "Ride_vehicle@Theme",
+            "Ride_vehicle@Source",
+            "Ride_vehicle@Path",
+            "Ride_vehicle@Goal",
+            "Ride_vehicle@Area",
+            "Verdict@Judge",
+            "Verdict@Case",
+            "Coming_to_believe@Evidence",
+            "Coming_to_believe@Medium",
+            "Request@Medium"
+        ],
+        "raw text": "Declaration by the High Representative on behalf of the EU on the findings of the Joint Investigation Team on the downing of flight MH17.\n\nThe European Union reiterates its full support for the United Nations Security Council Resolution 2166, which demands that those responsible for the downing of flight MH17 on 17 July 2014 be held to account and that all States cooperate fully with efforts to establish accountability. On 24 May 2018, the Joint Investigation Team presented further findings of its independent, professional and impartial investigation. It concluded that the BUK installation used to bring down flight MH17 belonged beyond doubt to the armed forces of the Russian Federation. The European Union calls on the Russian Federation to accept its responsibility and to fully cooperate with all efforts to establish accountability. The Candidate Countries the former Yugoslav Republic of Macedonia*, Montenegro* and Albania*, and the EFTA countries Iceland, Liechtenstein and Norway, members of the European Economic Area, as well as Ukraine, the Republic of Moldova and Georgia, align themselves with this declaration. *The former Yugoslav Republic of Macedonia, Montenegro and Albania continue to be part of the Stabilisation and Association Process.\n",
+        "subevents": {
+            "t100": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Using",
+                "frame elements": null,
+                "lemma": "use",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "t106": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Possession",
+                "frame elements": [
+                    "Verdict@Finding",
+                    "Coming_to_believe@Content"
+                ],
+                "lemma": "belong",
+                "reftype": "type",
+                "sentence": "4",
+                "target phrase": "MH17 belong beyond doubt to the armed force of"
+            },
+            "t121": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Request",
+                "frame elements": null,
+                "lemma": "call",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t129": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Responsibility",
+                "frame elements": null,
+                "lemma": "responsibility",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t136": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attempt",
+                "frame elements": null,
+                "lemma": "effort",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t187": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Be_in_agreement_on_assessment",
+                "frame elements": null,
+                "lemma": "align",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t46": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Responsibility",
+                "frame elements": null,
+                "lemma": "responsible",
+                "reftype": "evoke",
+                "sentence": "2"
+            },
+            "t84": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Verdict",
+                "frame elements": null,
+                "lemma": "finding",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t92": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": [
+                    "Coming_to_believe@Means"
+                ],
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "3",
+                "target phrase": "-PRON- independent , professional and impartial investigation"
+            },
+            "t95": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Coming_to_believe",
+                "frame elements": null,
+                "lemma": "conclude",
+                "reftype": "type",
+                "sentence": "4"
+            }
+        }
+    }
+}

@@ -1,0 +1,290 @@
+{
+    "Extra toezicht van politie bij stations en moskee\u00ebn": {
+        "fe's without links": {
+            "t111": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Change_accessibility@Useful_location"
+                ],
+                "lemma": "moskee",
+                "sentence": "6",
+                "target phrase": "van zijn moskee"
+            },
+            "t152": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Being_located@Theme"
+                ],
+                "lemma": "agent",
+                "sentence": "9",
+                "target phrase": "\u2019 \u2019 de agent bij de moskee voor de deur"
+            },
+            "t155": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Being_located@Location"
+                ],
+                "lemma": "moskee",
+                "sentence": "9",
+                "target phrase": "bij de moskee voor de deur"
+            },
+            "t177": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Presence@Location"
+                ],
+                "lemma": "moskee",
+                "sentence": "11",
+                "target phrase": "bij de moskee in wielwijk , de el fath moskee"
+            },
+            "t188": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Presence@Entity"
+                ],
+                "lemma": "politieauto",
+                "sentence": "11",
+                "target phrase": "twee politieauto"
+            },
+            "t19": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Presence@Entity"
+                ],
+                "lemma": "agent",
+                "sentence": "1",
+                "target phrase": "agent"
+            },
+            "t195": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Scrutiny@Ground"
+                ],
+                "lemma": "moskee",
+                "sentence": "12",
+                "target phrase": "de moskee in zwijndrecht en de moskee in sliedrecht"
+            },
+            "t204.c0": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "politiebewaking",
+                "frame elements": [
+                    "Scrutiny@Cognizer",
+                    "Scrutiny@Instrument"
+                ],
+                "function": "modifier",
+                "lemma": "politie",
+                "sentence": "12",
+                "target phrase": "politiebewaking"
+            },
+            "t5": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Presence@Location"
+                ],
+                "lemma": "moskee",
+                "sentence": "1",
+                "target phrase": "bij dordrecht en de aksa moskee krispijn onder meer de moskee op de merwedestraat in"
+            },
+            "t93": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Change_accessibility@Agent"
+                ],
+                "lemma": "masum",
+                "sentence": "6",
+                "target phrase": "masum kolkilic"
+            }
+        },
+        "frames/links": {
+            "Q62090804": {
+                "t123": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "het"
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event",
+                        "Commitment@Medium",
+                        "Commitment@Medium"
+                    ],
+                    "lemma": "incident",
+                    "reftype": "type",
+                    "sentence": "7",
+                    "target phrase": "van het incident in utrecht"
+                },
+                "t135": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": "Commitment",
+                    "frame elements": null,
+                    "lemma": "bedreiging",
+                    "reftype": "evoke",
+                    "sentence": "8"
+                },
+                "t138": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Commitment@Addressee"
+                    ],
+                    "lemma": "moslimgemeenschap",
+                    "sentence": "8",
+                    "target phrase": "naar de moslimgemeenschap ,"
+                },
+                "t143": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": "Commitment",
+                    "frame elements": null,
+                    "lemma": "bedreiging",
+                    "reftype": "evoke",
+                    "sentence": "8"
+                },
+                "t147": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Commitment@Addressee"
+                    ],
+                    "lemma": "samenleving",
+                    "sentence": "8",
+                    "target phrase": "tegenover de heel samenleving"
+                }
+            },
+            "Q803": {}
+        },
+        "historical distance": 0,
+        "implicated fe's": [
+            "Catastrophe@Patient",
+            "Commitment@Speaker",
+            "Commitment@Message",
+            "Commitment@Topic",
+            "Commitment@Speaker",
+            "Commitment@Message",
+            "Commitment@Topic",
+            "Change_accessibility@Portal",
+            "Scrutiny@Medium"
+        ],
+        "raw text": "\nBij onder meer de moskee op de Merwedestraat in Dordrecht en de Aksa moskee in Krispijn waren maandagmiddag agenten aanwezig, in een auto of busje voor de deur. Sahin Seme, voorzitter van de Aksa moskee, heeft er geen woorden voor. ,,Dat dit nodig is. Ik ben echt sprakeloos. Zo'n busje voor de deur, dat gaat echt niet helpen, ik voel me er niet veiliger door. Dit helpt niet voor het wederzijds begrip tussen de moslimgemeenschap en andere Dordtenaren.\u201d Masum Kolkilic, van de Ayasofya moskee op de Staart, heeft uit voorzorg een deel van zijn moskee op slot gedraaid. ,,We zijn geschrokken van het incident in Utrecht. Maar we zien het niet als een directe bedreiging naar de moslimgemeenschap, eerder als een bedreiging tegenover de hele samenleving.\u2019\u2019 De agenten bij de moskee voor de deur stonden er uit voorzorg, zegt Kolkilic. ,,Alleen maar goed.\u2019\u2019 Bij de moskee in Wielwijk, de El Fath moskee, waren twee politieauto's aanwezig. Ook bij de moskee in Zwijndrecht en de moskee in Sliedrecht was politiebewaking.\n",
+        "subevents": {
+            "mw2": {
+                "POS": "MWE",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Change_accessibility",
+                "frame elements": null,
+                "lemma": "op slot draaien",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t159": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_located",
+                "frame elements": null,
+                "lemma": "staan",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t190": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Presence",
+                "frame elements": null,
+                "lemma": "aanwezig",
+                "reftype": "type",
+                "sentence": "11"
+            },
+            "t20": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Presence",
+                "frame elements": null,
+                "lemma": "aanwezig",
+                "reftype": "type",
+                "sentence": "1"
+            },
+            "t204.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "politiebewaking",
+                "frame": "Scrutiny",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "bewaking",
+                "reftype": "evoke",
+                "sentence": "12"
+            }
+        }
+    }
+}

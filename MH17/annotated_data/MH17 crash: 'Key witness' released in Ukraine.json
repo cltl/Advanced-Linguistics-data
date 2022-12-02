@@ -1,0 +1,216 @@
+{
+    "MH17 crash: 'Key witness' released in Ukraine": {
+        "fe's without links": {
+            "t47": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Exchange@Exchanger_1"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "4",
+                "target phrase": "-PRON-"
+            }
+        },
+        "frames/links": {
+            "Q67197819": {
+                "t24": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Releasing@Theme",
+                        "Exchange@Theme_1",
+                        "Exchange@Theme_1"
+                    ],
+                    "lemma": "Mr",
+                    "sentence": "3",
+                    "target phrase": "Mr"
+                }
+            }
+        },
+        "historical distance": 1876,
+        "implicated fe's": [
+            "Discussion@Interlocutor_2",
+            "Exchange@Exchanger_2",
+            "Exchange@Exchanger_2"
+        ],
+        "raw text": "MH17 crash: 'Key witness' released in Ukraine.\n\nMeanwhile Russian President Vladimir Putin, speaking at around the time of Mr Tsemakh's release, said that the talks were being finalised and the swap could involve a large number of people. He added that the date of the exchange would soon be announced.\n",
+        "subevents": {
+            "t13": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Origin",
+                "frame elements": null,
+                "lemma": "russian",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t14": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Appellations",
+                "frame elements": [
+                    "Releasing@Captor",
+                    "Discussion@Interlocutor_1",
+                    "Exchange@Exchanger_1"
+                ],
+                "lemma": "President",
+                "reftype": "evoke",
+                "sentence": "3",
+                "target phrase": "russian President"
+            },
+            "t27": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Releasing",
+                "frame elements": null,
+                "lemma": "release",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t32": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "talk",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t38": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Exchange",
+                "frame elements": [
+                    "Discussion@Topic",
+                    "Participation@Event"
+                ],
+                "lemma": "swap",
+                "reftype": "type",
+                "sentence": "3",
+                "target phrase": "the swap"
+            },
+            "t39": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Possibility",
+                "frame elements": null,
+                "lemma": "could",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t40": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Participation",
+                "frame elements": null,
+                "lemma": "involve",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t42": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Size",
+                "frame elements": null,
+                "lemma": "large",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t43": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Quantified_mass",
+                "frame elements": null,
+                "lemma": "number",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t45": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "People",
+                "frame elements": [
+                    "Participation@Participants"
+                ],
+                "lemma": "people",
+                "reftype": "evoke",
+                "sentence": "3",
+                "target phrase": "people"
+            },
+            "t48": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "add",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t54": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Exchange",
+                "frame elements": null,
+                "lemma": "exchange",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t58": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "announce",
+                "reftype": "evoke",
+                "sentence": "4"
+            }
+        }
+    }
+}

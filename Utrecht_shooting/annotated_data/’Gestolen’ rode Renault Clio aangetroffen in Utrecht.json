@@ -1,0 +1,302 @@
+{
+    "\u2019Gestolen\u2019 rode Renault Clio aangetroffen in Utrecht": {
+        "fe's without links": {
+            "t122": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Change_accessibility@Useful_location"
+                ],
+                "lemma": "speelplein",
+                "sentence": "10",
+                "target phrase": "en ook een speelplein voor het flatgebouw van de inval"
+            },
+            "t15": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Attack@Assailant",
+                    "Change_accessibility@Agent",
+                    "Change_accessibility@Agent",
+                    "Attack@Assailant"
+                ],
+                "lemma": "politie",
+                "sentence": "1",
+                "target phrase": "de politie"
+            },
+            "t2": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Taking_captive@Captive"
+                ],
+                "lemma": "auto",
+                "sentence": "1",
+                "target phrase": "de auto"
+            },
+            "t20": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Locating@Sought_entity"
+                ],
+                "lemma": "auto",
+                "sentence": "3",
+                "target phrase": "de betreffen auto"
+            },
+            "t49": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Attack@Assailant"
+                ],
+                "lemma": "politie",
+                "sentence": "6",
+                "target phrase": "de politie"
+            },
+            "t66": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Locating@Location"
+                ],
+                "lemma": "plek",
+                "sentence": "6",
+                "target phrase": "vlakbij de plek waar de auto zijn aantreffen"
+            },
+            "t69": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Locating@Sought_entity"
+                ],
+                "lemma": "auto",
+                "sentence": "6",
+                "target phrase": "de auto"
+            },
+            "t86": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Locating@Sought_entity"
+                ],
+                "lemma": "renault",
+                "sentence": "7",
+                "target phrase": "renault clio"
+            }
+        },
+        "frames/links": {
+            "Q62090804": {
+                "t7": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Attack",
+                    "frame elements": null,
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "1"
+                }
+            },
+            "Q803": {
+                "t114": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Change_accessibility@Useful_location"
+                    ],
+                    "lemma": "tichelaarslaan",
+                    "sentence": "10",
+                    "target phrase": "de tichelaarslaan"
+                },
+                "t26": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Locating@Location"
+                    ],
+                    "lemma": "tichelaarslaan",
+                    "sentence": "3",
+                    "target phrase": "aan de tichelaarslaan"
+                },
+                "t82": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Locating@Location"
+                    ],
+                    "lemma": "tichelaarslaan",
+                    "sentence": "7",
+                    "target phrase": "van de tichelaarslaan"
+                }
+            }
+        },
+        "historical distance": 0,
+        "implicated fe's": [
+            "Taking_captive@Agent",
+            "Taking_captive@Cause",
+            "Locating@Perceiver",
+            "Locating@Ground",
+            "Locating@Perceiver",
+            "Locating@Ground",
+            "Locating@Perceiver",
+            "Locating@Ground",
+            "Attack@Victim",
+            "Attack@Victim",
+            "Change_accessibility@Portal",
+            "Change_accessibility@Portal",
+            "Attack@Victim",
+            "Attack@Victim",
+            "Attack@Assailant"
+        ],
+        "raw text": "\nDe auto is vlak voor de aanslag buitgemaakt aan de Amerikalaan, aldus de politie. \u201eDe betreffende auto is later aangetroffen aan de Tichelaarslaan.\u201d Die straat in de Tweede Daalsebuurt ligt vlak bij de Hogeschool voor de Kunsten Utrecht (HKU). De politie heeft een inval gedaan in een flatwoning aan de Utrechtse Laan van Engelswier, vlakbij de plek waar de auto is aangetroffen. De Laan van Engelswier ligt drie straten van de Tichelaarslaan waar de rode Renault Clio werd gevonden. De inval is gedaan in een woning in een drielaags-appartementengebouw. Er is veel politie in de wijk aanwezig. De Tichelaarslaan is afgezet voor onderzoek en ook een speelpleintje voor het flatgebouw van de inval is met politielinten afgezet.\n",
+        "subevents": {
+            "t116": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Change_accessibility",
+                "frame elements": null,
+                "lemma": "afzetten",
+                "reftype": "type",
+                "sentence": "10"
+            },
+            "t128": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Attack",
+                "frame elements": null,
+                "lemma": "inval",
+                "reftype": "type",
+                "sentence": "10"
+            },
+            "t132": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Change_accessibility",
+                "frame elements": null,
+                "lemma": "afzetten",
+                "reftype": "type",
+                "sentence": "10"
+            },
+            "t23": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locating",
+                "frame elements": null,
+                "lemma": "aantreffen",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t52": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame": "Attack",
+                "frame elements": null,
+                "lemma": "inval",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t71": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locating",
+                "frame elements": null,
+                "lemma": "aantreffen",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t8": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Taking_captive",
+                "frame elements": null,
+                "lemma": "buitmaken",
+                "reftype": "type",
+                "sentence": "1"
+            },
+            "t89": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locating",
+                "frame elements": null,
+                "lemma": "vinden",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t92": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Attack",
+                "frame elements": null,
+                "lemma": "inval",
+                "reftype": "type",
+                "sentence": "8"
+            }
+        }
+    }
+}

@@ -1,0 +1,251 @@
+{
+    "Kleine bijdrage in kosten afscheid lieve Roos": {
+        "fe's without links": {
+            "t19": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Experiencer_focus@Experiencer",
+                    "Losing_someone@Sufferer"
+                ],
+                "lemma": "buurman",
+                "sentence": "2",
+                "target phrase": "mijn buurman"
+            },
+            "t47": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Residence@Resident"
+                ],
+                "lemma": "buurman",
+                "sentence": "4",
+                "target phrase": "mijn buurman"
+            }
+        },
+        "frames/links": {
+            "Q1632409367599": {
+                "t116": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Rite@Member"
+                    ],
+                    "lemma": "dochter",
+                    "sentence": "6",
+                    "target phrase": "van zijn dochter"
+                },
+                "t33": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Experiencer_focus@Content",
+                        "Losing_someone@Deceased"
+                    ],
+                    "lemma": "roos",
+                    "sentence": "2",
+                    "target phrase": "roos"
+                },
+                "t5": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Catastrophe@Patient"
+                    ],
+                    "lemma": "roos",
+                    "sentence": "1",
+                    "target phrase": "roos"
+                },
+                "t58": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Residence@Co_resident"
+                    ],
+                    "lemma": "roos",
+                    "sentence": "4",
+                    "target phrase": "met roos"
+                },
+                "t77": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Death@Protagonist"
+                    ],
+                    "lemma": "dochter",
+                    "sentence": "4",
+                    "target phrase": "van zijn dochter"
+                },
+                "t8": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": null,
+                    "lemma": "slachtoffer",
+                    "reftype": "evoke",
+                    "sentence": "1"
+                }
+            },
+            "Q62090804": {
+                "t11": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Committing_crime@Manner"
+                    ],
+                    "lemma": "laf",
+                    "sentence": "1",
+                    "target phrase": "laf"
+                },
+                "t12": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": "Committing_crime",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event",
+                        "Committing_crime@Crime"
+                    ],
+                    "lemma": "daad",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "een laf daad van"
+                }
+            }
+        },
+        "historical distance": 1,
+        "implicated fe's": [
+            "Committing_crime@Perpetrator",
+            "Experiencer_focus@Event",
+            "Experiencer_focus@Expressor",
+            "Experiencer_focus@State",
+            "Residence@Location",
+            "Rite@Desired_state_of_affairs",
+            "Rite@Guardian",
+            "Rite@Instrument",
+            "Rite@Leader",
+            "Rite@Organization",
+            "Rite@Object",
+            "Rite@New_status",
+            "Making_arrangements@Agent",
+            "Making_arrangements@Scheduled_time"
+        ],
+        "raw text": "\nZoals jullie weten is Roos een onschuldig slachtoffer van een laffe daad! Omdat ik wil dat mijn buurman alleen maar bezig is met rouwen om het verlies van zijn lieve dochter Roos en niet met geld bezig moet zijn vraag ik jullie hulp! Mijn buurman heeft het niet breed, is alleenstaand en woonde met Roos samen, om te voorkomen dat hij nog meer financi\u00eble zorgen krijgt door dit oneerlijke overlijden van zijn dochter wil ik hem graag financieel ondersteunen door geld in te zamelen. Dit geld kan hij gebruiken voor alle rekeningen die op hem afkomen door alles zo mooi en goed mogelijk te regelen omtrent het afscheid van zijn dochter. Helpen jullie mij mee door dit te delen en liever nog door een kleine bijdrage te doen? Alvast bedankt! Liefs Martje Beniest (de buurvrouw)\n",
+        "subevents": {
+            "mw3": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Residence",
+                "frame elements": null,
+                "lemma": "samenwonen",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "t110": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Making_arrangements",
+                "frame elements": null,
+                "lemma": "regelen",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t113": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Rite",
+                "frame elements": [
+                    "Rite@Type",
+                    "Making_arrangements@Event"
+                ],
+                "lemma": "afscheid",
+                "reftype": "evoke",
+                "sentence": "6",
+                "target phrase": "omtrent het afscheid van zijn dochter"
+            },
+            "t25": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Experiencer_focus",
+                "frame elements": null,
+                "lemma": "rouw",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t28": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Losing_someone",
+                "frame elements": [
+                    "Experiencer_focus@Topic"
+                ],
+                "lemma": "verlies",
+                "reftype": "evoke",
+                "sentence": "2",
+                "target phrase": "het verlies van zijn lief dochter roos"
+            },
+            "t74": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Death",
+                "frame elements": null,
+                "lemma": "overlijden",
+                "reftype": "evoke",
+                "sentence": "4"
+            }
+        }
+    }
+}

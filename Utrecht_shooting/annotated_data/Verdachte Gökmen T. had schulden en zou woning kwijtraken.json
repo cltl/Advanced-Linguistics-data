@@ -1,0 +1,391 @@
+{
+    "Verdachte G\u00f6kmen T. had schulden en zou woning kwijtraken": {
+        "fe's without links": {
+            "t104": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Offenses@Victim",
+                    "Offenses@Victim"
+                ],
+                "lemma": "winkel",
+                "sentence": "5",
+                "target phrase": "van de winkel"
+            },
+            "t122": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Contacting@Addressee"
+                ],
+                "lemma": "rechter",
+                "sentence": "6",
+                "target phrase": "met de rechter"
+            },
+            "t16": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Offenses@Victim"
+                ],
+                "lemma": "fietsenwinkel",
+                "sentence": "1",
+                "target phrase": "bij een fietsenwinkel in utrecht"
+            },
+            "t34": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Subsisting@Support"
+                ],
+                "lemma": "uitkering",
+                "sentence": "2",
+                "target phrase": "van een uitkering en schuld"
+            },
+            "t51": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Losing@Possession"
+                ],
+                "lemma": "woning",
+                "sentence": "3",
+                "target phrase": "zijn woning"
+            },
+            "t84": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Enforcing@Agent"
+                ],
+                "lemma": "rechter",
+                "sentence": "5",
+                "target phrase": "de rechter"
+            },
+            "t88": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Enforcing@Rule"
+                ],
+                "lemma": "celstraf",
+                "sentence": "5",
+                "target phrase": "een celstraf"
+            },
+            "t9": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Arriving@Goal"
+                ],
+                "lemma": "politierechter",
+                "sentence": "1",
+                "target phrase": "voor de politierechter"
+            }
+        },
+        "frames/links": {
+            "Q62116513": {
+                "t117": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Contacting@Communicator"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "6",
+                    "target phrase": "t."
+                },
+                "t157": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Personal_relationship@Partner_1",
+                        "Forming_relationships@Partner_1"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "9",
+                    "target phrase": "hij"
+                },
+                "t2": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Arriving@Theme",
+                        "Offenses@Perpetrator"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "1",
+                    "target phrase": "t."
+                },
+                "t24": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Statement@Speaker"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "2",
+                    "target phrase": "t."
+                },
+                "t27": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Residence@Resident",
+                        "Subsisting@Entity"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "2",
+                    "target phrase": "hij"
+                },
+                "t45": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Losing@Owner"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "3",
+                    "target phrase": "hij"
+                },
+                "t85": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Enforcing@Focal_participant",
+                        "Offenses@Perpetrator",
+                        "Offenses@Perpetrator"
+                    ],
+                    "lemma": "hem",
+                    "sentence": "5",
+                    "target phrase": "hem"
+                }
+            },
+            "Q803": {}
+        },
+        "historical distance": 9,
+        "implicated fe's": [
+            "Statement@Topic",
+            "Statement@Medium",
+            "Residence@Location",
+            "Residence@Co_resident",
+            "Enforcing@Medium",
+            "Contacting@Communication",
+            "Contacting@Address",
+            "Contacting@Topic",
+            "Personal_relationship@Partner_2",
+            "Forming_relationships@Partner_2"
+        ],
+        "raw text": "\nUitkering T. moest drie weken geleden voor de politierechter verschijnen vanwege een inbraak bij een fietsenwinkel in Utrecht. Op die zitting heeft T. verklaard dat hij alleen woonde, leefde van een uitkering en schulden had vanwege openstaande verkeersboetes. Ook bleek dat hij bij een eventuele gevangenisstraf zijn woning kwijt zou raken. 'Verloofd' De advocaat van T. vroeg de rechter tijdens de zitting van drie weken terug, rekening te houden met deze omstandigheden. Toch legde de rechter hem wel een celstraf op van vier maanden wegens inbraak en diefstal van geld uit de kassa van de winkel. De rechter vond een werkstraf niet passend gezien het feit dat T. al vaker met de rechter in aanraking is gekomen. Volgens de advocaat van T. ging het beter met haar cli\u00ebnt dan in de periode daarvoor. \"Mijn cli\u00ebnt zit op dit moment in een stijgende lijn. Hij is verloofd en gaat binnenkort trouwen. Zijn persoonlijke omstandigheden zijn nu vele malen beter dan in het verleden\", vertelde zij de rechter.\n",
+        "subevents": {
+            "mw1": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Losing",
+                "frame elements": null,
+                "lemma": "kwijtraken",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "mw3": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Enforcing",
+                "frame elements": null,
+                "lemma": "opleggen",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t10": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "verschijnen",
+                "reftype": "type",
+                "sentence": "1"
+            },
+            "t124": {
+                "POS": "X",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Contacting",
+                "frame elements": null,
+                "lemma": "aanraking",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t13": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame": "Offenses",
+                "frame elements": [
+                    "Offenses@Offense"
+                ],
+                "lemma": "inbraak",
+                "reftype": "evoke",
+                "sentence": "1",
+                "target phrase": "vanwege een inbraak bij een fietsenwinkel in utrecht"
+            },
+            "t159": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Personal_relationship",
+                "frame elements": null,
+                "lemma": "verloven",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t163": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Forming_relationships",
+                "frame elements": null,
+                "lemma": "trouwen",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t25": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "verklaren",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t29": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Residence",
+                "frame elements": [
+                    "Statement@Message"
+                ],
+                "lemma": "wonen",
+                "reftype": "type",
+                "sentence": "2",
+                "target phrase": "dat hij alleen wonen"
+            },
+            "t31": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Subsisting",
+                "frame elements": null,
+                "lemma": "leven",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t94": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Offenses",
+                "frame elements": [
+                    "Offenses@Offense"
+                ],
+                "lemma": "inbraak",
+                "reftype": "type",
+                "sentence": "5",
+                "target phrase": "wegens inbraak en diefstal van geld"
+            },
+            "t96": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Offenses",
+                "frame elements": [
+                    "Offenses@Offense"
+                ],
+                "lemma": "diefstal",
+                "reftype": "type",
+                "sentence": "5",
+                "target phrase": "en diefstal van geld"
+            }
+        }
+    }
+}

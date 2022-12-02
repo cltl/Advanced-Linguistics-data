@@ -1,0 +1,971 @@
+{
+    "Eerste reactie Rutte en Grapperhaus op schietpartij in Utrecht": {
+        "fe's without links": {
+            "t10": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Statement@Speaker",
+                    "Response@Agent",
+                    "Response@Agent"
+                ],
+                "lemma": "minister",
+                "sentence": "1",
+                "target phrase": "minister"
+            },
+            "t150": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Hunting_success_or_failure@Hunter"
+                ],
+                "lemma": "we",
+                "sentence": "11",
+                "target phrase": "we"
+            },
+            "t216": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Response@Response",
+                    "Response@Response"
+                ],
+                "lemma": "zijn",
+                "sentence": "15",
+                "target phrase": "zijn"
+            },
+            "t251": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Statement@Speaker"
+                ],
+                "lemma": "nctv",
+                "sentence": "19",
+                "target phrase": "de nctv , de nationaal co\u00f6rdinator terrorismebestrijding en veiligheid"
+            },
+            "t270.c2": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "dreigingsniveau",
+                "frame elements": [
+                    "Statement@Message"
+                ],
+                "function": "head",
+                "lemma": "niveau",
+                "sentence": "19",
+                "target phrase": "dreigingsniveau"
+            },
+            "t276": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Risky_situation@Asset"
+                ],
+                "lemma": "rest",
+                "sentence": "20",
+                "target phrase": "voor de rest van nederland"
+            },
+            "t3": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Communication_response@Speaker"
+                ],
+                "lemma": "rutte",
+                "sentence": "1",
+                "target phrase": "rutte en grapperhau"
+            },
+            "t306": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Hunting@Hunter"
+                ],
+                "lemma": "autoriteit",
+                "sentence": "22",
+                "target phrase": "de autoriteit in de provincie utrecht , die man jacht zijn"
+            },
+            "t402": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Intentionally_create@Creator"
+                ],
+                "lemma": "gemeente",
+                "sentence": "28",
+                "target phrase": "de gemeente utrecht"
+            },
+            "t405": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Intentionally_create@Created_entity"
+                ],
+                "lemma": "telefoonnummer",
+                "sentence": "28",
+                "target phrase": "een telefoonnummer"
+            },
+            "t408": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Seeking@Cognizer_agent"
+                ],
+                "lemma": "mens",
+                "sentence": "28",
+                "target phrase": "voor mens die zoeken naar een dierbaar betrekken"
+            },
+            "t413": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Catastrophe@Patient",
+                    "Participation@Participant_1",
+                    "Seeking@Sought_entity"
+                ],
+                "lemma": "dierbaar",
+                "sentence": "28",
+                "target phrase": "naar een dierbaar die mogelijk betrekken zijn bij het schietincident oktoberplein"
+            },
+            "t44": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Just_found_out@Experiencer"
+                ],
+                "lemma": "land",
+                "sentence": "3",
+                "target phrase": "ons land"
+            },
+            "t442": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Risky_situation@Asset"
+                ],
+                "lemma": "nederland",
+                "sentence": "31",
+                "target phrase": "in nederland"
+            },
+            "t46": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Event@Time"
+                ],
+                "lemma": "vandaag",
+                "sentence": "3",
+                "target phrase": "vandaag"
+            },
+            "t54": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Investigator",
+                    "Hunting_success_or_failure@Hunter"
+                ],
+                "lemma": "politie",
+                "sentence": "4",
+                "target phrase": "politie en om"
+            },
+            "t64": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Incident"
+                ],
+                "lemma": "gebeuren",
+                "sentence": "4",
+                "target phrase": "naar wat er precies zijn gebeuren"
+            },
+            "t75": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Hit_target@Target",
+                    "Participation@Participant_1",
+                    "Hit_target@Target",
+                    "Hit_target@Target",
+                    "Participation@Participant_1",
+                    "Attack@Victim",
+                    "Hit_target@Target",
+                    "Terrorism@Victim",
+                    "Terrorism@Victim",
+                    "Terrorism@Victim"
+                ],
+                "lemma": "inzittend",
+                "sentence": "5",
+                "target phrase": "op inzittend van een tram in utrecht"
+            }
+        },
+        "frames/links": {
+            "Q1632409367599": {
+                "t120": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Violence@Victim",
+                        "Impact@Impactee"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "9",
+                    "target phrase": "onschuldig mens"
+                },
+                "t84": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Cause_harm",
+                    "frame elements": [
+                        "Cause_harm@Victim"
+                    ],
+                    "lemma": "winden",
+                    "reftype": "evoke",
+                    "sentence": "6",
+                    "target phrase": "dat er winden zijn"
+                },
+                "t89": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Killing",
+                    "frame elements": [
+                        "Killing@Victim"
+                    ],
+                    "lemma": "dood",
+                    "reftype": "evoke",
+                    "sentence": "6",
+                    "target phrase": ", en mogelijk dood"
+                }
+            },
+            "Q62090804": {
+                "t117": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Violence",
+                    "frame elements": [
+                        "Impact@Impactor"
+                    ],
+                    "lemma": "geweld",
+                    "reftype": "evoke",
+                    "sentence": "9",
+                    "target phrase": "geweld"
+                },
+                "t175": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": "Committing_crime",
+                    "frame elements": [
+                        "Terrorism@Act"
+                    ],
+                    "lemma": "daad",
+                    "reftype": "evoke",
+                    "sentence": "13",
+                    "target phrase": "een daad van terreur zijn een aanval beschaving ."
+                },
+                "t177": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Terrorism",
+                    "frame elements": null,
+                    "lemma": "terreur",
+                    "reftype": "evoke",
+                    "sentence": "13"
+                },
+                "t180": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": "Attack",
+                    "frame elements": null,
+                    "lemma": "aanval",
+                    "reftype": "evoke",
+                    "sentence": "13"
+                },
+                "t183": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Attack@Victim"
+                    ],
+                    "lemma": "beschaving",
+                    "sentence": "13",
+                    "target phrase": "op onze beschaving"
+                },
+                "t196.c0": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "terreurdaad",
+                    "frame": "Terrorism",
+                    "frame elements": null,
+                    "function": "modifier",
+                    "lemma": "terreur",
+                    "reftype": "evoke",
+                    "sentence": "15"
+                },
+                "t196.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "terreurdaad",
+                    "frame": "Committing_crime",
+                    "frame elements": [
+                        "Terrorism@Act",
+                        "Response@Trigger",
+                        "Response@Trigger"
+                    ],
+                    "function": "head",
+                    "lemma": "daad",
+                    "reftype": "evoke",
+                    "sentence": "15",
+                    "target phrase": "terreurdaad"
+                },
+                "t30.c0": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Participation@Event"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schieten",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "schietpartij"
+                },
+                "t30.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Participation",
+                    "frame elements": [
+                        "Statement@Topic"
+                    ],
+                    "function": "head",
+                    "lemma": "partij",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "schietpartij"
+                },
+                "t384": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Event",
+                    "frame elements": null,
+                    "lemma": "situatie",
+                    "reftype": "evoke",
+                    "sentence": "27"
+                },
+                "t386": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Event@Place"
+                    ],
+                    "lemma": "utrecht",
+                    "sentence": "27",
+                    "target phrase": "in utrecht"
+                },
+                "t420.c0": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietincident",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schieten",
+                    "reftype": "evoke",
+                    "sentence": "28",
+                    "target phrase": "schietincident"
+                },
+                "t420.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietincident",
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Participation@Event"
+                    ],
+                    "function": "head",
+                    "lemma": "incident",
+                    "reftype": "evoke",
+                    "sentence": "28",
+                    "target phrase": "schietincident"
+                },
+                "t50": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Just_found_out@Stimulus"
+                    ],
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "3",
+                    "target phrase": "door een aanslag in utrecht"
+                },
+                "t7.c0": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Participation@Event"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schieten",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "schietpartij"
+                },
+                "t7.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Participation",
+                    "frame elements": [
+                        "Communication_response@Trigger",
+                        "Communication_response@Topic",
+                        "Committing_crime@Crime",
+                        "Event@Event",
+                        "Killing@Means",
+                        "Committing_crime@Crime",
+                        "Committing_crime@Crime",
+                        "Committing_crime@Crime",
+                        "Committing_crime@Crime",
+                        "Committing_crime@Crime"
+                    ],
+                    "function": "head",
+                    "lemma": "partij",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "schietpartij"
+                },
+                "t93": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": "Committing_crime",
+                    "frame elements": [
+                        "Terrorism@Act"
+                    ],
+                    "lemma": "daad",
+                    "reftype": "evoke",
+                    "sentence": "7",
+                    "target phrase": "een daad met terroristisch motief"
+                },
+                "t95": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Terrorism",
+                    "frame elements": null,
+                    "lemma": "terroristisch",
+                    "reftype": "evoke",
+                    "sentence": "7"
+                }
+            },
+            "Q62116513": {
+                "t158": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Committing_crime",
+                    "frame elements": [
+                        "Hit_target@Agent",
+                        "Participation@Participant_2",
+                        "Hit_target@Agent",
+                        "Hit_target@Agent",
+                        "Participation@Participant_2",
+                        "Attack@Assailant",
+                        "Hit_target@Agent",
+                        "Violence@Aggressor",
+                        "Hunting_success_or_failure@Food",
+                        "Terrorism@Terrorist",
+                        "Committing_crime@Perpetrator",
+                        "Risky_situation@Dangerous_entity",
+                        "Participation@Participant_2",
+                        "Cause_harm@Agent",
+                        "Killing@Killer",
+                        "Committing_crime@Perpetrator",
+                        "Committing_crime@Perpetrator",
+                        "Attack@Assailant",
+                        "Terrorism@Terrorist",
+                        "Terrorism@Terrorist",
+                        "Committing_crime@Perpetrator",
+                        "Risky_situation@Dangerous_entity",
+                        "Risky_situation@Dangerous_entity"
+                    ],
+                    "lemma": "dader",
+                    "reftype": "evoke",
+                    "sentence": "11",
+                    "target phrase": "de dader of dader"
+                },
+                "t244": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Committing_crime",
+                    "frame elements": [
+                        "Hunting_success_or_failure@Food",
+                        "Committing_crime@Perpetrator"
+                    ],
+                    "lemma": "dader",
+                    "reftype": "evoke",
+                    "sentence": "18",
+                    "target phrase": "om de dader of dader"
+                },
+                "t319": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Committing_crime",
+                    "frame elements": [
+                        "Hunting@Food",
+                        "Committing_crime@Perpetrator"
+                    ],
+                    "lemma": "dader",
+                    "reftype": "evoke",
+                    "sentence": "22",
+                    "target phrase": "naar de dader of dader"
+                }
+            },
+            "Q803": {
+                "t263": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Risky_situation@Asset"
+                    ],
+                    "lemma": "provincie",
+                    "sentence": "19",
+                    "target phrase": "voor de provincie utrecht tot 18.00 uur vanavond"
+                },
+                "t309": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hunting@Ground"
+                    ],
+                    "lemma": "provincie",
+                    "sentence": "22",
+                    "target phrase": "in de provincie utrecht , die met man macht dader op jacht zijn"
+                },
+                "t386": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Event@Place"
+                    ],
+                    "lemma": "utrecht",
+                    "sentence": "27",
+                    "target phrase": "in utrecht"
+                }
+            }
+        },
+        "historical distance": 0,
+        "implicated fe's": [
+            "Communication_response@Addressee",
+            "Statement@Medium",
+            "Just_found_out@Expressor",
+            "Just_found_out@State",
+            "Criminal_investigation@Suspect",
+            "Violence@Cause",
+            "Violence@Aggressors",
+            "Violence@Cause",
+            "Violence@Aggressors",
+            "Statement@Medium",
+            "Cause_harm@Body_part",
+            "Killing@Instrument"
+        ],
+        "raw text": "\nEerste reactie Rutte en Grapperhaus op schietpartij in Utrecht Minister-president Rutte en minister Grapperhaus (Justitie en Veiligheid) hebben een verklaring gegeven naar aanleiding van de schietpartij in Utrecht. Minister-president Rutte: Dames en heren, ons land is vandaag opgeschrikt door een aanslag in Utrecht. Politie en OM doen onderzoek naar wat er precies is gebeurd. Wat nu vaststaat is dat er is geschoten op inzittenden van een tram in Utrecht. Dat er gewonden zijn, en mogelijk doden gevallen. Een daad met terroristisch motief wordt niet uitgesloten. De eerste berichten geven hoe dan ook aanleiding tot een mengeling van ongeloof en afschuw. Geweld heeft onschuldige mensen hard geraakt. Onze gedachten zijn bij hen en hun nabestaanden, hun naasten, wier leven vandaag van het ene op het andere moment overhoop is gehaald. We zetten nu alles op alles om de dader of daders zo snel mogelijk te pakken. Daar is nu alles op gericht. Een daad van terreur is een aanval op onze beschaving. Op onze tolerante en open samenleving. Mocht dit inderdaad een terreurdaad blijken, dan past daarop maar een antwoord en dat antwoord luidt dat onze rechtsstaat, onze democratie sterker zijn dan fanatisme en geweld. We zullen niet wijken voor onverdraagzaamheid, nooit. Minister Grapperhaus: Dames en heren, de prioriteit is nu om de dader of daders te pakken. De NCTV, de Nationaal Co\u00f6rdinator Terrorismebestrijding en Veiligheid, heeft voor de provincie Utrecht tot 18.00 uur vanavond het dreigingsniveau 5 afgekondigd. Voor de rest van Nederland geldt het dreigingsniveau 4. Dat betekent dat de plaatselijke autoriteiten alert en aanwezig zijn in de samenleving. Het kabinet ondersteunt op alle mogelijke manieren de autoriteiten in de provincie Utrecht, die met man en macht naar de dader of daders op jacht zijn. Ik roep iedereen op om de aanwijzingen van de autoriteiten nauwgezet te volgen. Wees maximaal alert voor uzelf en uw omgeving, maar blijf ook rustig. Om vijf uur vanmiddag komt het crisisberaad opnieuw bijeen en dan zullen we u nader informeren. Dank u wel. Meer informatie en hulp Voor meer informatie over de situatie in Utrecht kunt u terecht op de website van de gemeente Utrecht: https://www.utrecht.nl/bestuur-en-organisatie/crisiscommunicatie/schietincident-24-oktoberplein-liveblog/ Ook heeft de gemeente Utrecht een telefoonnummer geopend voor mensen die zoeken naar een dierbare die mogelijk betrokken is bij het schietincident aan het 24 Oktoberplein. Dat is: 088 - 269 00 00. Voor meer informatie over het dreigingsniveau in Nederland zie: www.nctv.nl Slachtofferhulp Nederland heeft tevens een telefoonnummer geopend: 0900-0101. Zie ook: https://www.slachtofferhulp.nl/nieuws/2019/schietincident-utrecht/\n",
+        "subevents": {
+            "mw1": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_motion",
+                "frame elements": null,
+                "lemma": "overhoophalen",
+                "reftype": "type",
+                "sentence": "10"
+            },
+            "t122": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Impact",
+                "frame elements": null,
+                "lemma": "geraken",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t165": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hunting_success_or_failure",
+                "frame elements": null,
+                "lemma": "pakken",
+                "reftype": "type",
+                "sentence": "11"
+            },
+            "t2": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Communication_response",
+                "frame elements": null,
+                "lemma": "reactie",
+                "reftype": "type",
+                "sentence": "1"
+            },
+            "t204": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame": "Response",
+                "frame elements": null,
+                "lemma": "antwoord",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t207": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Response",
+                "frame elements": null,
+                "lemma": "antwoord",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t220": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Violence",
+                "frame elements": null,
+                "lemma": "geweld",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t24": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "verklaring",
+                "reftype": "type",
+                "sentence": "1"
+            },
+            "t248": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hunting_success_or_failure",
+                "frame elements": null,
+                "lemma": "pakken",
+                "reftype": "type",
+                "sentence": "18"
+            },
+            "t270.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "dreigingsniveau",
+                "frame": "Risky_situation",
+                "frame elements": null,
+                "function": "modifier",
+                "lemma": "dreiging",
+                "reftype": "evoke",
+                "sentence": "19"
+            },
+            "t272": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "afkondigen",
+                "reftype": "type",
+                "sentence": "19"
+            },
+            "t281.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "dreigingsniveau",
+                "frame": "Risky_situation",
+                "frame elements": null,
+                "function": "modifier",
+                "lemma": "dreiging",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t323": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hunting",
+                "frame elements": null,
+                "lemma": "jacht",
+                "reftype": "type",
+                "sentence": "22"
+            },
+            "t406": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_create",
+                "frame elements": null,
+                "lemma": "openen",
+                "reftype": "type",
+                "sentence": "28"
+            },
+            "t410": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Seeking",
+                "frame elements": null,
+                "lemma": "zoeken",
+                "reftype": "type",
+                "sentence": "28"
+            },
+            "t416": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Participation",
+                "frame elements": null,
+                "lemma": "betrekken",
+                "reftype": "evoke",
+                "sentence": "28"
+            },
+            "t440.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "dreigingsniveau",
+                "frame": "Risky_situation",
+                "frame elements": null,
+                "function": "modifier",
+                "lemma": "dreiging",
+                "reftype": "evoke",
+                "sentence": "31"
+            },
+            "t47": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Just_found_out",
+                "frame elements": [
+                    "Communication_response@Message",
+                    "Statement@Message"
+                ],
+                "lemma": "opschrikken",
+                "reftype": "type",
+                "sentence": "3",
+                "target phrase": "dame en heer , ons land zijn vandaag opschrikken door een aanslag in utrecht ."
+            },
+            "t58": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "onderzoek",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "t73": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hit_target",
+                "frame elements": null,
+                "lemma": "schieten",
+                "reftype": "type",
+                "sentence": "5"
+            }
+        }
+    }
+}

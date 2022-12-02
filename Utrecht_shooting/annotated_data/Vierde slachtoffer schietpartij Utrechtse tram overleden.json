@@ -1,0 +1,374 @@
+{
+    "Vierde slachtoffer schietpartij Utrechtse tram overleden": {
+        "fe's without links": {
+            "t58": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Temporary_stay@Location",
+                    "Releasing@Location_of_confinement"
+                ],
+                "lemma": "ziekenhuis",
+                "sentence": "4",
+                "target phrase": "in het ziekenhuis"
+            }
+        },
+        "frames/links": {
+            "Q1632409367599": {
+                "t1": {
+                    "POS": "DET",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Experience_bodily_harm@Experiencer",
+                        "Death@Protagonist"
+                    ],
+                    "lemma": "een",
+                    "sentence": "1",
+                    "target phrase": "een tram van de zwaargewond slachtoffer van de dodelijk schietpartij"
+                },
+                "t4.c0": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "zwaargewond",
+                    "frame": null,
+                    "frame elements": [
+                        "Experience_bodily_harm@Severity"
+                    ],
+                    "function": "modifier",
+                    "lemma": "zwaar",
+                    "sentence": "1",
+                    "target phrase": "zwaargewond"
+                },
+                "t4.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "zwaargewond",
+                    "frame": "Experience_bodily_harm",
+                    "frame elements": null,
+                    "function": "head",
+                    "lemma": "gewonde",
+                    "reftype": "evoke",
+                    "sentence": "1"
+                },
+                "t43": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Killing",
+                    "frame elements": null,
+                    "lemma": "dodelijk",
+                    "reftype": "evoke",
+                    "sentence": "3"
+                },
+                "t44": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Killing@Victim",
+                        "Experiencer_focus@Content",
+                        "Killing@Victim",
+                        "Catastrophe@Patient"
+                    ],
+                    "lemma": "slachtoffer",
+                    "reftype": "evoke",
+                    "sentence": "3",
+                    "target phrase": "vi dodelijk slachtoffer"
+                },
+                "t48": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Temporary_stay@Guest"
+                    ],
+                    "lemma": "e\u00e9n",
+                    "sentence": "4",
+                    "target phrase": "e\u00e9n van de twee zwaargewond slachtoffer"
+                },
+                "t5": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Participation@Participant_2",
+                        "Hit_target@Target",
+                        "Experience_bodily_harm@Experiencer",
+                        "Catastrophe@Patient"
+                    ],
+                    "lemma": "slachtoffer",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "in de tram 24-oktoberplein van de zwaargewond slachtoffer van de dodelijk schietpartij"
+                },
+                "t52.c0": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "zwaargewond",
+                    "frame": null,
+                    "frame elements": [
+                        "Experience_bodily_harm@Severity"
+                    ],
+                    "function": "modifier",
+                    "lemma": "zwaar",
+                    "sentence": "4",
+                    "target phrase": "zwaargewond"
+                },
+                "t52.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "zwaargewond",
+                    "frame": "Experience_bodily_harm",
+                    "frame elements": null,
+                    "function": "head",
+                    "lemma": "gewonde",
+                    "reftype": "evoke",
+                    "sentence": "4"
+                },
+                "t53": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Experience_bodily_harm@Experiencer",
+                        "Catastrophe@Patient"
+                    ],
+                    "lemma": "slachtoffer",
+                    "reftype": "evoke",
+                    "sentence": "4",
+                    "target phrase": "de twee zwaargewond slachtoffer"
+                },
+                "t61": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Releasing@Theme"
+                    ],
+                    "lemma": "ander",
+                    "sentence": "5",
+                    "target phrase": "de ander"
+                },
+                "t8": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Killing",
+                    "frame elements": null,
+                    "lemma": "dodelijk",
+                    "reftype": "evoke",
+                    "sentence": "1"
+                },
+                "t9.c0": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Participation@Event",
+                        "Catastrophe@Undesirable_event",
+                        "Killing@Means",
+                        "Experiencer_focus@Topic",
+                        "Killing@Means",
+                        "Catastrophe@Undesirable_event",
+                        "Catastrophe@Undesirable_event"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schiet",
+                    "reftype": "type",
+                    "sentence": "1",
+                    "target phrase": "schietpartij"
+                },
+                "t9.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Participation",
+                    "frame elements": null,
+                    "function": "head",
+                    "lemma": "partij",
+                    "reftype": "evoke",
+                    "sentence": "1"
+                }
+            },
+            "Q62090804": {
+                "t8": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Killing",
+                    "frame elements": null,
+                    "lemma": "dodelijk",
+                    "reftype": "evoke",
+                    "sentence": "1"
+                },
+                "t9.c0": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Participation@Event",
+                        "Catastrophe@Undesirable_event",
+                        "Killing@Means",
+                        "Experiencer_focus@Topic",
+                        "Killing@Means",
+                        "Catastrophe@Undesirable_event",
+                        "Catastrophe@Undesirable_event"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schiet",
+                    "reftype": "type",
+                    "sentence": "1",
+                    "target phrase": "schietpartij"
+                },
+                "t9.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Participation",
+                    "frame elements": null,
+                    "function": "head",
+                    "lemma": "partij",
+                    "reftype": "evoke",
+                    "sentence": "1"
+                }
+            },
+            "Q803": {}
+        },
+        "historical distance": 10,
+        "implicated fe's": [
+            "Participation@Participant_1",
+            "Hit_target@Agent",
+            "Experience_bodily_harm@Body_part",
+            "Experience_bodily_harm@Body_part",
+            "Killing@Killer",
+            "Killing@Instrument",
+            "Experiencer_focus@Experiencer",
+            "Experiencer_focus@Expressor",
+            "Experiencer_focus@State",
+            "Experiencer_focus@Event",
+            "Killing@Killer",
+            "Killing@Instrument",
+            "Experience_bodily_harm@Body_part",
+            "Temporary_stay@Duration",
+            "Temporary_stay@Host",
+            "Releasing@Captor"
+        ],
+        "raw text": "\nEen van de zwaargewonde slachtoffers van de dodelijke schietpartij in de tram op het 24-Oktoberplein in Utrecht is vandaag komen te overlijden aan zijn verwondingen. Het gaat om een 74-jarige man uit De Meern. In totaal zijn er nu vier dodelijke slachtoffers te betreuren. E\u00e9n van de twee zwaargewonde slachtoffers verblijft nog in het ziekenhuis; de ander is daar inmiddels ontslagen.\n",
+        "subevents": {
+            "t22": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Death",
+                "frame elements": null,
+                "lemma": "overlijden",
+                "reftype": "type",
+                "sentence": "1"
+            },
+            "t25": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Experience_bodily_harm",
+                "frame elements": null,
+                "lemma": "verwonding",
+                "reftype": "evoke",
+                "sentence": "1"
+            },
+            "t46": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Experiencer_focus",
+                "frame elements": null,
+                "lemma": "betreuren",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t54": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Temporary_stay",
+                "frame elements": null,
+                "lemma": "verblijven",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "t65": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Releasing",
+                "frame elements": null,
+                "lemma": "ontslaan",
+                "reftype": "type",
+                "sentence": "5"
+            }
+        }
+    }
+}

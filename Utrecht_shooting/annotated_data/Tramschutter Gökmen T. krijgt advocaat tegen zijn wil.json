@@ -1,0 +1,2266 @@
+{
+    "Tramschutter G\u00f6kmen T. krijgt advocaat tegen zijn wil": {
+        "fe's without links": {
+            "t128": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Statement@Speaker",
+                    "Cause_to_perceive@Perceiver"
+                ],
+                "lemma": "deskundig",
+                "sentence": "9",
+                "target phrase": "de deskundig"
+            },
+            "t134": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Statement@Message"
+                ],
+                "lemma": "zijn",
+                "sentence": "9",
+                "target phrase": "zijn"
+            },
+            "t142": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Cause_to_perceive@Phenomenon"
+                ],
+                "lemma": "trek",
+                "sentence": "9",
+                "target phrase": "narcistisch trek"
+            },
+            "t146": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Feeling@Emotional_state"
+                ],
+                "lemma": "verheffen",
+                "sentence": "9",
+                "target phrase": "en zich verheffen voelen boven de rest van de samenleving"
+            },
+            "t176": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Addiction@Addict"
+                ],
+                "lemma": "alcohol-",
+                "sentence": "11",
+                "target phrase": "al ernstig alcohol- en drugsprobleem"
+            },
+            "t186": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Giving@Theme"
+                ],
+                "lemma": "brief",
+                "sentence": "12",
+                "target phrase": "een brief"
+            },
+            "t190.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "vluchtauto",
+                "frame elements": [
+                    "Fleeing@Means",
+                    "Piracy@Vehicle"
+                ],
+                "function": "head",
+                "lemma": "auto",
+                "sentence": "12",
+                "target phrase": "vluchtauto"
+            },
+            "t207": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Killing@Killer"
+                ],
+                "lemma": "jullie",
+                "sentence": "15",
+                "target phrase": "jullie"
+            },
+            "t209": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Killing@Victim"
+                ],
+                "lemma": "moslim",
+                "sentence": "15",
+                "target phrase": "moslim"
+            },
+            "t213": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Theft@Perpetrator",
+                    "Success_or_failure@Agent"
+                ],
+                "lemma": "jullie",
+                "sentence": "15",
+                "target phrase": "jullie"
+            },
+            "t215": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Theft@Goods"
+                ],
+                "lemma": "geloof",
+                "sentence": "15",
+                "target phrase": "jullie moslim en willen jullie ons geloof van ons afpakk , maar dat gaan niet lukken ."
+            },
+            "t217": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Theft@Victim"
+                ],
+                "lemma": "ons",
+                "sentence": "15",
+                "target phrase": "ons"
+            },
+            "t238": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Cause_motion@Theme",
+                    "Trial@Defense",
+                    "Trial@Defense",
+                    "Trial@Defense",
+                    "Trial@Defense",
+                    "Desiring@Focal_participant",
+                    "Trial@Defense"
+                ],
+                "lemma": "andr\u00e9",
+                "sentence": "17",
+                "target phrase": "andr\u00e9 seebregts"
+            },
+            "t245": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Cause_motion@Goal"
+                ],
+                "lemma": "kant",
+                "sentence": "17",
+                "target phrase": "aan de kant"
+            },
+            "t258": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Attaching@Agent",
+                    "Bringing@Agent"
+                ],
+                "lemma": "parketpolitie",
+                "sentence": "18",
+                "target phrase": "door de parketpolitie"
+            },
+            "t260.c0": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "binnenbrengen",
+                "frame elements": [
+                    "Bringing@Goal"
+                ],
+                "function": "modifier",
+                "lemma": "binnen",
+                "sentence": "18",
+                "target phrase": "binnenbrengen"
+            },
+            "t266": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Statement@Topic",
+                    "Becoming_aware@Phenomenon"
+                ],
+                "lemma": "rechtssysteem",
+                "sentence": "18",
+                "target phrase": "het nederlands rechtssysteem"
+            },
+            "t272": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Trial@Defense"
+                ],
+                "lemma": "geen",
+                "sentence": "18",
+                "target phrase": "geen"
+            },
+            "t273": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Desiring@Focal_participant"
+                ],
+                "lemma": "advocaat",
+                "sentence": "18",
+                "target phrase": "ook geen advocaat"
+            },
+            "t304": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Awareness@Content"
+                ],
+                "lemma": "betekenen",
+                "sentence": "19",
+                "target phrase": "de gevolg betekenen"
+            },
+            "t308": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Trial@Court"
+                ],
+                "lemma": "rechtbank",
+                "sentence": "20",
+                "target phrase": "de utrechts rechtbank"
+            },
+            "t315": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Statement@Speaker"
+                ],
+                "lemma": "zij",
+                "sentence": "21",
+                "target phrase": "zij"
+            },
+            "t321": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Needing@Requirement"
+                ],
+                "lemma": "advocaat",
+                "sentence": "21",
+                "target phrase": "een advocaat"
+            },
+            "t323": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Statement@Message"
+                ],
+                "lemma": "hebben",
+                "sentence": "21",
+                "target phrase": "hebben"
+            },
+            "t329": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Defending@Victim"
+                ],
+                "lemma": "belang",
+                "sentence": "21",
+                "target phrase": "zijn eigen belang"
+            },
+            "t338": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Trial@Court"
+                ],
+                "lemma": "rechtbank",
+                "sentence": "23",
+                "target phrase": "de rechtbank"
+            },
+            "t346.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "terreuradvocaat",
+                "frame elements": [
+                    "Trial@Defense"
+                ],
+                "function": "head",
+                "lemma": "advocaat",
+                "sentence": "23",
+                "target phrase": "terreuradvocaat"
+            },
+            "t360": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Defending@Defender",
+                    "Desiring@Focal_participant"
+                ],
+                "lemma": "hij",
+                "sentence": "24",
+                "target phrase": "hij"
+            },
+            "t376": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Defending@Defender",
+                    "Desiring@Focal_participant"
+                ],
+                "lemma": "ik",
+                "sentence": "25",
+                "target phrase": "ik"
+            },
+            "t382": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Request@Speaker",
+                    "Deciding@Cognizer"
+                ],
+                "lemma": "rechtbank",
+                "sentence": "25",
+                "target phrase": "de rechtbank"
+            },
+            "t396": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Request@Addressee"
+                ],
+                "lemma": "mij",
+                "sentence": "25",
+                "target phrase": "mij"
+            },
+            "t40": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Research@Researcher",
+                    "Collaboration@Partner_2",
+                    "Research@Researcher",
+                    "Research@Researcher",
+                    "Research@Researcher",
+                    "Research@Researcher"
+                ],
+                "lemma": "psycholoog",
+                "sentence": "3",
+                "target phrase": "door psycholoog en psychiater in het pieter baan centrum"
+            },
+            "t402": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Request@Message"
+                ],
+                "lemma": "zijn",
+                "sentence": "25",
+                "target phrase": "zijn"
+            },
+            "t427": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Deciding@Cognizer"
+                ],
+                "lemma": "rechtbank",
+                "sentence": "29",
+                "target phrase": "de rechtbank"
+            },
+            "t434": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Needing@Requirement"
+                ],
+                "lemma": "advocaat",
+                "sentence": "29",
+                "target phrase": "een advocaat"
+            },
+            "t436": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Deciding@Decision"
+                ],
+                "lemma": "hebben",
+                "sentence": "29",
+                "target phrase": "hebben"
+            },
+            "t443": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Trial@Court"
+                ],
+                "lemma": "rechtbank",
+                "sentence": "30",
+                "target phrase": "de rechtbank"
+            },
+            "t463.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "rechtsbijstand",
+                "frame elements": [
+                    "Assistance@Helper"
+                ],
+                "function": "modifier",
+                "lemma": "recht",
+                "sentence": "31",
+                "target phrase": "rechtsbijstand"
+            },
+            "t489": {
+                "POS": "CONJ",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Defending@Assailant",
+                    "Defending@Assailant",
+                    "Trial@Prosecution",
+                    "Defending@Assailant",
+                    "Trial@Prosecution",
+                    "Trial@Prosecution",
+                    "Trial@Prosecution",
+                    "Trial@Prosecution",
+                    "Criminal_investigation@Investigator",
+                    "Trial@Prosecution",
+                    "Suspicion@Authority"
+                ],
+                "lemma": "om",
+                "sentence": "33",
+                "target phrase": "ook het om"
+            },
+            "t539": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Taking@Agent"
+                ],
+                "lemma": "parketpolitie",
+                "sentence": "36",
+                "target phrase": "door de parketpolitie"
+            },
+            "t54": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Becoming_aware@Phenomenon",
+                    "Trial@Court",
+                    "Trial@Court",
+                    "Trial@Court",
+                    "Collaboration@Partner_2",
+                    "Trial@Court"
+                ],
+                "lemma": "rechtbank",
+                "sentence": "4",
+                "target phrase": "de rechtbank"
+            },
+            "t561": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Using@Instrument"
+                ],
+                "lemma": "vuurwapen",
+                "sentence": "38",
+                "target phrase": "dat het semi - automatisch vuurwapen"
+            },
+            "t568": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Rescuing@Agent"
+                ],
+                "lemma": "haperen",
+                "sentence": "38",
+                "target phrase": "dat het semi - automatisch vuurwapen dat hij gebruiken tijdens de aanslag haperen"
+            },
+            "t577": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Rescuing@Asset"
+                ],
+                "lemma": "mensenleven",
+                "sentence": "39",
+                "target phrase": "mensenleven"
+            },
+            "t583": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Filling@Goal"
+                ],
+                "lemma": "wapen",
+                "sentence": "40",
+                "target phrase": "zijn wapen meermaals"
+            },
+            "t66": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Statement@Topic",
+                    "Awareness@Content"
+                ],
+                "lemma": "systeem",
+                "sentence": "4",
+                "target phrase": "in een democratisch systeem"
+            },
+            "t93": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Chatting@Interlocutor_2",
+                    "Cause_to_perceive@Perceiver"
+                ],
+                "lemma": "deskundig",
+                "sentence": "7",
+                "target phrase": "met de deskundig"
+            },
+            "t95": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Cause_to_perceive@Phenomenon"
+                ],
+                "lemma": "schuldbewust",
+                "sentence": "7",
+                "target phrase": "schuldbewust"
+            }
+        },
+        "frames/links": {
+            "Q1632409367599": {
+                "t12": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Death",
+                    "frame elements": [
+                        "Hit_target@Target",
+                        "Hit_target@Target",
+                        "Death@Protagonist",
+                        "Attack@Victim",
+                        "Attack@Victim",
+                        "Terrorism@Victim",
+                        "Attack@Victim"
+                    ],
+                    "lemma": "dood",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "vi dood"
+                },
+                "t170": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hit_target@Target",
+                        "Death@Protagonist"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "11",
+                    "target phrase": "vi mens"
+                },
+                "t25": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hit_target@Target",
+                        "Death@Protagonist"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "2",
+                    "target phrase": "vi mens"
+                }
+            },
+            "Q62090804": {
+                "t102": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Committing_crime",
+                    "frame elements": [
+                        "Taking_sides@Action",
+                        "Committing_crime@Crime"
+                    ],
+                    "lemma": "daad",
+                    "reftype": "evoke",
+                    "sentence": "7",
+                    "target phrase": "zijn daad"
+                },
+                "t182": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Attack",
+                    "frame elements": null,
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "12"
+                },
+                "t202": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Intentionally_act@Act"
+                    ],
+                    "lemma": "dit",
+                    "sentence": "14",
+                    "target phrase": "dit"
+                },
+                "t567": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Using@Purpose"
+                    ],
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "38",
+                    "target phrase": "tijdens de aanslag"
+                }
+            },
+            "Q62116513": {
+                "t1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hit_target@Agent",
+                        "Research@Topic",
+                        "Terrorism@Terrorist",
+                        "Trial@Defendant",
+                        "Trial@Defendant",
+                        "Desiring@Experiencer",
+                        "Criminal_investigation@Suspect"
+                    ],
+                    "lemma": "gokm",
+                    "sentence": "1",
+                    "target phrase": "gokm t."
+                },
+                "t101": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Taking_sides@Side"
+                    ],
+                    "lemma": "zijn",
+                    "sentence": "7",
+                    "target phrase": "zijn"
+                },
+                "t132": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Statement@Topic",
+                        "Cause_to_perceive@Agent",
+                        "Feeling@Experiencer"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "9",
+                    "target phrase": "t."
+                },
+                "t157": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Addiction@Addictant"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "10",
+                    "target phrase": "hij"
+                },
+                "t161": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hit_target@Agent"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "11",
+                    "target phrase": "hij"
+                },
+                "t184": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Attack@Assailant",
+                        "Giving@Donor",
+                        "Fleeing@Self_mover"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "12",
+                    "target phrase": "t."
+                },
+                "t193": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Piracy@Perpetrator"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "12",
+                    "target phrase": "hij"
+                },
+                "t20": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hit_target@Agent"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "2",
+                    "target phrase": "t. ( 38"
+                },
+                "t200": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Intentionally_act@Agent"
+                    ],
+                    "lemma": "ik",
+                    "sentence": "14",
+                    "target phrase": "ik"
+                },
+                "t234": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Cause_motion@Agent"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "17",
+                    "target phrase": "t."
+                },
+                "t254": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Trial@Defendant",
+                        "Attaching@Item",
+                        "Bringing@Theme"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "18",
+                    "target phrase": "hij"
+                },
+                "t263": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Statement@Speaker",
+                        "Becoming_aware@Cognizer",
+                        "Desiring@Experiencer"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "18",
+                    "target phrase": "hij"
+                },
+                "t283": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Research@Topic",
+                        "Cotheme@Theme",
+                        "Trial@Defendant"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "19",
+                    "target phrase": "t."
+                },
+                "t299": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Awareness@Cognizer"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "19",
+                    "target phrase": "hij"
+                },
+                "t318": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Needing@Cognizer"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "21",
+                    "target phrase": "t."
+                },
+                "t326": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Defending@Defender"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "21",
+                    "target phrase": "hij"
+                },
+                "t361": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Defending@Victim",
+                        "Desiring@Experiencer"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "24",
+                    "target phrase": "t."
+                },
+                "t38": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Research@Topic"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "3",
+                    "target phrase": "hij"
+                },
+                "t386": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Defending@Victim",
+                        "Desiring@Experiencer"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "25",
+                    "target phrase": "t."
+                },
+                "t432": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Needing@Cognizer"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "29",
+                    "target phrase": "t."
+                },
+                "t466": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Assistance@Benefited_party",
+                        "Trial@Defendant",
+                        "Suspicion@Suspect"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "31",
+                    "target phrase": "van de verdenken"
+                },
+                "t499": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Trial@Defendant"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "34",
+                    "target phrase": "tegen t."
+                },
+                "t513": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Trial@Defendant",
+                        "Attending@Agent"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "35",
+                    "target phrase": "t."
+                },
+                "t52.c0": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "aanslagpleger",
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Committing_crime@Crime"
+                    ],
+                    "function": "modifier",
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "4",
+                    "target phrase": "aanslagpleger"
+                },
+                "t52.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "aanslagpleger",
+                    "frame": "Committing_crime",
+                    "frame elements": [
+                        "Attack@Assailant",
+                        "Committing_crime@Perpetrator",
+                        "Becoming_aware@Cognizer",
+                        "Statement@Speaker"
+                    ],
+                    "function": "head",
+                    "lemma": "pleger",
+                    "reftype": "evoke",
+                    "sentence": "4",
+                    "target phrase": "aanslagpleger"
+                },
+                "t520": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Collaboration@Partner_1"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "36",
+                    "target phrase": "hij"
+                },
+                "t528": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Desiring@Experiencer",
+                        "Taking@Theme"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "36",
+                    "target phrase": "hij"
+                },
+                "t563": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Using@Agent",
+                        "Attack@Assailant"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "38",
+                    "target phrase": "hij"
+                },
+                "t580": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hit_target@Agent",
+                        "Filling@Agent"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "40",
+                    "target phrase": "t."
+                },
+                "t60": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Awareness@Cognizer"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "4",
+                    "target phrase": "hij"
+                },
+                "t68": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Collaboration@Partner_1",
+                        "Research@Topic"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "5",
+                    "target phrase": "hij"
+                },
+                "t80": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Research@Topic"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "6",
+                    "target phrase": "t."
+                },
+                "t85": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Chatting@Interlocutor_1",
+                        "Cause_to_perceive@Agent",
+                        "Taking_sides@Cognizer",
+                        "Committing_crime@Perpetrator"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "7",
+                    "target phrase": "hij"
+                }
+            },
+            "Q803": {
+                "t31": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Fleeing@Source"
+                    ],
+                    "lemma": "utrecht",
+                    "sentence": "2",
+                    "target phrase": "in utrecht"
+                }
+            }
+        },
+        "historical distance": 261,
+        "implicated fe's": [
+            "Research@Field",
+            "Research@Question",
+            "Becoming_aware@Means",
+            "Becoming_aware@Topic",
+            "Becoming_aware@Instrument",
+            "Statement@Medium",
+            "Awareness@Topic",
+            "Research@Field",
+            "Research@Question",
+            "Research@Field",
+            "Research@Question",
+            "Taking_sides@Issue",
+            "Research@Field",
+            "Research@Question",
+            "Statement@Medium",
+            "Feeling@Emotion",
+            "Feeling@Evaluation",
+            "Giving@Recipient",
+            "Fleeing@Path",
+            "Fleeing@Goal",
+            "Fleeing@Direction",
+            "Piracy@Victim",
+            "Killing@Means",
+            "Killing@Instrument",
+            "Theft@Source",
+            "Cause_motion@Source",
+            "Cause_motion@Path",
+            "Cause_motion@Result",
+            "Cause_motion@Initial_state",
+            "Trial@Jury",
+            "Trial@Prosecution",
+            "Trial@Judge",
+            "Trial@Case",
+            "Attaching@Goal",
+            "Attaching@Connector",
+            "Bringing@Carrier",
+            "Bringing@Source",
+            "Bringing@Path",
+            "Statement@Medium",
+            "Becoming_aware@Means",
+            "Becoming_aware@Topic",
+            "Becoming_aware@Instrument",
+            "Desiring@Location_of_event",
+            "Research@Field",
+            "Research@Question",
+            "Cotheme@Area",
+            "Statement@Medium",
+            "Trial@Jury",
+            "Trial@Judge",
+            "Request@Medium",
+            "Trial@Jury",
+            "Trial@Judge",
+            "Assistance@Goal",
+            "Trial@Jury",
+            "Trial@Judge",
+            "Trial@Jury",
+            "Trial@Judge",
+            "Trial@Jury",
+            "Trial@Judge",
+            "Needing@Consequences",
+            "Needing@Consequences",
+            "Desiring@Location_of_event",
+            "Desiring@Location_of_event",
+            "Desiring@Location_of_event",
+            "Desiring@Focal_participant",
+            "Desiring@Location_of_event",
+            "Taking@Source",
+            "Using@Role",
+            "Rescuing@Patient",
+            "Filling@Theme",
+            "Trial@Jury",
+            "Trial@Judge"
+        ],
+        "raw text": "\nGokmen T. opende het vuur in een tram, waar vier doden vielen. Beeld ANP In maart schoot T. (38) vier mensen dood in een tram in Utrecht. De afgelopen twee maanden werd hij door psychologen en psychiaters in het Pieter Baan Centrum onderzocht. Hoewel de aanslagpleger de rechtbank niet erkent en zegt dat hij niet gelooft in een democratisch systeem heeft hij wel meegewerkt aan het onderzoek. Uit het onderzoek blijkt dat T. verminderd toerekeningsvatbaar is. Hij heeft zich in de gesprekken met de deskundigen niet schuldbewust getoond en staat nog achter zijn daden. Zwakbegaafd De resultaten van het onderzoek zijn nog niet openbaar gemaakt, maar het Algemeen Dagblad heeft kennis genomen van de conclusies. De deskundigen stellen vast dat T. zwakbegaafd is, een laag IQ heeft, narcistische trekken vertoont en zich verheven voelt boven de rest van de samenleving. Daarnaast is hij verslavingsgevoelig. Voordat hij in maart in de tram in Utrecht vier mensen doodschoot had hij al ernstige alcohol- en drugsproblemen. Na de aanslag liet T. een briefje achter in de vluchtauto, die hij even daarvoor had gekaapt. \u2018Ik doe dit voor mijn geloof. Jullie maken moslims dood en willen jullie ons geloof van ons afpakken, maar dat gaat niet lukken. Allah is groot\u2019, stond daarop. T. heeft zijn advocaat Andr\u00e9 Seebregts enkele maanden geleden aan de kant geschoven. Bij de eerste rechtszitting, waar hij geboeid door de parketpolitie werd binnengebracht, zei hij het Nederlandse rechtssysteem niet te erkennen en ook geen advocaat te willen. Volgens het PBC-onderzoek is T. ondanks zijn beperkte geestelijke vermogens voldoende in staat het proces te volgen, en snapt hij wat de gevolgen kunnen betekenen. De Utrechtse rechtbank heeft daar zijn bedenkingen bij. Zij stellen dat T. w\u00e9l een advocaat nodig heeft, omdat hij zijn eigen belangen onvoldoende kan behartigen. Tegen zijn wil De rechtbank heeft daarom opnieuw een beroep gedaan op terreuradvocaat Seebregts, die tot nu toe niet op zittingen is verschenen. Omdat hij T. tegen diens wil moet verdedigen, is hij zeer terughoudend met reageren. \u201cIk kan alleen bevestigen dat de rechtbank heeft besloten dat T. desnoods tegen zijn wil dient te worden verdedigd en mij heeft gevraagd de advocaat te zijn.\u201d Alleen in uitzonderlijke gevallen kan het zo ver komen. Verder wil Seebregts geen vragen beantwoorden. De precieze redenen waarom de rechtbank toch heeft besloten dat T. een advocaat nodig heeft, zijn niet duidelijk. De rechtbank wil voorafgaande aan de zitting van 16 december geen mededelingen doen. \u201cAls er al iets over de rechtsbijstand van de verdachte wordt gezegd, komt dat pas op de zitting zelf aan de orde,\u201d zo zegt een woordvoerder. Ook het OM wil niet reageren. Vuurwapen haperde Het proces tegen T. wordt maandag 16 december hervat. Net als tijdens de eerste zitting moet T. daarbij verplicht aanwezig zijn. Werkt hij daar niet aan mee, dan zal hij opnieuw - tegen zijn zin - worden meegenomen door de parketpolitie. Het strafrechtelijk onderzoek is inmiddels zo goed als afgerond. Daaruit is onder meer gebleken dat het semi-automatische vuurwapen dat hij gebruikte tijdens de aanslag haperde. Daardoor is hoogstwaarschijnlijk (minimaal) een mensenleven gespaard. T. heeft zijn wapen meermaals herladen en opnieuw het vuur geopend. De inhoudelijke behandeling begint op maandag 2 maart 2020. Hiervoor zijn vier dagen uitgetrokken. Wanneer de rechtbank uitspraak doet, is nog niet duidelijk.\n",
+        "subevents": {
+            "mw1": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "vaststellen",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "mw2": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Giving",
+                "frame elements": null,
+                "lemma": "achterlaten",
+                "reftype": "type",
+                "sentence": "12"
+            },
+            "mw3": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Collaboration",
+                "frame elements": null,
+                "lemma": "meewerken",
+                "reftype": "type",
+                "sentence": "36"
+            },
+            "mw4": {
+                "POS": "MWE",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hit_target",
+                "frame elements": [
+                    "Death@Manner",
+                    "Trial@Charges",
+                    "Terrorism@Act",
+                    "Trial@Charges",
+                    "Trial@Charges",
+                    "Trial@Charges",
+                    "Trial@Charges",
+                    "Trial@Charges",
+                    "Trial@Charges",
+                    "Criminal_investigation@Incident",
+                    "Rescuing@Harmful_situation",
+                    "Trial@Charges",
+                    "Suspicion@Incident"
+                ],
+                "lemma": "het vuur openen",
+                "reftype": "type",
+                "sentence": "1",
+                "target phrase": "het vuur openen"
+            },
+            "mw5": {
+                "POS": "MWE",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hit_target",
+                "frame elements": null,
+                "lemma": "het vuur openen",
+                "reftype": "type",
+                "sentence": "40"
+            },
+            "mw6": {
+                "POS": "MWE",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Taking_sides",
+                "frame elements": null,
+                "lemma": "achter staan",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "mw7": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Killing",
+                "frame elements": null,
+                "lemma": "doodmaken",
+                "reftype": "type",
+                "sentence": "15"
+            },
+            "t109": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Research",
+                "frame elements": null,
+                "lemma": "onderzoek",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t143": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_to_perceive",
+                "frame elements": null,
+                "lemma": "vertonen",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t147": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Feeling",
+                "frame elements": null,
+                "lemma": "voelen",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t158.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "verslavingsgevoelig",
+                "frame": "Addiction",
+                "frame elements": null,
+                "function": "modifier",
+                "lemma": "verslaving",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t171.c0": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "doodschieten",
+                "frame": "Death",
+                "frame elements": [
+                    "Hit_target@Purpose"
+                ],
+                "function": "modifier",
+                "lemma": "dood",
+                "reftype": "evoke",
+                "sentence": "11",
+                "target phrase": "doodschieten"
+            },
+            "t171.c1": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "doodschieten",
+                "frame": "Hit_target",
+                "frame elements": [
+                    "Death@Manner"
+                ],
+                "function": "head",
+                "lemma": "schieten",
+                "reftype": "type",
+                "sentence": "11",
+                "target phrase": "doodschieten"
+            },
+            "t19": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hit_target",
+                "frame elements": [
+                    "Death@Manner"
+                ],
+                "lemma": "schieten",
+                "reftype": "type",
+                "sentence": "2",
+                "target phrase": "beeld anp in maart schieten t. ( 38 ) vi mens dood in een tram utrecht ."
+            },
+            "t190.c0": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "vluchtauto",
+                "frame": "Fleeing",
+                "frame elements": null,
+                "function": "modifier",
+                "lemma": "vluchten",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t197": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Piracy",
+                "frame elements": null,
+                "lemma": "kapen",
+                "reftype": "type",
+                "sentence": "12"
+            },
+            "t201": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": null,
+                "lemma": "doen",
+                "reftype": "type",
+                "sentence": "14"
+            },
+            "t218": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Theft",
+                "frame elements": [
+                    "Success_or_failure@Goal"
+                ],
+                "lemma": "afpakk",
+                "reftype": "type",
+                "sentence": "15",
+                "target phrase": "van ons afpakk"
+            },
+            "t224": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Success_or_failure",
+                "frame elements": null,
+                "lemma": "lukken",
+                "reftype": "type",
+                "sentence": "15"
+            },
+            "t246": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_motion",
+                "frame elements": null,
+                "lemma": "schuiven",
+                "reftype": "type",
+                "sentence": "17"
+            },
+            "t251": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Trial",
+                "frame elements": null,
+                "lemma": "rechtszitting",
+                "reftype": "evoke",
+                "sentence": "18"
+            },
+            "t255": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attaching",
+                "frame elements": null,
+                "lemma": "boeien",
+                "reftype": "type",
+                "sentence": "18"
+            },
+            "t26": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Death",
+                "frame elements": null,
+                "lemma": "dood",
+                "reftype": "evoke",
+                "sentence": "2"
+            },
+            "t260.c1": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "binnenbrengen",
+                "frame": "Bringing",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "brengen",
+                "reftype": "type",
+                "sentence": "18"
+            },
+            "t262": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "zeggen",
+                "reftype": "type",
+                "sentence": "18"
+            },
+            "t269": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Becoming_aware",
+                "frame elements": [
+                    "Statement@Message"
+                ],
+                "lemma": "erkennen",
+                "reftype": "type",
+                "sentence": "18",
+                "target phrase": "het nederlands rechtssysteem niet te erkennen en ook geen advocaat te willen"
+            },
+            "t275": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Desiring",
+                "frame elements": null,
+                "lemma": "willen",
+                "reftype": "type",
+                "sentence": "18"
+            },
+            "t281": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Research",
+                "frame elements": null,
+                "lemma": "onderzoek",
+                "reftype": "evoke",
+                "sentence": "19"
+            },
+            "t293": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Trial",
+                "frame elements": [
+                    "Cotheme@Cotheme",
+                    "Awareness@Topic",
+                    "Statement@Topic",
+                    "Trial@Case"
+                ],
+                "lemma": "proces",
+                "reftype": "evoke",
+                "sentence": "19",
+                "target phrase": "het proces"
+            },
+            "t295": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cotheme",
+                "frame elements": null,
+                "lemma": "volgen",
+                "reftype": "type",
+                "sentence": "19"
+            },
+            "t298": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Awareness",
+                "frame elements": null,
+                "lemma": "snappen",
+                "reftype": "type",
+                "sentence": "19"
+            },
+            "t316": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "stellen",
+                "reftype": "type",
+                "sentence": "21"
+            },
+            "t322": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Needing",
+                "frame elements": null,
+                "lemma": "nodig",
+                "reftype": "type",
+                "sentence": "21"
+            },
+            "t332": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Defending",
+                "frame elements": [
+                    "Needing@Dependent",
+                    "Needing@Dependent"
+                ],
+                "lemma": "behartigen",
+                "reftype": "type",
+                "sentence": "21",
+                "target phrase": "zijn eigen belang onvoldoende behartigen"
+            },
+            "t336": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Desiring",
+                "frame elements": null,
+                "lemma": "willen",
+                "reftype": "evoke",
+                "sentence": "22"
+            },
+            "t346.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "terreuradvocaat",
+                "frame": "Terrorism",
+                "frame elements": null,
+                "function": "modifier",
+                "lemma": "terreur",
+                "reftype": "evoke",
+                "sentence": "23"
+            },
+            "t355": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Trial",
+                "frame elements": [
+                    "Trial@Case"
+                ],
+                "lemma": "zitting",
+                "reftype": "evoke",
+                "sentence": "23",
+                "target phrase": "op zitting"
+            },
+            "t364": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Desiring",
+                "frame elements": null,
+                "lemma": "wil",
+                "reftype": "evoke",
+                "sentence": "24"
+            },
+            "t366": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Defending",
+                "frame elements": [
+                    "Desiring@Event",
+                    "Desiring@Event",
+                    "Desiring@Event"
+                ],
+                "lemma": "verdedigen",
+                "reftype": "type",
+                "sentence": "24",
+                "target phrase": "omdat hij t. tegen die wil verdedigen"
+            },
+            "t384": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Deciding",
+                "frame elements": null,
+                "lemma": "besluiten",
+                "reftype": "type",
+                "sentence": "25"
+            },
+            "t390": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Desiring",
+                "frame elements": null,
+                "lemma": "wil",
+                "reftype": "evoke",
+                "sentence": "25"
+            },
+            "t394": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Defending",
+                "frame elements": [
+                    "Deciding@Decision",
+                    "Desiring@Event"
+                ],
+                "lemma": "verdedigen",
+                "reftype": "type",
+                "sentence": "25",
+                "target phrase": "te worden verdedigen"
+            },
+            "t398": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Request",
+                "frame elements": null,
+                "lemma": "vragen",
+                "reftype": "type",
+                "sentence": "25"
+            },
+            "t430": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Deciding",
+                "frame elements": null,
+                "lemma": "besluiten",
+                "reftype": "type",
+                "sentence": "29"
+            },
+            "t435": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Needing",
+                "frame elements": null,
+                "lemma": "nodig",
+                "reftype": "type",
+                "sentence": "29"
+            },
+            "t448": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Trial",
+                "frame elements": [
+                    "Trial@Case"
+                ],
+                "lemma": "zitting",
+                "reftype": "evoke",
+                "sentence": "30",
+                "target phrase": "aan de zitting van 16 decemb"
+            },
+            "t463.c2": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "rechtsbijstand",
+                "frame": "Assistance",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "bijstand",
+                "reftype": "evoke",
+                "sentence": "31"
+            },
+            "t475": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Trial",
+                "frame elements": [
+                    "Assistance@Focal_entity",
+                    "Trial@Case"
+                ],
+                "lemma": "zitting",
+                "reftype": "evoke",
+                "sentence": "31",
+                "target phrase": "op de zitting zelf aan de orde"
+            },
+            "t48": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Research",
+                "frame elements": null,
+                "lemma": "onderzoeken",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t497": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Trial",
+                "frame elements": [
+                    "Trial@Case",
+                    "Attending@Event",
+                    "Collaboration@Undertaking"
+                ],
+                "lemma": "proces",
+                "reftype": "evoke",
+                "sentence": "34",
+                "target phrase": "het proces"
+            },
+            "t511": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Trial",
+                "frame elements": [
+                    "Trial@Case"
+                ],
+                "lemma": "zitting",
+                "reftype": "evoke",
+                "sentence": "35",
+                "target phrase": "tijdens de eer zitting"
+            },
+            "t516": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attending",
+                "frame elements": [
+                    "Desiring@Event"
+                ],
+                "lemma": "aanwezig",
+                "reftype": "evoke",
+                "sentence": "35",
+                "target phrase": "net als tijdens de eer zitting daarbij verplichten aanwezig zijn"
+            },
+            "t533": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Desiring",
+                "frame elements": null,
+                "lemma": "zin",
+                "reftype": "evoke",
+                "sentence": "36"
+            },
+            "t536": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Taking",
+                "frame elements": null,
+                "lemma": "meenemen",
+                "reftype": "type",
+                "sentence": "36"
+            },
+            "t543": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "onderzoek",
+                "reftype": "evoke",
+                "sentence": "37"
+            },
+            "t56": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Becoming_aware",
+                "frame elements": null,
+                "lemma": "erkennen",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "t564": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Using",
+                "frame elements": null,
+                "lemma": "gebruiken",
+                "reftype": "type",
+                "sentence": "38"
+            },
+            "t578": {
+                "POS": "VERB",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame": "Rescuing",
+                "frame elements": null,
+                "lemma": "sparen",
+                "reftype": "type",
+                "sentence": "39"
+            },
+            "t58": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "zeggen",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "t585": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Filling",
+                "frame elements": null,
+                "lemma": "herlad",
+                "reftype": "type",
+                "sentence": "40"
+            },
+            "t62": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Awareness",
+                "frame elements": [
+                    "Statement@Message"
+                ],
+                "lemma": "geloven",
+                "reftype": "type",
+                "sentence": "4",
+                "target phrase": "dat hij niet geloven in een democratisch systeem"
+            },
+            "t70": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Collaboration",
+                "frame elements": null,
+                "lemma": "meewerken",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t73": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Research",
+                "frame elements": [
+                    "Collaboration@Undertaking"
+                ],
+                "lemma": "onderzoek",
+                "reftype": "evoke",
+                "sentence": "5",
+                "target phrase": "aan het onderzoek"
+            },
+            "t77": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Research",
+                "frame elements": null,
+                "lemma": "onderzoek",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t90": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Chatting",
+                "frame elements": null,
+                "lemma": "gesprek",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t96": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_to_perceive",
+                "frame elements": null,
+                "lemma": "tonen",
+                "reftype": "type",
+                "sentence": "7"
+            }
+        }
+    }
+}

@@ -1,0 +1,289 @@
+{
+    "Baudet (FvD) voert w\u00e9l campagne en maakt CDA en VVD verwijten": {
+        "fe's without links": {
+            "t180": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Responsibility@Agent"
+                ],
+                "lemma": "ze",
+                "sentence": "8",
+                "target phrase": "ze"
+            },
+            "t200": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Committing_crime@Perpetrator"
+                ],
+                "lemma": "ze",
+                "sentence": "10",
+                "target phrase": "ze"
+            }
+        },
+        "frames/links": {
+            "Q1632409367599": {
+                "t77": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Attack@Victim",
+                        "Killing@Victim",
+                        "Attack@Victim",
+                        "Hit_target@Target",
+                        "Attack@Victim"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "3",
+                    "target phrase": "drie mens"
+                },
+                "t84": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Cause_harm@Victim"
+                    ],
+                    "lemma": "passagier",
+                    "sentence": "3",
+                    "target phrase": "enkel passagier"
+                }
+            },
+            "Q62090804": {
+                "t106": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Event@Event"
+                    ],
+                    "lemma": "dit",
+                    "sentence": "5",
+                    "target phrase": "dit"
+                },
+                "t182": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Responsibility@Act"
+                    ],
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "8",
+                    "target phrase": "de aanslag"
+                },
+                "t203": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Committing_crime@Crime"
+                    ],
+                    "lemma": "daad",
+                    "sentence": "10",
+                    "target phrase": "deze daad"
+                },
+                "t27": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Suspicion@Incident"
+                    ],
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "en de aanslag in utrecht"
+                },
+                "t29": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Event@Place"
+                    ],
+                    "lemma": "utrecht",
+                    "sentence": "1",
+                    "target phrase": "in utrecht"
+                },
+                "t67": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Attack",
+                    "frame elements": null,
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "3"
+                }
+            },
+            "Q62116513": {
+                "t75": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Attack@Assailant",
+                        "Killing@Killer",
+                        "Cause_harm@Agent",
+                        "Attack@Assailant",
+                        "Hit_target@Agent",
+                        "Attack@Assailant"
+                    ],
+                    "lemma": "schutter",
+                    "reftype": "evoke",
+                    "sentence": "3",
+                    "target phrase": "de schutter"
+                },
+                "t93": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": null,
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "4"
+                },
+                "t94": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Suspicion@Suspect"
+                    ],
+                    "lemma": "g\u00f6km",
+                    "sentence": "4",
+                    "target phrase": "g\u00f6km t."
+                }
+            },
+            "Q803": {
+                "t29": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Event@Place"
+                    ],
+                    "lemma": "utrecht",
+                    "sentence": "1",
+                    "target phrase": "in utrecht"
+                }
+            }
+        },
+        "historical distance": 1,
+        "implicated fe's": [
+            "Killing@Means",
+            "Killing@Instrument",
+            "Cause_harm@Body_part",
+            "Event@Time",
+            "Suspicion@Authority"
+        ],
+        "raw text": "\nPolitiek leider Baudet van Forum voor Democratie (FvD) legt een verband met het immigratie- en integratiebeleid van de VVD en het CDA en de aanslag in Utrecht. FvD is de enige politieke partij in Den Haag die maandagavond de campagne voor de Provinciale Statenverkiezingen van morgen niet stillegde. Baudet ging maandagavond op de bijeenkomst in het Kurhaus in Scheveningen in op de aanslag in een Utrechtse tram, waarbij de schutter drie mensen om het leven bracht en enkele passagiers zwaar verwondde. Het motief van de 37-jarige verdachte G\u00f6kmen T. is nog niet duidelijk. Vingerwijzen Baudet waarschuwde dat \"dit nog veel vaker gaat voorkomen\" en wees nadrukkelijk naar de VVD en het CDA vanwege hun gevoerde beleid. \"Nu is het klaar, VVD en CDA, met jullie beleid van open grenzen en met jullie volstrekt na\u00efeve onge\u00efnteresseerde wegkijk-beleid als het gaat om integratie.\" Na afloop van de bijeenkomst erkende Baudet dat hij de vinger wijst naar de twee partijen. Hij zei niet dat ze de aanslag op hun geweten hebben. \"Je kunt het niet een op een zo stellen. Want ze hebben deze daad niet gepleegd\", benadrukte de partijleider. \"Maar het is wel zo dat de afgelopen decennia de VVD en CDA verantwoordelijk zijn geweest voor een volstrekt onverantwoord immigratiebeleid enerzijds en een na\u00efef integratiebeleid anderzijds.\"\n",
+        "subevents": {
+            "mw2": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Killing",
+                "frame elements": null,
+                "lemma": "ombrengen",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "mw4": {
+                "POS": "MWE",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Responsibility",
+                "frame elements": null,
+                "lemma": "op hun geweten hebben",
+                "reftype": "type",
+                "sentence": "8"
+            },
+            "t111": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Event",
+                "frame elements": null,
+                "lemma": "voorkomen",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t205": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Committing_crime",
+                "frame elements": null,
+                "lemma": "plegen",
+                "reftype": "type",
+                "sentence": "10"
+            },
+            "t86": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_harm",
+                "frame elements": null,
+                "lemma": "verwonden",
+                "reftype": "type",
+                "sentence": "3"
+            }
+        }
+    }
+}

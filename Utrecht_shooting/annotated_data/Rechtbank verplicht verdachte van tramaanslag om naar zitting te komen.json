@@ -1,0 +1,870 @@
+{
+    "Rechtbank verplicht verdachte van tramaanslag om naar zitting te komen": {
+        "fe's without links": {
+            "t100": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Statement@Topic"
+                ],
+                "lemma": "voortgang",
+                "sentence": "5",
+                "target phrase": "voortgang over de"
+            },
+            "t115": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Trial@Defense",
+                    "Trial@Defense",
+                    "Trial@Defense",
+                    "Trial@Defense",
+                    "Trial@Defense",
+                    "Desiring@Focal_participant",
+                    "Trial@Defense"
+                ],
+                "lemma": "advocaat",
+                "sentence": "6",
+                "target phrase": "geen advocaat"
+            },
+            "t124": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Trial@Court",
+                    "Imposing_obligation@Obligator"
+                ],
+                "lemma": "rechtbank",
+                "sentence": "7",
+                "target phrase": "de rechtbank"
+            },
+            "t148": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Desiring@Focal_participant",
+                    "Trial@Defense"
+                ],
+                "lemma": "advocaat",
+                "sentence": "9",
+                "target phrase": "geen advocaat"
+            },
+            "t153": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Trial@Court"
+                ],
+                "lemma": "rechtbank",
+                "sentence": "9",
+                "target phrase": "de rechtbank"
+            },
+            "t189": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Research@Question",
+                    "Research@Question",
+                    "Research@Question"
+                ],
+                "lemma": "stoornis",
+                "sentence": "10",
+                "target phrase": "een stoornis"
+            },
+            "t2": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Imposing_obligation@Obligator",
+                    "Trial@Court",
+                    "Trial@Court",
+                    "Trial@Court",
+                    "Trial@Court",
+                    "Notification_of_charges@Arraign_authority",
+                    "Notification_of_charges@Arraign_authority",
+                    "Trial@Court"
+                ],
+                "lemma": "rechtbank",
+                "sentence": "1",
+                "target phrase": "de rechtbank midden - nederland"
+            },
+            "t56.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "regiezitting",
+                "frame elements": [
+                    "Trial@Manner"
+                ],
+                "function": "modifier",
+                "lemma": "regie",
+                "sentence": "3",
+                "target phrase": "regiezitting"
+            },
+            "t83": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Emotion_directed@Stimulus"
+                ],
+                "lemma": "stand",
+                "sentence": "5",
+                "target phrase": "de stand van het onderzoek"
+            }
+        },
+        "frames/links": {
+            "Q1632409367599": {
+                "t218": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Attack@Victim",
+                        "Attack@Victim",
+                        "Death@Protagonist",
+                        "Killing@Victim",
+                        "Offenses@Victim",
+                        "Terrorism@Victim"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "12",
+                    "target phrase": "vi mens"
+                },
+                "t225": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Cause_harm",
+                    "frame elements": [
+                        "Cause_harm@Victim"
+                    ],
+                    "lemma": "winden",
+                    "reftype": "evoke",
+                    "sentence": "12",
+                    "target phrase": "en vallen meerdere winden"
+                }
+            },
+            "Q62090804": {
+                "t11": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Suspicion@Incident",
+                        "Terrorism@Act"
+                    ],
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "de aanslag op de tram in utrecht van"
+                },
+                "t206": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Responsibility@Act"
+                    ],
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "11",
+                    "target phrase": "voor de aanslag in een utrechts tram op 18 maart"
+                }
+            },
+            "Q62116513": {
+                "t112": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Desiring@Experiencer"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "6",
+                    "target phrase": "t."
+                },
+                "t125": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Trial@Defendant",
+                        "Imposing_obligation@Responsible_party",
+                        "Arriving@Theme"
+                    ],
+                    "lemma": "hem",
+                    "sentence": "7",
+                    "target phrase": "hem"
+                },
+                "t136": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Perception_experience@Perceiver_passive"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "8",
+                    "target phrase": "hij"
+                },
+                "t141": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Notification_of_charges@Accused"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "8",
+                    "target phrase": "hij"
+                },
+                "t146": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Desiring@Experiencer"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "9",
+                    "target phrase": "hij"
+                },
+                "t164": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Trial@Defendant"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "9",
+                    "target phrase": "voor t."
+                },
+                "t187": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Research@Topic"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "10",
+                    "target phrase": "hij"
+                },
+                "t200": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Attack@Assailant",
+                        "Responsibility@Agent"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "11",
+                    "target phrase": "t."
+                },
+                "t227": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Killing@Killer",
+                        "Offenses@Perpetrator",
+                        "Terrorism@Terrorist",
+                        "Notification_of_charges@Accused"
+                    ],
+                    "lemma": "hem",
+                    "sentence": "13",
+                    "target phrase": "hem"
+                },
+                "t37": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Trial@Defendant",
+                        "Choosing@Cognizer",
+                        "Avoiding@Agent"
+                    ],
+                    "lemma": "g\u00f6km",
+                    "sentence": "2",
+                    "target phrase": "de 38-jarige g\u00f6km t. ervoor"
+                },
+                "t67": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Research@Topic"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "4",
+                    "target phrase": "naar t."
+                },
+                "t8": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Imposing_obligation@Responsible_party",
+                        "Suspicion@Suspect",
+                        "Attack@Assailant",
+                        "Trial@Defendant",
+                        "Trial@Defendant",
+                        "Trial@Defendant",
+                        "Attending@Agent",
+                        "Cause_harm@Agent",
+                        "Trial@Defendant"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "de aanslag op de tram utrecht de verdenken van"
+                },
+                "t95": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Research@Topic",
+                        "Presence@Entity",
+                        "Statement@Speaker",
+                        "Emotion_directed@Experiencer"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "5",
+                    "target phrase": "hij"
+                }
+            },
+            "Q803": {}
+        },
+        "historical distance": 255,
+        "implicated fe's": [
+            "Imposing_obligation@Principle",
+            "Suspicion@Authority",
+            "Trial@Jury",
+            "Trial@Prosecution",
+            "Trial@Judge",
+            "Trial@Jury",
+            "Trial@Prosecution",
+            "Trial@Judge",
+            "Trial@Jury",
+            "Trial@Prosecution",
+            "Trial@Judge",
+            "Trial@Jury",
+            "Trial@Prosecution",
+            "Trial@Judge",
+            "Trial@Jury",
+            "Trial@Prosecution",
+            "Trial@Judge",
+            "Choosing@Possibilities",
+            "Research@Researcher",
+            "Research@Field",
+            "Research@Researcher",
+            "Research@Field",
+            "Research@Researcher",
+            "Research@Field",
+            "Statement@Medium",
+            "Statement@Message",
+            "Desiring@Location_of_event",
+            "Imposing_obligation@Principle",
+            "Emotion_directed@State",
+            "Perception_experience@Body_part",
+            "Desiring@Location_of_event",
+            "Trial@Jury",
+            "Trial@Prosecution",
+            "Trial@Judge",
+            "Cause_harm@Body_part",
+            "Killing@Means",
+            "Killing@Instrument",
+            "Trial@Jury",
+            "Trial@Prosecution",
+            "Trial@Judge"
+        ],
+        "raw text": "\nDe rechtbank Midden-Nederland verplicht de verdachte van de aanslag op de tram in Utrecht om op de eerstvolgende zitting aanwezig te zijn. Bij de laatste zitting, in september, koos de 38-jarige G\u00f6kmen T. ervoor om weg te blijven. De eerstvolgende zitting, op 16 december, is een zogenoemde regiezitting. Dan wordt ook het rapport van het onderzoek naar T. in het Pieter Baan Centrum besproken. \"Het is in zijn belang dat de stand van het onderzoek ook in zijn aanwezigheid wordt besproken en dat hij zijn standpunt over de voortgang kenbaar kan maken\", zegt de rechtbank. Geen advocaat T. wil geen advocaat. Bij de eerste voorbereidende zitting dwong de rechtbank hem ook om te komen. Toen was de reden dat hij precies moest horen waarvan hij beschuldigd wordt. Omdat hij geen advocaat wil, overweegt de rechtbank een 'procesbewaker' aan te stellen die er voor T. op toeziet dat het proces eerlijk verloopt. Als in het onderzoek in het Pieter Baan Centrum naar voren is gekomen dat hij een stoornis heeft, kan hem alsnog een advocaat worden toegewezen. T. wordt verantwoordelijk gehouden voor de aanslag in een Utrechtse tram op 18 maart. Daarbij kwamen vier mensen om het leven en vielen meerdere gewonden. Hem wordt onder meer moord of doodslag met een terroristisch oogmerk ten laste gelegd. De inhoudelijke behandeling staat gepland vanaf 2 maart volgend jaar.\n",
+        "subevents": {
+            "mw1": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Avoiding",
+                "frame elements": [
+                    "Choosing@Chosen"
+                ],
+                "lemma": "wegblijven",
+                "reftype": "type",
+                "sentence": "2",
+                "target phrase": "wegblijven"
+            },
+            "mw4": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Responsibility",
+                "frame elements": null,
+                "lemma": "verantwoordelijkhouden",
+                "reftype": "type",
+                "sentence": "11"
+            },
+            "mw7": {
+                "POS": "MWE",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Death",
+                "frame elements": null,
+                "lemma": "om het leven komen",
+                "reftype": "type",
+                "sentence": "12"
+            },
+            "mw8": {
+                "POS": "MWE",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Notification_of_charges",
+                "frame elements": null,
+                "lemma": "ten laste leggen",
+                "reftype": "type",
+                "sentence": "13"
+            },
+            "t113": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Desiring",
+                "frame elements": null,
+                "lemma": "willen",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t121": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Trial",
+                "frame elements": [
+                    "Trial@Case",
+                    "Arriving@Goal"
+                ],
+                "lemma": "zitting",
+                "reftype": "evoke",
+                "sentence": "7",
+                "target phrase": "bij de eer voorbereiden zitting"
+            },
+            "t122": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Imposing_obligation",
+                "frame elements": null,
+                "lemma": "dwingen",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t129": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": [
+                    "Imposing_obligation@Duty"
+                ],
+                "lemma": "komen",
+                "reftype": "type",
+                "sentence": "7",
+                "target phrase": "te komen"
+            },
+            "t139": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Perception_experience",
+                "frame elements": null,
+                "lemma": "horen",
+                "reftype": "type",
+                "sentence": "8"
+            },
+            "t142": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Notification_of_charges",
+                "frame elements": [
+                    "Perception_experience@Phenomenon"
+                ],
+                "lemma": "beschuldigen",
+                "reftype": "type",
+                "sentence": "8",
+                "target phrase": "waarvan hij beschuldigen worden"
+            },
+            "t149": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Desiring",
+                "frame elements": null,
+                "lemma": "willen",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t169": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Trial",
+                "frame elements": [
+                    "Desiring@Event",
+                    "Desiring@Event",
+                    "Trial@Case"
+                ],
+                "lemma": "proces",
+                "reftype": "evoke",
+                "sentence": "9",
+                "target phrase": "het proces"
+            },
+            "t176": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Research",
+                "frame elements": null,
+                "lemma": "onderzoek",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t21": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Trial",
+                "frame elements": [
+                    "Trial@Case",
+                    "Attending@Event"
+                ],
+                "lemma": "zitting",
+                "reftype": "evoke",
+                "sentence": "1",
+                "target phrase": "op de eerstvolgend zitting"
+            },
+            "t22": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attending",
+                "frame elements": [
+                    "Imposing_obligation@Duty"
+                ],
+                "lemma": "aanwezig",
+                "reftype": "evoke",
+                "sentence": "1",
+                "target phrase": "op de eerstvolgend zitting aanwezig te zijn"
+            },
+            "t231": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Killing",
+                "frame elements": [
+                    "Trial@Charges",
+                    "Trial@Charges",
+                    "Trial@Charges",
+                    "Trial@Charges",
+                    "Trial@Charges",
+                    "Notification_of_charges@Charges",
+                    "Trial@Charges",
+                    "Notification_of_charges@Charges",
+                    "Trial@Charges"
+                ],
+                "lemma": "moord",
+                "reftype": "evoke",
+                "sentence": "13",
+                "target phrase": "onder me moord of doodslag"
+            },
+            "t233": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Offenses",
+                "frame elements": [
+                    "Offenses@Offense"
+                ],
+                "lemma": "doodslag",
+                "reftype": "evoke",
+                "sentence": "13",
+                "target phrase": "of doodslag"
+            },
+            "t236": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Terrorism",
+                "frame elements": null,
+                "lemma": "terroristisch",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t244": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Trial",
+                "frame elements": [
+                    "Trial@Case"
+                ],
+                "lemma": "behandeling",
+                "reftype": "evoke",
+                "sentence": "14",
+                "target phrase": "de inhoudelijk behandeling"
+            },
+            "t29": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Trial",
+                "frame elements": [
+                    "Trial@Case",
+                    "Avoiding@Undesirable_situation"
+                ],
+                "lemma": "zitting",
+                "reftype": "evoke",
+                "sentence": "2",
+                "target phrase": "bij de laat zitting , in september , kiezen de 38-jarige g\u00f6km t. ervoor om ."
+            },
+            "t34": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Choosing",
+                "frame elements": null,
+                "lemma": "kiezen",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t47": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Trial",
+                "frame elements": [
+                    "Trial@Case",
+                    "Presence@Location"
+                ],
+                "lemma": "zitting",
+                "reftype": "evoke",
+                "sentence": "3",
+                "target phrase": "de eerstvolgend zitting , op 16 decemb"
+            },
+            "t56.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "regiezitting",
+                "frame": "Trial",
+                "frame elements": [
+                    "Trial@Case"
+                ],
+                "function": "head",
+                "lemma": "zitting",
+                "reftype": "evoke",
+                "sentence": "3",
+                "target phrase": "regiezitting"
+            },
+            "t6": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Imposing_obligation",
+                "frame elements": null,
+                "lemma": "verplichten",
+                "reftype": "type",
+                "sentence": "1"
+            },
+            "t65": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Research",
+                "frame elements": null,
+                "lemma": "onderzoek",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t80": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Emotion_directed",
+                "frame elements": null,
+                "lemma": "belang",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t86": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Research",
+                "frame elements": [
+                    "Emotion_directed@Topic"
+                ],
+                "lemma": "onderzoek",
+                "reftype": "evoke",
+                "sentence": "5",
+                "target phrase": "van het onderzoek"
+            },
+            "t90": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Presence",
+                "frame elements": null,
+                "lemma": "aanwezigheid",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t97": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "standpunt",
+                "reftype": "type",
+                "sentence": "5"
+            }
+        }
+    }
+}

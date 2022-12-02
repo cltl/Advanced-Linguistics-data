@@ -1,0 +1,1784 @@
+{
+    "Moskee in Zaandam beveiligd na schietpartij in Utrecht": {
+        "fe's without links": {
+            "t105": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Emotion_directed@Experiencer"
+                ],
+                "lemma": "hij",
+                "sentence": "7",
+                "target phrase": "hij"
+            },
+            "t113": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Emotion_directed@Stimulus"
+                ],
+                "lemma": "nabestaande",
+                "sentence": "7",
+                "target phrase": "met de nabestaande van de slachtoffer , de winden en alle mens zijn"
+            },
+            "t146": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Intentionally_act@Act"
+                ],
+                "lemma": "wat",
+                "sentence": "8",
+                "target phrase": "wat"
+            },
+            "t157": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Impact@Impactee"
+                ],
+                "lemma": "mens",
+                "sentence": "9",
+                "target phrase": "op mens"
+            },
+            "t269": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Piracy@Vehicle",
+                    "Taking_captive@Captive"
+                ],
+                "lemma": "renault",
+                "sentence": "19",
+                "target phrase": "een rood renault clio"
+            },
+            "t275": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Locating@Sought_entity"
+                ],
+                "lemma": "auto",
+                "sentence": "20",
+                "target phrase": "de betreffen auto"
+            },
+            "t283": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Investigator",
+                    "Invading@Invader"
+                ],
+                "lemma": "dsi",
+                "sentence": "21",
+                "target phrase": "dsi aanwijzingen in de aantreffen"
+            },
+            "t292": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Suspicion@Authority"
+                ],
+                "lemma": "recherche",
+                "sentence": "21",
+                "target phrase": "de recherche"
+            },
+            "t343": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Invading@Invader",
+                    "Arranging@Theme"
+                ],
+                "lemma": "dienst",
+                "sentence": "24",
+                "target phrase": "de dienst speciale interventies ( dsi"
+            },
+            "t352": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Arrest@Authorities"
+                ],
+                "lemma": "politie",
+                "sentence": "25",
+                "target phrase": "de politie"
+            },
+            "t357": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Arrest@Suspect"
+                ],
+                "lemma": "man",
+                "sentence": "25",
+                "target phrase": "een twee man"
+            },
+            "t360": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Suspicion@Suspect",
+                    "Participation@Participant_1"
+                ],
+                "lemma": "hij",
+                "sentence": "26",
+                "target phrase": "hij"
+            },
+            "t375.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "getuigeverklaring",
+                "frame elements": [
+                    "Statement@Speaker"
+                ],
+                "function": "modifier",
+                "lemma": "getuige",
+                "sentence": "27",
+                "target phrase": "getuigeverklaring"
+            },
+            "t400": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Deciding@Cognizer",
+                    "Protecting@Protection",
+                    "Intentionally_create@Creator"
+                ],
+                "lemma": "nctv",
+                "sentence": "28",
+                "target phrase": "het nctv"
+            },
+            "t406.c2": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "dreigingsniveau",
+                "frame elements": [
+                    "Intentionally_create@Created_entity"
+                ],
+                "function": "head",
+                "lemma": "niveau",
+                "sentence": "28",
+                "target phrase": "dreigingsniveau"
+            },
+            "t42": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Suspicion@Authority",
+                    "Arrest@Authorities",
+                    "Arrest@Authorities",
+                    "Suspicion@Authority",
+                    "Suspicion@Authority",
+                    "Criminal_investigation@Investigator",
+                    "Change_accessibility@Agent",
+                    "Criminal_investigation@Investigator",
+                    "Change_accessibility@Agent",
+                    "Releasing@Captor"
+                ],
+                "lemma": "politie",
+                "sentence": "2",
+                "target phrase": "van de politie"
+            },
+            "t432": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Deciding@Decision"
+                ],
+                "lemma": "geven",
+                "sentence": "29",
+                "target phrase": "het advies te geven om utrecht te"
+            },
+            "t456": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Change_accessibility@Useful_location"
+                ],
+                "lemma": "omgeving",
+                "sentence": "31",
+                "target phrase": "de heel omgeving rondom het incident op het 24-oktoberplein utrecht"
+            },
+            "t471": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arranging@Theme",
+                    "Wearing@Wearer"
+                ],
+                "lemma": "politieman",
+                "sentence": "32",
+                "target phrase": "politieman die op straat zijn inzetten op strategisch positie"
+            },
+            "t474": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arranging@Configuration"
+                ],
+                "lemma": "straat",
+                "sentence": "32",
+                "target phrase": "op straat"
+            },
+            "t483": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Wearing@Clothing"
+                ],
+                "lemma": "vest",
+                "sentence": "32",
+                "target phrase": "politieman inzetten dragen een zwaar vest ."
+            },
+            "t515": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Change_accessibility@Useful_location"
+                ],
+                "lemma": "locatie",
+                "sentence": "35",
+                "target phrase": "deze locatie"
+            },
+            "t541": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Deciding@Cognizer",
+                    "Attempt_suasion@Speaker",
+                    "Attempt_suasion@Speaker",
+                    "Removing@Agent",
+                    "Attempt_suasion@Speaker"
+                ],
+                "lemma": "driehoek",
+                "sentence": "37",
+                "target phrase": "de lokaal driehoek"
+            },
+            "t543": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Residence@Resident",
+                    "Attempt_suasion@Addressee",
+                    "Attempt_suasion@Salient_entity",
+                    "Attempt_suasion@Addressee",
+                    "Attempt_suasion@Salient_entity",
+                    "Attempt_suasion@Addressee",
+                    "Attempt_suasion@Salient_entity",
+                    "Attempt_suasion@Addressee",
+                    "Attempt_suasion@Salient_entity",
+                    "Residence@Resident"
+                ],
+                "lemma": "iedereen",
+                "sentence": "37",
+                "target phrase": "iedereen in utrecht"
+            },
+            "t578": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Attempt_suasion@Speaker",
+                    "Removing@Agent"
+                ],
+                "lemma": "driehoek",
+                "sentence": "39",
+                "target phrase": "de driehoek"
+            },
+            "t58": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Arrest@Authorities",
+                    "Suspicion@Authority"
+                ],
+                "lemma": "politie",
+                "sentence": "4",
+                "target phrase": "de politie"
+            },
+            "t67": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Hit_target@Agent",
+                    "Arrest@Suspect",
+                    "Suspicion@Suspect",
+                    "Participation@Participant_1"
+                ],
+                "lemma": "man",
+                "sentence": "4",
+                "target phrase": "een man"
+            },
+            "t95": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Communication_response@Speaker"
+                ],
+                "lemma": "jan",
+                "sentence": "6",
+                "target phrase": "jan van zanen"
+            }
+        },
+        "frames/links": {
+            "Q1632409367599": {
+                "t116": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Emotion_directed@Topic"
+                    ],
+                    "lemma": "slachtoffer",
+                    "sentence": "7",
+                    "target phrase": "van de slachtoffer ,"
+                },
+                "t119": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Cause_harm",
+                    "frame elements": [
+                        "Cause_harm@Victim"
+                    ],
+                    "lemma": "winden",
+                    "reftype": "evoke",
+                    "sentence": "7",
+                    "target phrase": "de winden en alle mens die erbij zijn"
+                },
+                "t231": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Killing",
+                    "frame elements": [
+                        "Hit_target@Target",
+                        "Catastrophe@Patient",
+                        "Experiencer_focus@Content",
+                        "Killing@Victim"
+                    ],
+                    "lemma": "dood",
+                    "reftype": "evoke",
+                    "sentence": "17",
+                    "target phrase": "bij het schietincident in een tram zijn dood en winden te betreuren ."
+                },
+                "t233": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Cause_harm",
+                    "frame elements": [
+                        "Cause_harm@Victim"
+                    ],
+                    "lemma": "winden",
+                    "reftype": "evoke",
+                    "sentence": "17",
+                    "target phrase": "en winden te betreuren"
+                },
+                "t246": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Killing",
+                    "frame elements": [
+                        "Killing@Victim"
+                    ],
+                    "lemma": "dood",
+                    "reftype": "evoke",
+                    "sentence": "18",
+                    "target phrase": "drie dood"
+                },
+                "t25": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Killing",
+                    "frame elements": [
+                        "Hit_target@Target",
+                        "Hit_target@Target",
+                        "Hit_target@Target",
+                        "Hit_target@Target",
+                        "Hit_target@Target",
+                        "Killing@Victim",
+                        "Catastrophe@Patient",
+                        "Catastrophe@Patient",
+                        "Catastrophe@Patient",
+                        "Catastrophe@Patient",
+                        "Catastrophe@Patient",
+                        "Catastrophe@Patient",
+                        "Catastrophe@Patient",
+                        "Hit_target@Target",
+                        "Participation@Participant_2",
+                        "Participation@Participant_2",
+                        "Participation@Participant_2",
+                        "Giving@Recipient",
+                        "Assistance@Benefited_party",
+                        "Violence@Victim",
+                        "Attack@Victim",
+                        "Attack@Victim"
+                    ],
+                    "lemma": "dood",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "3 dood en 5"
+                },
+                "t251": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Cause_harm@Victim"
+                    ],
+                    "lemma": "persoon",
+                    "sentence": "18",
+                    "target phrase": "vijf persoon"
+                },
+                "t28": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Cause_harm",
+                    "frame elements": [
+                        "Cause_harm@Victim"
+                    ],
+                    "lemma": "winden",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "waarbij 3 dood en 5 winden zijn geval"
+                }
+            },
+            "Q62090804": {
+                "t103": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Communication_response@Trigger"
+                    ],
+                    "lemma": "nieuws",
+                    "sentence": "6",
+                    "target phrase": "nieuws"
+                },
+                "t153": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Impact@Impactor"
+                    ],
+                    "lemma": "gebeurtenis",
+                    "sentence": "9",
+                    "target phrase": "de gebeurtenis"
+                },
+                "t20.c0": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Killing@Means",
+                        "Cause_harm@Manner",
+                        "Participation@Event",
+                        "Cause_harm@Cause",
+                        "Killing@Means",
+                        "Cause_harm@Cause"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schieten",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "schietpartij"
+                },
+                "t20.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Participation",
+                    "frame elements": [
+                        "Suspicion@Incident",
+                        "Arrest@Offense",
+                        "Arrest@Offense",
+                        "Suspicion@Incident",
+                        "Criminal_investigation@Incident",
+                        "Communication_response@Topic",
+                        "Criminal_investigation@Incident",
+                        "Risky_situation@Situation",
+                        "Criminal_investigation@Incident"
+                    ],
+                    "function": "head",
+                    "lemma": "partij",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "schietpartij"
+                },
+                "t211": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "het"
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event"
+                    ],
+                    "lemma": "incident",
+                    "reftype": "evoke",
+                    "sentence": "16",
+                    "target phrase": "het incident"
+                },
+                "t226.c0": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietincident",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event",
+                        "Cause_harm@Cause",
+                        "Killing@Means"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schieten",
+                    "reftype": "evoke",
+                    "sentence": "17",
+                    "target phrase": "schietincident"
+                },
+                "t226.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietincident",
+                    "frame": "Catastrophe",
+                    "frame elements": null,
+                    "function": "head",
+                    "lemma": "incident",
+                    "reftype": "evoke",
+                    "sentence": "17"
+                },
+                "t25": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Killing",
+                    "frame elements": [
+                        "Hit_target@Target",
+                        "Hit_target@Target",
+                        "Hit_target@Target",
+                        "Hit_target@Target",
+                        "Hit_target@Target",
+                        "Killing@Victim",
+                        "Catastrophe@Patient",
+                        "Catastrophe@Patient",
+                        "Catastrophe@Patient",
+                        "Catastrophe@Patient",
+                        "Catastrophe@Patient",
+                        "Catastrophe@Patient",
+                        "Catastrophe@Patient",
+                        "Hit_target@Target",
+                        "Participation@Participant_2",
+                        "Participation@Participant_2",
+                        "Participation@Participant_2",
+                        "Giving@Recipient",
+                        "Assistance@Benefited_party",
+                        "Violence@Victim",
+                        "Attack@Victim",
+                        "Attack@Victim"
+                    ],
+                    "lemma": "dood",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "3 dood en 5"
+                },
+                "t259.c0": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietincident",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schieten",
+                    "reftype": "evoke",
+                    "sentence": "19",
+                    "target phrase": "schietincident"
+                },
+                "t259.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietincident",
+                    "frame": "Catastrophe",
+                    "frame elements": null,
+                    "function": "head",
+                    "lemma": "incident",
+                    "reftype": "evoke",
+                    "sentence": "19"
+                },
+                "t28": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Cause_harm",
+                    "frame elements": [
+                        "Cause_harm@Victim"
+                    ],
+                    "lemma": "winden",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "waarbij 3 dood en 5 winden zijn geval"
+                },
+                "t367": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Suspicion@Incident",
+                        "Participation@Event"
+                    ],
+                    "lemma": "gebeurtenis",
+                    "sentence": "26",
+                    "target phrase": "bij de gebeurtenis van vandaag"
+                },
+                "t390": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Statement@Topic",
+                        "Risky_situation@Situation"
+                    ],
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "27",
+                    "target phrase": "een terroristisch aanslag"
+                },
+                "t424": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Attack",
+                    "frame elements": null,
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "29"
+                },
+                "t45.c0": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietincident",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schieten",
+                    "reftype": "evoke",
+                    "sentence": "3",
+                    "target phrase": "schietincident"
+                },
+                "t45.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietincident",
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Suspicion@Incident",
+                        "Arrest@Offense"
+                    ],
+                    "function": "head",
+                    "lemma": "incident",
+                    "reftype": "evoke",
+                    "sentence": "3",
+                    "target phrase": "schietincident"
+                },
+                "t459": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "het"
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event"
+                    ],
+                    "lemma": "incident",
+                    "reftype": "evoke",
+                    "sentence": "31",
+                    "target phrase": "rondom het incident op het 24-oktoberplein in utrecht"
+                },
+                "t537.c0": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietincident",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schieten",
+                    "reftype": "evoke",
+                    "sentence": "37",
+                    "target phrase": "schietincident"
+                },
+                "t537.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietincident",
+                    "frame": "Catastrophe",
+                    "frame elements": null,
+                    "function": "head",
+                    "lemma": "incident",
+                    "reftype": "evoke",
+                    "sentence": "37"
+                },
+                "t564.c0": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietincident",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schieten",
+                    "reftype": "evoke",
+                    "sentence": "38",
+                    "target phrase": "schietincident"
+                },
+                "t564.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietincident",
+                    "frame": "Catastrophe",
+                    "frame elements": null,
+                    "function": "head",
+                    "lemma": "incident",
+                    "reftype": "evoke",
+                    "sentence": "38"
+                },
+                "t75.c0": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietincident",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schieten",
+                    "reftype": "evoke",
+                    "sentence": "4",
+                    "target phrase": "schietincident"
+                },
+                "t75.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietincident",
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Arrest@Offense",
+                        "Suspicion@Incident",
+                        "Participation@Event"
+                    ],
+                    "function": "head",
+                    "lemma": "incident",
+                    "reftype": "evoke",
+                    "sentence": "4",
+                    "target phrase": "schietincident"
+                }
+            },
+            "Q62116513": {
+                "t295": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Suspicion@Suspect"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "21",
+                    "target phrase": "naar een verdenken"
+                },
+                "t307": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Arrest@Suspect",
+                        "Suspicion@Suspect"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "22",
+                    "target phrase": "de verdenken aan het begin van de avond"
+                },
+                "t334": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Expansion@Item"
+                    ],
+                    "lemma": "foto",
+                    "sentence": "23",
+                    "target phrase": "en een foto"
+                },
+                "t336": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Expansion",
+                    "frame elements": null,
+                    "lemma": "verspreiden",
+                    "reftype": "type",
+                    "sentence": "23"
+                },
+                "t44.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "hoofdverdacht",
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Intentionally_act@Agent",
+                        "Hit_target@Agent",
+                        "Hit_target@Agent",
+                        "Hit_target@Agent",
+                        "Hit_target@Agent",
+                        "Hit_target@Agent",
+                        "Hit_target@Agent",
+                        "Killing@Killer",
+                        "Cause_harm@Agent",
+                        "Suspicion@Suspect",
+                        "Arrest@Suspect",
+                        "Participation@Participant_1",
+                        "Criminal_investigation@Suspect",
+                        "Cause_harm@Agent",
+                        "Violence@Aggressor",
+                        "Cause_harm@Agent",
+                        "Killing@Killer",
+                        "Killing@Killer",
+                        "Cause_harm@Agent",
+                        "Piracy@Perpetrator",
+                        "Taking_captive@Agent",
+                        "Criminal_investigation@Suspect",
+                        "Attack@Assailant",
+                        "Attack@Assailant",
+                        "Protecting@Danger",
+                        "Risky_situation@Dangerous_entity",
+                        "Risky_situation@Dangerous_entity",
+                        "Criminal_investigation@Suspect"
+                    ],
+                    "function": "head",
+                    "lemma": "verdachte",
+                    "reftype": "evoke",
+                    "sentence": "3",
+                    "target phrase": "hoofdverdacht"
+                }
+            },
+            "Q803": {
+                "t281": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Locating@Location"
+                    ],
+                    "lemma": "tichelaarslaan",
+                    "sentence": "20",
+                    "target phrase": "aan de tichelaarslaan"
+                },
+                "t412": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Protecting@Asset",
+                        "Risky_situation@Asset",
+                        "Risky_situation@Asset"
+                    ],
+                    "lemma": "provincie",
+                    "sentence": "28",
+                    "target phrase": "voor de provincie utrecht"
+                },
+                "t522": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Releasing@Theme"
+                    ],
+                    "lemma": "amerikalaan",
+                    "sentence": "36",
+                    "target phrase": "de amerikalaan en de tichelaarslaan"
+                }
+            }
+        },
+        "historical distance": 0,
+        "implicated fe's": [
+            "Killing@Instrument",
+            "Cause_harm@Body_part",
+            "Arrest@Charges",
+            "Arrest@Charges",
+            "Communication_response@Addressee",
+            "Emotion_directed@Expressor",
+            "Emotion_directed@State",
+            "Emotion_directed@Event",
+            "Cause_harm@Body_part",
+            "Assistance@Goal",
+            "Assistance@Focal_entity",
+            "Violence@Cause",
+            "Cause_harm@Body_part",
+            "Experiencer_focus@Experiencer",
+            "Experiencer_focus@Expressor",
+            "Experiencer_focus@Topic",
+            "Experiencer_focus@Event",
+            "Experiencer_focus@State",
+            "Killing@Instrument",
+            "Killing@Instrument",
+            "Cause_harm@Body_part",
+            "Piracy@Victim",
+            "Taking_captive@Cause",
+            "Locating@Perceiver",
+            "Locating@Ground",
+            "Invading@Land",
+            "Invading@Land",
+            "Arranging@Agent",
+            "Statement@Message",
+            "Statement@Medium",
+            "Residence@Co_resident",
+            "Attempt_suasion@Medium",
+            "Attempt_suasion@Topic",
+            "Attempt_suasion@Topic",
+            "Attempt_suasion@Medium",
+            "Removing@Source",
+            "Change_accessibility@Portal",
+            "Arranging@Agent",
+            "Wearing@Body_part",
+            "Change_accessibility@Portal",
+            "Releasing@Location_of_confinement",
+            "Attempt_suasion@Medium",
+            "Attempt_suasion@Topic",
+            "Attempt_suasion@Topic",
+            "Attempt_suasion@Medium",
+            "Removing@Source",
+            "Residence@Co_resident"
+        ],
+        "raw text": "\nZaandam \u2013 Ook in Zaandam zijn bij de moskee in Poelenburg zicht en onzichtbare maatregelen genomen, na de schietpartij in Utrecht waarbij 3 doden en 5 gewonden zijn gevallen. Omwonenden spreken hun waardering uit voor de aanwezigheid van de politie. Hoofdverdachte schietincident aangehouden Laatste update:18-03-2019 | 20:48 Nederland \u2013 De politie heeft aan het begin van de avond een man aangehouden op verdenking van betrokkenheid bij het schietincident vanmorgen aan het 24 oktoberplein in Utrecht. Het onderzoek is nog in volle gang. De Utrechtse burgemeester Jan van Zanen reageerde vandaag driemaal op het nieuws. Hij sprak zijn innige medeleven uit met de nabestaanden van de slachtoffers, de gewonden en alle mensen die erbij waren. Ook uitte hij veel waardering in de richting van de hulpverleners die direct massaal in actie kwamen en deden wat hen te doen stond. De gebeurtenis heeft invloed op mensen, in Utrecht en daarbuiten. \u201cMensen zullen morgenochtend met een ander gevoel naar hun werk gaan. Toch is het goed dat we doorgaan. Dat we elkaar vasthouden en steunen. Geweld mag nooit het laatste woord hebben.\u201d, aldus burgemeester Jan van Zanen. Drie doden Het incident vond vanmorgen rond 10:45 plaats aan het 24 Oktoberplein in Utrecht. Bij het schietincident in een tram zijn doden en gewonden te betreuren. Op dit moment is het beeld dat er drie doden zijn gevallen en vijf personen gewond zijn geraakt. Vlak voor het schietincident werd aan de Amerikalaan bij een carjacking een rode Renault Clio buitgemaakt. De betreffende auto is later aangetroffen aan de Tichelaarslaan. DSI Aanwijzingen in de aangetroffen Renault Clio leidden de recherche naar een verdachte. Tijdens een inval aan de Oudenoord in Utrecht kon de verdachte aan het begin van de avond worden aangehouden. Het gaat om dezelfde persoon van wie eerder op de dag door de politie informatie en een foto was verspreid. Bij de invallen werd de Dienst Speciale Interventies (DSI) ingezet. De politie heeft ook een tweede man aangehouden. Hij wordt verdacht van betrokkenheid bij de gebeurtenissen van vandaag. Onduidelijk Op basis van getuigeverklaringen en sporen is het scenario in werking gezet dat het mogelijk om een terroristische aanslag zou kunnen gaan. In verband hiermee heeft het NCTV besloten uit voorzorg het hoogste dreigingsniveau in te stellen voor de provincie Utrecht. Omdat op dat moment de schaal van de mogelijke aanslag onduidelijk was is besloten het advies te geven om in Utrecht binnen te blijven. In de loop van de middag kon dat advies weer worden ingetrokken. Dreigingsniveau De hele omgeving rondom het incident op het 24-oktoberplein in Utrecht is geruime tijd afgesloten geweest. Politiemensen die op straat zijn ingezet op strategische posities droegen een zwaar vest. Op dit moment is het dreigingsniveau terug naar niveau 4. Op verschillende locaties vindt nog uitgebreid onderzoek plaats, waaronder in de omgeving van het 24 oktoberplein. Deze locaties zijn nog altijd afgezet. De Amerikalaan en de Tichelaarslaan zijn inmiddels weer vrijgegeven. Advies ingetrokken Naar aanleiding van het schietincident heeft de lokale driehoek aanvankelijk iedereen in Utrecht geadviseerd binnen te blijven tot nader bericht. Aanleiding hiervoor was dat er sprake zou zijn van meerdere schietincidenten. Toen duidelijk werd dat dit niet het geval was, heeft de driehoek het advies ingetrokken.\n",
+        "subevents": {
+            "mw2": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Communication_response",
+                "frame elements": null,
+                "lemma": "opreageren",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "mw5": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_create",
+                "frame elements": [
+                    "Deciding@Decision"
+                ],
+                "lemma": "instellen",
+                "reftype": "type",
+                "sentence": "28",
+                "target phrase": "instellen"
+            },
+            "mw6": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Residence",
+                "frame elements": [
+                    "Residence@Location",
+                    "Attempt_suasion@Content",
+                    "Attempt_suasion@Content"
+                ],
+                "lemma": "binnenblijven",
+                "reftype": "type",
+                "sentence": "29",
+                "target phrase": "binnenblijven"
+            },
+            "mw9": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Residence",
+                "frame elements": [
+                    "Attempt_suasion@Content",
+                    "Attempt_suasion@Content",
+                    "Residence@Location"
+                ],
+                "lemma": "binnenblijven",
+                "reftype": "type",
+                "sentence": "37",
+                "target phrase": "binnenblijven"
+            },
+            "t109": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Emotion_directed",
+                "frame elements": [
+                    "Communication_response@Message"
+                ],
+                "lemma": "medeleven",
+                "reftype": "evoke",
+                "sentence": "7",
+                "target phrase": "zijn innig medeleven"
+            },
+            "t137.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "hulpverlener",
+                "frame": "Assistance",
+                "frame elements": [
+                    "Giving@Theme"
+                ],
+                "function": "modifier",
+                "lemma": "hulp",
+                "reftype": "evoke",
+                "sentence": "8",
+                "target phrase": "hulpverlener"
+            },
+            "t137.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "hulpverlener",
+                "frame": "Giving",
+                "frame elements": [
+                    "Giving@Donor",
+                    "Assistance@Helper",
+                    "Intentionally_act@Agent",
+                    "Intentionally_act@Agent"
+                ],
+                "function": "head",
+                "lemma": "verlener",
+                "reftype": "evoke",
+                "sentence": "8",
+                "target phrase": "hulpverlener"
+            },
+            "t142": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": [
+                    "Intentionally_act@Act"
+                ],
+                "lemma": "actie",
+                "reftype": "type",
+                "sentence": "8",
+                "target phrase": "in actie"
+            },
+            "t145": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": null,
+                "lemma": "doen",
+                "reftype": "type",
+                "sentence": "8"
+            },
+            "t15": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": [
+                    "Intentionally_act@Act"
+                ],
+                "lemma": "maatregel",
+                "reftype": "evoke",
+                "sentence": "1",
+                "target phrase": "en onzichtbaar maatregel"
+            },
+            "t155": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Impact",
+                "frame elements": null,
+                "lemma": "invloed",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t192": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Violence",
+                "frame elements": null,
+                "lemma": "geweld",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t235": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Experiencer_focus",
+                "frame elements": null,
+                "lemma": "betreuren",
+                "reftype": "type",
+                "sentence": "17"
+            },
+            "t252": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_harm",
+                "frame elements": null,
+                "lemma": "wonden",
+                "reftype": "evoke",
+                "sentence": "18"
+            },
+            "t266": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame": "Piracy",
+                "frame elements": null,
+                "lemma": "carjacking",
+                "reftype": "type",
+                "sentence": "19"
+            },
+            "t271": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Taking_captive",
+                "frame elements": null,
+                "lemma": "buitmaken",
+                "reftype": "type",
+                "sentence": "19"
+            },
+            "t278": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locating",
+                "frame elements": null,
+                "lemma": "aantreffen",
+                "reftype": "type",
+                "sentence": "20"
+            },
+            "t284": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "aanwijzingen",
+                "reftype": "evoke",
+                "sentence": "21"
+            },
+            "t299": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame": "Invading",
+                "frame elements": null,
+                "lemma": "inval",
+                "reftype": "type",
+                "sentence": "22"
+            },
+            "t315": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arrest",
+                "frame elements": null,
+                "lemma": "aanhouden",
+                "reftype": "type",
+                "sentence": "22"
+            },
+            "t340": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Invading",
+                "frame elements": [
+                    "Arranging@Configuration"
+                ],
+                "lemma": "inval",
+                "reftype": "type",
+                "sentence": "24",
+                "target phrase": "bij de inval"
+            },
+            "t349": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arranging",
+                "frame elements": null,
+                "lemma": "inzetten",
+                "reftype": "type",
+                "sentence": "24"
+            },
+            "t358": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arrest",
+                "frame elements": null,
+                "lemma": "aanhouden",
+                "reftype": "type",
+                "sentence": "25"
+            },
+            "t362": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Suspicion",
+                "frame elements": null,
+                "lemma": "verdenken",
+                "reftype": "type",
+                "sentence": "26"
+            },
+            "t364": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Participation",
+                "frame elements": null,
+                "lemma": "betrokkenheid",
+                "reftype": "evoke",
+                "sentence": "26"
+            },
+            "t375.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "getuigeverklaring",
+                "frame": "Statement",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "verklaring",
+                "reftype": "type",
+                "sentence": "27"
+            },
+            "t401": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Deciding",
+                "frame elements": null,
+                "lemma": "besluiten",
+                "reftype": "type",
+                "sentence": "28"
+            },
+            "t403": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Protecting",
+                "frame elements": null,
+                "lemma": "voorzorg",
+                "reftype": "type",
+                "sentence": "28"
+            },
+            "t406.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "dreigingsniveau",
+                "frame": "Risky_situation",
+                "frame elements": null,
+                "function": "modifier",
+                "lemma": "dreiging",
+                "reftype": "evoke",
+                "sentence": "28"
+            },
+            "t428": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Deciding",
+                "frame elements": null,
+                "lemma": "besluiten",
+                "reftype": "type",
+                "sentence": "29"
+            },
+            "t430": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Attempt_suasion",
+                "frame elements": null,
+                "lemma": "advies",
+                "reftype": "evoke",
+                "sentence": "29"
+            },
+            "t448": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attempt_suasion",
+                "frame elements": [
+                    "Removing@Theme"
+                ],
+                "lemma": "advies",
+                "reftype": "evoke",
+                "sentence": "30",
+                "target phrase": "advies"
+            },
+            "t451": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Removing",
+                "frame elements": null,
+                "lemma": "intrekken",
+                "reftype": "type",
+                "sentence": "30"
+            },
+            "t46": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arrest",
+                "frame elements": null,
+                "lemma": "aanhouden",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t468": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Change_accessibility",
+                "frame elements": null,
+                "lemma": "afsluiten",
+                "reftype": "type",
+                "sentence": "31"
+            },
+            "t476": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arranging",
+                "frame elements": null,
+                "lemma": "inzetten",
+                "reftype": "type",
+                "sentence": "32"
+            },
+            "t480": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Wearing",
+                "frame elements": null,
+                "lemma": "dragen",
+                "reftype": "type",
+                "sentence": "32"
+            },
+            "t490.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "dreigingsniveau",
+                "frame": "Risky_situation",
+                "frame elements": null,
+                "function": "modifier",
+                "lemma": "dreiging",
+                "reftype": "evoke",
+                "sentence": "33"
+            },
+            "t502": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "onderzoek",
+                "reftype": "type",
+                "sentence": "34"
+            },
+            "t519": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Change_accessibility",
+                "frame elements": null,
+                "lemma": "afzetten",
+                "reftype": "type",
+                "sentence": "35"
+            },
+            "t529": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Releasing",
+                "frame elements": null,
+                "lemma": "vrijgeven",
+                "reftype": "type",
+                "sentence": "36"
+            },
+            "t546": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attempt_suasion",
+                "frame elements": null,
+                "lemma": "adviseren",
+                "reftype": "type",
+                "sentence": "37"
+            },
+            "t580": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Attempt_suasion",
+                "frame elements": [
+                    "Removing@Theme"
+                ],
+                "lemma": "advies",
+                "reftype": "evoke",
+                "sentence": "39",
+                "target phrase": "het advies"
+            },
+            "t581": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Removing",
+                "frame elements": null,
+                "lemma": "intrekken",
+                "reftype": "type",
+                "sentence": "39"
+            },
+            "t68": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arrest",
+                "frame elements": null,
+                "lemma": "aanhouden",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "t70": {
+                "POS": "X",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Suspicion",
+                "frame elements": null,
+                "lemma": "verdenking",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "t72": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Participation",
+                "frame elements": [
+                    "Arrest@Charges",
+                    "Arrest@Charges"
+                ],
+                "lemma": "betrokkenheid",
+                "reftype": "evoke",
+                "sentence": "4",
+                "target phrase": "betrokkenheid"
+            },
+            "t85": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "onderzoek",
+                "reftype": "type",
+                "sentence": "5"
+            }
+        }
+    }
+}

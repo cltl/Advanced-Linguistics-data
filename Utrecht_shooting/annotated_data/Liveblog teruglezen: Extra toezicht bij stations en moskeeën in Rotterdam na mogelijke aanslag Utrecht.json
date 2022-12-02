@@ -1,0 +1,413 @@
+{
+    "Liveblog teruglezen: Extra toezicht bij stations en moskee\u00ebn in Rotterdam na mogelijke aanslag Utrecht": {
+        "fe's without links": {
+            "t17": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Scrutiny@Ground"
+                ],
+                "lemma": "station",
+                "sentence": "1",
+                "target phrase": "op station en bij moskee"
+            },
+            "t23": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Scrutiny@Cognizer",
+                    "Arrest@Authorities",
+                    "Cogitation@Cognizer"
+                ],
+                "lemma": "politie",
+                "sentence": "2",
+                "target phrase": "de politie"
+            },
+            "t59": {
+                "POS": "X",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Use_firearm@Manner"
+                ],
+                "lemma": "rondte",
+                "sentence": "4",
+                "target phrase": "in de rondte"
+            },
+            "t80": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Cogitation@Cognizer"
+                ],
+                "lemma": "politie",
+                "sentence": "6",
+                "target phrase": "de politie"
+            }
+        },
+        "frames/links": {
+            "Q1632409367599": {
+                "t41": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Terrorism@Victim",
+                        "Death@Protagonist",
+                        "Terrorism@Victim",
+                        "Causation@Affected"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "3",
+                    "target phrase": "drie mens"
+                },
+                "t48": {
+                    "POS": "NUM",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Experience_bodily_harm@Experiencer"
+                    ],
+                    "lemma": "vijf",
+                    "sentence": "3",
+                    "target phrase": "vijf"
+                }
+            },
+            "Q62090804": {
+                "t3.c0": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Participation@Event",
+                        "Terrorism@Act",
+                        "Reason@Action",
+                        "Arrest@Offense",
+                        "Terrorism@Act",
+                        "Reason@Action",
+                        "Causation@Cause"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schiet",
+                    "reftype": "type",
+                    "sentence": "1",
+                    "target phrase": "schietpartij"
+                },
+                "t3.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Participation",
+                    "frame elements": null,
+                    "function": "head",
+                    "lemma": "partij",
+                    "reftype": "evoke",
+                    "sentence": "1"
+                },
+                "t38.c0": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Participation@Event"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schiet",
+                    "reftype": "type",
+                    "sentence": "3",
+                    "target phrase": "schietpartij"
+                },
+                "t38.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Participation",
+                    "frame elements": null,
+                    "function": "head",
+                    "lemma": "partij",
+                    "reftype": "evoke",
+                    "sentence": "3"
+                }
+            },
+            "Q62116513": {
+                "t30": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Hit_target@Agent",
+                        "Participation@Participant_1",
+                        "Hit_target@Agent",
+                        "Terrorism@Terrorist",
+                        "Reason@Agent",
+                        "Hit_target@Agent",
+                        "Participation@Participant_1",
+                        "Terrorism@Terrorist",
+                        "Reason@Agent",
+                        "Causation@Actor"
+                    ],
+                    "lemma": "schutter",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "de schutter"
+                },
+                "t52": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Use_firearm@Agent"
+                    ],
+                    "lemma": "man",
+                    "sentence": "4",
+                    "target phrase": "een man"
+                },
+                "t65": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Hit_target@Agent",
+                        "Arrest@Suspect"
+                    ],
+                    "lemma": "schutter",
+                    "reftype": "evoke",
+                    "sentence": "5",
+                    "target phrase": "de vermoedelijk schutter"
+                }
+            },
+            "Q803": {
+                "t56": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Use_firearm@Place"
+                    ],
+                    "lemma": "tram",
+                    "sentence": "4",
+                    "target phrase": "in een tram"
+                }
+            }
+        },
+        "historical distance": 0,
+        "implicated fe's": [
+            "Hit_target@Target",
+            "Participation@Participant_2",
+            "Scrutiny@Medium",
+            "Scrutiny@Instrument",
+            "Hit_target@Target",
+            "Hit_target@Target",
+            "Participation@Participant_2",
+            "Experience_bodily_harm@Body_part",
+            "Use_firearm@Firearm",
+            "Hit_target@Target",
+            "Arrest@Charges"
+        ],
+        "raw text": "\nNa een schietpartij in Utrecht maandag is er in Rotterdam en omgeving extra toezicht gehouden op stations en bij moskee\u00ebn. De politie houdt er rekening mee dat de schutter een terroristisch motief had. Bij de schietpartij kwamen drie mensen om het leven en raakten er vijf gewond. Een man begon in een tram in de rondte te schieten. De vermoedelijke schutter is aangehouden. Over de toedracht is nog niet veel duidelijk, maar de politie houdt rekening met een terroristisch motief. Lees hieronder het liveblog terug. Liveblog:\n",
+        "subevents": {
+            "mw3": {
+                "POS": "MWE",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Scrutiny",
+                "frame elements": null,
+                "lemma": "toezicht houden",
+                "reftype": "type",
+                "sentence": "1"
+            },
+            "mw5": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cogitation",
+                "frame elements": null,
+                "lemma": "er rekening mee houden",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "mw6": {
+                "POS": "MWE",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Experience_bodily_harm",
+                "frame elements": null,
+                "lemma": "gewond raken",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "mw7": {
+                "POS": "MWE",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cogitation",
+                "frame elements": null,
+                "lemma": "rekening houden met",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "mw8": {
+                "POS": "MWE",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Death",
+                "frame elements": null,
+                "lemma": "om het leven komen",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t32": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Terrorism",
+                "frame elements": [
+                    "Reason@State_of_affairs"
+                ],
+                "lemma": "terroristisch",
+                "reftype": "evoke",
+                "sentence": "2",
+                "target phrase": "terroristisch"
+            },
+            "t33": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame": "Reason",
+                "frame elements": [
+                    "Cogitation@Topic"
+                ],
+                "lemma": "motief",
+                "reftype": "type",
+                "sentence": "2",
+                "target phrase": "een terroristisch motief"
+            },
+            "t61": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Use_firearm",
+                "frame elements": null,
+                "lemma": "schieten",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "t67": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arrest",
+                "frame elements": null,
+                "lemma": "aanhouden",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t71": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Causation",
+                "frame elements": [
+                    "Causation@Effect"
+                ],
+                "lemma": "toedracht",
+                "reftype": "evoke",
+                "sentence": "6",
+                "target phrase": "over de toedracht"
+            },
+            "t85": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Terrorism",
+                "frame elements": [
+                    "Reason@State_of_affairs"
+                ],
+                "lemma": "terroristisch",
+                "reftype": "evoke",
+                "sentence": "6",
+                "target phrase": "terroristisch"
+            },
+            "t86": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame": "Reason",
+                "frame elements": [
+                    "Cogitation@Topic"
+                ],
+                "lemma": "motief",
+                "reftype": "type",
+                "sentence": "6",
+                "target phrase": "een terroristisch motief"
+            }
+        }
+    }
+}

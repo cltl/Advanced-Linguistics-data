@@ -1,0 +1,530 @@
+{
+    "Verdachte schietincident 24-Oktoberplein Utrecht bekent en zegt alleen te hebben gehandeld": {
+        "fe's without links": {
+            "t105": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Locating@Location"
+                ],
+                "lemma": "woning",
+                "sentence": "7",
+                "target phrase": "bij die woning"
+            },
+            "t109": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Locating@Sought_entity"
+                ],
+                "lemma": "man",
+                "sentence": "7",
+                "target phrase": "de twee man"
+            },
+            "t12": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arrest@Suspect"
+                ],
+                "lemma": "man",
+                "sentence": "2",
+                "target phrase": "deze man"
+            },
+            "t124": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Participation@Participants"
+                ],
+                "lemma": "hen",
+                "sentence": "8",
+                "target phrase": "van hen"
+            },
+            "t132": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Suspicion@Suspect"
+                ],
+                "lemma": "man",
+                "sentence": "8",
+                "target phrase": "en zijn bei man"
+            },
+            "t31": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Scrutiny@Manner"
+                ],
+                "lemma": "diepgaand",
+                "sentence": "3",
+                "target phrase": "diepgaand"
+            },
+            "t35": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Participation@Participants"
+                ],
+                "lemma": "man",
+                "sentence": "3",
+                "target phrase": "de man"
+            },
+            "t45": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Assistance@Helper"
+                ],
+                "lemma": "hij",
+                "sentence": "3",
+                "target phrase": "hij"
+            },
+            "t54": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Evidence@Proposition"
+                ],
+                "lemma": "daar",
+                "sentence": "4",
+                "target phrase": "daar"
+            },
+            "t62": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Suspicion@Suspect"
+                ],
+                "lemma": "man",
+                "sentence": "4",
+                "target phrase": "de man"
+            },
+            "t78": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Releasing_from_custody@Suspect"
+                ],
+                "lemma": "man",
+                "sentence": "5",
+                "target phrase": "en een 27-jarige man"
+            },
+            "t8": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Arrest@Suspect",
+                    "Releasing_from_custody@Suspect"
+                ],
+                "lemma": "man",
+                "sentence": "1",
+                "target phrase": "de eerder aanhouden 40-jarige man"
+            },
+            "t81": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arrest@Suspect"
+                ],
+                "lemma": "zij",
+                "sentence": "6",
+                "target phrase": "zij"
+            }
+        },
+        "frames/links": {
+            "Q62090804": {
+                "t127.c0": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietincident",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Criminal_investigation@Incident",
+                        "Participation@Event",
+                        "Catastrophe@Undesirable_event",
+                        "Suspicion@Incident",
+                        "Criminal_investigation@Incident"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schiet",
+                    "reftype": "type",
+                    "sentence": "8",
+                    "target phrase": "schietincident"
+                },
+                "t127.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietincident",
+                    "frame": "Catastrophe",
+                    "frame elements": null,
+                    "function": "head",
+                    "lemma": "incident",
+                    "reftype": "type",
+                    "sentence": "8"
+                },
+                "t42.c0": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietincident",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Suspicion@Incident",
+                        "Arrest@Offense",
+                        "Participation@Event",
+                        "Catastrophe@Undesirable_event",
+                        "Assistance@Goal",
+                        "Suspicion@Incident"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schiet",
+                    "reftype": "type",
+                    "sentence": "3",
+                    "target phrase": "schietincident"
+                },
+                "t42.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietincident",
+                    "frame": "Catastrophe",
+                    "frame elements": null,
+                    "function": "head",
+                    "lemma": "incident",
+                    "reftype": "type",
+                    "sentence": "3"
+                }
+            },
+            "Q62116513": {
+                "t23": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Suspicion@Suspect",
+                        "Arrest@Suspect",
+                        "Hit_target@Agent",
+                        "Assistance@Benefited_party",
+                        "Criminal_investigation@Suspect",
+                        "Hit_target@Agent",
+                        "Criminal_investigation@Suspect"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "de 37-jarige verdenken"
+                }
+            }
+        },
+        "historical distance": 4,
+        "implicated fe's": [
+            "Arrest@Charges",
+            "Arrest@Authorities",
+            "Releasing_from_custody@Authorities",
+            "Releasing_from_custody@Holding_location",
+            "Arrest@Charges",
+            "Arrest@Authorities",
+            "Suspicion@Authority",
+            "Arrest@Charges",
+            "Arrest@Authorities",
+            "Scrutiny@Cognizer",
+            "Scrutiny@Medium",
+            "Scrutiny@Instrument",
+            "Hit_target@Target",
+            "Catastrophe@Patient",
+            "Assistance@Focal_entity",
+            "Suspicion@Authority",
+            "Releasing_from_custody@Authorities",
+            "Releasing_from_custody@Holding_location",
+            "Arrest@Charges",
+            "Arrest@Authorities",
+            "Locating@Perceiver",
+            "Locating@Ground",
+            "Criminal_investigation@Investigator",
+            "Hit_target@Target",
+            "Catastrophe@Patient",
+            "Suspicion@Authority",
+            "Criminal_investigation@Investigator"
+        ],
+        "raw text": "\nDaarnaast is vanochtend de eerder aangehouden 40-jarige man heengezonden. Deze man werd dinsdag aangehouden, omdat in zijn woning de 37-jarige verdachte is aangehouden. De afgelopen dagen is diepgaand onderzocht of de man enige betrokkenheid heeft gehad bij het schietincident of dat hij daarbij op enige wijze behulpzaam is geweest. Daar is geen bewijs voor gevonden en de man is dan ook geen verdachte meer. Dinsdag werden al een 23- en een 27-jarige man heengezonden. Zij werden maandag aangehouden, omdat een speurhond een geurspoor trof dat van de rode Renault Clio naar een woning liep. Bij die woning werden de twee mannen aangetroffen. Zoals eerder vermeld, is uit het onderzoek geen enkele betrokkenheid van hen bij het schietincident gebleken en zijn beide mannen geen verdachte meer in het onderzoek.\n",
+        "subevents": {
+            "t110": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locating",
+                "frame elements": [
+                    "Arrest@Offense"
+                ],
+                "lemma": "aantreffen",
+                "reftype": "type",
+                "sentence": "7",
+                "target phrase": "bij die woning worden de twee man aantreffen ."
+            },
+            "t119": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": [
+                    "Evidence@Support"
+                ],
+                "lemma": "onderzoek",
+                "reftype": "type",
+                "sentence": "8",
+                "target phrase": "uit het onderzoek"
+            },
+            "t122": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Participation",
+                "frame elements": [
+                    "Evidence@Proposition"
+                ],
+                "lemma": "betrokkenheid",
+                "reftype": "evoke",
+                "sentence": "8",
+                "target phrase": "geen enkel betrokkenheid van hen"
+            },
+            "t128": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": null,
+                "lemma": "blijken",
+                "reftype": "type",
+                "sentence": "8"
+            },
+            "t134": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Suspicion",
+                "frame elements": null,
+                "lemma": "verdenken",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t138": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "onderzoek",
+                "reftype": "type",
+                "sentence": "8"
+            },
+            "t15": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arrest",
+                "frame elements": null,
+                "lemma": "aanhouden",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t25": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arrest",
+                "frame elements": [
+                    "Arrest@Offense"
+                ],
+                "lemma": "aanhouden",
+                "reftype": "type",
+                "sentence": "2",
+                "target phrase": "omdat in zijn woning de 37-jarige verdenken zijn aanhouden"
+            },
+            "t32": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Scrutiny",
+                "frame elements": null,
+                "lemma": "onderzoeken",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t37": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Participation",
+                "frame elements": [
+                    "Arrest@Offense",
+                    "Scrutiny@Ground"
+                ],
+                "lemma": "betrokkenheid",
+                "reftype": "evoke",
+                "sentence": "3",
+                "target phrase": "enige betrokkenheid"
+            },
+            "t50": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Assistance",
+                "frame elements": null,
+                "lemma": "behulpzaam",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t57": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": [
+                    "Evidence@Support"
+                ],
+                "lemma": "bewijs",
+                "reftype": "evoke",
+                "sentence": "4",
+                "target phrase": "geen bewijs"
+            },
+            "t6": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arrest",
+                "frame elements": null,
+                "lemma": "aanhouden",
+                "reftype": "evoke",
+                "sentence": "1"
+            },
+            "t67": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Suspicion",
+                "frame elements": null,
+                "lemma": "verdenken",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t79": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Releasing_from_custody",
+                "frame elements": null,
+                "lemma": "heenzenden",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t84": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arrest",
+                "frame elements": null,
+                "lemma": "aanhouden",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t9": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Releasing_from_custody",
+                "frame elements": null,
+                "lemma": "heenzenden",
+                "reftype": "type",
+                "sentence": "1"
+            }
+        }
+    }
+}

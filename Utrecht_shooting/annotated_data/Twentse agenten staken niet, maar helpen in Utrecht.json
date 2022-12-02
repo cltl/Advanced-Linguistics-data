@@ -1,0 +1,498 @@
+{
+    "Twentse agenten staken niet, maar helpen in Utrecht": {
+        "fe's without links": {
+            "t143": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Event@Time",
+                    "Event@Time",
+                    "Event@Time"
+                ],
+                "lemma": "elven",
+                "sentence": "11",
+                "target phrase": "voor elven"
+            },
+            "t19": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Assistance@Helper"
+                ],
+                "lemma": "diender",
+                "sentence": "2",
+                "target phrase": "de diender"
+            },
+            "t231": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Work@Agent"
+                ],
+                "lemma": "eenheid",
+                "sentence": "18",
+                "target phrase": "\u201c in het centrum zijn speciaal eenheid aan het werk , wij zitten in de ring eromheen om doen ."
+            },
+            "t236": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Perception_active@Perceiver_agentive"
+                ],
+                "lemma": "wij",
+                "sentence": "18",
+                "target phrase": "wij"
+            },
+            "t312": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Assistance@Helper",
+                    "Offering@Offerer"
+                ],
+                "lemma": "iedereen",
+                "sentence": "25",
+                "target phrase": "iedereen"
+            },
+            "t34": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Assistance@Benefited_party",
+                    "Supporting@Supported",
+                    "Offering@Potential_recipient",
+                    "Assistance@Benefited_party",
+                    "Offering@Potential_recipient",
+                    "Suspicion@Authority",
+                    "Arrest@Authorities"
+                ],
+                "lemma": "politie",
+                "sentence": "2",
+                "target phrase": "de politie in utrecht"
+            },
+            "t59": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Expectation@Cognizer"
+                ],
+                "lemma": "je",
+                "sentence": "5",
+                "target phrase": "je"
+            },
+            "t9": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Supporting@Supporter",
+                    "Offering@Offerer"
+                ],
+                "lemma": "agent",
+                "sentence": "1",
+                "target phrase": "twents agent"
+            }
+        },
+        "frames/links": {
+            "Q1632409367599": {
+                "t154": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Attack@Victim",
+                        "Hit_target@Target",
+                        "Terrorism@Victim",
+                        "Hit_target@Target",
+                        "Participation@Participant_2"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "12",
+                    "target phrase": "drie mens"
+                }
+            },
+            "Q62090804": {
+                "t139": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Event@Event"
+                    ],
+                    "lemma": "het",
+                    "sentence": "11",
+                    "target phrase": "het"
+                },
+                "t305": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Event@Event"
+                    ],
+                    "lemma": "vanalles",
+                    "sentence": "24",
+                    "target phrase": "er ineens vanalles"
+                },
+                "t41": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Expectation@Topic",
+                        "Event@Event",
+                        "Terrorism@Act"
+                    ],
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "na de aanslag daar"
+                },
+                "t57": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Expectation@Phenomenon"
+                    ],
+                    "lemma": "dit",
+                    "sentence": "5",
+                    "target phrase": "dit"
+                }
+            },
+            "Q62116513": {
+                "t146": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Attack@Assailant",
+                        "Hit_target@Agent",
+                        "Terrorism@Terrorist"
+                    ],
+                    "lemma": "man",
+                    "sentence": "12",
+                    "target phrase": "een man"
+                },
+                "t360": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Hit_target@Agent",
+                        "Suspicion@Suspect",
+                        "Participation@Participant_1",
+                        "Arrest@Suspect"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "29",
+                    "target phrase": "de verdenken van de schietpartij"
+                }
+            },
+            "Q803": {
+                "t176": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Event@Place"
+                    ],
+                    "lemma": "utrecht",
+                    "sentence": "14",
+                    "target phrase": "bij utrecht"
+                },
+                "t36": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Event@Place",
+                        "Event@Place"
+                    ],
+                    "lemma": "utrecht",
+                    "sentence": "2",
+                    "target phrase": "in utrecht"
+                }
+            }
+        },
+        "historical distance": 0,
+        "implicated fe's": [
+            "Perception_active@Phenomenon",
+            "Perception_active@Body_part",
+            "Perception_active@Direction",
+            "Assistance@Focal_entity",
+            "Arrest@Charges"
+        ],
+        "raw text": "\nENSCHEDE/UTRECHT - Voor een groep Twentse agenten verliep de maandag helemaal anders dan gepland. De dienders waren op weg naar het Malieveld voor een staking, maar schoten uiteindelijk de politie in Utrecht te hulp na de aanslag daar. \u201cAls de plicht roept, dan ben je er.\u201d Quote Dit verwacht je niet, we gingen met hele andere bedoelin\u00adgen op stap vandaag Bennie Visschedijk Wijkagent Bennie Visschedijk uit Enschede was een van de agenten die mee zou doen aan de protestactie in Den Haag voor betere pensioenvoorwaarden. De Twentse agenten vertrokken maandagmorgen al vroeg vanuit Borne richting het Malieveld. Langzaamaan sloten steeds meer eenheden uit andere regio's aan en vormde zich een colonne van honderden agenten. Lees ook Play Verdachte schietpartij opgepakt Lees meer Toen gebeurde het, iets voor elven. Een man schoot in een tram in Utrecht drie mensen dood. De agenten kregen het nieuws via de eigen kanalen te horen. \u201cWij reden op de A12 bij Utrecht toen het allemaal ging spelen\u201d, vertelt Visschedijk. \u201cDan is het logisch dat je alles afbreekt en je ondersteuning aanbiedt.\u201d Observeren De Enschede\u00ebr staat maandag rond 17.00 uur nog langs de snelweg in Utrecht, als hij zijn verhaal doet tegenover 1Twente. \u201cIn het centrum zijn speciale eenheden aan het werk, wij zitten in de ring eromheen om bepaalde observaties te doen. Ook dat is belangrijk. En vanwege dat mogelijke terroristische motief is het ook wel spannend ja. Dit verwacht je niet, we gingen met hele andere bedoelingen op stap vandaag.\u201d Getwijfeld om toch gewoon te staken heeft Visschedijk niet. \u201cWe waren klaar om te vertrekken, maar dan gebeurt er ineens vanalles. Ik vind het prachtig dat iedereen dan gelijk zijn diensten aanbiedt. En ik denk ook dat het voor politiek Den Haag wel een signaal is dat we niet altijd alleen op de barricaden staan voor betere pensioenen. Want als de plicht roept, dan zijn we er ook.\u201d De verdachte van de schietpartij is maandagavond aangehouden in Oudenoord, provincie Utrecht. Beluister hieronder het radiofragment met de wijkagent Je cookie instellingen zorgen ervoor dat deze inhoud niet getoond wordt. Pas je cookie instellingen hier aan. Volledig scherm Wijkagent Bennie Visschedijk \u00a9 Lars Smook\n",
+        "subevents": {
+            "t138": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Event",
+                "frame elements": null,
+                "lemma": "gebeuren",
+                "reftype": "type",
+                "sentence": "11"
+            },
+            "t147": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hit_target",
+                "frame elements": null,
+                "lemma": "schieten",
+                "reftype": "type",
+                "sentence": "12"
+            },
+            "t181": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Event",
+                "frame elements": null,
+                "lemma": "spelen",
+                "reftype": "type",
+                "sentence": "14"
+            },
+            "t198": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Supporting",
+                "frame elements": [
+                    "Offering@Theme"
+                ],
+                "lemma": "ondersteuning",
+                "reftype": "evoke",
+                "sentence": "16",
+                "target phrase": "je ondersteuning"
+            },
+            "t199": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Offering",
+                "frame elements": null,
+                "lemma": "aanbieden",
+                "reftype": "type",
+                "sentence": "16"
+            },
+            "t234": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Work",
+                "frame elements": null,
+                "lemma": "werk",
+                "reftype": "evoke",
+                "sentence": "18"
+            },
+            "t244": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Perception_active",
+                "frame elements": [
+                    "Assistance@Focal_entity"
+                ],
+                "lemma": "observatie",
+                "reftype": "type",
+                "sentence": "18",
+                "target phrase": "bepaalde observatie"
+            },
+            "t257": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Terrorism",
+                "frame elements": null,
+                "lemma": "terroristisch",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t302": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Event",
+                "frame elements": null,
+                "lemma": "gebeuren",
+                "reftype": "type",
+                "sentence": "24"
+            },
+            "t316": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Assistance",
+                "frame elements": [
+                    "Offering@Theme"
+                ],
+                "lemma": "dienst",
+                "reftype": "evoke",
+                "sentence": "25",
+                "target phrase": "zijn dienst"
+            },
+            "t317": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Offering",
+                "frame elements": null,
+                "lemma": "aanbieden",
+                "reftype": "type",
+                "sentence": "25"
+            },
+            "t363.c0": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "schietpartij",
+                "frame": "Hit_target",
+                "frame elements": [
+                    "Participation@Event"
+                ],
+                "function": "modifier",
+                "lemma": "schieten",
+                "reftype": "evoke",
+                "sentence": "29",
+                "target phrase": "schietpartij"
+            },
+            "t363.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "schietpartij",
+                "frame": "Participation",
+                "frame elements": [
+                    "Suspicion@Incident",
+                    "Arrest@Offense"
+                ],
+                "function": "head",
+                "lemma": "partij",
+                "reftype": "evoke",
+                "sentence": "29",
+                "target phrase": "schietpartij"
+            },
+            "t366": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arrest",
+                "frame elements": [
+                    "Assistance@Goal",
+                    "Work@Goal",
+                    "Assistance@Goal"
+                ],
+                "lemma": "aanhouden",
+                "reftype": "type",
+                "sentence": "29",
+                "target phrase": "de verdenken van de schietpartij zijn maandagavond aanhouden in oudenoord , provincie utrecht ."
+            },
+            "t38": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Assistance",
+                "frame elements": null,
+                "lemma": "hulp",
+                "reftype": "evoke",
+                "sentence": "2"
+            },
+            "t58": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Expectation",
+                "frame elements": null,
+                "lemma": "verwachten",
+                "reftype": "type",
+                "sentence": "5"
+            }
+        }
+    }
+}

@@ -1,0 +1,495 @@
+{
+    "G\u00f6kmen T. bekent aanslag Utrecht, motief blijft onduidelijk": {
+        "fe's without links": {
+            "t100": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Notification_of_charges@Arraign_authority",
+                    "Criminal_investigation@Investigator"
+                ],
+                "lemma": "om",
+                "sentence": "7",
+                "target phrase": "om _quot; het"
+            },
+            "t22": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Statement@Message"
+                ],
+                "lemma": "dat",
+                "sentence": "2",
+                "target phrase": "dat"
+            },
+            "t25": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Suspicion@Authority",
+                    "Statement@Speaker"
+                ],
+                "lemma": "openbaar",
+                "sentence": "2",
+                "target phrase": "het openbaar ministerie"
+            },
+            "t43": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Questioning@Speaker"
+                ],
+                "lemma": "rechter",
+                "sentence": "4",
+                "target phrase": "bij de rechter -"
+            },
+            "t58": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Statement@Message"
+                ],
+                "lemma": "zijn",
+                "sentence": "5",
+                "target phrase": "zijn"
+            },
+            "t9": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Reveal_secret@Information"
+                ],
+                "lemma": "zijn",
+                "sentence": "1",
+                "target phrase": "zijn"
+            }
+        },
+        "frames/links": {
+            "Q1632409367599": {
+                "t66": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Killing",
+                    "frame elements": [
+                        "Attack@Victim",
+                        "Hit_target@Target",
+                        "Killing@Victim",
+                        "Terrorism@Victim"
+                    ],
+                    "lemma": "dood",
+                    "reftype": "evoke",
+                    "sentence": "6",
+                    "target phrase": "voor drie dood en zev"
+                },
+                "t69": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Cause_harm",
+                    "frame elements": [
+                        "Cause_harm@Victim"
+                    ],
+                    "lemma": "winden",
+                    "reftype": "evoke",
+                    "sentence": "6",
+                    "target phrase": "voor drie dood en zev winden"
+                }
+            },
+            "Q62090804": {
+                "t12": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Suspicion@Incident",
+                        "Statement@Topic",
+                        "Intentionally_act@Act",
+                        "Cause_harm@Cause",
+                        "Questioning@Topic",
+                        "Statement@Topic",
+                        "Intentionally_act@Act",
+                        "Notification_of_charges@Charges",
+                        "Criminal_investigation@Incident",
+                        "Terrorism@Act"
+                    ],
+                    "lemma": "aanslag",
+                    "reftype": "type",
+                    "sentence": "1",
+                    "target phrase": "voor de aanslag van maandag op het 24 oktoberplein in utrecht"
+                },
+                "t48": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Reveal_secret@Information"
+                    ],
+                    "lemma": "feit",
+                    "sentence": "4",
+                    "target phrase": "alle strafbaar feit"
+                }
+            },
+            "Q62116513": {
+                "t2": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Reveal_secret@Speaker",
+                        "Attack@Assailant",
+                        "Suspicion@Suspect"
+                    ],
+                    "lemma": "g\u00f6kmen",
+                    "sentence": "1",
+                    "target phrase": "g\u00f6kmen"
+                },
+                "t29": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Statement@Speaker"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "3",
+                    "target phrase": "hij"
+                },
+                "t32": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Intentionally_act@Agent"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "3",
+                    "target phrase": "hij"
+                },
+                "t38": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Reveal_secret@Speaker"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "4",
+                    "target phrase": "de 37-jarige t."
+                },
+                "t51": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Statement@Speaker"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "5",
+                    "target phrase": "hij"
+                },
+                "t55": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hit_target@Agent"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "5",
+                    "target phrase": "hij"
+                },
+                "t57": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Hit_target",
+                    "frame elements": null,
+                    "lemma": "schutter",
+                    "reftype": "evoke",
+                    "sentence": "5"
+                },
+                "t62": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Killing@Killer",
+                        "Cause_harm@Agent"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "6",
+                    "target phrase": "hij"
+                },
+                "t72": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Questioning@Addressee",
+                        "Statement@Speaker"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "7",
+                    "target phrase": "hij"
+                },
+                "t84": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Intentionally_act@Agent",
+                        "Notification_of_charges@Accused",
+                        "Criminal_investigation@Suspect",
+                        "Terrorism@Terrorist"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "7",
+                    "target phrase": "hij"
+                }
+            },
+            "Q803": {}
+        },
+        "historical distance": 1,
+        "implicated fe's": [
+            "Reveal_secret@Medium",
+            "Reveal_secret@Topic",
+            "Statement@Medium",
+            "Statement@Topic",
+            "Statement@Medium",
+            "Reveal_secret@Medium",
+            "Reveal_secret@Topic",
+            "Statement@Topic",
+            "Statement@Medium",
+            "Killing@Means",
+            "Killing@Instrument",
+            "Cause_harm@Body_part",
+            "Statement@Medium"
+        ],
+        "raw text": "\nHoofdverdachte G\u00f6kmen T. heeft bekend dat hij verantwoordelijk is voor de aanslag van maandag op het 24 Oktoberplein in Utrecht. Dat heeft het Openbaar Ministerie bekendgemaakt. Hij zegt dat hij alleen handelde. De 37-jarige T. heeft vanochtend bij de rechter-commissaris alle strafbare feiten bekend. Hij heeft bevestigd dat hij de schutter is. Daarmee is hij verantwoordelijk voor drie doden en zeven gewonden. Of hij in het verhoor dat daarop volgde ook expliciet heeft bevestigd dat hij handelde vanuit een terroristisch motief, zoals dat in de tenlastelegging staat, wil het OM \"in het belang van het onderzoek\" niet zeggen. Bekijk hier de toelichting van Openbaar Ministerie:\n",
+        "subevents": {
+            "t1.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "hoofdverdachen",
+                "frame": "Suspicion",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "verdachte",
+                "reftype": "evoke",
+                "sentence": "1"
+            },
+            "t107": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "onderzoek",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t27": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "bekendmaken",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t30": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "zeggen",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t34": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": [
+                    "Statement@Message"
+                ],
+                "lemma": "handelen",
+                "reftype": "type",
+                "sentence": "3",
+                "target phrase": "dat hij alleen handelen"
+            },
+            "t49": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Reveal_secret",
+                "frame elements": null,
+                "lemma": "bekend",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "t5": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Reveal_secret",
+                "frame elements": null,
+                "lemma": "bekend",
+                "reftype": "type",
+                "sentence": "1"
+            },
+            "t53": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "bevestigen",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t75": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Questioning",
+                "frame elements": null,
+                "lemma": "verhoor",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t82": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "bevestigen",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t85": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": [
+                    "Questioning@Message",
+                    "Statement@Message"
+                ],
+                "lemma": "handelen",
+                "reftype": "type",
+                "sentence": "7",
+                "target phrase": "dat hij handelen vanuit een terroristisch motief , zoals dat tenlastelegging staan"
+            },
+            "t88": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Terrorism",
+                "frame elements": null,
+                "lemma": "terroristisch",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t95": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Notification_of_charges",
+                "frame elements": null,
+                "lemma": "tenlastelegging",
+                "reftype": "type",
+                "sentence": "7"
+            }
+        }
+    }
+}

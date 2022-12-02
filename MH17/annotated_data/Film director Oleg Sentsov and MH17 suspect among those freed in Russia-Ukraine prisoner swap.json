@@ -1,0 +1,2571 @@
+{
+    "Film director Oleg Sentsov and MH17 suspect among those freed in Russia-Ukraine prisoner swap": {
+        "fe's without links": {
+            "t156": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Exchange@Exchanger_2"
+                ],
+                "lemma": "Ukraine",
+                "sentence": "12",
+                "target phrase": "/ Getty Images Ukraine 's"
+            },
+            "t163": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Exchange@Themes"
+                ],
+                "lemma": "prisoner",
+                "sentence": "12",
+                "target phrase": "prisoner"
+            },
+            "t242": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Sending@Goal",
+                    "Exchange@Exchanger_2"
+                ],
+                "lemma": "Russia",
+                "sentence": "14",
+                "target phrase": "Russia"
+            },
+            "t249": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Incident"
+                ],
+                "lemma": "MH17",
+                "sentence": "14",
+                "target phrase": "MH17"
+            },
+            "t452": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Exchange@Exchanger_1"
+                ],
+                "lemma": "Vyacheslav",
+                "sentence": "25",
+                "target phrase": "Vyacheslav"
+            },
+            "t493": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Exchange@Exchanger_1",
+                    "Hostile_encounter@Side_2",
+                    "Hostile_encounter@Side_2",
+                    "Rebellion@Current_leadership"
+                ],
+                "lemma": "Zelensky",
+                "sentence": "28",
+                "target phrase": "Zelensky , who be there to greet prisoner"
+            },
+            "t503": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Exchange@Themes"
+                ],
+                "lemma": "prisoner",
+                "sentence": "28",
+                "target phrase": "the freed ukrainian prisoner"
+            },
+            "t59": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Exchange@Themes"
+                ],
+                "lemma": "prisoner",
+                "sentence": "5",
+                "target phrase": "69 other prisoner from Russia and Ukraine"
+            },
+            "t85": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arriving@Theme"
+                ],
+                "lemma": "prisoner",
+                "sentence": "6",
+                "target phrase": "35 ukranian prisoner and 35 russian prisoner"
+            }
+        },
+        "frames/links": {
+            "Q159": {
+                "t100": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Political_locales",
+                    "frame elements": [
+                        "Arriving@Goal",
+                        "Intentionally_act@Agent",
+                        "Arriving@Goal"
+                    ],
+                    "lemma": "country",
+                    "reftype": "evoke",
+                    "sentence": "6",
+                    "target phrase": "country the two"
+                },
+                "t182": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Exchange@Exchanger_1"
+                    ],
+                    "lemma": "Moscow",
+                    "sentence": "12",
+                    "target phrase": "Moscow"
+                },
+                "t304": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Political_locales",
+                    "frame elements": [
+                        "Exchange@Exchangers"
+                    ],
+                    "lemma": "nation",
+                    "reftype": "evoke",
+                    "sentence": "16",
+                    "target phrase": "the two nation"
+                },
+                "t61": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Releasing@Captor",
+                        "Releasing@Location_of_confinement",
+                        "Exchange@Exchanger_1",
+                        "Exchange@Exchanger_2",
+                        "Exchange@Exchanger_2",
+                        "Exchange@Exchanger_1"
+                    ],
+                    "lemma": "Russia",
+                    "sentence": "5",
+                    "target phrase": "Russia and Ukraine"
+                },
+                "t657": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Political_locales",
+                    "frame elements": [
+                        "Exchange@Exchangers"
+                    ],
+                    "lemma": "nation",
+                    "reftype": "evoke",
+                    "sentence": "35",
+                    "target phrase": "the two nation"
+                }
+            },
+            "Q1631025548534": {
+                "t51": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "People",
+                    "frame elements": [
+                        "Killing@Victim"
+                    ],
+                    "lemma": "people",
+                    "reftype": "evoke",
+                    "sentence": "5",
+                    "target phrase": "298 people"
+                }
+            },
+            "Q1631864085791": {
+                "t536": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Hostile_encounter@Side_1",
+                        "Hostile_encounter@Side_1",
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "28",
+                    "target phrase": "pro - russian separatist"
+                }
+            },
+            "Q1631864271612": {
+                "t211": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hit_target@Target"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "13",
+                    "target phrase": "MH17"
+                },
+                "t28": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "flight",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "flight"
+                },
+                "t44": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "Malaysia",
+                    "sentence": "5",
+                    "target phrase": "Malaysia"
+                },
+                "t46": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Fleeing",
+                    "frame elements": null,
+                    "lemma": "flight",
+                    "reftype": "evoke",
+                    "sentence": "5"
+                },
+                "t748": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "flight",
+                    "reftype": "evoke",
+                    "sentence": "40",
+                    "target phrase": "flight"
+                }
+            },
+            "Q1636580448374": {
+                "t100": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Political_locales",
+                    "frame elements": [
+                        "Arriving@Goal",
+                        "Intentionally_act@Agent",
+                        "Arriving@Goal"
+                    ],
+                    "lemma": "country",
+                    "reftype": "evoke",
+                    "sentence": "6",
+                    "target phrase": "country the two"
+                },
+                "t304": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Political_locales",
+                    "frame elements": [
+                        "Exchange@Exchangers"
+                    ],
+                    "lemma": "nation",
+                    "reftype": "evoke",
+                    "sentence": "16",
+                    "target phrase": "the two nation"
+                },
+                "t63": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Exchange@Exchanger_2",
+                        "Releasing@Captor",
+                        "Releasing@Location_of_confinement",
+                        "Exchange@Exchanger_2"
+                    ],
+                    "lemma": "Ukraine",
+                    "sentence": "5",
+                    "target phrase": "Ukraine"
+                },
+                "t657": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Political_locales",
+                    "frame elements": [
+                        "Exchange@Exchangers"
+                    ],
+                    "lemma": "nation",
+                    "reftype": "evoke",
+                    "sentence": "35",
+                    "target phrase": "the two nation"
+                }
+            },
+            "Q17374096": {
+                "t210": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Suspicion@Incident"
+                    ],
+                    "lemma": "shoot",
+                    "reftype": "type",
+                    "sentence": "13",
+                    "target phrase": "shoot MH17 out of sky"
+                },
+                "t26": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Suspicion@Incident",
+                        "Suspicion@Incident",
+                        "Questioning@Topic"
+                    ],
+                    "lemma": "downing",
+                    "reftype": "type",
+                    "sentence": "2",
+                    "target phrase": "the downing of flight MH17"
+                },
+                "t28": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "flight",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "flight"
+                },
+                "t42": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Suspicion@Incident",
+                        "Killing@Means"
+                    ],
+                    "lemma": "downing",
+                    "reftype": "type",
+                    "sentence": "5",
+                    "target phrase": "the downing of Airlines flight MH17 kill"
+                },
+                "t44": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "Malaysia",
+                    "sentence": "5",
+                    "target phrase": "Malaysia"
+                },
+                "t46": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Fleeing",
+                    "frame elements": null,
+                    "lemma": "flight",
+                    "reftype": "evoke",
+                    "sentence": "5"
+                },
+                "t49": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Killing",
+                    "frame elements": null,
+                    "lemma": "kill",
+                    "reftype": "evoke",
+                    "sentence": "5"
+                },
+                "t51": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "People",
+                    "frame elements": [
+                        "Killing@Victim"
+                    ],
+                    "lemma": "people",
+                    "reftype": "evoke",
+                    "sentence": "5",
+                    "target phrase": "298 people"
+                },
+                "t746": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Responsibility@Act"
+                    ],
+                    "lemma": "downing",
+                    "reftype": "type",
+                    "sentence": "40",
+                    "target phrase": "the downing of flight MH17"
+                },
+                "t748": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "flight",
+                    "reftype": "evoke",
+                    "sentence": "40",
+                    "target phrase": "flight"
+                }
+            },
+            "Q67197819": {
+                "t18": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Suspicion@Suspect",
+                        "Exchange@Theme_1",
+                        "Exchange@Theme_1",
+                        "Exchange@Theme_1",
+                        "Downing@Agent",
+                        "Downing@Agent"
+                    ],
+                    "lemma": "Volodymyr",
+                    "sentence": "2",
+                    "target phrase": "Volodymyr"
+                },
+                "t200": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Suspicion@Suspect",
+                        "Hit_target@Agent"
+                    ],
+                    "lemma": "Volodymyr",
+                    "sentence": "13",
+                    "target phrase": "Volodymyr"
+                },
+                "t205": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": null,
+                    "lemma": "suspect",
+                    "reftype": "type",
+                    "sentence": "13"
+                },
+                "t210": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Suspicion@Incident"
+                    ],
+                    "lemma": "shoot",
+                    "reftype": "type",
+                    "sentence": "13",
+                    "target phrase": "shoot MH17 out of sky"
+                },
+                "t211": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hit_target@Target"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "13",
+                    "target phrase": "MH17"
+                },
+                "t240": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Sending@Theme",
+                        "Criminal_investigation@Suspect",
+                        "Exchange@Theme_1"
+                    ],
+                    "lemma": "Tsemakh",
+                    "sentence": "14",
+                    "target phrase": "Tsemakh"
+                },
+                "t273": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Suspicion@Suspect",
+                        "Questioning@Addressee"
+                    ],
+                    "lemma": "suspect",
+                    "reftype": "evoke",
+                    "sentence": "15",
+                    "target phrase": "the suspect"
+                },
+                "t36": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "People",
+                    "frame elements": [
+                        "Suspicion@Suspect",
+                        "Killing@Killer",
+                        "Releasing@Theme",
+                        "Downing@Agent"
+                    ],
+                    "lemma": "man",
+                    "reftype": "evoke",
+                    "sentence": "5",
+                    "target phrase": "a man suspect of involvement"
+                }
+            }
+        },
+        "historical distance": 1878,
+        "implicated fe's": [
+            "Killing@Instrument",
+            "Sending@Transport_means",
+            "Sending@Recipient",
+            "Hostile_encounter@Issue",
+            "Hostile_encounter@Purpose",
+            "Hostile_encounter@Issue",
+            "Hostile_encounter@Purpose",
+            "Questioning@Message",
+            "Responsibility@Agent"
+        ],
+        "raw text": "Film director Oleg Sentsov and MH17 suspect among those freed in Russia-Ukraine prisoner swap.\n\nVolodymyr Tsemakh is suspected of involvement in the downing of flight MH17. (CNN) \u2014 A man suspected of involvement in the downing of Malaysia Airlines flight MH17 that killed 298 people has been released along with 69 other prisoners from Russia and Ukraine in a long-awaited exchange, according to Ukrainian and Russia state news agencies. The return of 35 Ukranian prisoners and 35 Russian prisoners is a move that could ease tensions between the two countries after Moscow\u2019s annexation of Crimea in 2014. \u201cToday we can finally say safely that the mutual return of Ukrainian and Russian citizens has been conducted,\u201d Russian Human Rights Ombudswoman Tatyana Moskalkova said, Russian state news agency TASS reported Saturday. PHOTO: SERGEI SUPINSKY/AFP/Getty Images Ukraine's President Volodymyr Zelensky hailed the prisoner exchange as the first step towards ending the war in Ukraine's east and returning territory annexed by Moscow. The Dutch Foreign Ministry said Saturday that the Russian prisoners who were released to Moscow included Volodymyr Tsemakh, who is suspected of being involved in shooting MH17 out of the sky. The Dutch Prime Minister and Foreign Minister had been in touch with their Ukrainian colleagues before the swap to tell them that sending Tsemakh to Russia would not be conducive for the MH17 investigation. As a result, the prisoner swap had been delayed to allow the Dutch Public Prosecution Service time to interrogate the suspect again in the last couple of days, a letter sent to the Dutch Parliament said, which was seen by CNN. Discussions of an exchange between the two nations had intensified after Volodymyr Zelensky was elected Ukrainian President, TASS reported. Journalist and film director among those released Among the 35 Ukrainian prisoners released and flown to Kiev were 24 sailors captured by Moscow when warships seized three naval vessels in the Kerch Strait in 2018, Ukrainian state media agency Ukrinform reported Saturday. PHOTO: SERGEI SUPINSKY/AFP/Getty Images Ukrainian film director Oleg Sentsov hugs his daughter after arriving back in Kiev . Film director Oleg Sentsov was also released. He had been sentenced in 2015 in Russia for what the court said was terrorism in a case that drew widespread international condemnation. After landing in Kiev, the Ukrainian prisoners were seen greeting and hugging their emotional family members on the runway. \u201cI learned about the exchange only at 4 a.m. today,\u201d sailor Vyacheslav Zinchenko told reporters after landing in Kiev. He added that he was keen to go home after the long journey, but explained that he had to go to hospital with other prisoners to be \u201cexamined.\u201d Zelensky, who was there to greet the freed Ukrainian prisoners, hailed the exchange as the \u201cfirst step\u201d towards improving relations and finishing \u201cthis horrible war\u201d \u2013 referring to the conflict in eastern Ukraine with pro-Russian separatists. PHOTO: SERGEI SUPINSKY/AFP/Getty Images Ukraine's President Volodymyr Zelensky welcomes former prisoners as they disembark from the plane. NATO calls for the release of all political prisoners Journalist Kirill Vyshinsky, who had been detained on charges of treason and accused of publishing \u201canti-Ukrainian\u201d articles, was another high profile prisoner released by Ukraine to Moscow. Vyshinsky considered the accusations against him a lie and a form of manipulation, according to Russian state news agency RIA-Novosti. Before the exchange, Russian President Vladimir Putin on Thursday said it would be a \u201cgood step forward towards the normalization\u201d of relations between the two nations, Reuters reported. NATO\u2019s spokeswoman Oana Lungescu said in a statement that the prisoner release was a \u201cstep in the right direction\u201d and that the organization welcomed that the Ukrainian sailors and Sentsov were \u201cfinally back home.\u201d But she added that NATO \u201ccontinues to call on Russia to fulfill all its obligations under the Minsk Agreements, including the release of all prisoners.\u201d Lungescu added that \u201cit remains important to establish the truth and accountability for the downing of flight MH17.\u201d Denis Lapin reported from in Kiev and Olga Pavlova in Moscow. Bianca Britton and Sarah Dean wrote from London.\n",
+        "subevents": {
+            "t101": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Time_vector",
+                "frame elements": null,
+                "lemma": "after",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t111": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "today",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t115": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t120": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "return",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t125": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "People_by_jurisdiction",
+                "frame elements": [
+                    "Arriving@Theme"
+                ],
+                "lemma": "citizen",
+                "reftype": "evoke",
+                "sentence": "8",
+                "target phrase": "ukrainian and russian citizen"
+            },
+            "t128": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": null,
+                "lemma": "conduct",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t137": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t140": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "state",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t144": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "report",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t158": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Appellations",
+                "frame elements": null,
+                "lemma": "President",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t164": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Exchange",
+                "frame elements": null,
+                "lemma": "exchange",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t167": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Ordinal_numbers",
+                "frame elements": null,
+                "lemma": "first",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t168": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": null,
+                "lemma": "step",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t170": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Process_end",
+                "frame elements": null,
+                "lemma": "end",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t172": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "war",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t176": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Part_orientational",
+                "frame elements": null,
+                "lemma": "east",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t178": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "return",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t179": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "territory",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t185": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Origin",
+                "frame elements": null,
+                "lemma": "dutch",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t188": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t193": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_in_captivity",
+                "frame elements": [
+                    "Releasing@Theme"
+                ],
+                "lemma": "prisoner",
+                "reftype": "evoke",
+                "sentence": "13",
+                "target phrase": "the russian prisoner who be release to Moscow"
+            },
+            "t196": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Releasing",
+                "frame elements": null,
+                "lemma": "release",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t199": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Inclusion",
+                "frame elements": null,
+                "lemma": "include",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t21": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Suspicion",
+                "frame elements": null,
+                "lemma": "suspect",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t218": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Origin",
+                "frame elements": null,
+                "lemma": "dutch",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t220": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "Minister",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t223": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "Minister",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t23": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Participation",
+                "frame elements": null,
+                "lemma": "involvement",
+                "reftype": "evoke",
+                "sentence": "2"
+            },
+            "t231": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Co-association",
+                "frame elements": [
+                    "Sending@Sender",
+                    "Exchange@Exchanger_1"
+                ],
+                "lemma": "colleague",
+                "reftype": "evoke",
+                "sentence": "14",
+                "target phrase": "-PRON- ukrainian colleague"
+            },
+            "t232": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Time_vector",
+                "frame elements": null,
+                "lemma": "before",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t234": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Exchange",
+                "frame elements": null,
+                "lemma": "swap",
+                "reftype": "type",
+                "sentence": "14"
+            },
+            "t236": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Telling",
+                "frame elements": null,
+                "lemma": "tell",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t239": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Sending",
+                "frame elements": null,
+                "lemma": "send",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t250": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "14"
+            },
+            "t257": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_in_captivity",
+                "frame elements": [
+                    "Exchange@Themes"
+                ],
+                "lemma": "prisoner",
+                "reftype": "evoke",
+                "sentence": "15",
+                "target phrase": "prisoner"
+            },
+            "t258": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Exchange",
+                "frame elements": null,
+                "lemma": "swap",
+                "reftype": "type",
+                "sentence": "15"
+            },
+            "t261": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hindering",
+                "frame elements": null,
+                "lemma": "delay",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t263": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Preventing_or_letting",
+                "frame elements": null,
+                "lemma": "allow",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t265": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Origin",
+                "frame elements": [
+                    "Suspicion@Authority",
+                    "Suspicion@Authority",
+                    "Suspicion@Authority",
+                    "Criminal_investigation@Investigator",
+                    "Suspicion@Authority",
+                    "Questioning@Speaker"
+                ],
+                "lemma": "Dutch",
+                "reftype": "evoke",
+                "sentence": "15",
+                "target phrase": "Dutch"
+            },
+            "t271": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Questioning",
+                "frame elements": null,
+                "lemma": "interrogate",
+                "reftype": "type",
+                "sentence": "15"
+            },
+            "t277": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Relative_time",
+                "frame elements": null,
+                "lemma": "last",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t278": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cardinal_numbers",
+                "frame elements": null,
+                "lemma": "couple",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t280": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "day",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t283": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Text",
+                "frame elements": null,
+                "lemma": "letter",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t287": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Origin",
+                "frame elements": null,
+                "lemma": "Dutch",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t289": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t293": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Perception_experience",
+                "frame elements": null,
+                "lemma": "see",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t300": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Exchange",
+                "frame elements": null,
+                "lemma": "exchange",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t311": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Change_of_leadership",
+                "frame elements": null,
+                "lemma": "elect",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t313": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Appellations",
+                "frame elements": null,
+                "lemma": "President",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t316": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "report",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t320": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Behind_the_scenes",
+                "frame elements": null,
+                "lemma": "film",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t321": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "director",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t325": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Be_subset_of",
+                "frame elements": null,
+                "lemma": "among",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t343": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Taking",
+                "frame elements": null,
+                "lemma": "seize",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t345": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Military",
+                "frame elements": null,
+                "lemma": "naval",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t346": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Vehicle",
+                "frame elements": null,
+                "lemma": "vessel",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t355": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "state",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t357": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Organization",
+                "frame elements": null,
+                "lemma": "agency",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t359": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "report",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t37": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Suspicion",
+                "frame elements": null,
+                "lemma": "suspect",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t372": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Behind_the_scenes",
+                "frame elements": null,
+                "lemma": "film",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t373": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "director",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t378": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Kinship",
+                "frame elements": null,
+                "lemma": "daughter",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t380": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "arrive",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t386": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "director",
+                "reftype": "evoke",
+                "sentence": "21"
+            },
+            "t39": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Participation",
+                "frame elements": null,
+                "lemma": "involvement",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t391": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Releasing",
+                "frame elements": null,
+                "lemma": "release",
+                "reftype": "evoke",
+                "sentence": "21"
+            },
+            "t404": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Judicial_body",
+                "frame elements": null,
+                "lemma": "court",
+                "reftype": "evoke",
+                "sentence": "22"
+            },
+            "t405": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "22"
+            },
+            "t407": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Terrorism",
+                "frame elements": null,
+                "lemma": "terrorism",
+                "reftype": "evoke",
+                "sentence": "22"
+            },
+            "t412": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_motion",
+                "frame elements": null,
+                "lemma": "draw",
+                "reftype": "evoke",
+                "sentence": "22"
+            },
+            "t414": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "international",
+                "reftype": "evoke",
+                "sentence": "22"
+            },
+            "t417": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Time_vector",
+                "frame elements": null,
+                "lemma": "after",
+                "reftype": "evoke",
+                "sentence": "23"
+            },
+            "t424": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_in_captivity",
+                "frame elements": null,
+                "lemma": "prisoner",
+                "reftype": "evoke",
+                "sentence": "23"
+            },
+            "t426": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Perception_experience",
+                "frame elements": null,
+                "lemma": "see",
+                "reftype": "evoke",
+                "sentence": "23"
+            },
+            "t432": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Kinship",
+                "frame elements": null,
+                "lemma": "family",
+                "reftype": "evoke",
+                "sentence": "23"
+            },
+            "t433": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Membership",
+                "frame elements": null,
+                "lemma": "member",
+                "reftype": "evoke",
+                "sentence": "23"
+            },
+            "t440": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Coming_to_believe",
+                "frame elements": null,
+                "lemma": "learn",
+                "reftype": "evoke",
+                "sentence": "25"
+            },
+            "t443": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Exchange",
+                "frame elements": null,
+                "lemma": "exchange",
+                "reftype": "evoke",
+                "sentence": "25"
+            },
+            "t448": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "today",
+                "reftype": "evoke",
+                "sentence": "25"
+            },
+            "t454": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Telling",
+                "frame elements": null,
+                "lemma": "tell",
+                "reftype": "evoke",
+                "sentence": "25"
+            },
+            "t456": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Time_vector",
+                "frame elements": null,
+                "lemma": "after",
+                "reftype": "evoke",
+                "sentence": "25"
+            },
+            "t462": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "add",
+                "reftype": "evoke",
+                "sentence": "26"
+            },
+            "t468": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Motion",
+                "frame elements": null,
+                "lemma": "go",
+                "reftype": "evoke",
+                "sentence": "26"
+            },
+            "t469": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Foreign_or_domestic_country",
+                "frame elements": null,
+                "lemma": "home",
+                "reftype": "evoke",
+                "sentence": "26"
+            },
+            "t470": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Time_vector",
+                "frame elements": null,
+                "lemma": "after",
+                "reftype": "evoke",
+                "sentence": "26"
+            },
+            "t472": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Duration_description",
+                "frame elements": null,
+                "lemma": "long",
+                "reftype": "evoke",
+                "sentence": "26"
+            },
+            "t476": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Explaining_the_facts",
+                "frame elements": null,
+                "lemma": "explain",
+                "reftype": "evoke",
+                "sentence": "26"
+            },
+            "t481": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Motion",
+                "frame elements": null,
+                "lemma": "go",
+                "reftype": "evoke",
+                "sentence": "26"
+            },
+            "t483": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Buildings",
+                "frame elements": null,
+                "lemma": "hospital",
+                "reftype": "evoke",
+                "sentence": "26"
+            },
+            "t485": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Increment",
+                "frame elements": null,
+                "lemma": "other",
+                "reftype": "evoke",
+                "sentence": "26"
+            },
+            "t497": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locative_relation",
+                "frame elements": null,
+                "lemma": "there",
+                "reftype": "evoke",
+                "sentence": "28"
+            },
+            "t507": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Exchange",
+                "frame elements": null,
+                "lemma": "exchange",
+                "reftype": "evoke",
+                "sentence": "28"
+            },
+            "t512": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": null,
+                "lemma": "step",
+                "reftype": "evoke",
+                "sentence": "28"
+            },
+            "t516": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Relation",
+                "frame elements": null,
+                "lemma": "relation",
+                "reftype": "evoke",
+                "sentence": "28"
+            },
+            "t518": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Activity_finish",
+                "frame elements": null,
+                "lemma": "finish",
+                "reftype": "evoke",
+                "sentence": "28"
+            },
+            "t521": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Desirability",
+                "frame elements": null,
+                "lemma": "horrible",
+                "reftype": "evoke",
+                "sentence": "28"
+            },
+            "t522": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "war",
+                "reftype": "evoke",
+                "sentence": "28"
+            },
+            "t528": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "conflict",
+                "reftype": "evoke",
+                "sentence": "28"
+            },
+            "t530": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Part_orientational",
+                "frame elements": null,
+                "lemma": "eastern",
+                "reftype": "evoke",
+                "sentence": "28"
+            },
+            "t54": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Releasing",
+                "frame elements": null,
+                "lemma": "release",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t549": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Appellations",
+                "frame elements": null,
+                "lemma": "President",
+                "reftype": "evoke",
+                "sentence": "32"
+            },
+            "t554": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_in_captivity",
+                "frame elements": null,
+                "lemma": "prisoner",
+                "reftype": "evoke",
+                "sentence": "32"
+            },
+            "t560": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Vehicle",
+                "frame elements": null,
+                "lemma": "plane",
+                "reftype": "evoke",
+                "sentence": "32"
+            },
+            "t563": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Referring_by_name",
+                "frame elements": null,
+                "lemma": "call",
+                "reftype": "evoke",
+                "sentence": "33"
+            },
+            "t566": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Releasing",
+                "frame elements": null,
+                "lemma": "release",
+                "reftype": "evoke",
+                "sentence": "33"
+            },
+            "t578": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Detaining",
+                "frame elements": null,
+                "lemma": "detain",
+                "reftype": "evoke",
+                "sentence": "33"
+            },
+            "t58": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Increment",
+                "frame elements": null,
+                "lemma": "other",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t580": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "charge",
+                "reftype": "evoke",
+                "sentence": "33"
+            },
+            "t584": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Judgment_communication",
+                "frame elements": null,
+                "lemma": "accuse",
+                "reftype": "evoke",
+                "sentence": "33"
+            },
+            "t592": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Text",
+                "frame elements": null,
+                "lemma": "article",
+                "reftype": "evoke",
+                "sentence": "33"
+            },
+            "t595": {
+                "POS": "DET",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Increment",
+                "frame elements": null,
+                "lemma": "another",
+                "reftype": "evoke",
+                "sentence": "33"
+            },
+            "t596": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Position_on_a_scale",
+                "frame elements": null,
+                "lemma": "high",
+                "reftype": "evoke",
+                "sentence": "33"
+            },
+            "t606": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Categorization",
+                "frame elements": null,
+                "lemma": "consider",
+                "reftype": "evoke",
+                "sentence": "34"
+            },
+            "t608": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Judgment_communication",
+                "frame elements": null,
+                "lemma": "accusation",
+                "reftype": "evoke",
+                "sentence": "34"
+            },
+            "t612": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Posture",
+                "frame elements": null,
+                "lemma": "lie",
+                "reftype": "evoke",
+                "sentence": "34"
+            },
+            "t615": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Type",
+                "frame elements": null,
+                "lemma": "form",
+                "reftype": "evoke",
+                "sentence": "34"
+            },
+            "t619": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Be_in_agreement_on_action",
+                "frame elements": null,
+                "lemma": "accord",
+                "reftype": "evoke",
+                "sentence": "34"
+            },
+            "t622": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "state",
+                "reftype": "evoke",
+                "sentence": "34"
+            },
+            "t631": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Exchange",
+                "frame elements": null,
+                "lemma": "exchange",
+                "reftype": "evoke",
+                "sentence": "35"
+            },
+            "t634": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Appellations",
+                "frame elements": null,
+                "lemma": "President",
+                "reftype": "evoke",
+                "sentence": "35"
+            },
+            "t638": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "Thursday",
+                "reftype": "evoke",
+                "sentence": "35"
+            },
+            "t639": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "35"
+            },
+            "t646": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": null,
+                "lemma": "step",
+                "reftype": "evoke",
+                "sentence": "35"
+            },
+            "t653": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Relation",
+                "frame elements": null,
+                "lemma": "relation",
+                "reftype": "evoke",
+                "sentence": "35"
+            },
+            "t660": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "report",
+                "reftype": "evoke",
+                "sentence": "35"
+            },
+            "t667": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "36"
+            },
+            "t670": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "statement",
+                "reftype": "evoke",
+                "sentence": "36"
+            },
+            "t673": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_in_captivity",
+                "frame elements": null,
+                "lemma": "prisoner",
+                "reftype": "evoke",
+                "sentence": "36"
+            },
+            "t674": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Releasing",
+                "frame elements": null,
+                "lemma": "release",
+                "reftype": "evoke",
+                "sentence": "36"
+            },
+            "t678": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": null,
+                "lemma": "step",
+                "reftype": "evoke",
+                "sentence": "36"
+            },
+            "t68": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Expectation",
+                "frame elements": null,
+                "lemma": "await",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t687": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Organization",
+                "frame elements": null,
+                "lemma": "organization",
+                "reftype": "evoke",
+                "sentence": "36"
+            },
+            "t69": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Exchange",
+                "frame elements": null,
+                "lemma": "exchange",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t699": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Buildings",
+                "frame elements": null,
+                "lemma": "home",
+                "reftype": "evoke",
+                "sentence": "36"
+            },
+            "t704": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "add",
+                "reftype": "evoke",
+                "sentence": "38"
+            },
+            "t708": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Activity_ongoing",
+                "frame elements": null,
+                "lemma": "continue",
+                "reftype": "evoke",
+                "sentence": "38"
+            },
+            "t71": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Be_in_agreement_on_action",
+                "frame elements": null,
+                "lemma": "accord",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t710": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Referring_by_name",
+                "frame elements": null,
+                "lemma": "call",
+                "reftype": "evoke",
+                "sentence": "38"
+            },
+            "t714": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Meet_specifications",
+                "frame elements": null,
+                "lemma": "fulfill",
+                "reftype": "evoke",
+                "sentence": "38"
+            },
+            "t717": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_obligated",
+                "frame elements": null,
+                "lemma": "obligation",
+                "reftype": "evoke",
+                "sentence": "38"
+            },
+            "t723": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Inclusion",
+                "frame elements": null,
+                "lemma": "include",
+                "reftype": "evoke",
+                "sentence": "38"
+            },
+            "t725": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Releasing",
+                "frame elements": null,
+                "lemma": "release",
+                "reftype": "evoke",
+                "sentence": "38"
+            },
+            "t728": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_in_captivity",
+                "frame elements": null,
+                "lemma": "prisoner",
+                "reftype": "evoke",
+                "sentence": "38"
+            },
+            "t732": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "add",
+                "reftype": "evoke",
+                "sentence": "39"
+            },
+            "t736": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "State_continue",
+                "frame elements": null,
+                "lemma": "remain",
+                "reftype": "evoke",
+                "sentence": "40"
+            },
+            "t737": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Importance",
+                "frame elements": null,
+                "lemma": "important",
+                "reftype": "evoke",
+                "sentence": "40"
+            },
+            "t739": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_create",
+                "frame elements": null,
+                "lemma": "establish",
+                "reftype": "evoke",
+                "sentence": "40"
+            },
+            "t743": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Responsibility",
+                "frame elements": null,
+                "lemma": "accountability",
+                "reftype": "type",
+                "sentence": "40"
+            },
+            "t754": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "report",
+                "reftype": "evoke",
+                "sentence": "41"
+            },
+            "t76": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "state",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t769": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Text_creation",
+                "frame elements": null,
+                "lemma": "write",
+                "reftype": "evoke",
+                "sentence": "42"
+            },
+            "t81": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": [
+                    "Intentionally_act@Act"
+                ],
+                "lemma": "return",
+                "reftype": "evoke",
+                "sentence": "6",
+                "target phrase": "the return of 35 ukranian prisoner and prisoner"
+            },
+            "t88": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Origin",
+                "frame elements": null,
+                "lemma": "russian",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t92": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": null,
+                "lemma": "move",
+                "reftype": "evoke",
+                "sentence": "6"
+            }
+        }
+    }
+}

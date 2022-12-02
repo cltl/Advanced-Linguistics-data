@@ -1,0 +1,127 @@
+{
+    "Rutte en Grapperhaus leggen bloemen bij aanslagplek in Utrecht": {
+        "fe's without links": {
+            "t28": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Chatting@Interlocutor_1"
+                ],
+                "lemma": "rutte",
+                "sentence": "2",
+                "target phrase": "rutte"
+            }
+        },
+        "frames/links": {
+            "Q1632409367599": {
+                "t18": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hit_target@Target",
+                        "Attack@Victim",
+                        "Death@Protagonist"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "1",
+                    "target phrase": "drie mens"
+                },
+                "t47": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Participation",
+                    "frame elements": [
+                        "Participation@Participants",
+                        "Chatting@Interlocutor_2"
+                    ],
+                    "lemma": "betrokkene",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "met betrokkene"
+                }
+            },
+            "Q62090804": {
+                "t23": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Participation@Event"
+                    ],
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "bij een aanslag in een tram"
+                }
+            },
+            "Q803": {}
+        },
+        "historical distance": 1,
+        "implicated fe's": [
+            "Hit_target@Agent",
+            "Attack@Assailant"
+        ],
+        "raw text": "\nPremier Rutte en minister Grapperhaus van Justitie hebben bloemen gelegd op het 24 Oktoberplein waar gisteren drie mensen werden doodgeschoten bij een aanslag in een tram. Rutte kondigde voor zijn bezoek al aan vertrouwelijk, en het liefst zonder media, te willen praten met betrokkenen. Dat lukte niet helemaal, want bij aankomst op het plein werden Rutte en Grapperhaus meteen omgeven door journalisten. Nadat ze bloemen hadden gelegd en een kort moment van stilte hadden gehouden, spraken de bewindslieden op het plein nog met een aantal agenten. Eerder bezochten zij ook het hoofdbureau van politie, waar ze met hulpverleners spraken.\n",
+        "subevents": {
+            "t20.c0": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "doodschieten",
+                "frame": "Death",
+                "frame elements": [
+                    "Hit_target@Purpose"
+                ],
+                "function": "modifier",
+                "lemma": "dood",
+                "reftype": "evoke",
+                "sentence": "1",
+                "target phrase": "doodschieten"
+            },
+            "t20.c1": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "doodschieten",
+                "frame": "Hit_target",
+                "frame elements": [
+                    "Death@Manner"
+                ],
+                "function": "head",
+                "lemma": "schieten",
+                "reftype": "type",
+                "sentence": "1",
+                "target phrase": "doodschieten"
+            },
+            "t45": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Chatting",
+                "frame elements": null,
+                "lemma": "praten",
+                "reftype": "type",
+                "sentence": "2"
+            }
+        }
+    }
+}

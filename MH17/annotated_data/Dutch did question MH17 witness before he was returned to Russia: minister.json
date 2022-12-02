@@ -1,0 +1,1104 @@
+{
+    "Dutch did question MH17 witness before he was returned to Russia: minister": {
+        "fe's without links": {
+            "t131": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Investigator",
+                    "Leadership@Leader"
+                ],
+                "lemma": "official",
+                "sentence": "6",
+                "target phrase": "dutch official"
+            },
+            "t142": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Killing@Instrument",
+                    "Bringing@Theme",
+                    "Shoot_projectiles@Projectile",
+                    "Killing@Instrument"
+                ],
+                "lemma": "missile",
+                "sentence": "7",
+                "target phrase": "the missile"
+            },
+            "t147": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Source"
+                ],
+                "lemma": "Russia",
+                "sentence": "7",
+                "target phrase": "Russia"
+            },
+            "t152": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Control@Dependent_entity"
+                ],
+                "lemma": "field",
+                "sentence": "7",
+                "target phrase": "a field control by separatist"
+            },
+            "t175": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Exchange@Theme_1"
+                ],
+                "lemma": "prisoner",
+                "sentence": "9",
+                "target phrase": "prisoner"
+            },
+            "t182": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Exchange@Exchanger_1"
+                ],
+                "lemma": "russian",
+                "sentence": "9",
+                "target phrase": "russian and ukrainian"
+            },
+            "t184": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Exchange@Exchanger_2"
+                ],
+                "lemma": "ukrainian",
+                "sentence": "9",
+                "target phrase": "ukrainian"
+            },
+            "t214": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Questioning@Speaker"
+                ],
+                "lemma": "official",
+                "sentence": "10",
+                "target phrase": "official from the dutch prosecution service"
+            },
+            "t227": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Using@Agent",
+                    "Cause_to_continue@Agent"
+                ],
+                "lemma": "Netherlands",
+                "sentence": "12",
+                "target phrase": "the Netherlands"
+            },
+            "t229": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Using@Instrument"
+                ],
+                "lemma": "pressure",
+                "sentence": "12",
+                "target phrase": "pressure"
+            },
+            "t241": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Cause_to_continue@State"
+                ],
+                "lemma": "in",
+                "sentence": "12",
+                "target phrase": "in Ukraine"
+            },
+            "t248": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Questioning@Speaker"
+                ],
+                "lemma": "official",
+                "sentence": "13",
+                "target phrase": "official"
+            },
+            "t272": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Exchange@Exchanger_1"
+                ],
+                "lemma": "russian",
+                "sentence": "13",
+                "target phrase": "russian"
+            },
+            "t283": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Creating@Creator",
+                    "Notification_of_charges@Arraign_authority",
+                    "Suspicion@Authority",
+                    "Arrest@Authorities"
+                ],
+                "lemma": "Netherlands",
+                "sentence": "14",
+                "target phrase": "the Netherlands"
+            },
+            "t286": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Creating@Created_entity"
+                ],
+                "lemma": "warrant",
+                "sentence": "14",
+                "target phrase": "arrest warrant"
+            },
+            "t35": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Questioning@Speaker",
+                    "Releasing@Captor",
+                    "Arrest@Authorities",
+                    "Arrest@Authorities",
+                    "Notification_of_charges@Arraign_authority"
+                ],
+                "lemma": "official",
+                "sentence": "2",
+                "target phrase": "dutch official"
+            },
+            "t63": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Goal"
+                ],
+                "lemma": "part",
+                "sentence": "3",
+                "target phrase": "a separatist - hold part of Ukraine"
+            },
+            "t65": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Departing@Source"
+                ],
+                "lemma": "Ukraine",
+                "sentence": "3",
+                "target phrase": "Ukraine"
+            },
+            "t74": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Investigator"
+                ],
+                "lemma": "investigator",
+                "sentence": "4",
+                "target phrase": "investigator"
+            },
+            "t80": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Have_associated@Entity"
+                ],
+                "lemma": "role",
+                "sentence": "4",
+                "target phrase": "a key role with back ukrainian rebel force"
+            },
+            "t97": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Downing@Cause"
+                ],
+                "lemma": "missile",
+                "sentence": "5",
+                "target phrase": "Ukraine a Buk missile over eastern"
+            }
+        },
+        "frames/links": {
+            "Q1631025548534": {
+                "t108": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Killing@Victim",
+                        "Offenses@Victim",
+                        "Terrorism@Victim",
+                        "Killing@Victim"
+                    ],
+                    "lemma": "people",
+                    "sentence": "5",
+                    "target phrase": "all 298 people on board"
+                }
+            },
+            "Q1631864085791": {
+                "t158": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Shoot_projectiles@Agent",
+                        "Rebellion@Rebel",
+                        "Control@Controlling_entity"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "7",
+                    "target phrase": "Russian - back separatist"
+                },
+                "t82": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Exchange@Exchanger_2"
+                    ],
+                    "lemma": "Russian",
+                    "sentence": "4",
+                    "target phrase": "Russian"
+                },
+                "t86": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": null,
+                    "lemma": "rebel",
+                    "reftype": "type",
+                    "sentence": "4"
+                },
+                "t87": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "force",
+                    "sentence": "4",
+                    "target phrase": "Russian - back ukrainian rebel force"
+                }
+            },
+            "Q1631864271612": {
+                "t89": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "Flight",
+                    "sentence": "5",
+                    "target phrase": "Flight"
+                }
+            },
+            "Q1636580448374": {
+                "t27": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Rebellion@Current_leadership",
+                        "Rebellion@Current_leadership",
+                        "Exchange@Exchanger_1",
+                        "Exchange@Exchanger_2"
+                    ],
+                    "lemma": "Ukraine",
+                    "sentence": "2",
+                    "target phrase": "Ukraine"
+                }
+            },
+            "Q1637127625151": {
+                "t289": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Criminal_investigation@Suspect",
+                        "Downing@Agent",
+                        "Killing@Killer",
+                        "Criminal_investigation@Suspect",
+                        "Killing@Killer",
+                        "Notification_of_charges@Accused",
+                        "Suspicion@Suspect",
+                        "Arrest@Suspect"
+                    ],
+                    "lemma": "man",
+                    "sentence": "14",
+                    "target phrase": "four man \u2013"
+                },
+                "t306": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": null,
+                    "lemma": "suspect",
+                    "reftype": "type",
+                    "sentence": "16"
+                }
+            },
+            "Q1637127644242": {
+                "t289": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Criminal_investigation@Suspect",
+                        "Downing@Agent",
+                        "Killing@Killer",
+                        "Criminal_investigation@Suspect",
+                        "Killing@Killer",
+                        "Notification_of_charges@Accused",
+                        "Suspicion@Suspect",
+                        "Arrest@Suspect"
+                    ],
+                    "lemma": "man",
+                    "sentence": "14",
+                    "target phrase": "four man \u2013"
+                },
+                "t306": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": null,
+                    "lemma": "suspect",
+                    "reftype": "type",
+                    "sentence": "16"
+                }
+            },
+            "Q1637127655450": {
+                "t289": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Criminal_investigation@Suspect",
+                        "Downing@Agent",
+                        "Killing@Killer",
+                        "Criminal_investigation@Suspect",
+                        "Killing@Killer",
+                        "Notification_of_charges@Accused",
+                        "Suspicion@Suspect",
+                        "Arrest@Suspect"
+                    ],
+                    "lemma": "man",
+                    "sentence": "14",
+                    "target phrase": "four man \u2013"
+                },
+                "t306": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": null,
+                    "lemma": "suspect",
+                    "reftype": "type",
+                    "sentence": "16"
+                }
+            },
+            "Q1637127680472": {
+                "t289": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Criminal_investigation@Suspect",
+                        "Downing@Agent",
+                        "Killing@Killer",
+                        "Criminal_investigation@Suspect",
+                        "Killing@Killer",
+                        "Notification_of_charges@Accused",
+                        "Suspicion@Suspect",
+                        "Arrest@Suspect"
+                    ],
+                    "lemma": "man",
+                    "sentence": "14",
+                    "target phrase": "four man \u2013"
+                },
+                "t306": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": null,
+                    "lemma": "suspect",
+                    "reftype": "type",
+                    "sentence": "16"
+                }
+            },
+            "Q67197819": {
+                "t160": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Arrest@Suspect",
+                        "Notification_of_charges@Accused",
+                        "Offenses@Perpetrator",
+                        "Terrorism@Terrorist"
+                    ],
+                    "lemma": "Tsemakh",
+                    "sentence": "8",
+                    "target phrase": "Tsemakh"
+                },
+                "t18": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Perception_experience",
+                    "frame elements": [
+                        "Perception_experience@Perceiver_passive",
+                        "Questioning@Addressee",
+                        "Releasing@Theme"
+                    ],
+                    "lemma": "witness",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "a potential key witness in the MH17 investigation who be release by Ukraine at weekend"
+                },
+                "t22": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Criminal_investigation",
+                    "frame elements": null,
+                    "lemma": "investigation",
+                    "reftype": "type",
+                    "sentence": "2"
+                },
+                "t223": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Exchange@Theme_1",
+                        "Questioning@Addressee"
+                    ],
+                    "lemma": "Tsemakh",
+                    "sentence": "10",
+                    "target phrase": "Tsemakh"
+                },
+                "t25": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Releasing",
+                    "frame elements": null,
+                    "lemma": "release",
+                    "reftype": "type",
+                    "sentence": "2"
+                },
+                "t253": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Questioning@Addressee"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "13",
+                    "target phrase": "-PRON-"
+                },
+                "t259": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Exchange@Theme_1",
+                        "Inclusion@Part"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "13",
+                    "target phrase": "-PRON-"
+                },
+                "t27": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Rebellion@Current_leadership",
+                        "Rebellion@Current_leadership",
+                        "Exchange@Exchanger_1",
+                        "Exchange@Exchanger_2"
+                    ],
+                    "lemma": "Ukraine",
+                    "sentence": "2",
+                    "target phrase": "Ukraine"
+                },
+                "t37": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Departing@Theme"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "2",
+                    "target phrase": "-PRON-"
+                },
+                "t51": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Arrest@Suspect"
+                    ],
+                    "lemma": "Vladimir",
+                    "sentence": "3",
+                    "target phrase": "Vladimir"
+                },
+                "t70": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Have_associated@Topical_entity"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "4",
+                    "target phrase": "-PRON-"
+                }
+            }
+        },
+        "historical distance": 1879,
+        "implicated fe's": [
+            "Perception_experience@Body_part",
+            "Questioning@Message",
+            "Releasing@Location_of_confinement",
+            "Arrest@Charges",
+            "Leadership@Role",
+            "Leadership@Governed",
+            "Bringing@Agent",
+            "Bringing@Path",
+            "Bringing@Area",
+            "Bringing@Carrier",
+            "Questioning@Message",
+            "Change_event_time@Agent",
+            "Questioning@Message",
+            "Control@Degree"
+        ],
+        "raw text": "Dutch did question MH17 witness before he was returned to Russia: minister.\n\nA potential key witness in the MH17 investigation who was released by Ukraine at the weekend was questioned by Dutch officials before he left for Moscow, Dutch foreign minister Stef Blok has told MPs. Vladimir Tsemakh, 58, was arrested in a separatist-held part of Ukraine earlier this year. He is said by investigators to have had a key role with Russian-backed Ukrainian rebel forces. Flight MH17 was shot down by a Buk missile over eastern Ukraine in July 2014, killing all 298 people on board. Most of the people on board were Dutch and the investigation into what happened is being led by Dutch officials. The international investigation team said in 2016 that the missile had been brought from Russia and fired from a field controlled by Russian-backed separatists. Tsemakh was arrested and charged with terrorism offences at the end of June. The prisoner exchange, reported by both the Russian and Ukrainian state news agencies, involved 35 Russians and 35 Ukrainians. Delayed Blok told MPs in a statement on Saturday that the prisoner exchange had been delayed to allow officials from the Dutch public prosecution service to question Tsemakh. \u2018The Netherlands applied pressure at the highest diplomatic and political levels\u2019 to keep Tsemakh in Ukraine, Blok said. Although officials were able to question him, the Netherlands regrets that he has been included in the prisoner exchange, under pressure from the Russian authorities, Blok said. Earlier this year, the Netherlands issued arrest warrants for four men \u2013 three Russians and a Ukrainian \u2013 on murder charges. Tsemakh is not among the suspects but is considered a \u2018person of interest\u2019.\n",
+        "subevents": {
+            "mw1": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Downing",
+                "frame elements": [
+                    "Criminal_investigation@Incident",
+                    "Perception_experience@Phenomenon",
+                    "Questioning@Topic",
+                    "Arrest@Offense",
+                    "Killing@Means",
+                    "Criminal_investigation@Incident",
+                    "Terrorism@Act",
+                    "Questioning@Topic",
+                    "Questioning@Topic",
+                    "Killing@Means",
+                    "Suspicion@Incident",
+                    "Arrest@Offense"
+                ],
+                "lemma": "shoot down",
+                "reftype": "type",
+                "sentence": "5",
+                "target phrase": "shoot down"
+            },
+            "t105": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Killing",
+                "frame elements": null,
+                "lemma": "kill",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t122": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": [
+                    "Leadership@Activity"
+                ],
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "6",
+                "target phrase": "the investigation into what happen"
+            },
+            "t128": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "lead",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t145": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bringing",
+                "frame elements": null,
+                "lemma": "bring",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t149": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": null,
+                "lemma": "fire",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t153": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Control",
+                "frame elements": null,
+                "lemma": "control",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t162": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arrest",
+                "frame elements": null,
+                "lemma": "arrest",
+                "reftype": "type",
+                "sentence": "8"
+            },
+            "t164": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Notification_of_charges",
+                "frame elements": null,
+                "lemma": "charge",
+                "reftype": "type",
+                "sentence": "8"
+            },
+            "t166": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Terrorism",
+                "frame elements": [
+                    "Arrest@Charges",
+                    "Arrest@Offense",
+                    "Notification_of_charges@Charges",
+                    "Offenses@Offense"
+                ],
+                "lemma": "terrorism",
+                "reftype": "type",
+                "sentence": "8",
+                "target phrase": "terrorism"
+            },
+            "t167": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Offenses",
+                "frame elements": null,
+                "lemma": "offence",
+                "reftype": "type",
+                "sentence": "8"
+            },
+            "t176": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Exchange",
+                "frame elements": null,
+                "lemma": "exchange",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t208": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Exchange",
+                "frame elements": [
+                    "Change_event_time@Event"
+                ],
+                "lemma": "exchange",
+                "reftype": "type",
+                "sentence": "10",
+                "target phrase": "the prisoner exchange"
+            },
+            "t211": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Change_event_time",
+                "frame elements": null,
+                "lemma": "delay",
+                "reftype": "type",
+                "sentence": "10"
+            },
+            "t222": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Questioning",
+                "frame elements": null,
+                "lemma": "question",
+                "reftype": "type",
+                "sentence": "10"
+            },
+            "t228": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Using",
+                "frame elements": [
+                    "Change_event_time@Cause"
+                ],
+                "lemma": "apply",
+                "reftype": "type",
+                "sentence": "12",
+                "target phrase": "the Netherlands apply pressure at level \u2019 to keep Tsemakh in Ukraine"
+            },
+            "t239": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_to_continue",
+                "frame elements": [
+                    "Using@Purpose"
+                ],
+                "lemma": "keep",
+                "reftype": "type",
+                "sentence": "12",
+                "target phrase": "to keep Tsemakh in Ukraine"
+            },
+            "t252": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Questioning",
+                "frame elements": null,
+                "lemma": "question",
+                "reftype": "type",
+                "sentence": "13"
+            },
+            "t262": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Inclusion",
+                "frame elements": null,
+                "lemma": "include",
+                "reftype": "type",
+                "sentence": "13"
+            },
+            "t266": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Exchange",
+                "frame elements": [
+                    "Inclusion@Total"
+                ],
+                "lemma": "exchange",
+                "reftype": "type",
+                "sentence": "13",
+                "target phrase": "the prisoner exchange"
+            },
+            "t284": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Creating",
+                "frame elements": null,
+                "lemma": "issue",
+                "reftype": "type",
+                "sentence": "14"
+            },
+            "t285": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arrest",
+                "frame elements": null,
+                "lemma": "arrest",
+                "reftype": "type",
+                "sentence": "14"
+            },
+            "t298": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Killing",
+                "frame elements": [
+                    "Notification_of_charges@Charges",
+                    "Arrest@Charges"
+                ],
+                "lemma": "murder",
+                "reftype": "type",
+                "sentence": "15",
+                "target phrase": "murder"
+            },
+            "t299": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Notification_of_charges",
+                "frame elements": null,
+                "lemma": "charge",
+                "reftype": "type",
+                "sentence": "15"
+            },
+            "t32": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Questioning",
+                "frame elements": null,
+                "lemma": "question",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t38": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Departing",
+                "frame elements": null,
+                "lemma": "leave",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t57": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arrest",
+                "frame elements": null,
+                "lemma": "arrest",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t77": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Have_associated",
+                "frame elements": null,
+                "lemma": "have",
+                "reftype": "type",
+                "sentence": "4"
+            }
+        }
+    }
+}

@@ -1,0 +1,1076 @@
+{
+    "Tramschutter G\u00f6kmen Tanis steekt gevangenisbewaker in het gezicht": {
+        "fe's without links": {
+            "t105": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Cause_harm@Victim"
+                ],
+                "lemma": "medewerker",
+                "sentence": "6",
+                "target phrase": "een medewerker"
+            },
+            "t112": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Assistance@Benefited_party"
+                ],
+                "lemma": "op",
+                "sentence": "7",
+                "target phrase": "op"
+            },
+            "t114": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Being_located@Location"
+                ],
+                "lemma": "afdeling",
+                "sentence": "7",
+                "target phrase": "op die afdeling"
+            },
+            "t118": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Cause_harm@Victim",
+                    "Cause_harm@Victim"
+                ],
+                "lemma": "bewaker",
+                "sentence": "8",
+                "target phrase": "de bewaker"
+            },
+            "t126": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Cause_harm@Body_part",
+                    "Cause_harm@Body_part",
+                    "Cause_harm@Body_part",
+                    "Cause_harm@Body_part",
+                    "Cause_harm@Body_part",
+                    "Cause_harm@Body_part",
+                    "Cause_harm@Body_part",
+                    "Cause_harm@Body_part",
+                    "Cause_harm@Body_part",
+                    "Cause_harm@Body_part"
+                ],
+                "lemma": "gezicht",
+                "sentence": "8",
+                "target phrase": "in zijn gezicht"
+            },
+            "t133.c0": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "lichtgewond",
+                "frame elements": [
+                    "Cause_harm@Degree"
+                ],
+                "function": "modifier",
+                "lemma": "licht",
+                "sentence": "8",
+                "target phrase": "lichtgewond"
+            },
+            "t135": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Cause_harm@Victim"
+                ],
+                "lemma": "hij",
+                "sentence": "9",
+                "target phrase": "hij"
+            },
+            "t155": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Placing@Goal"
+                ],
+                "lemma": "strafcel",
+                "sentence": "10",
+                "target phrase": "in een strafcel"
+            },
+            "t159": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Reporting@Informer"
+                ],
+                "lemma": "directie",
+                "sentence": "11",
+                "target phrase": "de directie van de schie"
+            },
+            "t16": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Releasing@Location_of_confinement"
+                ],
+                "lemma": "gevangenis",
+                "sentence": "1",
+                "target phrase": "in de rotterdams gevangenis de schie"
+            },
+            "t191.c0": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "zwaargewond",
+                "frame elements": [
+                    "Cause_harm@Degree"
+                ],
+                "function": "modifier",
+                "lemma": "zwaar",
+                "sentence": "14",
+                "target phrase": "zwaargewond"
+            },
+            "t194": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Verdict@Judge",
+                    "Sentencing@Court",
+                    "Trial@Court"
+                ],
+                "lemma": "rechtbank",
+                "sentence": "15",
+                "target phrase": "de rechtbank"
+            },
+            "t198": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Sentencing@Term_of_sentence"
+                ],
+                "lemma": "levenslang",
+                "sentence": "15",
+                "target phrase": "levenslang"
+            },
+            "t199": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Sentencing@Sentence"
+                ],
+                "lemma": "gevangenisstraf",
+                "sentence": "15",
+                "target phrase": "een levenslang gevangenisstraf"
+            },
+            "t20": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Cause_harm@Victim",
+                    "Cause_harm@Victim",
+                    "Cause_harm@Victim",
+                    "Cause_harm@Victim",
+                    "Participation@Participant_2",
+                    "Cause_harm@Victim"
+                ],
+                "lemma": "bewaker",
+                "sentence": "1",
+                "target phrase": "een bewaker"
+            },
+            "t28.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "steekwapen",
+                "frame elements": [
+                    "Cause_harm@Instrument",
+                    "Creating@Created_entity"
+                ],
+                "function": "head",
+                "lemma": "wapen",
+                "sentence": "2",
+                "target phrase": "steekwapen"
+            },
+            "t30": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Creating@Creator"
+                ],
+                "lemma": "hij",
+                "sentence": "2",
+                "target phrase": "hij"
+            },
+            "t303.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "steekwapen",
+                "frame elements": [
+                    "Cause_harm@Instrument",
+                    "Creating@Created_entity"
+                ],
+                "function": "head",
+                "lemma": "wapen",
+                "sentence": "23",
+                "target phrase": "steekwapen"
+            },
+            "t314": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Desiring@Focal_participant",
+                    "Defending@Defender",
+                    "Trial@Defense",
+                    "Trial@Defense"
+                ],
+                "lemma": "andre",
+                "sentence": "24",
+                "target phrase": "andre seebregts"
+            },
+            "t326": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Trial@Court"
+                ],
+                "lemma": "rechtbank",
+                "sentence": "24",
+                "target phrase": "van de rechtbank"
+            },
+            "t341": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Assistance@Helper"
+                ],
+                "lemma": "ik",
+                "sentence": "24",
+                "target phrase": "ik"
+            },
+            "t391": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Cause_harm@Victim"
+                ],
+                "lemma": "iemand",
+                "sentence": "27",
+                "target phrase": "iemand"
+            }
+        },
+        "frames/links": {
+            "Q1632409367599": {
+                "t180": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hit_target@Target",
+                        "Hit_target@Target",
+                        "Attack@Victim"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "13",
+                    "target phrase": "vi mens"
+                },
+                "t189": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Cause_harm@Victim"
+                    ],
+                    "lemma": "slachtoffer",
+                    "sentence": "14",
+                    "target phrase": "drie andere slachtoffer"
+                }
+            },
+            "Q62090804": {
+                "t234": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Verdict@Charges",
+                        "Event_instance@Event",
+                        "Experiencer_focus@Content",
+                        "Contrition@Action"
+                    ],
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "17",
+                    "target phrase": "voor de aanslag"
+                }
+            },
+            "Q62116513": {
+                "t100": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Cause_harm@Agent"
+                    ],
+                    "lemma": "detineren",
+                    "sentence": "6",
+                    "target phrase": "detineren van de terroristenafdeling een"
+                },
+                "t109": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Being_located@Theme"
+                    ],
+                    "lemma": "g\u00f6km",
+                    "sentence": "7",
+                    "target phrase": "g\u00f6km tanis"
+                },
+                "t150": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Placing@Theme"
+                    ],
+                    "lemma": "g\u00f6km",
+                    "sentence": "10",
+                    "target phrase": "g\u00f6km tanis"
+                },
+                "t174": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hit_target@Agent"
+                    ],
+                    "lemma": "tani",
+                    "sentence": "13",
+                    "target phrase": "tani"
+                },
+                "t196": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Sentencing@Convict"
+                    ],
+                    "lemma": "hem",
+                    "sentence": "15",
+                    "target phrase": "hem"
+                },
+                "t208": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Releasing@Theme"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "16",
+                    "target phrase": "hij"
+                },
+                "t228": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Attack@Assailant",
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "tani",
+                    "sentence": "17",
+                    "target phrase": "tani"
+                },
+                "t238": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Experiencer_focus@Experiencer",
+                        "Contrition@Experiencer",
+                        "Trial@Defendant"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "18",
+                    "target phrase": "hij"
+                },
+                "t25": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Cause_harm@Agent"
+                    ],
+                    "lemma": "utrechter",
+                    "sentence": "2",
+                    "target phrase": "de 39-jarige utrechter"
+                },
+                "t300": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Cause_harm@Agent",
+                        "Creating@Creator"
+                    ],
+                    "lemma": "tani",
+                    "sentence": "23",
+                    "target phrase": "tani"
+                },
+                "t318": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Desiring@Experiencer",
+                        "Defending@Victim",
+                        "Trial@Defendant"
+                    ],
+                    "lemma": "tani",
+                    "sentence": "24",
+                    "target phrase": "tani"
+                },
+                "t388": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Cause_harm@Agent"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "27",
+                    "target phrase": "t."
+                },
+                "t6": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Verdict@Finding"
+                    ],
+                    "lemma": "levenslang",
+                    "sentence": "1",
+                    "target phrase": "levenslang"
+                },
+                "t7": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Verdict",
+                    "frame elements": null,
+                    "lemma": "veroordelen",
+                    "reftype": "type",
+                    "sentence": "1"
+                },
+                "t8.c0": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "tramschutter",
+                    "frame": null,
+                    "frame elements": [
+                        "Hit_target@Place"
+                    ],
+                    "function": "modifier",
+                    "lemma": "tram",
+                    "sentence": "1",
+                    "target phrase": "tramschutter"
+                },
+                "t8.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "tramschutter",
+                    "frame": "Hit_target",
+                    "frame elements": null,
+                    "function": "head",
+                    "lemma": "schutter",
+                    "reftype": "evoke",
+                    "sentence": "1"
+                },
+                "t80": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Cause_harm",
+                    "frame elements": null,
+                    "lemma": "steker",
+                    "reftype": "evoke",
+                    "sentence": "5"
+                },
+                "t81": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Cause_harm@Agent"
+                    ],
+                    "lemma": "g\u00f6km",
+                    "sentence": "5",
+                    "target phrase": "g\u00f6km tanis"
+                },
+                "t9": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Verdict@Defendant",
+                        "Hit_target@Agent",
+                        "Cause_harm@Agent",
+                        "Cause_harm@Agent",
+                        "Cause_harm@Agent",
+                        "Participation@Participant_1",
+                        "Cause_harm@Agent",
+                        "Cause_harm@Agent",
+                        "Reporting@Wrongdoer",
+                        "Criminal_investigation@Suspect",
+                        "Cause_harm@Agent"
+                    ],
+                    "lemma": "g\u00f6km",
+                    "sentence": "1",
+                    "target phrase": "tanis g\u00f6km"
+                }
+            },
+            "Q803": {}
+        },
+        "historical distance": 703,
+        "implicated fe's": [
+            "Placing@Agent",
+            "Reporting@Authorities",
+            "Criminal_investigation@Investigator",
+            "Cause_harm@Body_part",
+            "Releasing@Captor",
+            "Rebellion@Current_leadership",
+            "Rebellion@Current_order",
+            "Experiencer_focus@Expressor",
+            "Experiencer_focus@Topic",
+            "Experiencer_focus@State",
+            "Contrition@Expressor",
+            "Contrition@Emotional_state",
+            "Desiring@Location_of_event",
+            "Defending@Assailant",
+            "Assistance@Goal",
+            "Trial@Jury",
+            "Trial@Charges",
+            "Trial@Prosecution",
+            "Trial@Judge",
+            "Trial@Charges",
+            "Trial@Jury",
+            "Trial@Prosecution",
+            "Trial@Judge"
+        ],
+        "raw text": "\nVIDEODe in mei 2020 tot levenslang veroordeelde tramschutter G\u00f6kmen Tanis heeft gistermiddag in de Rotterdamse gevangenis De Schie een bewaker neergestoken. De 39-jarige Utrechter gebruikte een steekwapen dat hij in zijn cel had gefabriceerd. Deze site wordt beschermd door reCAPTCHA en Google privacybeleid en de gebruiksvoorwaarden zijn van toepassing. Volgens Christa Lemmen, woordvoerder van de Dienst Justiti\u00eble Inrichtingen, was er geen enkele aanleiding voor de steekpartij. Bronnen rond de gevangenis melden dat de steker G\u00f6kmen Tanis is, maar Lemmen meldt dat niet te kunnen bevestigen. Wel geeft ze aan dat een gedetineerde van de terroristenafdeling een medewerker heeft gestoken. G\u00f6kmen Tanis zit op die afdeling. Lichtgewond De bewaker, een man, werd in zijn gezicht en nek gestoken, maar raakte lichtgewond. Hij is in het ziekenhuis aan zijn verwondingen behandeld en mocht daarna naar huis. G\u00f6kmen Tanis is in een strafcel geplaatst. De directie van De Schie heeft aangifte gedaan. Het onderzoek loopt, meldt Lemmen. Tanis schoot in maart 2019 vier mensen dood in een Utrechtse tram. Drie andere slachtoffers raakten zwaargewond. De rechtbank legde hem een levenslange gevangenisstraf op; mede vanuit het oogpunt dat als hij ooit weer vrij zou komen de kans op herhaling groot zou zijn. Voor de rechtbank stond vast dat Tanis in de periode voor de aanslag was geradicaliseerd. Hij toonde een jaar later tijdens het proces geen enkele spijt of berouw. Volledig scherm \u00a9 ANP Graphics Extra beveiligd Nederland kent drie gevangenissen met een terroristenafdeling; die in Rotterdam, Vught en Zwolle. De extra beveiligde afdelingen zijn klein en afgescheiden van andere afdelingen. Op de terroristenafdeling in De Schie is plek voor veertien gedetineerden. Hoe Tanis ongezien een steekwapen heeft kunnen fabriceren is nog onduidelijk. De Rotterdamse advocaat Andre Seebregts, die Tanis tegen zijn zin op last van de rechtbank tijdens het proces verdedigde, zegt geen reactie te kunnen geven. ,,Ik sta hem niet meer bij.\u2019\u2019 Advocaat S\u00e9bas Diekstra, die de vader van de doodgeschoten Roos Verschuur bijstaat, laat desgevraagd weten: ,,Mijn cli\u00ebnt heeft kennis genomen van de berichtgeving. Hij laat weten het heel betreurenswaardig te vinden dat T. kennelijk opnieuw iemand heeft kunnen beschadigen.\u2019' Heb je een nieuwstip over wapens in gevangenissen of een andere misstand? Dan kun je ons een berichtje sturen via WhatsApp of Signal op: +31615377185. Je kunt ook mailen naar tips@ad.nl of tippen via Publeaks. Via al deze kanalen kun je ons anoniem tippen. Je gegevens nemen we in vertrouwen in behandeling volgens ons privacy statement. Onze excuses Helaas kunnen wij deze social post, liveblog of anders niet tonen omdat het \u00e9\u00e9n of meerdere social media-elementen bevat. Aanvaard de social media-cookies om deze inhoud alsnog te tonen.\n",
+        "subevents": {
+            "mw2": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Sentencing",
+                "frame elements": null,
+                "lemma": "opleggen",
+                "reftype": "type",
+                "sentence": "15"
+            },
+            "mw4": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Assistance",
+                "frame elements": null,
+                "lemma": "bijstaan",
+                "reftype": "type",
+                "sentence": "24"
+            },
+            "mw6": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Releasing",
+                "frame elements": null,
+                "lemma": "vrijkomen",
+                "reftype": "type",
+                "sentence": "16"
+            },
+            "t107": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_harm",
+                "frame elements": null,
+                "lemma": "steken",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t111": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_located",
+                "frame elements": null,
+                "lemma": "zitten",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t129": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_harm",
+                "frame elements": null,
+                "lemma": "steken",
+                "reftype": "type",
+                "sentence": "8"
+            },
+            "t133.c1": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "lichtgewond",
+                "frame": "Cause_harm",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "gewond",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t142": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_harm",
+                "frame elements": null,
+                "lemma": "verwonding",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t156": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Placing",
+                "frame elements": null,
+                "lemma": "plaatsen",
+                "reftype": "type",
+                "sentence": "10"
+            },
+            "t164": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Reporting",
+                "frame elements": null,
+                "lemma": "aangifte",
+                "reftype": "type",
+                "sentence": "11"
+            },
+            "t168": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "onderzoek",
+                "reftype": "type",
+                "sentence": "12"
+            },
+            "t175": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hit_target",
+                "frame elements": [
+                    "Sentencing@Offense"
+                ],
+                "lemma": "schieten",
+                "reftype": "type",
+                "sentence": "13",
+                "target phrase": "tani schieten in maart 2019 vi mens dood in een utrechts tram ."
+            },
+            "t191.c1": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "zwaargewond",
+                "frame": "Cause_harm",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "gewond",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t21": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_harm",
+                "frame elements": [
+                    "Reporting@Behavior",
+                    "Criminal_investigation@Incident"
+                ],
+                "lemma": "neersteken",
+                "reftype": "type",
+                "sentence": "1",
+                "target phrase": "hebben gistermiddag in de rotterdams gevangenis de schie een bewaker neersteken"
+            },
+            "t217": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Event_instance",
+                "frame elements": [
+                    "Event_instance@Instance"
+                ],
+                "lemma": "herhaling",
+                "reftype": "evoke",
+                "sentence": "16",
+                "target phrase": "op herhaling"
+            },
+            "t236": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Rebellion",
+                "frame elements": null,
+                "lemma": "radicaliseren",
+                "reftype": "type",
+                "sentence": "17"
+            },
+            "t245": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Trial",
+                "frame elements": [
+                    "Verdict@Case",
+                    "Experiencer_focus@Event",
+                    "Trial@Case"
+                ],
+                "lemma": "proces",
+                "reftype": "evoke",
+                "sentence": "18",
+                "target phrase": "tijdens het proces"
+            },
+            "t248": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Experiencer_focus",
+                "frame elements": null,
+                "lemma": "spijt",
+                "reftype": "evoke",
+                "sentence": "18"
+            },
+            "t250": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Contrition",
+                "frame elements": null,
+                "lemma": "berouw",
+                "reftype": "evoke",
+                "sentence": "18"
+            },
+            "t28.c0": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "steekwapen",
+                "frame": "Cause_harm",
+                "frame elements": null,
+                "function": "modifier",
+                "lemma": "steken",
+                "reftype": "evoke",
+                "sentence": "2"
+            },
+            "t303.c0": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "steekwapen",
+                "frame": "Cause_harm",
+                "frame elements": null,
+                "function": "modifier",
+                "lemma": "steken",
+                "reftype": "evoke",
+                "sentence": "23"
+            },
+            "t306": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Creating",
+                "frame elements": null,
+                "lemma": "fabriceren",
+                "reftype": "type",
+                "sentence": "23"
+            },
+            "t321": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Desiring",
+                "frame elements": null,
+                "lemma": "zin",
+                "reftype": "evoke",
+                "sentence": "24"
+            },
+            "t329": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Trial",
+                "frame elements": [
+                    "Assistance@Focal_entity",
+                    "Trial@Case"
+                ],
+                "lemma": "proces",
+                "reftype": "evoke",
+                "sentence": "24",
+                "target phrase": "tijdens het proces"
+            },
+            "t330": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Defending",
+                "frame elements": [
+                    "Desiring@Event"
+                ],
+                "lemma": "verdedigen",
+                "reftype": "type",
+                "sentence": "24",
+                "target phrase": "die tani tegen zijn zin op last van de rechtbank tijdens het proces verdedigen"
+            },
+            "t35": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Creating",
+                "frame elements": null,
+                "lemma": "fabriceren",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t394": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_harm",
+                "frame elements": null,
+                "lemma": "beschadigen",
+                "reftype": "type",
+                "sentence": "27"
+            },
+            "t71.c0": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "steekpartij",
+                "frame": "Cause_harm",
+                "frame elements": [
+                    "Participation@Event"
+                ],
+                "function": "modifier",
+                "lemma": "steken",
+                "reftype": "evoke",
+                "sentence": "4",
+                "target phrase": "steekpartij"
+            },
+            "t71.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "steekpartij",
+                "frame": "Participation",
+                "frame elements": [
+                    "Cause_harm@Containing_event"
+                ],
+                "function": "head",
+                "lemma": "partij",
+                "reftype": "evoke",
+                "sentence": "4",
+                "target phrase": "steekpartij"
+            }
+        }
+    }
+}

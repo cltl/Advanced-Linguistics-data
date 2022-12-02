@@ -1,0 +1,344 @@
+{
+    "Duizenden mensen melden zich op ikbenveilig.nl": {
+        "fe's without links": {
+            "t101": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Appointing@Official"
+                ],
+                "lemma": "hulpverlener",
+                "sentence": "7",
+                "target phrase": "twintig hulpverlener"
+            },
+            "t11": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Seeking@Cognizer_agent"
+                ],
+                "lemma": "mens",
+                "sentence": "1",
+                "target phrase": "voor mens die familie kennis zoeken in verband met situatie"
+            },
+            "t110": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Intentionally_create@Created_entity"
+                ],
+                "lemma": "calamiteitenhospitaal",
+                "sentence": "7",
+                "target phrase": "van het calamiteitenhospitaal van het umc utrecht"
+            },
+            "t13": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Seeking@Sought_entity"
+                ],
+                "lemma": "familie",
+                "sentence": "1",
+                "target phrase": "familie of kennis"
+            },
+            "t2": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Intentionally_create@Creator"
+                ],
+                "lemma": "hulporganisatie",
+                "sentence": "1",
+                "target phrase": "de hulporganisatie"
+            },
+            "t29": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Residence@Resident",
+                    "Causation@Affected",
+                    "Risky_situation@Asset"
+                ],
+                "lemma": "utrechter",
+                "sentence": "2",
+                "target phrase": "veel utrechter"
+            },
+            "t32.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "noodgedwongen",
+                "frame elements": [
+                    "Causation@Cause"
+                ],
+                "function": "modifier",
+                "lemma": "nood",
+                "sentence": "2",
+                "target phrase": "noodgedwongen"
+            },
+            "t33": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Residence@Location"
+                ],
+                "lemma": "binnen",
+                "sentence": "2",
+                "target phrase": "binnen"
+            },
+            "t4": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Event@Time"
+                ],
+                "lemma": "maandagmiddag",
+                "sentence": "1",
+                "target phrase": "maandagmiddag"
+            },
+            "t6": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Intentionally_create@Created_entity"
+                ],
+                "lemma": "website",
+                "sentence": "1",
+                "target phrase": "de website"
+            },
+            "t97": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Intentionally_create@Creator",
+                    "Appointing@Selector"
+                ],
+                "lemma": "rode",
+                "sentence": "7",
+                "target phrase": "het rode kruis"
+            }
+        },
+        "frames/links": {
+            "Q62090804": {
+                "t22": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Event",
+                    "frame elements": null,
+                    "lemma": "situatie",
+                    "reftype": "evoke",
+                    "sentence": "1"
+                },
+                "t24": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Event@Place"
+                    ],
+                    "lemma": "utrecht",
+                    "sentence": "1",
+                    "target phrase": "in utrecht"
+                }
+            },
+            "Q803": {
+                "t24": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Event@Place"
+                    ],
+                    "lemma": "utrecht",
+                    "sentence": "1",
+                    "target phrase": "in utrecht"
+                }
+            }
+        },
+        "historical distance": 0,
+        "implicated fe's": [
+            "Event@Event",
+            "Residence@Co_resident",
+            "Causation@Actor",
+            "Attack@Victim",
+            "Attack@Assailant",
+            "Terrorism@Terrorist",
+            "Terrorism@Victim",
+            "Appointing@Role",
+            "Appointing@Function",
+            "Appointing@Body"
+        ],
+        "raw text": "\nDe hulporganisatie besloot maandagmiddag de website open te stellen voor mensen die familie of kennissen zoeken in verband met de gespannen situatie in Utrecht. Daardoor moesten veel Utrechters enige tijd noodgedwongen binnen blijven. Bekijk ook: NCTV verhoogt dreigingsniveau in provincie Utrecht De website van het Rode Kruis is ontwikkeld om in een noodsituatie familie en vrienden in kennis te stellen dat ze zich geen zorgen hoeven te maken. Ikbenveilig.nl heeft als doel die communicatie makkelijker te maken. In de provincie Utrecht geldt maandag het hoogste dreigingsniveau voor terroristische aanslagen. Het Rode Kruis heeft twintig hulpverleners afgevaardigd in verband met de openstelling van het calamiteitenhospitaal van het UMC Utrecht. Bekijk ook: NCTV verhoogt dreigingsniveau in provincie Utrecht\n",
+        "subevents": {
+            "mw1": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_create",
+                "frame elements": null,
+                "lemma": "openstellen",
+                "reftype": "type",
+                "sentence": "1"
+            },
+            "t102": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Appointing",
+                "frame elements": null,
+                "lemma": "afvaardigen",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t107": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Intentionally_create",
+                "frame elements": null,
+                "lemma": "openstelling",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t16": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Seeking",
+                "frame elements": null,
+                "lemma": "zoeken",
+                "reftype": "type",
+                "sentence": "1"
+            },
+            "t32.c1": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "noodgedwongen",
+                "frame": "Causation",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "dwingen",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t34": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Residence",
+                "frame elements": [
+                    "Causation@Effect"
+                ],
+                "lemma": "blijven",
+                "reftype": "type",
+                "sentence": "2",
+                "target phrase": "daardoor blijven"
+            },
+            "t41.c0": {
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Risky_situation",
+                "frame elements": null,
+                "reftype": "type"
+            },
+            "t91.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "dreigingsniveau",
+                "frame": "Risky_situation",
+                "frame elements": null,
+                "function": "modifier",
+                "lemma": "dreiging",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t93": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Terrorism",
+                "frame elements": null,
+                "lemma": "terroristisch",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t94": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attack",
+                "frame elements": [
+                    "Terrorism@Act",
+                    "Risky_situation@Situation"
+                ],
+                "lemma": "aanslag",
+                "reftype": "evoke",
+                "sentence": "6",
+                "target phrase": "voor terroristisch aanslag"
+            }
+        }
+    }
+}

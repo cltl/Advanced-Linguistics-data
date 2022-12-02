@@ -1,0 +1,336 @@
+{
+    "G\u00f6kmen T. schreef in briefje uit naam van Allah te handelen": {
+        "fe's without links": {
+            "t20": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Awareness@Cognizer",
+                    "Suspicion@Authority",
+                    "Suspicion@Authority"
+                ],
+                "lemma": "politie",
+                "sentence": "1",
+                "target phrase": "politie en openbaar ministerie"
+            },
+            "t36": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Locating@Sought_entity"
+                ],
+                "lemma": "brief",
+                "sentence": "3",
+                "target phrase": "het brief"
+            },
+            "t42": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Locating@Location",
+                    "Locating@Location",
+                    "Using@Instrument"
+                ],
+                "lemma": "renault",
+                "sentence": "3",
+                "target phrase": "renault clio"
+            },
+            "t59": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Locating@Sought_entity"
+                ],
+                "lemma": "brief",
+                "sentence": "4",
+                "target phrase": "van het brief en ' de aard van de feit"
+            }
+        },
+        "frames/links": {
+            "Q1632409367599": {
+                "t116": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Terrorism@Victim",
+                        "Attack@Victim",
+                        "Terrorism@Victim",
+                        "Attack@Victim",
+                        "Attack@Victim",
+                        "Terrorism@Victim",
+                        "Hostile_encounter@Side_2",
+                        "Killing@Victim"
+                    ],
+                    "lemma": "slachtoffer",
+                    "sentence": "5",
+                    "target phrase": "en de slachtoffer"
+                }
+            },
+            "Q62090804": {
+                "t28.c0": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "terreuraanslag",
+                    "frame": "Terrorism",
+                    "frame elements": null,
+                    "function": "modifier",
+                    "lemma": "terreur",
+                    "reftype": "evoke",
+                    "sentence": "1"
+                },
+                "t28.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "terreuraanslag",
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Awareness@Content",
+                        "Terrorism@Act",
+                        "Terrorism@Act",
+                        "Killing@Means",
+                        "Suspicion@Incident"
+                    ],
+                    "function": "head",
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "terreuraanslag"
+                },
+                "t49": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Suspicion@Incident"
+                    ],
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "3",
+                    "target phrase": "na de aanslag"
+                },
+                "t84": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Terrorism@Act"
+                    ],
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "4",
+                    "target phrase": "achter de aanslag"
+                }
+            },
+            "Q62116513": {
+                "t10": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Terrorism@Terrorist",
+                        "Attack@Assailant",
+                        "Terrorism@Terrorist",
+                        "Attack@Assailant",
+                        "Terrorism@Terrorist",
+                        "Suspicion@Suspect"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "1",
+                    "target phrase": "t. de broer en vader van"
+                },
+                "t113": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Hostile_encounter@Side_1",
+                        "Killing@Killer"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "5",
+                    "target phrase": "tussen de verdenken en de slachtoffer"
+                },
+                "t45.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "hoofdverdacht",
+                    "frame": "Suspicion",
+                    "frame elements": null,
+                    "function": "head",
+                    "lemma": "verdachte",
+                    "reftype": "evoke",
+                    "sentence": "3"
+                },
+                "t46": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Suspicion@Suspect",
+                        "Attack@Assailant",
+                        "Using@Agent"
+                    ],
+                    "lemma": "t.",
+                    "sentence": "3",
+                    "target phrase": "t."
+                }
+            }
+        },
+        "historical distance": 1,
+        "implicated fe's": [
+            "Awareness@Topic",
+            "Awareness@Expressor",
+            "Locating@Perceiver",
+            "Locating@Ground",
+            "Locating@Perceiver",
+            "Locating@Ground",
+            "Hostile_encounter@Issue",
+            "Hostile_encounter@Purpose",
+            "Killing@Instrument",
+            "Using@Purpose",
+            "Using@Role"
+        ],
+        "raw text": "\nOp grond hiervan, gecombineerd met de banden van T.'s broer en vader met salafistische moslimbewegingen, denken politie en Openbaar Ministerie nog steeds aan een terreuraanslag. Dat schrijft de Telegraaf. Het briefje werd gevonden in de rode Renault Clio die hoofdverdachte T. na de aanslag gebruikte. Terroristisch motief Vanwege de vondst van het briefje en 'de aard van de feiten' houden politie en het Openbaar Ministerie er 'ernstig' rekening mee dat er achter de aanslag een terroristisch motief zit. Een conflict in de relationele sfeer, zoals eerwraak, zou veel onwaarschijnlijker zijn aangezien er geen enkele relatie is vastgesteld tussen de verdachte en de slachtoffers.\n",
+        "subevents": {
+            "t19": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Awareness",
+                "frame elements": null,
+                "lemma": "denken",
+                "reftype": "type",
+                "sentence": "1"
+            },
+            "t38": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locating",
+                "frame elements": null,
+                "lemma": "vinden",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t50": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Using",
+                "frame elements": null,
+                "lemma": "gebruiken",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t52": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Terrorism",
+                "frame elements": null,
+                "lemma": "terroristisch",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t56": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Locating",
+                "frame elements": null,
+                "lemma": "vondst",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t86": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Terrorism",
+                "frame elements": null,
+                "lemma": "terroristisch",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t91": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "conflict",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t98.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "eerwraak",
+                "frame": "Killing",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "wraak",
+                "reftype": "evoke",
+                "sentence": "5"
+            }
+        }
+    }
+}

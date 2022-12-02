@@ -1,0 +1,5062 @@
+{
+    "Exclusive: From 'Red October' village, new evidence on downing of Malaysian plane over Ukraine": {
+        "fe's without links": {
+            "t1019": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Shoot_projectiles@Projectile"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "52",
+                "target phrase": "-PRON-"
+            },
+            "t1045": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Theme",
+                    "Operating_a_system@System"
+                ],
+                "lemma": "battery",
+                "sentence": "53",
+                "target phrase": "the BUK missile battery"
+            },
+            "t1050": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Source"
+                ],
+                "lemma": "Russia",
+                "sentence": "53",
+                "target phrase": "Russia"
+            },
+            "t1087": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Perception_experience@Phenomenon"
+                ],
+                "lemma": "rocket",
+                "sentence": "56",
+                "target phrase": "the ' wiggle \u2019 rocket"
+            },
+            "t1095": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Shoot_projectiles@Projectile"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "56",
+                "target phrase": "-PRON-"
+            },
+            "t1113": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Shoot_projectiles@Projectile"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "57",
+                "target phrase": "-PRON-"
+            },
+            "t1172": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Categorization@Category"
+                ],
+                "lemma": "point",
+                "sentence": "59",
+                "target phrase": "the point from which the missile battery have launch the rocket"
+            },
+            "t1181": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Shoot_projectiles@Projectile"
+                ],
+                "lemma": "rocket",
+                "sentence": "59",
+                "target phrase": "the rocket"
+            },
+            "t1211": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Statement@Message"
+                ],
+                "lemma": "overhead",
+                "sentence": "61",
+                "target phrase": "overhead"
+            },
+            "t1219": {
+                "POS": "PART",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Motion@Direction"
+                ],
+                "lemma": "down",
+                "sentence": "61",
+                "target phrase": "down"
+            },
+            "t1253": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Attempt_suasion@Topic",
+                    "Downing@Cause"
+                ],
+                "lemma": "aircraft",
+                "sentence": "63",
+                "target phrase": "a ukrainian fighter aircraft"
+            },
+            "t128": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Control@Dependent_entity"
+                ],
+                "lemma": "Chervonyi",
+                "sentence": "6",
+                "target phrase": "Chervonyi"
+            },
+            "t1536": {
+                "POS": "PART",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Motion@Direction"
+                ],
+                "lemma": "down",
+                "sentence": "75",
+                "target phrase": "down"
+            },
+            "t164": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Shoot_projectiles@Projectile"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "7",
+                "target phrase": "-PRON-"
+            },
+            "t170": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Shoot_projectiles@Agent"
+                ],
+                "lemma": "rebel",
+                "sentence": "7",
+                "target phrase": "rebel"
+            },
+            "t213": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Rebellion@Current_leadership",
+                    "Rebellion@Current_leadership",
+                    "Rebellion@Current_leadership",
+                    "Rebellion@Current_leadership",
+                    "Hostile_encounter@Side_2",
+                    "Rebellion@Current_leadership",
+                    "Hostile_encounter@Side_2",
+                    "Rebellion@Current_leadership",
+                    "Rebellion@Current_leadership",
+                    "Rebellion@Current_leadership",
+                    "Rebellion@Current_leadership",
+                    "Rebellion@Current_leadership",
+                    "Rebellion@Current_leadership"
+                ],
+                "lemma": "Ukraine",
+                "sentence": "9",
+                "target phrase": "Ukraine and -PRON- western ally"
+            },
+            "t265": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Delivery@Theme",
+                    "Bringing@Theme"
+                ],
+                "lemma": "battery",
+                "sentence": "11",
+                "target phrase": "a BUK battery be deliver to town"
+            },
+            "t31": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Goal",
+                    "Ride_vehicle@Area",
+                    "Motion@Area"
+                ],
+                "lemma": "Ukraine",
+                "sentence": "3",
+                "target phrase": "eastern Ukraine"
+            },
+            "t326": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Placing@Theme"
+                ],
+                "lemma": "battery",
+                "sentence": "13",
+                "target phrase": "a missile battery"
+            },
+            "t347": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Motion@Source",
+                    "Ride_vehicle@Source"
+                ],
+                "lemma": "Amsterdam",
+                "sentence": "13",
+                "target phrase": "Amsterdam"
+            },
+            "t349": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Motion@Goal",
+                    "Ride_vehicle@Goal"
+                ],
+                "lemma": "Kuala",
+                "sentence": "13",
+                "target phrase": "Kuala"
+            },
+            "t642": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Motion@Theme",
+                    "Destroying@Cause"
+                ],
+                "lemma": "rocket",
+                "sentence": "31",
+                "target phrase": "a rocket"
+            },
+            "t680": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Motion@Theme"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "33",
+                "target phrase": "-PRON-"
+            },
+            "t736": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Motion@Area",
+                    "Motion@Area"
+                ],
+                "lemma": "Ukraine",
+                "sentence": "38",
+                "target phrase": "eastern Ukraine"
+            },
+            "t743": {
+                "POS": "PART",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Motion@Direction"
+                ],
+                "lemma": "down",
+                "sentence": "38",
+                "target phrase": "down"
+            },
+            "t752": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Locating@Sought_entity"
+                ],
+                "lemma": "concentration",
+                "sentence": "39",
+                "target phrase": "the big concentration of debris"
+            },
+            "t758": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Locating@Location"
+                ],
+                "lemma": "Hrabove",
+                "sentence": "39",
+                "target phrase": "Hrabove , about 20 km from Zhovten"
+            },
+            "t81": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Carrier"
+                ],
+                "lemma": "crane",
+                "sentence": "4",
+                "target phrase": "a crane"
+            },
+            "t84": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Theme"
+                ],
+                "lemma": "piece",
+                "sentence": "4",
+                "target phrase": "a piece of the MH17 wreckage"
+            }
+        },
+        "frames/links": {
+            "Q159": {
+                "t1059": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Affirm_or_deny@Speaker"
+                    ],
+                    "lemma": "Moscow",
+                    "sentence": "54",
+                    "target phrase": "Moscow"
+                },
+                "t1200": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Origin",
+                    "frame elements": null,
+                    "lemma": "russian",
+                    "reftype": "evoke",
+                    "sentence": "61"
+                },
+                "t1246": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Attempt_suasion@Speaker"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "63",
+                    "target phrase": "-PRON-"
+                },
+                "t178": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Attempt_suasion@Speaker"
+                    ],
+                    "lemma": "Moscow",
+                    "sentence": "7",
+                    "target phrase": "Moscow"
+                },
+                "t467": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Origin",
+                    "frame elements": null,
+                    "lemma": "russian",
+                    "reftype": "evoke",
+                    "sentence": "23"
+                },
+                "t468": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Taking_sides",
+                    "frame elements": null,
+                    "lemma": "side",
+                    "reftype": "evoke",
+                    "sentence": "23"
+                }
+            },
+            "Q1631025548534": {
+                "t244": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "People",
+                    "frame elements": [
+                        "Killing@Victim",
+                        "Ride_vehicle@Theme"
+                    ],
+                    "lemma": "people",
+                    "reftype": "evoke",
+                    "sentence": "10",
+                    "target phrase": "all 298 people on board"
+                }
+            },
+            "Q1631864085791": {
+                "mw1": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Using@Purpose"
+                    ],
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "9",
+                    "target phrase": "shoot down"
+                },
+                "t1141": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "58",
+                    "target phrase": "the rebel"
+                },
+                "t1202": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": null,
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "61"
+                },
+                "t1203": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Leadership",
+                    "frame elements": [
+                        "Statement@Speaker",
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "official",
+                    "reftype": "evoke",
+                    "sentence": "61",
+                    "target phrase": "russian and separatist official"
+                },
+                "t1246": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Attempt_suasion@Speaker"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "63",
+                    "target phrase": "-PRON-"
+                },
+                "t1268": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel",
+                        "Downing@Agent"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "64",
+                    "target phrase": "pro - russian separatist"
+                },
+                "t142": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Control@Controlling_entity",
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "6",
+                    "target phrase": "the rebel"
+                },
+                "t181": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "type",
+                    "sentence": "7",
+                    "target phrase": "the separatist that the plane be by military"
+                },
+                "t223": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel",
+                        "Using@Agent",
+                        "Downing@Agent"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "9",
+                    "target phrase": "the rebel who the airliner"
+                },
+                "t228": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "airliner",
+                    "reftype": "evoke",
+                    "sentence": "9",
+                    "target phrase": "the airliner"
+                },
+                "t377": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Leadership",
+                    "frame elements": null,
+                    "lemma": "commander",
+                    "reftype": "evoke",
+                    "sentence": "16"
+                },
+                "t384": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "16",
+                    "target phrase": "the separatist"
+                },
+                "t415": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "19",
+                    "target phrase": "the rebel"
+                },
+                "t514": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Taking_sides",
+                    "frame elements": null,
+                    "lemma": "back",
+                    "reftype": "evoke",
+                    "sentence": "25"
+                },
+                "t515": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel",
+                        "Revenge@Offender"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "25",
+                    "target phrase": "the Russian - back rebel"
+                },
+                "t529": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": null,
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "25"
+                },
+                "t530": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Leadership",
+                    "frame elements": [
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "leader",
+                    "reftype": "evoke",
+                    "sentence": "25",
+                    "target phrase": "separatist leader"
+                },
+                "t78": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Hit_target@Agent",
+                        "Shoot_projectiles@Agent",
+                        "Rebellion@Rebel",
+                        "Killing@Killer",
+                        "Delivery@Recipient",
+                        "Criminal_investigation@Suspect",
+                        "Hostile_encounter@Side_1",
+                        "Hostile_encounter@Side_1",
+                        "Shoot_projectiles@Agent",
+                        "Shoot_projectiles@Agent",
+                        "Shoot_projectiles@Agent",
+                        "Shoot_projectiles@Agent",
+                        "Shoot_projectiles@Agent",
+                        "Shoot_projectiles@Agent",
+                        "Criminal_investigation@Suspect",
+                        "Criminal_investigation@Suspect",
+                        "Trial@Defendant",
+                        "Shoot_projectiles@Agent",
+                        "Downing@Agent",
+                        "Downing@Agent",
+                        "Destroying@Destroyer",
+                        "Destroying@Destroyer"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "3",
+                    "target phrase": "pro - russian rebel"
+                }
+            },
+            "Q1631864271612": {
+                "t1011": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Destroying@Patient"
+                    ],
+                    "lemma": "airliner",
+                    "sentence": "52",
+                    "target phrase": "the airliner"
+                },
+                "t1217": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Statement@Topic",
+                        "Motion@Theme"
+                    ],
+                    "lemma": "airliner",
+                    "reftype": "evoke",
+                    "sentence": "61",
+                    "target phrase": "the malaysian airliner"
+                },
+                "t1260": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "airliner",
+                    "sentence": "63",
+                    "target phrase": "the malaysian airliner"
+                },
+                "t1274": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Ride_vehicle@Vehicle",
+                        "Downing@Patient"
+                    ],
+                    "lemma": "airliner",
+                    "reftype": "evoke",
+                    "sentence": "64",
+                    "target phrase": "the airliner"
+                },
+                "t1375": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Destroying@Patient"
+                    ],
+                    "lemma": "Boeing",
+                    "sentence": "70",
+                    "target phrase": "the Boeing"
+                },
+                "t1534": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Motion@Theme"
+                    ],
+                    "lemma": "Boeing",
+                    "sentence": "75",
+                    "target phrase": "the Malaysia Airlines Boeing"
+                },
+                "t184": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Destroying@Patient",
+                        "Attempt_suasion@Topic"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "7",
+                    "target phrase": "the plane"
+                },
+                "t228": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "airliner",
+                    "reftype": "evoke",
+                    "sentence": "9",
+                    "target phrase": "the airliner"
+                },
+                "t306": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "12",
+                    "target phrase": "the plane"
+                },
+                "t339": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Impact@Impactee"
+                    ],
+                    "lemma": "Malaysia",
+                    "sentence": "13",
+                    "target phrase": "Malaysia"
+                },
+                "t394": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "16",
+                    "target phrase": "a plane"
+                },
+                "t46": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hit_target@Target",
+                        "Catastrophe@Patient",
+                        "Motion@Goal"
+                    ],
+                    "lemma": "airliner",
+                    "reftype": "evoke",
+                    "sentence": "3",
+                    "target phrase": "a malaysian airliner"
+                },
+                "t482": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "24",
+                    "target phrase": "the plane"
+                },
+                "t651": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Destroying@Patient"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "31",
+                    "target phrase": "a plane in the distance"
+                },
+                "t68": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Shoot_projectiles@Projectile"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "3",
+                    "target phrase": "-PRON-"
+                },
+                "t731": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Motion@Theme",
+                        "Motion@Theme"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "38",
+                    "target phrase": "MH17"
+                },
+                "t919": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Breaking_apart@Whole"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "49",
+                    "target phrase": "the plane"
+                }
+            },
+            "Q17374096": {
+                "mw1": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Using@Purpose"
+                    ],
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "9",
+                    "target phrase": "shoot down"
+                },
+                "mw3": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Destroying",
+                    "frame elements": [
+                        "Attempt_suasion@Content"
+                    ],
+                    "lemma": "bring down",
+                    "reftype": "type",
+                    "sentence": "7",
+                    "target phrase": "bring down"
+                },
+                "mw4": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Destroying",
+                    "frame elements": null,
+                    "lemma": "bring down",
+                    "reftype": "type",
+                    "sentence": "52"
+                },
+                "mw5": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Destroying",
+                    "frame elements": [
+                        "Evidence@Proposition"
+                    ],
+                    "lemma": "bring down",
+                    "reftype": "type",
+                    "sentence": "70",
+                    "target phrase": "bring down"
+                },
+                "mw6": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "12"
+                },
+                "mw7": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Attempt_suasion@Content"
+                    ],
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "63",
+                    "target phrase": "shoot down"
+                },
+                "mw8": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "64"
+                },
+                "t1324": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Criminal_investigation@Incident"
+                    ],
+                    "lemma": "disaster",
+                    "reftype": "evoke",
+                    "sentence": "69",
+                    "target phrase": "the disaster"
+                },
+                "t352": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Impact",
+                    "frame elements": null,
+                    "lemma": "crash",
+                    "reftype": "evoke",
+                    "sentence": "13"
+                },
+                "t392": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "down",
+                    "reftype": "type",
+                    "sentence": "16"
+                },
+                "t479": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "downing",
+                    "reftype": "type",
+                    "sentence": "24"
+                },
+                "t48": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Killing@Means",
+                        "Criminal_investigation@Incident",
+                        "Catastrophe@Undesirable_event",
+                        "Criminal_investigation@Incident",
+                        "Trial@Charges"
+                    ],
+                    "lemma": "shoot",
+                    "reftype": "evoke",
+                    "sentence": "3",
+                    "target phrase": "just before a malaysian airliner be shoot out of sky on July 17 year , provide the detailed account to date"
+                },
+                "t482": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "24",
+                    "target phrase": "the plane"
+                }
+            }
+        },
+        "historical distance": 238,
+        "implicated fe's": [
+            "Bringing@Agent",
+            "Bringing@Path",
+            "Bringing@Source",
+            "Bringing@Goal",
+            "Control@Degree",
+            "Using@Role",
+            "Delivery@Deliverer",
+            "Placing@Agent",
+            "Hostile_encounter@Issue",
+            "Hostile_encounter@Purpose",
+            "Revenge@Injury",
+            "Motion@Source",
+            "Motion@Goal",
+            "Motion@Path",
+            "Motion@Distance",
+            "Motion@Direction",
+            "Motion@Source",
+            "Motion@Goal",
+            "Motion@Path",
+            "Motion@Distance",
+            "Motion@Direction",
+            "Explosion@Explosive",
+            "Motion@Path",
+            "Motion@Distance",
+            "Motion@Direction",
+            "Motion@Source",
+            "Motion@Goal",
+            "Motion@Path",
+            "Motion@Distance",
+            "Locating@Perceiver",
+            "Locating@Ground",
+            "Hostile_encounter@Issue",
+            "Hostile_encounter@Purpose",
+            "Bringing@Agent",
+            "Bringing@Path",
+            "Bringing@Area",
+            "Bringing@Carrier",
+            "Affirm_or_deny@Medium",
+            "Categorization@Criteria",
+            "Statement@Medium",
+            "Attempt_suasion@Addressee",
+            "Attempt_suasion@Medium",
+            "Ride_vehicle@Path",
+            "Trial@Court",
+            "Trial@Defense",
+            "Trial@Prosecution",
+            "Trial@Judge",
+            "Motion@Distance",
+            "Motion@Direction",
+            "Motion@Source",
+            "Motion@Path",
+            "Bringing@Goal",
+            "Bringing@Agent",
+            "Bringing@Path",
+            "Bringing@Area",
+            "Bringing@Carrier",
+            "Downing@Agent",
+            "Breaking_apart@Pieces",
+            "Perception_experience@Body_part",
+            "Motion@Source",
+            "Motion@Path",
+            "Motion@Goal",
+            "Motion@Distance",
+            "Motion@Source",
+            "Motion@Path",
+            "Motion@Goal",
+            "Motion@Distance",
+            "Attempt_suasion@Addressee",
+            "Attempt_suasion@Medium"
+        ],
+        "raw text": "Exclusive: From 'Red October' village, new evidence on downing of Malaysian plane over Ukraine.\nCHERVONYI ZHOVTEN, Ukraine (Reuters) - Villagers in eastern Ukraine have told Reuters they saw a missile flying directly overhead just before a Malaysian airliner was shot out of the sky on July 17 last year, providing the most detailed accounts to date that suggest it was fired from territory held by pro-Russian rebels. A crane transports a piece of the Malaysia Airlines flight MH17 wreckage at the site of the plane crash near the village of Hrabove (Grabovo) in Donetsk region, eastern Ukraine November 20, 2014. REUTERS/Antonio Bronic The accounts from four villagers of Chervonyi Zhovten, which was then, and is now, controlled by the rebels, are significant because they indicate the rocket was in the early stages of its flight path. That would mean it must have been launched from rebel ground nearby, challenging the suggestion of Moscow and the separatists that the plane was brought down by the Ukrainian military. At the time, the nearest Ukrainian-held area was about 6 km (3.7 miles) away. Ukraine and its Western allies have said it was the rebels who shot down the airliner, using a Russian-made BUK anti-aircraft missile system. All 298 people on board were killed. Until now, videos, photographs and accounts from residents have pointed to a BUK battery being delivered to the rebel-held town of Snizhne, 7 km north of Chervonyi Zhovten, on July 17, and then driven away from the area some time later. Its precise location at the time the plane was shot down has never been confirmed. Now one of the villagers has told Reuters that a missile battery was positioned in a field near Chervonyi Zhovten on the day the Malaysia Airlines Boeing 777, en route from Amsterdam to Kuala Lumpur, crashed to earth. A former rebel fighter corroborated this. Ukraine\u2019s defense ministry declined to comment for this story. A top rebel commander, Andrei Purgin, said the separatists did not have any weapon capable of downing a plane at cruise altitude. \u201cYou can come up with whatever you want. The most that we, the rebels, were operating is the PZRK (shoulder-launched missile system). The ceiling for the PZRK is up to 4 km,\u201d he said. Kremlin spokesman Dmitry Peskov said it was up to a Dutch-led international investigation to determine what happened. \u201cThe Russian side awaits that information impatiently,\u201d he said. The downing of the plane was a turning point in the conflict in Ukraine, in which around 6,000 people have been killed since last April. It persuaded many Western governments that the Russian-backed rebels were a dangerous threat and stiffened their resolve to impose new sanctions on separatist leaders and on Moscow. DIGGING POTATOES On the afternoon of July 17, Valentina Kovalenko was digging up potatoes in her garden in Chervonyi Zhovten, a village whose name translates as Red October in honor of Russia\u2019s Communist revolution of 1917. \u201cIt took off, at first we thought that a plane was crashing. But it was a rocket,\u201d said Kovalenko, 45, who then saw what she thought was smoke coming from the \u2018Progress\u2019 mine in Torez, a town 9.5 km away to the north-west. Her daughter Anastasia Kovalenko, 14, said she saw a rocket flying over the village, and then a plane in the distance blowing up. Olga Krasilnikova, 30, also said she saw a rocket, some time between 4 and 5 p.m. \u201cI saw it was flying, flew right over me. From that side,\u201d she said, pointing to the outskirts of the village . \u201cI saw smoke in the sky, then I heard an explosion and I saw a huge blue (cloud of) smoke.\u201d MH17, flying over eastern Ukraine towards the Russian border, came down around 4:20 p.m. local time. The biggest concentration of debris was found near Hrabove, about 20 km from Chervonyi Zhovten. Older BUK rockets have a range of around 25 to 35 km; the most modern can reach up to 45 km. Since last July, gaining access to the village has been difficult because of fighting in surrounding areas, but a Reuters reporter was able to reach Chervonyi Zhovten in February. \u201cMy mother and I were in the yard when it happened,\u201d said Pyotr Fedotov, a 58-year-old resident. \u201cThere was such a bang that we involuntarily sat down, in the yard, our legs gave way underneath us. Then we got curious and immediately went to the other side of the house to take a look.\u201d \u201cThe rocket was here, it wiggled around, then some kind of rocket stage separated, and then, somewhere toward Lutuhyne, Torez, I saw the plane fall apart in the air. It was only later that we found out it was a Boeing,\u201d Fedotov said. Missiles from a BUK battery can often zig-zag through the air for a few seconds after launch before their onboard radar locks on and steers the missile towards the target, according to video footage of test launches posted on the Internet. Taken together, the accounts do not conclusively prove the missile launched from near Chervonyi Zhovten was the one that brought down the airliner, because none of the villagers saw it actually being launched. Nor could they shed light on a contention of officials in Kiev and in Western states, that the BUK missile battery was brought in from Russia and was operated by a Russian crew. Moscow has denied its military is active in eastern Ukraine. VILLAGE OUTSKIRTS When interviewed by Reuters, Fedotov, the witness who described the \u2018wiggling\u2019 rocket, at first said on camera that it was fired from territory held by the Ukrainian army. Later, off camera, he said it was launched from a nearby rebel area. Asked why he had originally said the opposite, he said it was because he was afraid of the rebels. He gave a Reuters reporter directions to a field 1.5 km from the village, which he said had been identified to him by local farm workers as the point from which the missile battery had launched the rocket. When Reuters visited the site in February, there were no signs of any missile launch. Russian and separatist officials have said that Ukrainian military aircraft were overhead at the time the Malaysian airliner came down. They have said that if an anti-aircraft missile was launched in the vicinity, it was to bring down a Ukrainian warplane. They have also suggested a Ukrainian fighter aircraft may have shot down the Malaysian airliner. Washington believes that pro-Russian separatists most likely shot down the airliner \u201cby mistake,\u201d not realizing it was a civilian passenger flight, U.S. intelligence officials have said.. An official of the Office of the Director of National Intelligence told Reuters: \u201cOur previous assessment still holds.\u201d The investigation into the cause of the disaster is being led by authorities in the Netherlands, as two-thirds of those on board were Dutch. An interim report published in September which was based on data from the aircraft\u2019s black box recorders, photographic and radar evidence, and satellite imagery, said the Boeing was brought down by \u201chigh energy objects\u201d in its vicinity -- consistent with attack from the air or the ground. \u201cThe investigation is ongoing and for as long as it is ongoing we cannot give any conclusions,\u201d Sara Vernooij, a spokeswoman for the Dutch Safety Board which is handling the case, told Reuters when approached for comment on this story. A former rebel from the separatist Vostok battalion, who for security reasons asked to be identified only by his first name, Igor, told Reuters that a BUK battery was in Chervonyi Zhovten on July 17, and he himself was not far from the village. Igor said the battery\u2019s mission was to discourage Ukrainian Su-25 ground attack jets from attacking separatist targets in the area. A BUK missile had been launched against the Ukrainian jets half an hour before the Malaysia Airlines Boeing came down, forcing the Ukrainian pilots to pull out, he said.",
+        "subevents": {
+            "mw11": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Breaking_apart",
+                "frame elements": null,
+                "lemma": "fall apart",
+                "reftype": "type",
+                "sentence": "49"
+            },
+            "mw9": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Destroying",
+                "frame elements": null,
+                "lemma": "blow up",
+                "reftype": "type",
+                "sentence": "31"
+            },
+            "t1001": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locative_relation",
+                "frame elements": null,
+                "lemma": "near",
+                "reftype": "evoke",
+                "sentence": "52"
+            },
+            "t101": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "village",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t1013": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Causation",
+                "frame elements": null,
+                "lemma": "because",
+                "reftype": "evoke",
+                "sentence": "52"
+            },
+            "t1022": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": null,
+                "lemma": "launch",
+                "reftype": "evoke",
+                "sentence": "52"
+            },
+            "t1028": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Location_of_light",
+                "frame elements": null,
+                "lemma": "light",
+                "reftype": "evoke",
+                "sentence": "53"
+            },
+            "t1033": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "official",
+                "reftype": "evoke",
+                "sentence": "53"
+            },
+            "t1039": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "state",
+                "reftype": "evoke",
+                "sentence": "53"
+            },
+            "t1044": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Weapon",
+                "frame elements": null,
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "53"
+            },
+            "t1047": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bringing",
+                "frame elements": null,
+                "lemma": "bring",
+                "reftype": "evoke",
+                "sentence": "53"
+            },
+            "t1053": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Operating_a_system",
+                "frame elements": null,
+                "lemma": "operate",
+                "reftype": "evoke",
+                "sentence": "53"
+            },
+            "t1056": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Origin",
+                "frame elements": null,
+                "lemma": "russian",
+                "reftype": "evoke",
+                "sentence": "53"
+            },
+            "t1057": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Aggregate",
+                "frame elements": [
+                    "Operating_a_system@Operator"
+                ],
+                "lemma": "crew",
+                "reftype": "evoke",
+                "sentence": "53",
+                "target phrase": "a russian crew"
+            },
+            "t1061": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Affirm_or_deny",
+                "frame elements": null,
+                "lemma": "deny",
+                "reftype": "evoke",
+                "sentence": "54"
+            },
+            "t1063": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Military",
+                "frame elements": null,
+                "lemma": "military",
+                "reftype": "evoke",
+                "sentence": "54"
+            },
+            "t1065": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_active",
+                "frame elements": [
+                    "Affirm_or_deny@Message"
+                ],
+                "lemma": "active",
+                "reftype": "evoke",
+                "sentence": "54",
+                "target phrase": "active"
+            },
+            "t1067": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Part_orientational",
+                "frame elements": null,
+                "lemma": "eastern",
+                "reftype": "evoke",
+                "sentence": "54"
+            },
+            "t1080": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Perception_experience",
+                "frame elements": [
+                    "Perception_experience@Perceiver_passive"
+                ],
+                "lemma": "witness",
+                "reftype": "evoke",
+                "sentence": "56",
+                "target phrase": "the witness who describe the ' wiggle \u2019 rocket"
+            },
+            "t1082": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Communicate_categorization",
+                "frame elements": null,
+                "lemma": "describe",
+                "reftype": "evoke",
+                "sentence": "56"
+            },
+            "t109": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locale",
+                "frame elements": null,
+                "lemma": "region",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t1090": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Ordinal_numbers",
+                "frame elements": null,
+                "lemma": "first",
+                "reftype": "evoke",
+                "sentence": "56"
+            },
+            "t1091": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "56"
+            },
+            "t1097": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": null,
+                "lemma": "fire",
+                "reftype": "evoke",
+                "sentence": "56"
+            },
+            "t1099": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "territory",
+                "reftype": "evoke",
+                "sentence": "56"
+            },
+            "t1104": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Military",
+                "frame elements": null,
+                "lemma": "army",
+                "reftype": "evoke",
+                "sentence": "56"
+            },
+            "t1106": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Temporal_subregion",
+                "frame elements": null,
+                "lemma": "later",
+                "reftype": "evoke",
+                "sentence": "57"
+            },
+            "t111": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Part_orientational",
+                "frame elements": null,
+                "lemma": "eastern",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t1112": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "57"
+            },
+            "t1115": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": null,
+                "lemma": "launch",
+                "reftype": "evoke",
+                "sentence": "57"
+            },
+            "t1119": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Rebellion",
+                "frame elements": null,
+                "lemma": "rebel",
+                "reftype": "evoke",
+                "sentence": "57"
+            },
+            "t1120": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locale",
+                "frame elements": null,
+                "lemma": "area",
+                "reftype": "evoke",
+                "sentence": "57"
+            },
+            "t1127": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "58"
+            },
+            "t1132": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "58"
+            },
+            "t1135": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Causation",
+                "frame elements": null,
+                "lemma": "because",
+                "reftype": "evoke",
+                "sentence": "58"
+            },
+            "t1138": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Fear",
+                "frame elements": null,
+                "lemma": "afraid",
+                "reftype": "evoke",
+                "sentence": "58"
+            },
+            "t1144": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Giving",
+                "frame elements": null,
+                "lemma": "give",
+                "reftype": "evoke",
+                "sentence": "59"
+            },
+            "t1151": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locale_by_use",
+                "frame elements": [
+                    "Categorization@Item"
+                ],
+                "lemma": "field",
+                "reftype": "evoke",
+                "sentence": "59",
+                "target phrase": "a field"
+            },
+            "t1156": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "village",
+                "reftype": "evoke",
+                "sentence": "59"
+            },
+            "t1160": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "59"
+            },
+            "t1163": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Categorization",
+                "frame elements": null,
+                "lemma": "identify",
+                "reftype": "evoke",
+                "sentence": "59"
+            },
+            "t1167": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "local",
+                "reftype": "evoke",
+                "sentence": "59"
+            },
+            "t1168": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locale_by_use",
+                "frame elements": null,
+                "lemma": "farm",
+                "reftype": "evoke",
+                "sentence": "59"
+            },
+            "t1169": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Employing",
+                "frame elements": [
+                    "Categorization@Cognizer"
+                ],
+                "lemma": "worker",
+                "reftype": "evoke",
+                "sentence": "59",
+                "target phrase": "local farm worker"
+            },
+            "t1176": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Weapon",
+                "frame elements": null,
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "59"
+            },
+            "t1179": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": null,
+                "lemma": "launch",
+                "reftype": "evoke",
+                "sentence": "59"
+            },
+            "t1185": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "visit",
+                "reftype": "evoke",
+                "sentence": "60"
+            },
+            "t1187": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locale_by_use",
+                "frame elements": null,
+                "lemma": "site",
+                "reftype": "evoke",
+                "sentence": "60"
+            },
+            "t1194": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Sign",
+                "frame elements": null,
+                "lemma": "sign",
+                "reftype": "evoke",
+                "sentence": "60"
+            },
+            "t1197": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Weapon",
+                "frame elements": null,
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "60"
+            },
+            "t1198": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": null,
+                "lemma": "launch",
+                "reftype": "evoke",
+                "sentence": "60"
+            },
+            "t1205": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "61"
+            },
+            "t1208": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Military",
+                "frame elements": null,
+                "lemma": "military",
+                "reftype": "evoke",
+                "sentence": "61"
+            },
+            "t1218": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Motion",
+                "frame elements": null,
+                "lemma": "come",
+                "reftype": "type",
+                "sentence": "61"
+            },
+            "t1223": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "62"
+            },
+            "t123": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Text",
+                "frame elements": null,
+                "lemma": "account",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t1230": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Weapon",
+                "frame elements": [
+                    "Shoot_projectiles@Projectile"
+                ],
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "62",
+                "target phrase": "an anti - aircraft missile"
+            },
+            "t1232": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": null,
+                "lemma": "launch",
+                "reftype": "evoke",
+                "sentence": "62"
+            },
+            "t1240": {
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bringing",
+                "frame elements": null,
+                "reftype": "evoke"
+            },
+            "t1249": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attempt_suasion",
+                "frame elements": null,
+                "lemma": "suggest",
+                "reftype": "type",
+                "sentence": "63"
+            },
+            "t1256": {
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hit_target",
+                "frame elements": null,
+                "reftype": "evoke"
+            },
+            "t1263": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Awareness",
+                "frame elements": null,
+                "lemma": "believe",
+                "reftype": "evoke",
+                "sentence": "64"
+            },
+            "t1270": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Likelihood",
+                "frame elements": null,
+                "lemma": "likely",
+                "reftype": "evoke",
+                "sentence": "64"
+            },
+            "t1281": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Coming_to_believe",
+                "frame elements": null,
+                "lemma": "realize",
+                "reftype": "evoke",
+                "sentence": "64"
+            },
+            "t1287": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Ride_vehicle",
+                "frame elements": null,
+                "lemma": "flight",
+                "reftype": "type",
+                "sentence": "64"
+            },
+            "t1290": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Information",
+                "frame elements": null,
+                "lemma": "intelligence",
+                "reftype": "evoke",
+                "sentence": "64"
+            },
+            "t1291": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "official",
+                "reftype": "evoke",
+                "sentence": "64"
+            },
+            "t1293": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "64"
+            },
+            "t1296": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "official",
+                "reftype": "evoke",
+                "sentence": "65"
+            },
+            "t1302": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "Director",
+                "reftype": "evoke",
+                "sentence": "65"
+            },
+            "t1304": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "National",
+                "reftype": "evoke",
+                "sentence": "65"
+            },
+            "t1306": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Telling",
+                "frame elements": null,
+                "lemma": "tell",
+                "reftype": "evoke",
+                "sentence": "65"
+            },
+            "t1311": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Relative_time",
+                "frame elements": null,
+                "lemma": "previous",
+                "reftype": "evoke",
+                "sentence": "67"
+            },
+            "t1312": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Assessing",
+                "frame elements": null,
+                "lemma": "assessment",
+                "reftype": "evoke",
+                "sentence": "67"
+            },
+            "t1314": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Containing",
+                "frame elements": null,
+                "lemma": "hold",
+                "reftype": "evoke",
+                "sentence": "67"
+            },
+            "t1318": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "69"
+            },
+            "t1321": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Causation",
+                "frame elements": null,
+                "lemma": "cause",
+                "reftype": "evoke",
+                "sentence": "69"
+            },
+            "t1327": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "lead",
+                "reftype": "evoke",
+                "sentence": "69"
+            },
+            "t1329": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": [
+                    "Criminal_investigation@Investigator"
+                ],
+                "lemma": "authority",
+                "reftype": "evoke",
+                "sentence": "69",
+                "target phrase": "authority in the Netherlands"
+            },
+            "t1337": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Part_whole",
+                "frame elements": null,
+                "lemma": "third",
+                "reftype": "evoke",
+                "sentence": "69"
+            },
+            "t1343": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Origin",
+                "frame elements": null,
+                "lemma": "Dutch",
+                "reftype": "evoke",
+                "sentence": "69"
+            },
+            "t1346": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Duration_description",
+                "frame elements": null,
+                "lemma": "interim",
+                "reftype": "evoke",
+                "sentence": "70"
+            },
+            "t1347": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Text",
+                "frame elements": null,
+                "lemma": "report",
+                "reftype": "evoke",
+                "sentence": "70"
+            },
+            "t1348": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Publishing",
+                "frame elements": null,
+                "lemma": "publish",
+                "reftype": "evoke",
+                "sentence": "70"
+            },
+            "t1355": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Information",
+                "frame elements": [
+                    "Evidence@Support"
+                ],
+                "lemma": "datum",
+                "reftype": "evoke",
+                "sentence": "70",
+                "target phrase": "datum from aircraft box recorder , evidence"
+            },
+            "t1360": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Color",
+                "frame elements": null,
+                "lemma": "black",
+                "reftype": "evoke",
+                "sentence": "70"
+            },
+            "t1367": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": null,
+                "lemma": "evidence",
+                "reftype": "evoke",
+                "sentence": "70"
+            },
+            "t1373": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "70"
+            },
+            "t1377": {
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bringing",
+                "frame elements": null,
+                "reftype": "evoke"
+            },
+            "t1383": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Purpose",
+                "frame elements": [
+                    "Destroying@Cause"
+                ],
+                "lemma": "object",
+                "reftype": "evoke",
+                "sentence": "70",
+                "target phrase": "\" high energy object \" in -PRON- vicinity -- consistent with attack"
+            },
+            "t139": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Control",
+                "frame elements": null,
+                "lemma": "control",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t1391": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attack",
+                "frame elements": null,
+                "lemma": "attack",
+                "reftype": "evoke",
+                "sentence": "70"
+            },
+            "t1401": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "72"
+            },
+            "t1403": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Process_continue",
+                "frame elements": null,
+                "lemma": "ongoing",
+                "reftype": "evoke",
+                "sentence": "72"
+            },
+            "t1407": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Duration_description",
+                "frame elements": null,
+                "lemma": "long",
+                "reftype": "evoke",
+                "sentence": "72"
+            },
+            "t1411": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Process_continue",
+                "frame elements": null,
+                "lemma": "ongoing",
+                "reftype": "evoke",
+                "sentence": "72"
+            },
+            "t1413": {
+                "POS": "AUX",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Capability",
+                "frame elements": null,
+                "lemma": "can",
+                "reftype": "evoke",
+                "sentence": "72"
+            },
+            "t1415": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Giving",
+                "frame elements": null,
+                "lemma": "give",
+                "reftype": "evoke",
+                "sentence": "72"
+            },
+            "t1417": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Coming_to_believe",
+                "frame elements": null,
+                "lemma": "conclusion",
+                "reftype": "evoke",
+                "sentence": "72"
+            },
+            "t1427": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Origin",
+                "frame elements": [
+                    "Criminal_investigation@Investigator",
+                    "Criminal_investigation@Investigator"
+                ],
+                "lemma": "Dutch",
+                "reftype": "evoke",
+                "sentence": "72",
+                "target phrase": "Dutch"
+            },
+            "t1428": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_at_risk",
+                "frame elements": null,
+                "lemma": "Safety",
+                "reftype": "evoke",
+                "sentence": "72"
+            },
+            "t1432": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Resolve_problem",
+                "frame elements": null,
+                "lemma": "handle",
+                "reftype": "evoke",
+                "sentence": "72"
+            },
+            "t1434": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Trial",
+                "frame elements": [
+                    "Trial@Case"
+                ],
+                "lemma": "case",
+                "reftype": "type",
+                "sentence": "72",
+                "target phrase": "the case"
+            },
+            "t1436": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Telling",
+                "frame elements": null,
+                "lemma": "tell",
+                "reftype": "evoke",
+                "sentence": "72"
+            },
+            "t1441": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "comment",
+                "reftype": "evoke",
+                "sentence": "72"
+            },
+            "t145": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Importance",
+                "frame elements": null,
+                "lemma": "significant",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t1457": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_at_risk",
+                "frame elements": null,
+                "lemma": "security",
+                "reftype": "evoke",
+                "sentence": "73"
+            },
+            "t1458": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Reason",
+                "frame elements": null,
+                "lemma": "reason",
+                "reftype": "evoke",
+                "sentence": "73"
+            },
+            "t1459": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Questioning",
+                "frame elements": null,
+                "lemma": "ask",
+                "reftype": "evoke",
+                "sentence": "73"
+            },
+            "t1462": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Categorization",
+                "frame elements": null,
+                "lemma": "identify",
+                "reftype": "evoke",
+                "sentence": "73"
+            },
+            "t1466": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Ordinal_numbers",
+                "frame elements": null,
+                "lemma": "first",
+                "reftype": "evoke",
+                "sentence": "73"
+            },
+            "t1467": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_named",
+                "frame elements": null,
+                "lemma": "name",
+                "reftype": "evoke",
+                "sentence": "73"
+            },
+            "t1471": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Telling",
+                "frame elements": null,
+                "lemma": "tell",
+                "reftype": "evoke",
+                "sentence": "73"
+            },
+            "t148": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": null,
+                "lemma": "indicate",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t1490": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Degree",
+                "frame elements": null,
+                "lemma": "far",
+                "reftype": "evoke",
+                "sentence": "73"
+            },
+            "t1493": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "village",
+                "reftype": "evoke",
+                "sentence": "73"
+            },
+            "t1496": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "74"
+            },
+            "t1507": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attack",
+                "frame elements": null,
+                "lemma": "attack",
+                "reftype": "evoke",
+                "sentence": "74"
+            },
+            "t1510": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attack",
+                "frame elements": null,
+                "lemma": "attack",
+                "reftype": "evoke",
+                "sentence": "74"
+            },
+            "t1515": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locale",
+                "frame elements": null,
+                "lemma": "area",
+                "reftype": "evoke",
+                "sentence": "74"
+            },
+            "t1519": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Weapon",
+                "frame elements": [
+                    "Shoot_projectiles@Projectile"
+                ],
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "75",
+                "target phrase": "a BUK missile"
+            },
+            "t1522": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": null,
+                "lemma": "launch",
+                "reftype": "evoke",
+                "sentence": "75"
+            },
+            "t1527": {
+                "POS": "DET",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Part_whole",
+                "frame elements": null,
+                "lemma": "half",
+                "reftype": "evoke",
+                "sentence": "75"
+            },
+            "t1535": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Motion",
+                "frame elements": null,
+                "lemma": "come",
+                "reftype": "type",
+                "sentence": "75"
+            },
+            "t154": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Temporal_subregion",
+                "frame elements": null,
+                "lemma": "early",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t1543": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Manipulation",
+                "frame elements": null,
+                "lemma": "pull",
+                "reftype": "evoke",
+                "sentence": "75"
+            },
+            "t1547": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "75"
+            },
+            "t158": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Fleeing",
+                "frame elements": null,
+                "lemma": "flight",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t159": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Roadways",
+                "frame elements": null,
+                "lemma": "path",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t165": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Required_event",
+                "frame elements": null,
+                "lemma": "must",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t168": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": null,
+                "lemma": "launch",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t174": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "challenge",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t176": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attempt_suasion",
+                "frame elements": null,
+                "lemma": "suggestion",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t186": {
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bringing",
+                "frame elements": null,
+                "reftype": "evoke"
+            },
+            "t191": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Military",
+                "frame elements": [
+                    "Destroying@Destroyer"
+                ],
+                "lemma": "military",
+                "reftype": "evoke",
+                "sentence": "7",
+                "target phrase": "the ukrainian military"
+            },
+            "t193": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locative_relation",
+                "frame elements": null,
+                "lemma": "at",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t202": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locale",
+                "frame elements": null,
+                "lemma": "area",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t204": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Topic",
+                "frame elements": null,
+                "lemma": "about",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t209": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Measure_linear_extent",
+                "frame elements": null,
+                "lemma": "mile",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t219": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t225": {
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attempt",
+                "frame elements": null,
+                "reftype": "evoke"
+            },
+            "t230": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Using",
+                "frame elements": null,
+                "lemma": "use",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t239": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Weapon",
+                "frame elements": null,
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t240": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Gizmo",
+                "frame elements": [
+                    "Using@Instrument"
+                ],
+                "lemma": "system",
+                "reftype": "evoke",
+                "sentence": "9",
+                "target phrase": "a Russian - make BUK anti - aircraft missile system"
+            },
+            "t248": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Killing",
+                "frame elements": null,
+                "lemma": "kill",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t257": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Text",
+                "frame elements": null,
+                "lemma": "account",
+                "reftype": "evoke",
+                "sentence": "11"
+            },
+            "t259": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Residence",
+                "frame elements": null,
+                "lemma": "resident",
+                "reftype": "evoke",
+                "sentence": "11"
+            },
+            "t261": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Adducing",
+                "frame elements": null,
+                "lemma": "point",
+                "reftype": "evoke",
+                "sentence": "11"
+            },
+            "t267": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Delivery",
+                "frame elements": null,
+                "lemma": "deliver",
+                "reftype": "evoke",
+                "sentence": "11"
+            },
+            "t270": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Rebellion",
+                "frame elements": null,
+                "lemma": "rebel",
+                "reftype": "evoke",
+                "sentence": "11"
+            },
+            "t273": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": [
+                    "Delivery@Goal"
+                ],
+                "lemma": "town",
+                "reftype": "evoke",
+                "sentence": "11",
+                "target phrase": "the rebel - hold town of Snizhne , 7 km north of Zhovten"
+            },
+            "t279": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Part_orientational",
+                "frame elements": null,
+                "lemma": "north",
+                "reftype": "evoke",
+                "sentence": "11"
+            },
+            "t290": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bringing",
+                "frame elements": null,
+                "lemma": "drive",
+                "reftype": "type",
+                "sentence": "11"
+            },
+            "t294": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locale",
+                "frame elements": [
+                    "Bringing@Source"
+                ],
+                "lemma": "area",
+                "reftype": "evoke",
+                "sentence": "11",
+                "target phrase": "the area"
+            },
+            "t297": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Temporal_subregion",
+                "frame elements": null,
+                "lemma": "later",
+                "reftype": "evoke",
+                "sentence": "11"
+            },
+            "t30": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Part_orientational",
+                "frame elements": null,
+                "lemma": "eastern",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t301": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locale",
+                "frame elements": null,
+                "lemma": "location",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t308": {
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hit_target",
+                "frame elements": null,
+                "reftype": "evoke"
+            },
+            "t313": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "confirm",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t321": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Telling",
+                "frame elements": null,
+                "lemma": "tell",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t325": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Weapon",
+                "frame elements": null,
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t328": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Placing",
+                "frame elements": null,
+                "lemma": "position",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t33": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Telling",
+                "frame elements": null,
+                "lemma": "tell",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t331": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locale_by_use",
+                "frame elements": [
+                    "Placing@Goal"
+                ],
+                "lemma": "field",
+                "reftype": "evoke",
+                "sentence": "13",
+                "target phrase": "a field near Chervonyi Zhovten"
+            },
+            "t337": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "day",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t359": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Irregular_combatants",
+                "frame elements": [
+                    "Irregular_combatants@Combatant"
+                ],
+                "lemma": "fighter",
+                "reftype": "evoke",
+                "sentence": "14",
+                "target phrase": "a former rebel fighter"
+            },
+            "t360": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": null,
+                "lemma": "corroborate",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t365": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Defending",
+                "frame elements": null,
+                "lemma": "defense",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t367": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Change_position_on_a_scale",
+                "frame elements": null,
+                "lemma": "decline",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t369": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "comment",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t38": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Weapon",
+                "frame elements": [
+                    "Impact@Impactor",
+                    "Killing@Instrument",
+                    "Impact@Impactor",
+                    "Motion@Theme",
+                    "Downing@Cause"
+                ],
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "3",
+                "target phrase": "a missile"
+            },
+            "t382": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t389": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Weapon",
+                "frame elements": null,
+                "lemma": "weapon",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t39": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Motion",
+                "frame elements": null,
+                "lemma": "fly",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t390": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Capability",
+                "frame elements": null,
+                "lemma": "capable",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t401": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Capability",
+                "frame elements": null,
+                "lemma": "can",
+                "reftype": "evoke",
+                "sentence": "18"
+            },
+            "t402": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "come",
+                "reftype": "evoke",
+                "sentence": "18"
+            },
+            "t407": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Desiring",
+                "frame elements": null,
+                "lemma": "want",
+                "reftype": "evoke",
+                "sentence": "18"
+            },
+            "t418": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Operating_a_system",
+                "frame elements": null,
+                "lemma": "operate",
+                "reftype": "evoke",
+                "sentence": "19"
+            },
+            "t423": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Body_parts",
+                "frame elements": null,
+                "lemma": "shoulder",
+                "reftype": "evoke",
+                "sentence": "19"
+            },
+            "t425": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": null,
+                "lemma": "launch",
+                "reftype": "evoke",
+                "sentence": "19"
+            },
+            "t426": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Weapon",
+                "frame elements": null,
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "19"
+            },
+            "t427": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Gizmo",
+                "frame elements": null,
+                "lemma": "system",
+                "reftype": "evoke",
+                "sentence": "19"
+            },
+            "t431": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Architectural_part",
+                "frame elements": null,
+                "lemma": "ceiling",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t443": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t446": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Representative",
+                "frame elements": null,
+                "lemma": "spokesman",
+                "reftype": "evoke",
+                "sentence": "21"
+            },
+            "t449": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "21"
+            },
+            "t455": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Origin",
+                "frame elements": null,
+                "lemma": "Dutch",
+                "reftype": "evoke",
+                "sentence": "21"
+            },
+            "t457": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "lead",
+                "reftype": "evoke",
+                "sentence": "21"
+            },
+            "t458": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "international",
+                "reftype": "evoke",
+                "sentence": "21"
+            },
+            "t459": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "21"
+            },
+            "t461": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Contingency",
+                "frame elements": null,
+                "lemma": "determine",
+                "reftype": "evoke",
+                "sentence": "21"
+            },
+            "t463": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Event",
+                "frame elements": null,
+                "lemma": "happen",
+                "reftype": "evoke",
+                "sentence": "21"
+            },
+            "t471": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Information",
+                "frame elements": null,
+                "lemma": "information",
+                "reftype": "evoke",
+                "sentence": "23"
+            },
+            "t476": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "23"
+            },
+            "t489": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": [
+                    "Affirm_or_deny@Topic"
+                ],
+                "lemma": "conflict",
+                "reftype": "evoke",
+                "sentence": "24",
+                "target phrase": "the conflict in Ukraine"
+            },
+            "t497": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "People",
+                "frame elements": [
+                    "Revenge@Injured_party"
+                ],
+                "lemma": "people",
+                "reftype": "evoke",
+                "sentence": "24",
+                "target phrase": "around 6,000 people"
+            },
+            "t500": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Killing",
+                "frame elements": null,
+                "lemma": "kill",
+                "reftype": "evoke",
+                "sentence": "24"
+            },
+            "t501": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Time_vector",
+                "frame elements": null,
+                "lemma": "since",
+                "reftype": "evoke",
+                "sentence": "24"
+            },
+            "t506": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Suasion",
+                "frame elements": null,
+                "lemma": "persuade",
+                "reftype": "evoke",
+                "sentence": "25"
+            },
+            "t509": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": [
+                    "Revenge@Avenger"
+                ],
+                "lemma": "government",
+                "reftype": "evoke",
+                "sentence": "25",
+                "target phrase": "many western government"
+            },
+            "t519": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Risky_situation",
+                "frame elements": null,
+                "lemma": "threat",
+                "reftype": "evoke",
+                "sentence": "25"
+            },
+            "t523": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Resolve_problem",
+                "frame elements": null,
+                "lemma": "resolve",
+                "reftype": "evoke",
+                "sentence": "25"
+            },
+            "t526": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Age",
+                "frame elements": null,
+                "lemma": "new",
+                "reftype": "evoke",
+                "sentence": "25"
+            },
+            "t527": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Revenge",
+                "frame elements": [
+                    "Revenge@Punishment"
+                ],
+                "lemma": "sanction",
+                "reftype": "evoke",
+                "sentence": "25",
+                "target phrase": "new sanction on separatist leader and on Moscow"
+            },
+            "t539": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "afternoon",
+                "reftype": "evoke",
+                "sentence": "27"
+            },
+            "t552": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locale_by_use",
+                "frame elements": null,
+                "lemma": "garden",
+                "reftype": "evoke",
+                "sentence": "27"
+            },
+            "t558": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "village",
+                "reftype": "evoke",
+                "sentence": "27"
+            },
+            "t560": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_named",
+                "frame elements": null,
+                "lemma": "name",
+                "reftype": "evoke",
+                "sentence": "27"
+            },
+            "t57": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "year",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t571": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Change_of_leadership",
+                "frame elements": null,
+                "lemma": "revolution",
+                "reftype": "evoke",
+                "sentence": "27"
+            },
+            "t581": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Ordinal_numbers",
+                "frame elements": null,
+                "lemma": "first",
+                "reftype": "evoke",
+                "sentence": "29"
+            },
+            "t583": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Opinion",
+                "frame elements": null,
+                "lemma": "think",
+                "reftype": "evoke",
+                "sentence": "29"
+            },
+            "t588": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Impact",
+                "frame elements": null,
+                "lemma": "crash",
+                "reftype": "evoke",
+                "sentence": "29"
+            },
+            "t59": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Supply",
+                "frame elements": null,
+                "lemma": "provide",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t597": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "30"
+            },
+            "t607": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Opinion",
+                "frame elements": null,
+                "lemma": "think",
+                "reftype": "evoke",
+                "sentence": "30"
+            },
+            "t610": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "come",
+                "reftype": "evoke",
+                "sentence": "30"
+            },
+            "t614": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Progression",
+                "frame elements": null,
+                "lemma": "Progress",
+                "reftype": "evoke",
+                "sentence": "30"
+            },
+            "t621": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "town",
+                "reftype": "evoke",
+                "sentence": "30"
+            },
+            "t627": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Part_orientational",
+                "frame elements": null,
+                "lemma": "north",
+                "reftype": "evoke",
+                "sentence": "30"
+            },
+            "t629": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Part_orientational",
+                "frame elements": null,
+                "lemma": "west",
+                "reftype": "evoke",
+                "sentence": "30"
+            },
+            "t63": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Text",
+                "frame elements": null,
+                "lemma": "account",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t632": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Kinship",
+                "frame elements": null,
+                "lemma": "daughter",
+                "reftype": "evoke",
+                "sentence": "31"
+            },
+            "t638": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "31"
+            },
+            "t643": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Motion",
+                "frame elements": null,
+                "lemma": "fly",
+                "reftype": "evoke",
+                "sentence": "31"
+            },
+            "t646": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": [
+                    "Motion@Area",
+                    "Motion@Area"
+                ],
+                "lemma": "village",
+                "reftype": "evoke",
+                "sentence": "31",
+                "target phrase": "the village"
+            },
+            "t664": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "32"
+            },
+            "t67": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": null,
+                "lemma": "suggest",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t682": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Motion",
+                "frame elements": null,
+                "lemma": "fly",
+                "reftype": "evoke",
+                "sentence": "33"
+            },
+            "t691": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Taking_sides",
+                "frame elements": null,
+                "lemma": "side",
+                "reftype": "evoke",
+                "sentence": "34"
+            },
+            "t695": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "34"
+            },
+            "t697": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Adducing",
+                "frame elements": null,
+                "lemma": "point",
+                "reftype": "evoke",
+                "sentence": "34"
+            },
+            "t70": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": null,
+                "lemma": "fire",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t703": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "village",
+                "reftype": "evoke",
+                "sentence": "34"
+            },
+            "t715": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hearsay",
+                "frame elements": null,
+                "lemma": "hear",
+                "reftype": "evoke",
+                "sentence": "36"
+            },
+            "t717": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Explosion",
+                "frame elements": null,
+                "lemma": "explosion",
+                "reftype": "type",
+                "sentence": "36"
+            },
+            "t72": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "territory",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t722": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Size",
+                "frame elements": null,
+                "lemma": "huge",
+                "reftype": "evoke",
+                "sentence": "36"
+            },
+            "t723": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Color",
+                "frame elements": null,
+                "lemma": "blue",
+                "reftype": "evoke",
+                "sentence": "36"
+            },
+            "t733": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Motion",
+                "frame elements": null,
+                "lemma": "fly",
+                "reftype": "evoke",
+                "sentence": "38"
+            },
+            "t735": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Part_orientational",
+                "frame elements": null,
+                "lemma": "eastern",
+                "reftype": "evoke",
+                "sentence": "38"
+            },
+            "t739": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Origin",
+                "frame elements": null,
+                "lemma": "russian",
+                "reftype": "evoke",
+                "sentence": "38"
+            },
+            "t740": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Boundary",
+                "frame elements": null,
+                "lemma": "border",
+                "reftype": "evoke",
+                "sentence": "38"
+            },
+            "t742": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Motion",
+                "frame elements": null,
+                "lemma": "come",
+                "reftype": "type",
+                "sentence": "38"
+            },
+            "t747": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "local",
+                "reftype": "evoke",
+                "sentence": "38"
+            },
+            "t756": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locating",
+                "frame elements": null,
+                "lemma": "find",
+                "reftype": "evoke",
+                "sentence": "39"
+            },
+            "t757": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locative_relation",
+                "frame elements": null,
+                "lemma": "near",
+                "reftype": "evoke",
+                "sentence": "39"
+            },
+            "t772": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Range",
+                "frame elements": null,
+                "lemma": "range",
+                "reftype": "evoke",
+                "sentence": "40"
+            },
+            "t782": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Temporal_collocation",
+                "frame elements": null,
+                "lemma": "modern",
+                "reftype": "evoke",
+                "sentence": "40"
+            },
+            "t783": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Capability",
+                "frame elements": null,
+                "lemma": "can",
+                "reftype": "evoke",
+                "sentence": "40"
+            },
+            "t784": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "reach",
+                "reftype": "evoke",
+                "sentence": "40"
+            },
+            "t785": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Direction",
+                "frame elements": null,
+                "lemma": "up",
+                "reftype": "evoke",
+                "sentence": "40"
+            },
+            "t790": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Time_vector",
+                "frame elements": null,
+                "lemma": "since",
+                "reftype": "evoke",
+                "sentence": "41"
+            },
+            "t791": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Relative_time",
+                "frame elements": null,
+                "lemma": "last",
+                "reftype": "evoke",
+                "sentence": "41"
+            },
+            "t792": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "July",
+                "reftype": "evoke",
+                "sentence": "41"
+            },
+            "t794": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Getting",
+                "frame elements": null,
+                "lemma": "gain",
+                "reftype": "evoke",
+                "sentence": "41"
+            },
+            "t795": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Having_or_lacking_access",
+                "frame elements": null,
+                "lemma": "access",
+                "reftype": "evoke",
+                "sentence": "41"
+            },
+            "t798": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "village",
+                "reftype": "evoke",
+                "sentence": "41"
+            },
+            "t801": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Difficulty",
+                "frame elements": null,
+                "lemma": "difficult",
+                "reftype": "evoke",
+                "sentence": "41"
+            },
+            "t802": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Causation",
+                "frame elements": null,
+                "lemma": "because",
+                "reftype": "evoke",
+                "sentence": "41"
+            },
+            "t804": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "fighting",
+                "reftype": "evoke",
+                "sentence": "41"
+            },
+            "t805": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Interior_profile_relation",
+                "frame elements": null,
+                "lemma": "in",
+                "reftype": "evoke",
+                "sentence": "41"
+            },
+            "t806": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Surrounding",
+                "frame elements": null,
+                "lemma": "surround",
+                "reftype": "evoke",
+                "sentence": "41"
+            },
+            "t807": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locale",
+                "frame elements": null,
+                "lemma": "area",
+                "reftype": "evoke",
+                "sentence": "41"
+            },
+            "t814": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Capability",
+                "frame elements": null,
+                "lemma": "able",
+                "reftype": "evoke",
+                "sentence": "41"
+            },
+            "t816": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "reach",
+                "reftype": "evoke",
+                "sentence": "41"
+            },
+            "t82": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bringing",
+                "frame elements": null,
+                "lemma": "transport",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t824": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Kinship",
+                "frame elements": null,
+                "lemma": "mother",
+                "reftype": "evoke",
+                "sentence": "43"
+            },
+            "t833": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Event",
+                "frame elements": null,
+                "lemma": "happen",
+                "reftype": "evoke",
+                "sentence": "43"
+            },
+            "t836": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "43"
+            },
+            "t843": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Age",
+                "frame elements": null,
+                "lemma": "old",
+                "reftype": "evoke",
+                "sentence": "43"
+            },
+            "t844": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Residence",
+                "frame elements": null,
+                "lemma": "resident",
+                "reftype": "evoke",
+                "sentence": "43"
+            },
+            "t847": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locative_relation",
+                "frame elements": null,
+                "lemma": "there",
+                "reftype": "evoke",
+                "sentence": "45"
+            },
+            "t855": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Posture",
+                "frame elements": null,
+                "lemma": "sit",
+                "reftype": "evoke",
+                "sentence": "45"
+            },
+            "t864": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Giving",
+                "frame elements": null,
+                "lemma": "give",
+                "reftype": "evoke",
+                "sentence": "45"
+            },
+            "t865": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Means",
+                "frame elements": null,
+                "lemma": "way",
+                "reftype": "evoke",
+                "sentence": "45"
+            },
+            "t866": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Non-gradable_proximity",
+                "frame elements": null,
+                "lemma": "underneath",
+                "reftype": "evoke",
+                "sentence": "45"
+            },
+            "t871": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Transition_to_state",
+                "frame elements": null,
+                "lemma": "get",
+                "reftype": "evoke",
+                "sentence": "46"
+            },
+            "t872": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Typicality",
+                "frame elements": null,
+                "lemma": "curious",
+                "reftype": "evoke",
+                "sentence": "46"
+            },
+            "t875": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Motion",
+                "frame elements": null,
+                "lemma": "go",
+                "reftype": "evoke",
+                "sentence": "46"
+            },
+            "t878": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Increment",
+                "frame elements": null,
+                "lemma": "other",
+                "reftype": "evoke",
+                "sentence": "46"
+            },
+            "t879": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Taking_sides",
+                "frame elements": null,
+                "lemma": "side",
+                "reftype": "evoke",
+                "sentence": "46"
+            },
+            "t882": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Buildings",
+                "frame elements": null,
+                "lemma": "house",
+                "reftype": "evoke",
+                "sentence": "46"
+            },
+            "t886": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Perception_active",
+                "frame elements": null,
+                "lemma": "look",
+                "reftype": "evoke",
+                "sentence": "46"
+            },
+            "t893": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locative_relation",
+                "frame elements": null,
+                "lemma": "here",
+                "reftype": "evoke",
+                "sentence": "49"
+            },
+            "t901": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Type",
+                "frame elements": null,
+                "lemma": "kind",
+                "reftype": "evoke",
+                "sentence": "49"
+            },
+            "t905": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Separating",
+                "frame elements": null,
+                "lemma": "separate",
+                "reftype": "evoke",
+                "sentence": "49"
+            },
+            "t929": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Temporal_subregion",
+                "frame elements": null,
+                "lemma": "later",
+                "reftype": "evoke",
+                "sentence": "50"
+            },
+            "t932": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locating",
+                "frame elements": null,
+                "lemma": "find",
+                "reftype": "evoke",
+                "sentence": "50"
+            },
+            "t94": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locale_by_use",
+                "frame elements": [
+                    "Bringing@Area",
+                    "Motion@Area",
+                    "Motion@Area"
+                ],
+                "lemma": "site",
+                "reftype": "evoke",
+                "sentence": "4",
+                "target phrase": "the village of , eastern Ukraine November 20 , 2014 the site of the plane crash near"
+            },
+            "t941": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "50"
+            },
+            "t958": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Quantified_mass",
+                "frame elements": null,
+                "lemma": "few",
+                "reftype": "evoke",
+                "sentence": "51"
+            },
+            "t959": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Measure_duration",
+                "frame elements": null,
+                "lemma": "second",
+                "reftype": "evoke",
+                "sentence": "51"
+            },
+            "t961": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": null,
+                "lemma": "launch",
+                "reftype": "evoke",
+                "sentence": "51"
+            },
+            "t966": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Inhibit_movement",
+                "frame elements": null,
+                "lemma": "lock",
+                "reftype": "evoke",
+                "sentence": "51"
+            },
+            "t97": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Vehicle",
+                "frame elements": [
+                    "Impact@Impactee"
+                ],
+                "lemma": "plane",
+                "reftype": "evoke",
+                "sentence": "4",
+                "target phrase": "plane"
+            },
+            "t971": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Weapon",
+                "frame elements": null,
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "51"
+            },
+            "t974": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Aiming",
+                "frame elements": null,
+                "lemma": "target",
+                "reftype": "evoke",
+                "sentence": "51"
+            },
+            "t976": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Be_in_agreement_on_action",
+                "frame elements": null,
+                "lemma": "accord",
+                "reftype": "evoke",
+                "sentence": "51"
+            },
+            "t98": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Impact",
+                "frame elements": null,
+                "lemma": "crash",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "t981": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Operational_testing",
+                "frame elements": null,
+                "lemma": "test",
+                "reftype": "evoke",
+                "sentence": "51"
+            },
+            "t982": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": null,
+                "lemma": "launch",
+                "reftype": "evoke",
+                "sentence": "51"
+            },
+            "t992": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Text",
+                "frame elements": null,
+                "lemma": "account",
+                "reftype": "evoke",
+                "sentence": "52"
+            },
+            "t996": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Reasoning",
+                "frame elements": null,
+                "lemma": "prove",
+                "reftype": "evoke",
+                "sentence": "52"
+            },
+            "t998": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Weapon",
+                "frame elements": [
+                    "Shoot_projectiles@Projectile"
+                ],
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "52",
+                "target phrase": "the missile"
+            },
+            "t999": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": [
+                    "Destroying@Cause"
+                ],
+                "lemma": "launch",
+                "reftype": "evoke",
+                "sentence": "52",
+                "target phrase": "from near Zhovten the missile launch"
+            }
+        }
+    }
+}

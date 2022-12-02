@@ -1,0 +1,607 @@
+{
+    "Van Zanen: 'Twee verdachten vrij', politie ontkent": {
+        "fe's without links": {
+            "t101": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Participation@Participants"
+                ],
+                "lemma": "ze",
+                "sentence": "5",
+                "target phrase": "ze"
+            },
+            "t121": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Suspicion@Authority",
+                    "Suspicion@Authority",
+                    "Suspicion@Authority",
+                    "Suspicion@Authority",
+                    "Suspicion@Authority",
+                    "Arrest@Authorities",
+                    "Arrest@Authorities",
+                    "Arrest@Authorities",
+                    "Arrest@Authorities"
+                ],
+                "lemma": "politie",
+                "sentence": "6",
+                "target phrase": "de politie utrecht"
+            },
+            "t20": {
+                "POS": "PRON",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Arrest@Suspect",
+                    "Releasing@Theme"
+                ],
+                "lemma": "anderen",
+                "sentence": "2",
+                "target phrase": "de twee anderen die op de dag aanslag worden aanhouden"
+            },
+            "t67": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Arrest@Suspect",
+                    "Releasing@Theme"
+                ],
+                "lemma": "persoon",
+                "sentence": "4",
+                "target phrase": "een vier persoon die maandagavond laten"
+            },
+            "t92": {
+                "POS": "NUM",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Arrest@Suspect"
+                ],
+                "lemma": "twee",
+                "sentence": "5",
+                "target phrase": "van de twee"
+            }
+        },
+        "frames/links": {
+            "Q1632409367599": {
+                "t114": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Attack@Victim",
+                        "Attack@Victim",
+                        "Attack@Victim",
+                        "Attack@Victim",
+                        "Catastrophe@Patient",
+                        "Hit_target@Target",
+                        "Death@Protagonist"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "5",
+                    "target phrase": "drie mens"
+                }
+            },
+            "Q62090804": {
+                "t108": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Arrest@Offense",
+                        "Participation@Event"
+                    ],
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "5",
+                    "target phrase": "bij de aanslag in utrecht , waarbij drie mens het leven"
+                },
+                "t146.c0": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietincident",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schieten",
+                    "reftype": "evoke",
+                    "sentence": "7",
+                    "target phrase": "schietincident"
+                },
+                "t146.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietincident",
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Suspicion@Incident",
+                        "Arrest@Offense"
+                    ],
+                    "function": "head",
+                    "lemma": "incident",
+                    "reftype": "evoke",
+                    "sentence": "7",
+                    "target phrase": "schietincident"
+                },
+                "t27": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Arrest@Offense"
+                    ],
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "van de aanslag"
+                },
+                "t5": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Suspicion@Incident",
+                        "Suspicion@Incident",
+                        "Suspicion@Incident",
+                        "Suspicion@Incident",
+                        "Arrest@Offense"
+                    ],
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "van de aanslag in utrecht"
+                },
+                "t59": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Attack",
+                    "frame elements": null,
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "3"
+                }
+            },
+            "Q62116513": {
+                "t13": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Suspicion@Suspect"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "de zijn de enig verdenken die nog vastzitten . hoofdverdachte aanslag op maandagochtend"
+                },
+                "t138": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Suspicion@Suspect",
+                        "Arrest@Suspect",
+                        "Hit_target@Agent"
+                    ],
+                    "lemma": "verdachte",
+                    "reftype": "evoke",
+                    "sentence": "7",
+                    "target phrase": "de drie verdachte die zijn aanhouden in verband met schietincident in # utrecht"
+                },
+                "t157": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Suspicion@Suspect",
+                        "Being_incarcerated@Prisoner"
+                    ],
+                    "lemma": "persoon",
+                    "sentence": "8",
+                    "target phrase": "deze drie persoon"
+                },
+                "t16": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Being_incarcerated",
+                    "frame elements": null,
+                    "lemma": "vastzitten",
+                    "reftype": "type",
+                    "sentence": "1"
+                },
+                "t165": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": null,
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "8"
+                },
+                "t180": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Being_incarcerated@Prisoner"
+                    ],
+                    "lemma": "g\u00f6km",
+                    "sentence": "9",
+                    "target phrase": "g\u00f6km t. de enig vastzitten , zijn de 37-jarige g\u00f6km t .. van hem"
+                },
+                "t188": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Being_born@Child"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "9",
+                    "target phrase": "hij"
+                },
+                "t199": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Offenses@Perpetrator",
+                        "Offenses@Perpetrator",
+                        "Offenses@Perpetrator",
+                        "Participation@Participant_1",
+                        "Attempt@Agent",
+                        "Trial@Defendant"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "10",
+                    "target phrase": "hij"
+                },
+                "t2.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "hoofdverdachte",
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Suspicion@Suspect",
+                        "Attack@Assailant",
+                        "Attack@Assailant",
+                        "Attack@Assailant",
+                        "Attack@Assailant",
+                        "Being_incarcerated@Prisoner"
+                    ],
+                    "function": "head",
+                    "lemma": "verdachte",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "hoofdverdachte"
+                }
+            },
+            "Q803": {}
+        },
+        "historical distance": 1,
+        "implicated fe's": [
+            "Arrest@Charges",
+            "Arrest@Charges",
+            "Arrest@Charges",
+            "Arrest@Charges",
+            "Being_incarcerated@Prison",
+            "Being_incarcerated@Prison",
+            "Offenses@Victim",
+            "Offenses@Victim",
+            "Offenses@Victim",
+            "Being_incarcerated@Prison",
+            "Releasing@Captor",
+            "Releasing@Location_of_confinement",
+            "Releasing@Captor",
+            "Releasing@Location_of_confinement",
+            "Participation@Participant_2",
+            "Trial@Court",
+            "Trial@Defense",
+            "Trial@Jury",
+            "Trial@Prosecution",
+            "Trial@Judge",
+            "Trial@Case"
+        ],
+        "raw text": "\nDe hoofdverdachte van de aanslag in Utrecht op maandagochtend is de enige verdachte die nog vastzit. De twee anderen die op de dag van de aanslag werden aangehouden zijn vrijgelaten, dat heeft de Utrechts burgemeester Jan van Zanen kenbaar gemaakt tegenover de NPO Radio 1. Genegeerde afzetting De andere twee verdachten bleken niets met de aanslag te maken te hebben. Een vierde persoon die maandagavond laat werd opgepakt bij een afzetting is al vrij snel weer heengezonden, aldus Van Zanen. Na de arrestatie van de twee werd al gezegd dat het onduidelijk was of ze ook daadwerkelijk betrokken waren bij de aanslag in Utrecht, waarbij drie mensen om het leven kwamen. De politie Utrecht ontkent het bericht van de burgemeester echter via Twitter. \u201eWat betreft de drie verdachten die zijn aangehouden in verband met het schietincident aan het #24oktoberplein in #Utrecht. Deze drie personen zitten nog vast en zijn nog altijd verdachte.\" G\u00f6kmen T. De enige die nu nog vastzit, is de 37-jarige G\u00f6kmen T.. Van hem is bekend dat hij in Turkije is geboren en een uitgebreid strafblad heeft. Hij stond onder andere terecht voor betrokkenheid bij een verkrachting, poging tot doodslag en diefstal.\n",
+        "subevents": {
+            "mw2": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Death",
+                "frame elements": null,
+                "lemma": "omkomen",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "mw3": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_incarcerated",
+                "frame elements": null,
+                "lemma": "vastzitten",
+                "reftype": "type",
+                "sentence": "8"
+            },
+            "mw4": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Trial",
+                "frame elements": null,
+                "lemma": "terechtstaan",
+                "reftype": "type",
+                "sentence": "10"
+            },
+            "t104": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Participation",
+                "frame elements": null,
+                "lemma": "betrekken",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t141": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arrest",
+                "frame elements": null,
+                "lemma": "aanhouden",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t175": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_incarcerated",
+                "frame elements": null,
+                "lemma": "vastzitten",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t192": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_born",
+                "frame elements": null,
+                "lemma": "geboren",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t205": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Participation",
+                "frame elements": [
+                    "Trial@Charges"
+                ],
+                "lemma": "betrokkenheid",
+                "reftype": "evoke",
+                "sentence": "10",
+                "target phrase": "voor betrokkenheid"
+            },
+            "t208": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame": "Offenses",
+                "frame elements": [
+                    "Offenses@Offense",
+                    "Participation@Event"
+                ],
+                "lemma": "verkrachting",
+                "reftype": "type",
+                "sentence": "10",
+                "target phrase": "bij een verkrachting"
+            },
+            "t210": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attempt",
+                "frame elements": null,
+                "lemma": "poging",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t212": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Offenses",
+                "frame elements": [
+                    "Offenses@Offense",
+                    "Attempt@Goal"
+                ],
+                "lemma": "doodslag",
+                "reftype": "evoke",
+                "sentence": "10",
+                "target phrase": "tot doodslag en diefstal"
+            },
+            "t214": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Offenses",
+                "frame elements": [
+                    "Offenses@Offense"
+                ],
+                "lemma": "diefstal",
+                "reftype": "evoke",
+                "sentence": "10",
+                "target phrase": "en diefstal"
+            },
+            "t29": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arrest",
+                "frame elements": null,
+                "lemma": "aanhouden",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t31": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Releasing",
+                "frame elements": null,
+                "lemma": "vrijlaten",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t54": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Suspicion",
+                "frame elements": [
+                    "Suspicion@Suspect"
+                ],
+                "lemma": "verdachte",
+                "reftype": "evoke",
+                "sentence": "3",
+                "target phrase": "de andere twee verdachte"
+            },
+            "t72": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arrest",
+                "frame elements": null,
+                "lemma": "oppakken",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "t81": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Releasing",
+                "frame elements": null,
+                "lemma": "heenzenden",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "t89": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Arrest",
+                "frame elements": null,
+                "lemma": "arrestatie",
+                "reftype": "type",
+                "sentence": "5"
+            }
+        }
+    }
+}

@@ -1,0 +1,1773 @@
+{
+    "Did the Ukrainian rebels even know they were shooting at a civilian aircraft?": {
+        "fe's without links": {
+            "t382": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Operating_a_system@System"
+                ],
+                "lemma": "control",
+                "sentence": "17",
+                "target phrase": "the control"
+            },
+            "t386": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Possession@Possession"
+                ],
+                "lemma": "sophistication",
+                "sentence": "17",
+                "target phrase": "the sophistication"
+            },
+            "t392": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Differentiation@Phenomena"
+                ],
+                "lemma": "code",
+                "sentence": "17",
+                "target phrase": "different transponder code"
+            },
+            "t416": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Downing@Patient"
+                ],
+                "lemma": "airliner",
+                "sentence": "19",
+                "target phrase": "a civilian airliner"
+            },
+            "t432": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Give_impression@Phenomenon"
+                ],
+                "lemma": "SA-11",
+                "sentence": "20",
+                "target phrase": "the SA-11"
+            },
+            "t439": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Give_impression@Inference"
+                ],
+                "lemma": "introduce",
+                "sentence": "20",
+                "target phrase": "to have be only recently introduce to the theater"
+            },
+            "t495": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Participation@Participants"
+                ],
+                "lemma": "trainer",
+                "sentence": "22",
+                "target phrase": "russian trainer"
+            },
+            "t542": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Operating_a_system@System"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "26",
+                "target phrase": "-PRON-"
+            }
+        },
+        "frames/links": {
+            "Q159": {
+                "t44": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Origin",
+                    "frame elements": null,
+                    "lemma": "russian",
+                    "reftype": "evoke",
+                    "sentence": "3"
+                },
+                "t45": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Military",
+                    "frame elements": [
+                        "Education_teaching@Teacher",
+                        "Education_teaching@Teacher"
+                    ],
+                    "lemma": "force",
+                    "reftype": "evoke",
+                    "sentence": "3",
+                    "target phrase": "russian force"
+                }
+            },
+            "Q1631864085791": {
+                "t362": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Rebellion@Current_leadership",
+                        "Rebellion@Current_leadership",
+                        "Rebellion@Current_leadership",
+                        "Rebellion@Current_leadership",
+                        "Rebellion@Current_leadership"
+                    ],
+                    "lemma": "ukrainian",
+                    "sentence": "17",
+                    "target phrase": "ukrainian"
+                },
+                "t363": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel",
+                        "Attempt@Agent",
+                        "Operating_a_system@Operator",
+                        "Differentiation@Cognizer"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "17",
+                    "target phrase": "the ukrainian rebel"
+                },
+                "t373": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Education_teaching@Student",
+                        "Possession@Owner"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "17",
+                    "target phrase": "-PRON-"
+                },
+                "t39": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Education_teaching@Student",
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "3",
+                    "target phrase": "the separatist"
+                },
+                "t424": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel",
+                        "Downing@Agent"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "19",
+                    "target phrase": "the rebel '"
+                },
+                "t460": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Leadership",
+                    "frame elements": [
+                        "Contacting@Communicator",
+                        "Contacting@Addressee",
+                        "Chatting@Interlocutors"
+                    ],
+                    "lemma": "leader",
+                    "reftype": "evoke",
+                    "sentence": "21",
+                    "target phrase": "rebel leader"
+                },
+                "t464": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "21",
+                    "target phrase": "the separatist"
+                },
+                "t468": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Agent"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "21",
+                    "target phrase": "-PRON-"
+                },
+                "t502": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel",
+                        "Capability@Entity"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "22",
+                    "target phrase": "the rebel '"
+                },
+                "t534": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Capability@Entity",
+                        "Operating_a_system@Operator"
+                    ],
+                    "lemma": "hillbilly",
+                    "sentence": "26",
+                    "target phrase": "ukrainian hillbilly"
+                }
+            },
+            "Q1631864271612": {
+                "t473": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "airliner",
+                    "reftype": "evoke",
+                    "sentence": "21",
+                    "target phrase": "a commercial airliner"
+                }
+            },
+            "Q1636580448374": {
+                "t452": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Leadership",
+                    "frame elements": null,
+                    "lemma": "government",
+                    "reftype": "evoke",
+                    "sentence": "21"
+                }
+            },
+            "Q17374096": {
+                "mw1": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "19"
+                },
+                "t470": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Contacting@Topic"
+                    ],
+                    "lemma": "down",
+                    "reftype": "type",
+                    "sentence": "21",
+                    "target phrase": "-PRON- would down a commercial airliner after the fact"
+                }
+            }
+        },
+        "historical distance": 3,
+        "implicated fe's": [
+            "Evidence@Support",
+            "Contacting@Address",
+            "Contacting@Communication"
+        ],
+        "raw text": "Did the Ukrainian rebels even know they were shooting at a civilian aircraft?.\nThat's some sophisticated equipment. Speaking to reporters Friday, President Obama said U.S. intelligence officials had gathered strong evidence suggesting the separatists had been trained by Russian forces. Here's the thing: A well-trained radar operator should have been able to distinguish between a civilian airliner and military aircraft. AD AD All aircraft carry transponders \u2014 radio equipment that sends out signals about a plane and what it's doing. Military and civilian transponders use different patterns; the most commonly used modes for commercial flights are known as Mode C and Mode S, the latter of which is also used in a positioning system called ADS-B, a term you might be familiar with from following our coverage of that other Malaysia Airlines flight, MH370. Meanwhile, military planes use a different identification system whose different modes are numbered rather than lettered. In the military, this system is known as Identification Friend-or-Foe (IFF); for civilian purposes, it's called Secondary Surveillance Radar (SSR). What distinguishes one mode from another is generally how far apart two radio pulses are, along with any information that's included in the transmission. Here's one illustration that tries to depict the differences. If you want an idea of how complicated this can get, read this. AD AD A missile platform like the SA-11 Gadfly relies on its operator to know which radar contacts are safe to shoot and which are not; this means the transponder codes are crucial information. Once fired, the SA-11's missiles hunt down the target with a 95 percent interception rate, no matter who's on the receiving end. The more advanced SA-17 Grizzly can apparently determine when it's latched onto a civilian transponder code, but that won't stop the operator from taking the shot. So we're left with two possibilities: Either the Ukrainian rebels were deliberately trying to shoot down an airliner or they were trained just well enough to operate the controls but lacked the sophistication to distinguish between different transponder codes. The evidence seems to point in favor of the latter, for a few reasons. First, shooting down a civilian airliner seems like it would work against the rebels' strategic interest. Second, the SA-11 appears to have been only recently introduced to the theater. Third, phone calls released by the Ukrainian government purporting to be a conversation between rebel leaders suggest that the separatists only found out they'd downed a commercial airliner after the fact. Sen. Mark Kirk (R-Ill.), hinting strongly at the involvement of Russian trainers, said Friday he doubted the rebels' capabilities. \"The Buk missile system is such a complicated radar-guided system,\" he told the Post. \"I would think a bunch of Ukrainian hillbillies would not have an ability to operate it efficiently.\" RELATED:",
+        "subevents": {
+            "mw2": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Downing",
+                "frame elements": [
+                    "Attempt@Goal"
+                ],
+                "lemma": "shoot down",
+                "reftype": "type",
+                "sentence": "17",
+                "target phrase": "shoot down"
+            },
+            "t100": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Pattern",
+                "frame elements": null,
+                "lemma": "pattern",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t109": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Fleeing",
+                "frame elements": null,
+                "lemma": "flight",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t111": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Awareness",
+                "frame elements": null,
+                "lemma": "know",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t125": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Using",
+                "frame elements": null,
+                "lemma": "use",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t129": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Gizmo",
+                "frame elements": null,
+                "lemma": "system",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t130": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Referring_by_name",
+                "frame elements": null,
+                "lemma": "call",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t138": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Likelihood",
+                "frame elements": null,
+                "lemma": "may",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t140": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Expertise",
+                "frame elements": null,
+                "lemma": "familiar",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t148": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Increment",
+                "frame elements": null,
+                "lemma": "other",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t151": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Fleeing",
+                "frame elements": null,
+                "lemma": "flight",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t157": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Military",
+                "frame elements": null,
+                "lemma": "military",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t158": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Vehicle",
+                "frame elements": null,
+                "lemma": "plane",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t159": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Using",
+                "frame elements": null,
+                "lemma": "use",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t161": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Similarity",
+                "frame elements": null,
+                "lemma": "different",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t163": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Gizmo",
+                "frame elements": null,
+                "lemma": "system",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t165": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Similarity",
+                "frame elements": null,
+                "lemma": "different",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t168": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cardinal_numbers",
+                "frame elements": null,
+                "lemma": "number",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t171": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Text",
+                "frame elements": null,
+                "lemma": "letter",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t175": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Military",
+                "frame elements": null,
+                "lemma": "military",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t178": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Gizmo",
+                "frame elements": null,
+                "lemma": "system",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t180": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Awareness",
+                "frame elements": null,
+                "lemma": "know",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t19": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Stage_of_progress",
+                "frame elements": null,
+                "lemma": "sophisticated",
+                "reftype": "evoke",
+                "sentence": "2"
+            },
+            "t194": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Purpose",
+                "frame elements": null,
+                "lemma": "purpose",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t198": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Referring_by_name",
+                "frame elements": null,
+                "lemma": "call",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t20": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Gizmo",
+                "frame elements": null,
+                "lemma": "equipment",
+                "reftype": "evoke",
+                "sentence": "2"
+            },
+            "t208": {
+                "POS": "NUM",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cardinal_numbers",
+                "frame elements": null,
+                "lemma": "one",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t211": {
+                "POS": "DET",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Increment",
+                "frame elements": null,
+                "lemma": "another",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t215": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Degree",
+                "frame elements": null,
+                "lemma": "far",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t217": {
+                "POS": "NUM",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cardinal_numbers",
+                "frame elements": null,
+                "lemma": "two",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t222": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locative_relation",
+                "frame elements": null,
+                "lemma": "along",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t225": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Information",
+                "frame elements": null,
+                "lemma": "information",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t238": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attempt",
+                "frame elements": null,
+                "lemma": "try",
+                "reftype": "evoke",
+                "sentence": "11"
+            },
+            "t240": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Communicate_categorization",
+                "frame elements": null,
+                "lemma": "depict",
+                "reftype": "evoke",
+                "sentence": "11"
+            },
+            "t242": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Non-commutative_statement",
+                "frame elements": null,
+                "lemma": "difference",
+                "reftype": "evoke",
+                "sentence": "11"
+            },
+            "t246": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Desiring",
+                "frame elements": null,
+                "lemma": "want",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t248": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Awareness",
+                "frame elements": null,
+                "lemma": "idea",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t25": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "Friday",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t253": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Capability",
+                "frame elements": null,
+                "lemma": "can",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t254": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Transition_to_state",
+                "frame elements": null,
+                "lemma": "get",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t256": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Reading_activity",
+                "frame elements": null,
+                "lemma": "read",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t262": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Weapon",
+                "frame elements": null,
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t27": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Appellations",
+                "frame elements": null,
+                "lemma": "President",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t273": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Awareness",
+                "frame elements": null,
+                "lemma": "know",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t276": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Spatial_contact",
+                "frame elements": null,
+                "lemma": "contact",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t278": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_at_risk",
+                "frame elements": null,
+                "lemma": "safe",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t287": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": null,
+                "lemma": "mean",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t29": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t292": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Importance",
+                "frame elements": null,
+                "lemma": "crucial",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t293": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Information",
+                "frame elements": null,
+                "lemma": "information",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t296": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": null,
+                "lemma": "fire",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t301": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Weapon",
+                "frame elements": null,
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t302": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hunting",
+                "frame elements": null,
+                "lemma": "hunt",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t31": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Information",
+                "frame elements": null,
+                "lemma": "intelligence",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t311": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Proportion",
+                "frame elements": null,
+                "lemma": "rate",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t32": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "official",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t320": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Temporal_subregion",
+                "frame elements": null,
+                "lemma": "end",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t324": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Stage_of_progress",
+                "frame elements": null,
+                "lemma": "advanced",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t329": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Contingency",
+                "frame elements": null,
+                "lemma": "determine",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t34": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Coming_to_believe",
+                "frame elements": null,
+                "lemma": "gather",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t344": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Preventing_or_letting",
+                "frame elements": null,
+                "lemma": "stop",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t350": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attempt",
+                "frame elements": null,
+                "lemma": "shot",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t358": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Likelihood",
+                "frame elements": null,
+                "lemma": "possibility",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t36": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": null,
+                "lemma": "evidence",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t366": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attempt",
+                "frame elements": null,
+                "lemma": "try",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t37": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": null,
+                "lemma": "suggest",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t375": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Education_teaching",
+                "frame elements": [
+                    "Evidence@Proposition"
+                ],
+                "lemma": "train",
+                "reftype": "evoke",
+                "sentence": "17",
+                "target phrase": "-PRON- be train just well enough to operate the control but lack the sophistication to distinguish between ."
+            },
+            "t378": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Sufficiency",
+                "frame elements": null,
+                "lemma": "enough",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t380": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Operating_a_system",
+                "frame elements": [
+                    "Education_teaching@Skill",
+                    "Education_teaching@Skill"
+                ],
+                "lemma": "operate",
+                "reftype": "evoke",
+                "sentence": "17",
+                "target phrase": "to operate the control"
+            },
+            "t384": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Possession",
+                "frame elements": null,
+                "lemma": "lack",
+                "reftype": "type",
+                "sentence": "17"
+            },
+            "t388": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Differentiation",
+                "frame elements": null,
+                "lemma": "distinguish",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t390": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Similarity",
+                "frame elements": null,
+                "lemma": "different",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t395": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": null,
+                "lemma": "evidence",
+                "reftype": "evoke",
+                "sentence": "18"
+            },
+            "t396": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Give_impression",
+                "frame elements": null,
+                "lemma": "seem",
+                "reftype": "evoke",
+                "sentence": "18"
+            },
+            "t407": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Quantified_mass",
+                "frame elements": null,
+                "lemma": "few",
+                "reftype": "evoke",
+                "sentence": "18"
+            },
+            "t408": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Reason",
+                "frame elements": null,
+                "lemma": "reason",
+                "reftype": "evoke",
+                "sentence": "18"
+            },
+            "t410": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "First_experience",
+                "frame elements": null,
+                "lemma": "first",
+                "reftype": "evoke",
+                "sentence": "19"
+            },
+            "t417": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Give_impression",
+                "frame elements": [
+                    "Evidence@Support"
+                ],
+                "lemma": "seem",
+                "reftype": "evoke",
+                "sentence": "19",
+                "target phrase": "first , a civilian airliner seem like -PRON- would work against interest ."
+            },
+            "t42": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Education_teaching",
+                "frame elements": [
+                    "Evidence@Proposition",
+                    "Participation@Event"
+                ],
+                "lemma": "train",
+                "reftype": "evoke",
+                "sentence": "3",
+                "target phrase": "the separatist have be train by russian force"
+            },
+            "t421": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_employed",
+                "frame elements": null,
+                "lemma": "work",
+                "reftype": "evoke",
+                "sentence": "19"
+            },
+            "t429": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Ordinal_numbers",
+                "frame elements": null,
+                "lemma": "second",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t433": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Give_impression",
+                "frame elements": null,
+                "lemma": "appear",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t438": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Temporal_collocation",
+                "frame elements": null,
+                "lemma": "recently",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t442": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Buildings",
+                "frame elements": null,
+                "lemma": "theater",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t447": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Contacting",
+                "frame elements": null,
+                "lemma": "call",
+                "reftype": "type",
+                "sentence": "21"
+            },
+            "t457": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Chatting",
+                "frame elements": null,
+                "lemma": "conversation",
+                "reftype": "evoke",
+                "sentence": "21"
+            },
+            "t461": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": null,
+                "lemma": "suggest",
+                "reftype": "evoke",
+                "sentence": "21"
+            },
+            "t466": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locating",
+                "frame elements": null,
+                "lemma": "find",
+                "reftype": "evoke",
+                "sentence": "21"
+            },
+            "t492": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Participation",
+                "frame elements": null,
+                "lemma": "involvement",
+                "reftype": "evoke",
+                "sentence": "22"
+            },
+            "t497": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "22"
+            },
+            "t498": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "Friday",
+                "reftype": "evoke",
+                "sentence": "22"
+            },
+            "t500": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Certainty",
+                "frame elements": null,
+                "lemma": "doubt",
+                "reftype": "evoke",
+                "sentence": "22"
+            },
+            "t504": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Capability",
+                "frame elements": null,
+                "lemma": "capability",
+                "reftype": "evoke",
+                "sentence": "22"
+            },
+            "t509": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Weapon",
+                "frame elements": null,
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "24"
+            },
+            "t510": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Gizmo",
+                "frame elements": null,
+                "lemma": "system",
+                "reftype": "evoke",
+                "sentence": "24"
+            },
+            "t517": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cotheme",
+                "frame elements": null,
+                "lemma": "guide",
+                "reftype": "evoke",
+                "sentence": "24"
+            },
+            "t518": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Gizmo",
+                "frame elements": null,
+                "lemma": "system",
+                "reftype": "evoke",
+                "sentence": "24"
+            },
+            "t522": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Telling",
+                "frame elements": null,
+                "lemma": "tell",
+                "reftype": "evoke",
+                "sentence": "24"
+            },
+            "t529": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Opinion",
+                "frame elements": null,
+                "lemma": "think",
+                "reftype": "evoke",
+                "sentence": "26"
+            },
+            "t539": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Capability",
+                "frame elements": null,
+                "lemma": "ability",
+                "reftype": "evoke",
+                "sentence": "26"
+            },
+            "t541": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Operating_a_system",
+                "frame elements": [
+                    "Capability@Event"
+                ],
+                "lemma": "operate",
+                "reftype": "evoke",
+                "sentence": "26",
+                "target phrase": "to operate -PRON- efficiently"
+            },
+            "t55": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Education_teaching",
+                "frame elements": null,
+                "lemma": "train",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t58": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Desirable_event",
+                "frame elements": null,
+                "lemma": "should",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t61": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Capability",
+                "frame elements": null,
+                "lemma": "able",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t63": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Differentiation",
+                "frame elements": null,
+                "lemma": "distinguish",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t69": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Military",
+                "frame elements": null,
+                "lemma": "military",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t70": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Vehicle",
+                "frame elements": null,
+                "lemma": "aircraft",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t76": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bringing",
+                "frame elements": null,
+                "lemma": "carry",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t80": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Gizmo",
+                "frame elements": null,
+                "lemma": "equipment",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t82": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Sending",
+                "frame elements": null,
+                "lemma": "send",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t84": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Gesture",
+                "frame elements": null,
+                "lemma": "signal",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t87": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Vehicle",
+                "frame elements": null,
+                "lemma": "plane",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t92": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": null,
+                "lemma": "do",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t98": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Using",
+                "frame elements": null,
+                "lemma": "use",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t99": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Similarity",
+                "frame elements": null,
+                "lemma": "different",
+                "reftype": "evoke",
+                "sentence": "7"
+            }
+        }
+    }
+}

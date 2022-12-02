@@ -1,0 +1,813 @@
+{
+    "G\u00f6kmen Tanis bekent schietpartij in tram in Utrecht": {
+        "fe's without links": {
+            "t103": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arrest@Suspect"
+                ],
+                "lemma": "man",
+                "sentence": "9",
+                "target phrase": "deze man"
+            },
+            "t124": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Participation@Participant_1"
+                ],
+                "lemma": "man",
+                "sentence": "10",
+                "target phrase": "de man"
+            },
+            "t134": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Assistance@Helper"
+                ],
+                "lemma": "hij",
+                "sentence": "10",
+                "target phrase": "hij"
+            },
+            "t151": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Suspicion@Suspect"
+                ],
+                "lemma": "40-jarige",
+                "sentence": "11",
+                "target phrase": "de 40-jarige"
+            },
+            "t20": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Statement@Speaker",
+                    "Detaining@Authorities",
+                    "Arrest@Authorities",
+                    "Arrest@Authorities",
+                    "Arrest@Authorities",
+                    "Scrutiny@Cognizer",
+                    "Suspicion@Authority",
+                    "Criminal_investigation@Investigator"
+                ],
+                "lemma": "ministerie",
+                "sentence": "2",
+                "target phrase": "ministerie"
+            },
+            "t200": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Arrest@Authorities",
+                    "Releasing_from_custody@Authorities",
+                    "Releasing_from_custody@Authorities"
+                ],
+                "lemma": "politie",
+                "sentence": "14",
+                "target phrase": "de politie"
+            },
+            "t203": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arrest@Suspect"
+                ],
+                "lemma": "broer",
+                "sentence": "14",
+                "target phrase": "ook twee broer"
+            },
+            "t213": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Releasing_from_custody@Suspect"
+                ],
+                "lemma": "zij",
+                "sentence": "15",
+                "target phrase": "zij"
+            },
+            "t32": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Change_event_duration@Agent"
+                ],
+                "lemma": "rechter",
+                "sentence": "4",
+                "target phrase": "de rechter -"
+            },
+            "t48": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Suspicion@Authority"
+                ],
+                "lemma": "om",
+                "sentence": "5",
+                "target phrase": "het om"
+            },
+            "t67": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Turning_out@State_of_affairs",
+                    "Turning_out@State_of_affairs"
+                ],
+                "lemma": "relatie",
+                "sentence": "6",
+                "target phrase": "van een relatie tussen de schutter en zijn slachtoffer"
+            },
+            "t90": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Killing@Instrument",
+                    "Killing@Instrument",
+                    "Killing@Instrument"
+                ],
+                "lemma": "pistool",
+                "sentence": "7",
+                "target phrase": "met een pistool"
+            },
+            "t99": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Arrest@Suspect",
+                    "Releasing_from_custody@Suspect"
+                ],
+                "lemma": "man",
+                "sentence": "8",
+                "target phrase": "de eerder aanhouden 40-jarige man"
+            }
+        },
+        "frames/links": {
+            "Q1632409367599": {
+                "t73": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Killing@Victim",
+                        "Hit_target@Target",
+                        "Participation@Participant_2",
+                        "Killing@Victim",
+                        "Terrorism@Victim",
+                        "Hit_target@Target",
+                        "Catastrophe@Patient",
+                        "Hit_target@Target",
+                        "Catastrophe@Patient",
+                        "Hit_target@Target",
+                        "Participation@Participant_2"
+                    ],
+                    "lemma": "slachtoffer",
+                    "reftype": "evoke",
+                    "sentence": "6",
+                    "target phrase": "en zijn slachtoffer"
+                },
+                "t83": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Killing@Victim",
+                        "Killing@Victim"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "7",
+                    "target phrase": "drie mens"
+                },
+                "t87": {
+                    "POS": "NUM",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Cause_harm@Victim"
+                    ],
+                    "lemma": "vijf",
+                    "sentence": "7",
+                    "target phrase": "vijf"
+                }
+            },
+            "Q62090804": {
+                "t131.c0": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietincident",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event",
+                        "Participation@Event",
+                        "Assistance@Goal"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schiet",
+                    "reftype": "type",
+                    "sentence": "10",
+                    "target phrase": "schietincident"
+                },
+                "t131.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietincident",
+                    "frame": "Catastrophe",
+                    "frame elements": null,
+                    "function": "head",
+                    "lemma": "incident",
+                    "reftype": "type",
+                    "sentence": "10"
+                },
+                "t197.c0": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Participation@Event",
+                        "Arrest@Offense"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schiet",
+                    "reftype": "type",
+                    "sentence": "14",
+                    "target phrase": "schietpartij"
+                },
+                "t197.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Participation",
+                    "frame elements": null,
+                    "function": "head",
+                    "lemma": "partij",
+                    "reftype": "evoke",
+                    "sentence": "14"
+                },
+                "t227": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Criminal_investigation",
+                    "frame elements": null,
+                    "lemma": "zaak",
+                    "reftype": "type",
+                    "sentence": "16"
+                },
+                "t5": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Killing",
+                    "frame elements": null,
+                    "lemma": "dodelijk",
+                    "reftype": "evoke",
+                    "sentence": "1"
+                },
+                "t53": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Killing",
+                    "frame elements": [
+                        "Suspicion@Incident",
+                        "Terrorism@Act",
+                        "Purpose@Means",
+                        "Arrest@Charges"
+                    ],
+                    "lemma": "moord",
+                    "reftype": "evoke",
+                    "sentence": "5",
+                    "target phrase": "van meervoudig moord met een terroristisch oogmerk"
+                },
+                "t56": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Terrorism",
+                    "frame elements": [
+                        "Purpose@Goal"
+                    ],
+                    "lemma": "terroristisch",
+                    "reftype": "evoke",
+                    "sentence": "5",
+                    "target phrase": "terroristisch"
+                },
+                "t57": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": "Purpose",
+                    "frame elements": null,
+                    "lemma": "oogmerk",
+                    "reftype": "evoke",
+                    "sentence": "5"
+                },
+                "t6.c0": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Killing@Means",
+                        "Participation@Event",
+                        "Reveal_secret@Information",
+                        "Reveal_secret@Topic",
+                        "Statement@Topic",
+                        "Statement@Topic",
+                        "Intentionally_act@Act",
+                        "Killing@Means",
+                        "Catastrophe@Undesirable_event",
+                        "Killing@Means",
+                        "Arrest@Offense",
+                        "Arrest@Offense",
+                        "Arrest@Offense",
+                        "Suspicion@Incident",
+                        "Criminal_investigation@Incident"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schiet",
+                    "reftype": "type",
+                    "sentence": "1",
+                    "target phrase": "schietpartij"
+                },
+                "t6.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Participation",
+                    "frame elements": null,
+                    "function": "head",
+                    "lemma": "partij",
+                    "reftype": "evoke",
+                    "sentence": "1"
+                }
+            },
+            "Q62116513": {
+                "t1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Killing@Killer",
+                        "Hit_target@Agent",
+                        "Participation@Participant_1",
+                        "Reveal_secret@Speaker",
+                        "Hit_target@Agent",
+                        "Participation@Participant_2",
+                        "Assistance@Benefited_party",
+                        "Hit_target@Agent",
+                        "Participation@Participant_1",
+                        "Criminal_investigation@Suspect"
+                    ],
+                    "lemma": "g\u00f6km",
+                    "sentence": "1",
+                    "target phrase": "g\u00f6km tanis"
+                },
+                "t109": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Arrest@Suspect"
+                    ],
+                    "lemma": "tani",
+                    "sentence": "9",
+                    "target phrase": "tani"
+                },
+                "t24": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Statement@Speaker",
+                        "Intentionally_act@Agent"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "3",
+                    "target phrase": "hij"
+                },
+                "t37": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Detaining@Suspect"
+                    ],
+                    "lemma": "zijn",
+                    "sentence": "4",
+                    "target phrase": "zijn"
+                },
+                "t50": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Suspicion@Suspect",
+                        "Killing@Killer",
+                        "Terrorism@Terrorist",
+                        "Purpose@Agent"
+                    ],
+                    "lemma": "hem",
+                    "sentence": "5",
+                    "target phrase": "hem"
+                },
+                "t70": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Hit_target@Agent"
+                    ],
+                    "lemma": "schutter",
+                    "reftype": "evoke",
+                    "sentence": "6",
+                    "target phrase": "tussen de schutter en zijn slachtoffer"
+                },
+                "t75": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Killing@Killer",
+                        "Cause_harm@Agent"
+                    ],
+                    "lemma": "hij",
+                    "sentence": "7",
+                    "target phrase": "hij"
+                }
+            },
+            "Q803": {}
+        },
+        "historical distance": 4,
+        "implicated fe's": [
+            "Reveal_secret@Medium",
+            "Statement@Medium",
+            "Statement@Medium",
+            "Change_event_duration@Cause",
+            "Cause_harm@Body_part",
+            "Arrest@Charges",
+            "Arrest@Charges",
+            "Scrutiny@Medium",
+            "Scrutiny@Instrument",
+            "Assistance@Focal_entity",
+            "Releasing_from_custody@Holding_location",
+            "Releasing_from_custody@Holding_location"
+        ],
+        "raw text": "\nG\u00f6kmen Tanis heeft de dodelijke schietpartij maandagochtend op het 24 Oktoberplein in Utrecht bekend. Dat heeft het Openbaar Ministerie zojuist bekendgemaakt. Hij zegt alleen gehandeld te hebben. De rechter-commissaris verlengde vandaag zijn voorarrest met de maximale termijn van veertien dagen. Het OM verdenkt hem van meervoudige moord met een terroristisch oogmerk. Tot nu toe is niets gebleken van een relatie tussen de schutter en zijn slachtoffers. Hij doodde in en rond een tram drie mensen en verwondde er vijf met een pistool. Daarnaast is vanochtend de eerder aangehouden 40-jarige man heengezonden. Deze man werd dinsdag aangehouden, omdat Tanis in zijn woning is aangehouden. De afgelopen dagen is diepgaand onderzocht of de man enige betrokkenheid heeft gehad bij het schietincident of dat hij daarbij op enige wijze behulpzaam is geweest. Daar is geen bewijs voor gevonden en de 40-jarige is dan ook geen verdachte meer. De man zelf wil geen contact met de media en mijdt voorlopig zijn woning aan de Oudenoord, zegt zijn advocaat Dundar G\u00fcrses. ,,Mijn cli\u00ebnt is erg geschrokken.\u201d Op de dag van de schietpartij hield de politie ook twee broers aan (van 23 en 27 jaar). Zij werden gisteren op vrije voeten gesteld. De twee bleken niets met de zaak te maken te hebben.\n",
+        "subevents": {
+            "mw1": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arrest",
+                "frame elements": null,
+                "lemma": "aanhouden",
+                "reftype": "type",
+                "sentence": "14"
+            },
+            "mw2": {
+                "POS": "MWE",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Releasing_from_custody",
+                "frame elements": null,
+                "lemma": "op vrije voeten stellen",
+                "reftype": "type",
+                "sentence": "15"
+            },
+            "t100": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Releasing_from_custody",
+                "frame elements": null,
+                "lemma": "heenzenden",
+                "reftype": "type",
+                "sentence": "8"
+            },
+            "t106": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arrest",
+                "frame elements": null,
+                "lemma": "aanhouden",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t114": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arrest",
+                "frame elements": null,
+                "lemma": "aanhouden",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t121": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Scrutiny",
+                "frame elements": null,
+                "lemma": "onderzoeken",
+                "reftype": "type",
+                "sentence": "10"
+            },
+            "t126": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Participation",
+                "frame elements": [
+                    "Scrutiny@Ground"
+                ],
+                "lemma": "betrokkenheid",
+                "reftype": "evoke",
+                "sentence": "10",
+                "target phrase": "enige betrokkenheid"
+            },
+            "t139": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Assistance",
+                "frame elements": null,
+                "lemma": "behulpzaam",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t14": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Reveal_secret",
+                "frame elements": [
+                    "Statement@Message"
+                ],
+                "lemma": "bekend",
+                "reftype": "type",
+                "sentence": "1",
+                "target phrase": "g\u00f6km 24 oktoberplein utrecht bekend . tanis hebben de dodelijk schietpartij maandagochtend op het"
+            },
+            "t156": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Suspicion",
+                "frame elements": null,
+                "lemma": "verdenken",
+                "reftype": "evoke",
+                "sentence": "11"
+            },
+            "t22": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "bekendmaken",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t25": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "zeggen",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t27": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": [
+                    "Statement@Message"
+                ],
+                "lemma": "handelen",
+                "reftype": "type",
+                "sentence": "3",
+                "target phrase": "alleen handelen te hebben"
+            },
+            "t35": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Change_event_duration",
+                "frame elements": null,
+                "lemma": "verlengen",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "t38": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Detaining",
+                "frame elements": [
+                    "Change_event_duration@Event"
+                ],
+                "lemma": "voorarrest",
+                "reftype": "evoke",
+                "sentence": "4",
+                "target phrase": "zijn voorarrest"
+            },
+            "t49": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Suspicion",
+                "frame elements": null,
+                "lemma": "verdenken",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t64": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Turning_out",
+                "frame elements": null,
+                "lemma": "blijken",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t76": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Killing",
+                "frame elements": null,
+                "lemma": "doden",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t85": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_harm",
+                "frame elements": null,
+                "lemma": "verwonden",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t97": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arrest",
+                "frame elements": null,
+                "lemma": "aanhouden",
+                "reftype": "evoke",
+                "sentence": "8"
+            }
+        }
+    }
+}

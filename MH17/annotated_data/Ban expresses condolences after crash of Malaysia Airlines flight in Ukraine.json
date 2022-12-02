@@ -1,0 +1,457 @@
+{
+    "Ban expresses condolences after crash of Malaysia Airlines flight in Ukraine": {
+        "fe's without links": {
+            "t32": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Source"
+                ],
+                "lemma": "Amsterdam",
+                "sentence": "2",
+                "target phrase": "Amsterdam"
+            },
+            "t46": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Area"
+                ],
+                "lemma": "Ukraine",
+                "sentence": "2",
+                "target phrase": "eastern Ukraine"
+            }
+        },
+        "frames/links": {
+            "Q1631025548534": {
+                "t114": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Catastrophe@Patient"
+                    ],
+                    "lemma": "victim",
+                    "reftype": "evoke",
+                    "sentence": "7",
+                    "target phrase": "the victim and people of Malaysia"
+                },
+                "t26": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "People",
+                    "frame elements": [
+                        "Bringing@Theme",
+                        "Catastrophe@Patient"
+                    ],
+                    "lemma": "people",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "295 people"
+                }
+            },
+            "Q1631864271612": {
+                "t19": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Bringing@Carrier",
+                        "Impact@Impactee"
+                    ],
+                    "lemma": "Boeing",
+                    "sentence": "2",
+                    "target phrase": "Boeing 777"
+                },
+                "t24": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Bringing",
+                    "frame elements": null,
+                    "lemma": "carry",
+                    "reftype": "evoke",
+                    "sentence": "2"
+                },
+                "t26": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "People",
+                    "frame elements": [
+                        "Bringing@Theme",
+                        "Catastrophe@Patient"
+                    ],
+                    "lemma": "people",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "295 people"
+                }
+            },
+            "Q17374096": {
+                "t121": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Calendric_unit",
+                    "frame elements": null,
+                    "lemma": "today",
+                    "reftype": "evoke",
+                    "sentence": "9"
+                },
+                "t123": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": null,
+                    "lemma": "tragedy",
+                    "reftype": "type",
+                    "sentence": "9"
+                },
+                "t43": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Impact",
+                    "frame elements": [
+                        "Criminal_investigation@Incident",
+                        "Catastrophe@Undesirable_event",
+                        "Catastrophe@Undesirable_event"
+                    ],
+                    "lemma": "crash",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "when -PRON- crash in eastern Ukraine , near the russian border"
+                }
+            }
+        },
+        "historical distance": 2,
+        "implicated fe's": [
+            "Bringing@Path",
+            "Bringing@Agent",
+            "Impact@Impactor",
+            "Criminal_investigation@Investigator",
+            "Criminal_investigation@Suspect"
+        ],
+        "raw text": "Ban expresses condolences after crash of Malaysia Airlines flight in Ukraine.\n\nAccording to media reports, the Boeing 777 \u2013 which was carrying 295 people \u2013 was en route from Amsterdam to the Malaysian capital, Kuala Lampur, when it crashed in eastern Ukraine, near the Russian border. \u201cI am closely monitoring the reports, along with the International Civil Aviation Organization, a United Nations agency. There is clearly a need for a full and transparent international investigation,\u201d Mr. Ban told reporters at UN Headquarters. \u201cFor the moment, I offer my deep condolences to the families and loved ones of the victims and people of Malaysia.\u201d Today\u2019s tragedy comes just a few months after Malaysia Airlines Flight MH370 vanished shortly after take-off from Kuala Lumpur with 239 passengers on board.\n",
+        "subevents": {
+            "t108": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Kinship",
+                "frame elements": null,
+                "lemma": "family",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t110": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Experiencer_focus",
+                "frame elements": null,
+                "lemma": "love",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t116": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "People",
+                "frame elements": null,
+                "lemma": "people",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t127": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Quantified_mass",
+                "frame elements": null,
+                "lemma": "few",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t128": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "month",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t134": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Departing",
+                "frame elements": null,
+                "lemma": "vanish",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t16": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Text",
+                "frame elements": null,
+                "lemma": "report",
+                "reftype": "evoke",
+                "sentence": "2"
+            },
+            "t30": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Roadways",
+                "frame elements": null,
+                "lemma": "route",
+                "reftype": "evoke",
+                "sentence": "2"
+            },
+            "t36": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Relational_political_locales",
+                "frame elements": [
+                    "Bringing@Goal"
+                ],
+                "lemma": "capital",
+                "reftype": "evoke",
+                "sentence": "2",
+                "target phrase": "the malaysian capital , Kuala Lampur ,"
+            },
+            "t41": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Temporal_collocation",
+                "frame elements": null,
+                "lemma": "when",
+                "reftype": "evoke",
+                "sentence": "2"
+            },
+            "t45": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Part_orientational",
+                "frame elements": null,
+                "lemma": "eastern",
+                "reftype": "evoke",
+                "sentence": "2"
+            },
+            "t48": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locative_relation",
+                "frame elements": null,
+                "lemma": "near",
+                "reftype": "evoke",
+                "sentence": "2"
+            },
+            "t50": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Origin",
+                "frame elements": null,
+                "lemma": "russian",
+                "reftype": "evoke",
+                "sentence": "2"
+            },
+            "t51": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Boundary",
+                "frame elements": null,
+                "lemma": "border",
+                "reftype": "evoke",
+                "sentence": "2"
+            },
+            "t57": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Scrutiny",
+                "frame elements": null,
+                "lemma": "monitor",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t59": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Text",
+                "frame elements": null,
+                "lemma": "report",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t67": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Organization",
+                "frame elements": null,
+                "lemma": "Organization",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t72": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Organization",
+                "frame elements": null,
+                "lemma": "agency",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t76": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Obviousness",
+                "frame elements": null,
+                "lemma": "clearly",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t78": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Needing",
+                "frame elements": null,
+                "lemma": "need",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t84": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "international",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t85": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t89": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Prohibiting_or_licensing",
+                "frame elements": null,
+                "lemma": "Ban",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t90": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Telling",
+                "frame elements": null,
+                "lemma": "tell",
+                "reftype": "evoke",
+                "sentence": "5"
+            }
+        }
+    }
+}

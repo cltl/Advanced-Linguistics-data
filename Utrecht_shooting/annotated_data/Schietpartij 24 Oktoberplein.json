@@ -1,0 +1,333 @@
+{
+    "Schietpartij 24 Oktoberplein": {
+        "fe's without links": {
+            "t67": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Rewards_and_punishments@Agent",
+                    "Trial@Court",
+                    "Trial@Court"
+                ],
+                "lemma": "rechtbank",
+                "sentence": "4",
+                "target phrase": "bij de rechtbank midden - nederland"
+            }
+        },
+        "frames/links": {
+            "Q1632409367599": {
+                "t45": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hit_target@Target",
+                        "Participation@Participant_2",
+                        "Terrorism@Victim",
+                        "Killing@Victim",
+                        "Offenses@Victim",
+                        "Terrorism@Victim",
+                        "Commitment@Addressee",
+                        "Terrorism@Victim",
+                        "Offenses@Victim"
+                    ],
+                    "lemma": "persoon",
+                    "sentence": "3",
+                    "target phrase": "op meerdere persoon met een terroristisch oogmerk , poging daartoe en bedreiging oogmerk"
+                }
+            },
+            "Q62090804": {
+                "t16.c0": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Participation@Event",
+                        "Killing@Means"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schieten",
+                    "reftype": "type",
+                    "sentence": "1",
+                    "target phrase": "schietpartij"
+                },
+                "t16.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Participation",
+                    "frame elements": [
+                        "Rewards_and_punishments@Reason",
+                        "Suspicion@Incident",
+                        "Terrorism@Act",
+                        "Trial@Charges"
+                    ],
+                    "function": "head",
+                    "lemma": "partij",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "schietpartij"
+                },
+                "t18": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Terrorism",
+                    "frame elements": null,
+                    "lemma": "terroristisch",
+                    "reftype": "evoke",
+                    "sentence": "1"
+                },
+                "t38": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Offenses",
+                    "frame elements": [
+                        "Suspicion@Incident",
+                        "Offenses@Offense",
+                        "Trial@Charges"
+                    ],
+                    "lemma": "feit",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "van drie strafbaar feit"
+                }
+            },
+            "Q62116513": {
+                "t32": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Suspicion@Suspect",
+                        "Killing@Killer",
+                        "Offenses@Perpetrator",
+                        "Attempt@Agent",
+                        "Commitment@Speaker",
+                        "Terrorism@Terrorist",
+                        "Offenses@Perpetrator"
+                    ],
+                    "lemma": "man",
+                    "sentence": "2",
+                    "target phrase": "de man"
+                },
+                "t9": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Rewards_and_punishments@Evaluee",
+                        "Suspicion@Suspect",
+                        "Hit_target@Agent",
+                        "Participation@Participant_1",
+                        "Terrorism@Terrorist",
+                        "Terrorism@Terrorist",
+                        "Trial@Defendant",
+                        "Trial@Defendant"
+                    ],
+                    "lemma": "g\u00f6km",
+                    "sentence": "1",
+                    "target phrase": "t. tegen g\u00f6km"
+                }
+            },
+            "Q803": {}
+        },
+        "historical distance": 274,
+        "implicated fe's": [
+            "Rewards_and_punishments@Response_action",
+            "Suspicion@Authority",
+            "Suspicion@Authority",
+            "Killing@Instrument",
+            "Commitment@Message",
+            "Commitment@Topic",
+            "Commitment@Medium",
+            "Trial@Judge",
+            "Trial@Jury",
+            "Trial@Defense",
+            "Trial@Prosecution",
+            "Trial@Defense",
+            "Trial@Jury",
+            "Trial@Prosecution",
+            "Trial@Judge"
+        ],
+        "raw text": "\nOp 1 juli 2019 begon de strafzaak tegen G\u00f6kmen T. die wordt verdacht van de schietpartij met terroristisch oogmerk op het 24 Oktoberplein in Utrecht op 18 maart 2019. De man wordt verdacht van drie strafbare feiten: moord of doodslag op meerdere personen met een terroristisch oogmerk, poging daartoe en bedreiging met een terroristisch oogmerk. De rechtszaak, die dient bij de rechtbank Midden-Nederland, bevindt zich nog in de voorbereidende fase. Begin maart 2020 start de inhoudelijke behandeling.\n",
+        "subevents": {
+            "t13": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Suspicion",
+                "frame elements": null,
+                "lemma": "verdenken",
+                "reftype": "type",
+                "sentence": "1"
+            },
+            "t34": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Suspicion",
+                "frame elements": null,
+                "lemma": "verdenken",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t40": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Killing",
+                "frame elements": [
+                    "Terrorism@Act",
+                    "Attempt@Goal"
+                ],
+                "lemma": "moord",
+                "reftype": "type",
+                "sentence": "3",
+                "target phrase": "moord of doodslag op meerdere persoon met een terroristisch oogmerk poging bedreiging ."
+            },
+            "t42": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Offenses",
+                "frame elements": [
+                    "Offenses@Offense"
+                ],
+                "lemma": "doodslag",
+                "reftype": "type",
+                "sentence": "3",
+                "target phrase": "of doodslag"
+            },
+            "t48": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Terrorism",
+                "frame elements": null,
+                "lemma": "terroristisch",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t51": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attempt",
+                "frame elements": null,
+                "lemma": "poging",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t54": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Commitment",
+                "frame elements": [
+                    "Terrorism@Act"
+                ],
+                "lemma": "bedreiging",
+                "reftype": "type",
+                "sentence": "3",
+                "target phrase": "en bedreiging met een terroristisch oogmerk"
+            },
+            "t57": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Terrorism",
+                "frame elements": null,
+                "lemma": "terroristisch",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t61": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Trial",
+                "frame elements": [
+                    "Trial@Case"
+                ],
+                "lemma": "rechtszaak",
+                "reftype": "evoke",
+                "sentence": "4",
+                "target phrase": "de rechtszaak , die dienen"
+            },
+            "t7.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "strafzaak",
+                "frame": "Rewards_and_punishments",
+                "frame elements": null,
+                "function": "modifier",
+                "lemma": "straf",
+                "reftype": "evoke",
+                "sentence": "1"
+            },
+            "t7.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "strafzaak",
+                "frame": "Trial",
+                "frame elements": [
+                    "Trial@Case"
+                ],
+                "function": "head",
+                "lemma": "zaak",
+                "reftype": "evoke",
+                "sentence": "1",
+                "target phrase": "strafzaak"
+            }
+        }
+    }
+}

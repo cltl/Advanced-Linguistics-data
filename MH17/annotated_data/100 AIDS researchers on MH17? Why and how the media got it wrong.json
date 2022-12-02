@@ -1,0 +1,3734 @@
+{
+    "100 AIDS researchers on MH17? Why and how the media got it wrong": {
+        "fe's without links": {},
+        "frames/links": {
+            "Q17374096": {
+                "t28": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": null,
+                    "lemma": "tragedy",
+                    "reftype": "evoke",
+                    "sentence": "3"
+                }
+            }
+        },
+        "historical distance": 6,
+        "implicated fe's": [],
+        "raw text": "100 AIDS researchers on MH17? Why and how the media got it wrong.\n\nIn the midst of generally careful, sensitive reporting on the MH17 tragedy there was one large misstep. Here's what happened, and why people believed it. In the midst of generally careful, sensitive reporting on the MH17 tragedy there was one large misstep. For much of Friday and the next day, most of the Australian media gave its readers the wrong impression over the number of AIDS researchers travelling to Melbourne for an international AIDS conference onboard the flight. Early reports said 100 researchers had died, a figure sometimes given as precisely as 108 deaths. It was reported in every major news outlet, and from there, relayed to the world. The figure was wrong \u2014 the number of confirmed dead who were heading to the conference was six, and while it\u2019s possible further names will be released, it can\u2019t get up to 100 or anywhere near that. So where did the figure come from, and why did the media get it so wrong? Even with the benefit of hindsight, the genesis is not easily established. The figure came from attendees at the Friday session of the International Indigenous Pre-Conference on HIV and AIDS held in Sydney, a precursor to the 20th International AIDS conference in Melbourne, which started on Sunday. Crikey spoke to several pre-conference attendees who said they first heard the number during a moment of silence for the victims of the crash as well as those who had died of HIV/AIDS. \u201cDuring the welcome, there was an announcement about the crash, and we were told that there were fears up to 100 passengers might have been AIDS conference delegates,\u201d a conference attendee told Crikey. But we\u2019ve also been told, through people involved in organising the conference, that they were under strict instructions not to give total figures, and that the minute of silence did not put the death toll at a specific number. The figure, says one, was seized upon \u201cin a moment of extreme grief\u201d. It\u2019s worth stressing that. Those early hours, with news of the crash and possible deaths slowly leaking out, were full of chaos and confusion for the attendees at the pre-conference. Some people were sobbing \u2014 terrified for their colleagues and friends in the close-knit HIV research community. People\u2019s recollections can often be imprecise in times of emotional trauma. Crikey asked the AIDS 2014 conference whether any of the speakers or others involved in organisation ever gave the 100 figure in a session. We were told the conference would not be commenting on that at this time. Thanks for signing up We look forward to seeing you bright and early with your need-to-know talking points and tidbits for the day ahead. Get Crikey FREE to your inbox every weekday morning with the Crikey Worm. Email Please enter your email address Sign up However the figure originally came around, it was soon tweeted by conference attendees, who could not comment on its veracity but told journalists who called that it was what they had heard. This was undeniably true \u2014 the figure was widely discussed. And early reports generally made clear that the figure was unverified. For example, a piece published in The Age by Steve Lillebuen said the conference was not releasing numbers, but the 100 figure was what attendees had been told. It\u2019s worth noting that in that piece, the 100 figure did not make the title, which read: \u201cCrash claims top AIDS researchers heading to Melbourne\u201d. It was clear from very early in the day that some researchers had died in the crash, including respected researcher Dr Joep Lange. The piece in The Australian also didn\u2019t put the figure in the title, though it\u2019s worth noting its introduction is considerably stronger: \u201cMore than 100 AIDS activists, researchers and health workers bound for a major conference in Melbourne were on the Malaysia Airlines flight downed in the Ukraine. \u201cIt is believed that delegates to the 20th International AIDS Conference, due to begin on Sunday, will be informed today that 108 of their colleagues and family members died on MH17.\u201d Most other pieces, including ones in The Australian Financial Review and The Guardian did put the figure in the title. The Fin\u2018s piece has been updated online (it now makes no reference to the 100 killed), but the Weekend AFR\u2019s print edition went hard on the figure on page 5: Many pieces on the MH17 crash in general began to draw in the figure into their reporting, often without the nuance with which it had been communicated in earlier reports. Foreign news outlets were even less likely to mention that the figure was unconfirmed. CNBC\u2019s headline read: \u201cA third of MH17 passengers were AIDS conference delegates\u201d. The first line restated that contention, attributing it to reports in \u201cseveral Australian media sources\u201d. Wire services like AFP generally printed the claim with the word \u201creportedly\u201d in front of it, without outlining exactly where the figure came from and that conference organisers were not confirming it. The UK\u2019s Telegraph was even more definitive \u2014 it stated the figure as fact without mentioning anything about where it came from. With every iteration, the specifics were lost. By that night, the figure was all but established \u2014 reported on by every major news organisation in the country and many more internationally. It was even mentioned by US President Barack Obama in his press conference the next day. Pressed by The Washington Post on where he had gotten the figure from when it was later revealed only six conference attendees had died, Obama said it was in speeches used by Tony Abbott. How could unconfirmed reports get this far? Partly because the figure was believable. The conference had 12,000 delegates coming to Melbourne, and MH17 was connecting to a Melbourne-bound flight. And around 200 of the passengers were Dutch \u2014 which seemed a high number to many at the conference. Why would so many Dutch be heading Australia\u2019s direction in the middle of winter? Journalists did try to clarify the figure, an AIDS 2014 conference spokeswoman told us. \u201cMany journalists asked us but we were not able to confirm anything until we had confirmation from the authorities and permission from their families,\u201d she said. That confirmation came later, and included six names, not the expected 100. It took until Saturday morning for Malaysia Airlines to contact all the families of the people on the flight, and thus be in a position to release a passenger manifest. The conference\u2019s statement on the six passengers who were conference attendees came shortly after \u2014 at 12.15pm on Saturday. For a day and a half, that left an information vacuum, one filled filled by reports reliant on what people who couldn\u2019t have had access to full information at that point had heard being said by others.\n",
+        "subevents": {
+            "t1001": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "night",
+                "reftype": "evoke",
+                "sentence": "50"
+            },
+            "t1008": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_create",
+                "frame elements": null,
+                "lemma": "establish",
+                "reftype": "evoke",
+                "sentence": "50"
+            },
+            "t101": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Fleeing",
+                "frame elements": null,
+                "lemma": "flight",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t1010": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "report",
+                "reftype": "evoke",
+                "sentence": "50"
+            },
+            "t1014": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Importance",
+                "frame elements": null,
+                "lemma": "major",
+                "reftype": "evoke",
+                "sentence": "50"
+            },
+            "t1019": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "country",
+                "reftype": "evoke",
+                "sentence": "50"
+            },
+            "t1021": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Quantified_mass",
+                "frame elements": null,
+                "lemma": "many",
+                "reftype": "evoke",
+                "sentence": "50"
+            },
+            "t1023": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "internationally",
+                "reftype": "evoke",
+                "sentence": "50"
+            },
+            "t1028": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "mention",
+                "reftype": "evoke",
+                "sentence": "51"
+            },
+            "t103": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Temporal_subregion",
+                "frame elements": null,
+                "lemma": "early",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t1031": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Appellations",
+                "frame elements": null,
+                "lemma": "President",
+                "reftype": "evoke",
+                "sentence": "51"
+            },
+            "t1037": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "51"
+            },
+            "t104": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "report",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t1040": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "day",
+                "reftype": "evoke",
+                "sentence": "51"
+            },
+            "t105": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t1051": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Transition_to_state",
+                "frame elements": null,
+                "lemma": "get",
+                "reftype": "evoke",
+                "sentence": "52"
+            },
+            "t1055": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Temporal_collocation",
+                "frame elements": null,
+                "lemma": "when",
+                "reftype": "evoke",
+                "sentence": "52"
+            },
+            "t1058": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Temporal_subregion",
+                "frame elements": null,
+                "lemma": "later",
+                "reftype": "evoke",
+                "sentence": "52"
+            },
+            "t1059": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Reveal_secret",
+                "frame elements": null,
+                "lemma": "reveal",
+                "reftype": "evoke",
+                "sentence": "52"
+            },
+            "t1062": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "52"
+            },
+            "t1065": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Death",
+                "frame elements": null,
+                "lemma": "die",
+                "reftype": "evoke",
+                "sentence": "52"
+            },
+            "t1068": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "52"
+            },
+            "t107": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "People_by_vocation",
+                "frame elements": null,
+                "lemma": "researcher",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t1072": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Communication",
+                "frame elements": null,
+                "lemma": "speech",
+                "reftype": "evoke",
+                "sentence": "52"
+            },
+            "t1073": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Using",
+                "frame elements": null,
+                "lemma": "use",
+                "reftype": "evoke",
+                "sentence": "52"
+            },
+            "t1079": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Possibility",
+                "frame elements": null,
+                "lemma": "could",
+                "reftype": "evoke",
+                "sentence": "53"
+            },
+            "t1081": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Text",
+                "frame elements": null,
+                "lemma": "report",
+                "reftype": "evoke",
+                "sentence": "53"
+            },
+            "t1084": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Degree",
+                "frame elements": null,
+                "lemma": "far",
+                "reftype": "evoke",
+                "sentence": "53"
+            },
+            "t1087": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Causation",
+                "frame elements": null,
+                "lemma": "because",
+                "reftype": "evoke",
+                "sentence": "54"
+            },
+            "t109": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Death",
+                "frame elements": null,
+                "lemma": "die",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t1094": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "55"
+            },
+            "t1098": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "come",
+                "reftype": "evoke",
+                "sentence": "55"
+            },
+            "t1105": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attaching",
+                "frame elements": null,
+                "lemma": "connect",
+                "reftype": "evoke",
+                "sentence": "55"
+            },
+            "t1111": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Fleeing",
+                "frame elements": null,
+                "lemma": "flight",
+                "reftype": "evoke",
+                "sentence": "55"
+            },
+            "t1120": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Origin",
+                "frame elements": null,
+                "lemma": "Dutch",
+                "reftype": "evoke",
+                "sentence": "56"
+            },
+            "t1123": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Give_impression",
+                "frame elements": null,
+                "lemma": "seem",
+                "reftype": "evoke",
+                "sentence": "57"
+            },
+            "t1125": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Position_on_a_scale",
+                "frame elements": null,
+                "lemma": "high",
+                "reftype": "evoke",
+                "sentence": "57"
+            },
+            "t1126": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Quantified_mass",
+                "frame elements": null,
+                "lemma": "number",
+                "reftype": "evoke",
+                "sentence": "57"
+            },
+            "t1128": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Quantified_mass",
+                "frame elements": null,
+                "lemma": "many",
+                "reftype": "evoke",
+                "sentence": "57"
+            },
+            "t1131": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "57"
+            },
+            "t1136": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Quantified_mass",
+                "frame elements": null,
+                "lemma": "many",
+                "reftype": "evoke",
+                "sentence": "58"
+            },
+            "t1137": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Origin",
+                "frame elements": null,
+                "lemma": "Dutch",
+                "reftype": "evoke",
+                "sentence": "58"
+            },
+            "t1139": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "head",
+                "reftype": "evoke",
+                "sentence": "58"
+            },
+            "t114": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Giving",
+                "frame elements": null,
+                "lemma": "give",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t1145": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Part_inner_outer",
+                "frame elements": null,
+                "lemma": "middle",
+                "reftype": "evoke",
+                "sentence": "58"
+            },
+            "t1147": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "winter",
+                "reftype": "evoke",
+                "sentence": "58"
+            },
+            "t1151": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attempt",
+                "frame elements": null,
+                "lemma": "try",
+                "reftype": "evoke",
+                "sentence": "59"
+            },
+            "t1160": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "59"
+            },
+            "t1162": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Telling",
+                "frame elements": null,
+                "lemma": "tell",
+                "reftype": "evoke",
+                "sentence": "59"
+            },
+            "t1166": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Quantified_mass",
+                "frame elements": null,
+                "lemma": "many",
+                "reftype": "evoke",
+                "sentence": "61"
+            },
+            "t1168": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Questioning",
+                "frame elements": null,
+                "lemma": "ask",
+                "reftype": "evoke",
+                "sentence": "61"
+            },
+            "t1174": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Capability",
+                "frame elements": null,
+                "lemma": "able",
+                "reftype": "evoke",
+                "sentence": "61"
+            },
+            "t1176": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "confirm",
+                "reftype": "evoke",
+                "sentence": "61"
+            },
+            "t1181": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Verification",
+                "frame elements": null,
+                "lemma": "confirmation",
+                "reftype": "evoke",
+                "sentence": "61"
+            },
+            "t1184": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "authority",
+                "reftype": "evoke",
+                "sentence": "61"
+            },
+            "t1186": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Deny_or_grant_permission",
+                "frame elements": null,
+                "lemma": "permission",
+                "reftype": "evoke",
+                "sentence": "61"
+            },
+            "t1189": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Kinship",
+                "frame elements": null,
+                "lemma": "family",
+                "reftype": "evoke",
+                "sentence": "61"
+            },
+            "t119": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Death",
+                "frame elements": null,
+                "lemma": "death",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t1193": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "61"
+            },
+            "t1196": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Verification",
+                "frame elements": null,
+                "lemma": "confirmation",
+                "reftype": "evoke",
+                "sentence": "62"
+            },
+            "t1197": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "come",
+                "reftype": "evoke",
+                "sentence": "62"
+            },
+            "t1198": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Temporal_subregion",
+                "frame elements": null,
+                "lemma": "later",
+                "reftype": "evoke",
+                "sentence": "62"
+            },
+            "t1201": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Inclusion",
+                "frame elements": null,
+                "lemma": "include",
+                "reftype": "evoke",
+                "sentence": "62"
+            },
+            "t1202": {
+                "POS": "NUM",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cardinal_numbers",
+                "frame elements": null,
+                "lemma": "six",
+                "reftype": "evoke",
+                "sentence": "62"
+            },
+            "t1203": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_named",
+                "frame elements": null,
+                "lemma": "name",
+                "reftype": "evoke",
+                "sentence": "62"
+            },
+            "t1207": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Expectation",
+                "frame elements": null,
+                "lemma": "expect",
+                "reftype": "evoke",
+                "sentence": "62"
+            },
+            "t1213": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "Saturday",
+                "reftype": "evoke",
+                "sentence": "63"
+            },
+            "t1214": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "morning",
+                "reftype": "evoke",
+                "sentence": "63"
+            },
+            "t1219": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Spatial_contact",
+                "frame elements": null,
+                "lemma": "contact",
+                "reftype": "evoke",
+                "sentence": "63"
+            },
+            "t1222": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Kinship",
+                "frame elements": null,
+                "lemma": "family",
+                "reftype": "evoke",
+                "sentence": "63"
+            },
+            "t1225": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "People",
+                "frame elements": null,
+                "lemma": "people",
+                "reftype": "evoke",
+                "sentence": "63"
+            },
+            "t1228": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Fleeing",
+                "frame elements": null,
+                "lemma": "flight",
+                "reftype": "evoke",
+                "sentence": "63"
+            },
+            "t123": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "report",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t1235": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Posture",
+                "frame elements": null,
+                "lemma": "position",
+                "reftype": "evoke",
+                "sentence": "63"
+            },
+            "t1237": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Releasing",
+                "frame elements": null,
+                "lemma": "release",
+                "reftype": "evoke",
+                "sentence": "63"
+            },
+            "t1243": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "64"
+            },
+            "t1245": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "statement",
+                "reftype": "evoke",
+                "sentence": "64"
+            },
+            "t1252": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "64"
+            },
+            "t126": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Importance",
+                "frame elements": null,
+                "lemma": "major",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t1261": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "Saturday",
+                "reftype": "evoke",
+                "sentence": "64"
+            },
+            "t1265": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "day",
+                "reftype": "evoke",
+                "sentence": "65"
+            },
+            "t1268": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Part_whole",
+                "frame elements": null,
+                "lemma": "half",
+                "reftype": "evoke",
+                "sentence": "65"
+            },
+            "t1271": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Part_orientational",
+                "frame elements": null,
+                "lemma": "leave",
+                "reftype": "evoke",
+                "sentence": "65"
+            },
+            "t1273": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Information",
+                "frame elements": null,
+                "lemma": "information",
+                "reftype": "evoke",
+                "sentence": "65"
+            },
+            "t1277": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Filling",
+                "frame elements": null,
+                "lemma": "fill",
+                "reftype": "evoke",
+                "sentence": "65"
+            },
+            "t1278": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Filling",
+                "frame elements": null,
+                "lemma": "fill",
+                "reftype": "evoke",
+                "sentence": "65"
+            },
+            "t1280": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Text",
+                "frame elements": null,
+                "lemma": "report",
+                "reftype": "evoke",
+                "sentence": "65"
+            },
+            "t1284": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "People",
+                "frame elements": null,
+                "lemma": "people",
+                "reftype": "evoke",
+                "sentence": "65"
+            },
+            "t1286": {
+                "POS": "AUX",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Possibility",
+                "frame elements": null,
+                "lemma": "could",
+                "reftype": "evoke",
+                "sentence": "65"
+            },
+            "t1289": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Possession",
+                "frame elements": null,
+                "lemma": "have",
+                "reftype": "evoke",
+                "sentence": "65"
+            },
+            "t1292": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Abounding_with",
+                "frame elements": null,
+                "lemma": "full",
+                "reftype": "evoke",
+                "sentence": "65"
+            },
+            "t1293": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Information",
+                "frame elements": null,
+                "lemma": "information",
+                "reftype": "evoke",
+                "sentence": "65"
+            },
+            "t1298": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hearsay",
+                "frame elements": null,
+                "lemma": "hear",
+                "reftype": "evoke",
+                "sentence": "65"
+            },
+            "t1300": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "65"
+            },
+            "t132": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locative_relation",
+                "frame elements": null,
+                "lemma": "there",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t137": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "world",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t142": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Correctness",
+                "frame elements": null,
+                "lemma": "wrong",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t145": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Quantified_mass",
+                "frame elements": null,
+                "lemma": "number",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t147": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "confirm",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t148": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Dead_or_alive",
+                "frame elements": null,
+                "lemma": "dead",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t151": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "head",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t154": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t156": {
+                "POS": "NUM",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cardinal_numbers",
+                "frame elements": null,
+                "lemma": "six",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t162": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Likelihood",
+                "frame elements": null,
+                "lemma": "possible",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t163": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Increment",
+                "frame elements": null,
+                "lemma": "further",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t164": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_named",
+                "frame elements": null,
+                "lemma": "name",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t167": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Releasing",
+                "frame elements": null,
+                "lemma": "release",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t172": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Transition_to_state",
+                "frame elements": null,
+                "lemma": "get",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t178": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locative_relation",
+                "frame elements": null,
+                "lemma": "near",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t182": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locative_relation",
+                "frame elements": null,
+                "lemma": "where",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t186": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "come",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t194": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Transition_to_state",
+                "frame elements": null,
+                "lemma": "get",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t197": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Correctness",
+                "frame elements": null,
+                "lemma": "wrong",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t211": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_create",
+                "frame elements": null,
+                "lemma": "establish",
+                "reftype": "evoke",
+                "sentence": "11"
+            },
+            "t215": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "come",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t220": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "Friday",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t224": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "International",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t233": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Containing",
+                "frame elements": null,
+                "lemma": "hold",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t238": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Ingredients",
+                "frame elements": null,
+                "lemma": "precursor",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t242": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "International",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t244": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t249": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Process_start",
+                "frame elements": null,
+                "lemma": "start",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t250": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Spatial_contact",
+                "frame elements": null,
+                "lemma": "on",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t251": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "Sunday",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t254": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "speak",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t256": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Quantified_mass",
+                "frame elements": null,
+                "lemma": "several",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t259": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t262": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t264": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "First_experience",
+                "frame elements": null,
+                "lemma": "first",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t265": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hearsay",
+                "frame elements": null,
+                "lemma": "hear",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t267": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Quantified_mass",
+                "frame elements": null,
+                "lemma": "number",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t272": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Becoming_silent",
+                "frame elements": null,
+                "lemma": "silence",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t275": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Catastrophe",
+                "frame elements": null,
+                "lemma": "victim",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t278": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_impact",
+                "frame elements": null,
+                "lemma": "crash",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t285": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Death",
+                "frame elements": null,
+                "lemma": "die",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t292": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Temporal_collocation",
+                "frame elements": null,
+                "lemma": "during",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t296": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locative_relation",
+                "frame elements": null,
+                "lemma": "there",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t299": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "announcement",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t300": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Topic",
+                "frame elements": null,
+                "lemma": "about",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t302": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_impact",
+                "frame elements": null,
+                "lemma": "crash",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t307": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Telling",
+                "frame elements": null,
+                "lemma": "tell",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t309": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locative_relation",
+                "frame elements": null,
+                "lemma": "there",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t31": {
+                "POS": "NUM",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cardinal_numbers",
+                "frame elements": null,
+                "lemma": "one",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t311": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Fear",
+                "frame elements": null,
+                "lemma": "fear",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t316": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Likelihood",
+                "frame elements": null,
+                "lemma": "may",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t32": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Size",
+                "frame elements": null,
+                "lemma": "large",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t320": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t325": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t327": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Telling",
+                "frame elements": null,
+                "lemma": "tell",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t335": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Telling",
+                "frame elements": null,
+                "lemma": "tell",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t338": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "People",
+                "frame elements": null,
+                "lemma": "people",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t343": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t349": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Strictness",
+                "frame elements": null,
+                "lemma": "strict",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t353": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Giving",
+                "frame elements": null,
+                "lemma": "give",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t354": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Amounting_to",
+                "frame elements": null,
+                "lemma": "total",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t360": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Measure_duration",
+                "frame elements": null,
+                "lemma": "minute",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t362": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Becoming_silent",
+                "frame elements": null,
+                "lemma": "silence",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t365": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Placing",
+                "frame elements": null,
+                "lemma": "put",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t367": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Death",
+                "frame elements": null,
+                "lemma": "death",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t372": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Quantified_mass",
+                "frame elements": null,
+                "lemma": "number",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t377": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t378": {
+                "POS": "NUM",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cardinal_numbers",
+                "frame elements": null,
+                "lemma": "one",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t38": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Event",
+                "frame elements": null,
+                "lemma": "happen",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t381": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Taking",
+                "frame elements": null,
+                "lemma": "seize",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t389": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Emotion_directed",
+                "frame elements": null,
+                "lemma": "grief",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t399": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Temporal_subregion",
+                "frame elements": null,
+                "lemma": "early",
+                "reftype": "evoke",
+                "sentence": "19"
+            },
+            "t406": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_impact",
+                "frame elements": null,
+                "lemma": "crash",
+                "reftype": "evoke",
+                "sentence": "19"
+            },
+            "t408": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Likelihood",
+                "frame elements": null,
+                "lemma": "possible",
+                "reftype": "evoke",
+                "sentence": "19"
+            },
+            "t409": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Death",
+                "frame elements": null,
+                "lemma": "death",
+                "reftype": "evoke",
+                "sentence": "19"
+            },
+            "t410": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Taking_time",
+                "frame elements": null,
+                "lemma": "slowly",
+                "reftype": "evoke",
+                "sentence": "19"
+            },
+            "t411": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Reveal_secret",
+                "frame elements": null,
+                "lemma": "leak",
+                "reftype": "evoke",
+                "sentence": "19"
+            },
+            "t415": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Abounding_with",
+                "frame elements": null,
+                "lemma": "full",
+                "reftype": "evoke",
+                "sentence": "19"
+            },
+            "t42": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "People",
+                "frame elements": null,
+                "lemma": "people",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t427": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "19"
+            },
+            "t43": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Awareness",
+                "frame elements": null,
+                "lemma": "believe",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t430": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "People",
+                "frame elements": null,
+                "lemma": "people",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t437": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Co-association",
+                "frame elements": null,
+                "lemma": "colleague",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t439": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Personal_relationship",
+                "frame elements": null,
+                "lemma": "friend",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t446": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Research",
+                "frame elements": null,
+                "lemma": "research",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t447": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Aggregate",
+                "frame elements": null,
+                "lemma": "community",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t449": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "People",
+                "frame elements": null,
+                "lemma": "People",
+                "reftype": "evoke",
+                "sentence": "21"
+            },
+            "t463": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Questioning",
+                "frame elements": null,
+                "lemma": "ask",
+                "reftype": "evoke",
+                "sentence": "22"
+            },
+            "t467": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "22"
+            },
+            "t479": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Giving",
+                "frame elements": null,
+                "lemma": "give",
+                "reftype": "evoke",
+                "sentence": "22"
+            },
+            "t489": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Telling",
+                "frame elements": null,
+                "lemma": "tell",
+                "reftype": "evoke",
+                "sentence": "23"
+            },
+            "t491": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "23"
+            },
+            "t495": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "comment",
+                "reftype": "evoke",
+                "sentence": "23"
+            },
+            "t502": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Judgment_direct_address",
+                "frame elements": null,
+                "lemma": "thank",
+                "reftype": "evoke",
+                "sentence": "24"
+            },
+            "t504": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Sign_agreement",
+                "frame elements": null,
+                "lemma": "sign",
+                "reftype": "evoke",
+                "sentence": "24"
+            },
+            "t507": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Perception_active",
+                "frame elements": null,
+                "lemma": "look",
+                "reftype": "evoke",
+                "sentence": "25"
+            },
+            "t510": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Perception_experience",
+                "frame elements": null,
+                "lemma": "see",
+                "reftype": "evoke",
+                "sentence": "25"
+            },
+            "t512": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Location_of_light",
+                "frame elements": null,
+                "lemma": "bright",
+                "reftype": "evoke",
+                "sentence": "25"
+            },
+            "t514": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Temporal_subregion",
+                "frame elements": null,
+                "lemma": "early",
+                "reftype": "evoke",
+                "sentence": "25"
+            },
+            "t517": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Needing",
+                "frame elements": null,
+                "lemma": "need",
+                "reftype": "evoke",
+                "sentence": "25"
+            },
+            "t521": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Awareness",
+                "frame elements": null,
+                "lemma": "know",
+                "reftype": "evoke",
+                "sentence": "25"
+            },
+            "t528": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "day",
+                "reftype": "evoke",
+                "sentence": "25"
+            },
+            "t539": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "morning",
+                "reftype": "evoke",
+                "sentence": "26"
+            },
+            "t547": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "enter",
+                "reftype": "evoke",
+                "sentence": "27"
+            },
+            "t550": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Topic",
+                "frame elements": null,
+                "lemma": "address",
+                "reftype": "evoke",
+                "sentence": "27"
+            },
+            "t557": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "come",
+                "reftype": "evoke",
+                "sentence": "28"
+            },
+            "t565": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "28"
+            },
+            "t569": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Possibility",
+                "frame elements": null,
+                "lemma": "could",
+                "reftype": "evoke",
+                "sentence": "28"
+            },
+            "t571": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "comment",
+                "reftype": "evoke",
+                "sentence": "28"
+            },
+            "t576": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Telling",
+                "frame elements": null,
+                "lemma": "tell",
+                "reftype": "evoke",
+                "sentence": "28"
+            },
+            "t579": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Referring_by_name",
+                "frame elements": null,
+                "lemma": "call",
+                "reftype": "evoke",
+                "sentence": "28"
+            },
+            "t58": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Catastrophe",
+                "frame elements": null,
+                "lemma": "tragedy",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t586": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hearsay",
+                "frame elements": null,
+                "lemma": "hear",
+                "reftype": "evoke",
+                "sentence": "28"
+            },
+            "t597": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Topic",
+                "frame elements": null,
+                "lemma": "discuss",
+                "reftype": "evoke",
+                "sentence": "30"
+            },
+            "t600": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Temporal_subregion",
+                "frame elements": null,
+                "lemma": "early",
+                "reftype": "evoke",
+                "sentence": "31"
+            },
+            "t601": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "report",
+                "reftype": "evoke",
+                "sentence": "31"
+            },
+            "t604": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Removing",
+                "frame elements": null,
+                "lemma": "clear",
+                "reftype": "evoke",
+                "sentence": "31"
+            },
+            "t61": {
+                "POS": "NUM",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cardinal_numbers",
+                "frame elements": null,
+                "lemma": "one",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t612": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Instance",
+                "frame elements": null,
+                "lemma": "example",
+                "reftype": "evoke",
+                "sentence": "32"
+            },
+            "t615": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Part_piece",
+                "frame elements": null,
+                "lemma": "piece",
+                "reftype": "evoke",
+                "sentence": "32"
+            },
+            "t616": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Publishing",
+                "frame elements": null,
+                "lemma": "publish",
+                "reftype": "evoke",
+                "sentence": "32"
+            },
+            "t619": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "Age",
+                "reftype": "evoke",
+                "sentence": "32"
+            },
+            "t62": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Size",
+                "frame elements": null,
+                "lemma": "large",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t623": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "32"
+            },
+            "t625": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "32"
+            },
+            "t628": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Releasing",
+                "frame elements": null,
+                "lemma": "release",
+                "reftype": "evoke",
+                "sentence": "32"
+            },
+            "t629": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Quantified_mass",
+                "frame elements": null,
+                "lemma": "number",
+                "reftype": "evoke",
+                "sentence": "32"
+            },
+            "t640": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Telling",
+                "frame elements": null,
+                "lemma": "tell",
+                "reftype": "evoke",
+                "sentence": "32"
+            },
+            "t649": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Part_piece",
+                "frame elements": null,
+                "lemma": "piece",
+                "reftype": "evoke",
+                "sentence": "33"
+            },
+            "t656": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Manufacturing",
+                "frame elements": null,
+                "lemma": "make",
+                "reftype": "evoke",
+                "sentence": "33"
+            },
+            "t661": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Reading_activity",
+                "frame elements": null,
+                "lemma": "read",
+                "reftype": "evoke",
+                "sentence": "33"
+            },
+            "t665": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "claim",
+                "reftype": "evoke",
+                "sentence": "33"
+            },
+            "t666": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Occupy_rank",
+                "frame elements": null,
+                "lemma": "top",
+                "reftype": "evoke",
+                "sentence": "33"
+            },
+            "t668": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "People_by_vocation",
+                "frame elements": null,
+                "lemma": "researcher",
+                "reftype": "evoke",
+                "sentence": "33"
+            },
+            "t669": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "head",
+                "reftype": "evoke",
+                "sentence": "33"
+            },
+            "t676": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Obviousness",
+                "frame elements": null,
+                "lemma": "clear",
+                "reftype": "evoke",
+                "sentence": "34"
+            },
+            "t679": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Temporal_subregion",
+                "frame elements": null,
+                "lemma": "early",
+                "reftype": "evoke",
+                "sentence": "34"
+            },
+            "t68": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "Friday",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t682": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "day",
+                "reftype": "evoke",
+                "sentence": "34"
+            },
+            "t685": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "People_by_vocation",
+                "frame elements": null,
+                "lemma": "researcher",
+                "reftype": "evoke",
+                "sentence": "34"
+            },
+            "t687": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Death",
+                "frame elements": null,
+                "lemma": "die",
+                "reftype": "evoke",
+                "sentence": "34"
+            },
+            "t690": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_impact",
+                "frame elements": null,
+                "lemma": "crash",
+                "reftype": "evoke",
+                "sentence": "34"
+            },
+            "t692": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Inclusion",
+                "frame elements": null,
+                "lemma": "include",
+                "reftype": "evoke",
+                "sentence": "34"
+            },
+            "t693": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Judgment",
+                "frame elements": null,
+                "lemma": "respect",
+                "reftype": "evoke",
+                "sentence": "34"
+            },
+            "t694": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "People_by_vocation",
+                "frame elements": null,
+                "lemma": "researcher",
+                "reftype": "evoke",
+                "sentence": "34"
+            },
+            "t700": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Part_piece",
+                "frame elements": null,
+                "lemma": "piece",
+                "reftype": "evoke",
+                "sentence": "35"
+            },
+            "t714": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Concessive",
+                "frame elements": null,
+                "lemma": "though",
+                "reftype": "evoke",
+                "sentence": "35"
+            },
+            "t72": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "day",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t732": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "People_by_vocation",
+                "frame elements": null,
+                "lemma": "researcher",
+                "reftype": "evoke",
+                "sentence": "35"
+            },
+            "t735": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Employing",
+                "frame elements": null,
+                "lemma": "worker",
+                "reftype": "evoke",
+                "sentence": "35"
+            },
+            "t739": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Importance",
+                "frame elements": null,
+                "lemma": "major",
+                "reftype": "evoke",
+                "sentence": "35"
+            },
+            "t740": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "35"
+            },
+            "t748": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Fleeing",
+                "frame elements": null,
+                "lemma": "flight",
+                "reftype": "evoke",
+                "sentence": "35"
+            },
+            "t757": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Awareness",
+                "frame elements": null,
+                "lemma": "believe",
+                "reftype": "evoke",
+                "sentence": "37"
+            },
+            "t763": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "International",
+                "reftype": "evoke",
+                "sentence": "37"
+            },
+            "t765": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "Conference",
+                "reftype": "evoke",
+                "sentence": "37"
+            },
+            "t769": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Process_start",
+                "frame elements": null,
+                "lemma": "begin",
+                "reftype": "evoke",
+                "sentence": "37"
+            },
+            "t775": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Telling",
+                "frame elements": null,
+                "lemma": "inform",
+                "reftype": "evoke",
+                "sentence": "37"
+            },
+            "t776": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "today",
+                "reftype": "evoke",
+                "sentence": "37"
+            },
+            "t781": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Co-association",
+                "frame elements": null,
+                "lemma": "colleague",
+                "reftype": "evoke",
+                "sentence": "37"
+            },
+            "t783": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Kinship",
+                "frame elements": null,
+                "lemma": "family",
+                "reftype": "evoke",
+                "sentence": "37"
+            },
+            "t784": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Membership",
+                "frame elements": null,
+                "lemma": "member",
+                "reftype": "evoke",
+                "sentence": "37"
+            },
+            "t785": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Death",
+                "frame elements": null,
+                "lemma": "die",
+                "reftype": "evoke",
+                "sentence": "37"
+            },
+            "t79": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Giving",
+                "frame elements": null,
+                "lemma": "give",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t791": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Increment",
+                "frame elements": null,
+                "lemma": "other",
+                "reftype": "evoke",
+                "sentence": "39"
+            },
+            "t792": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Part_piece",
+                "frame elements": null,
+                "lemma": "piece",
+                "reftype": "evoke",
+                "sentence": "39"
+            },
+            "t794": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Inclusion",
+                "frame elements": null,
+                "lemma": "include",
+                "reftype": "evoke",
+                "sentence": "39"
+            },
+            "t795": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cardinal_numbers",
+                "frame elements": null,
+                "lemma": "one",
+                "reftype": "evoke",
+                "sentence": "39"
+            },
+            "t805": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Placing",
+                "frame elements": null,
+                "lemma": "put",
+                "reftype": "evoke",
+                "sentence": "39"
+            },
+            "t81": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Reading_perception",
+                "frame elements": null,
+                "lemma": "reader",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t814": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Part_piece",
+                "frame elements": null,
+                "lemma": "piece",
+                "reftype": "evoke",
+                "sentence": "40"
+            },
+            "t821": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Temporal_collocation",
+                "frame elements": null,
+                "lemma": "now",
+                "reftype": "evoke",
+                "sentence": "40"
+            },
+            "t822": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Manufacturing",
+                "frame elements": null,
+                "lemma": "make",
+                "reftype": "evoke",
+                "sentence": "40"
+            },
+            "t828": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Killing",
+                "frame elements": null,
+                "lemma": "kill",
+                "reftype": "evoke",
+                "sentence": "40"
+            },
+            "t83": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Correctness",
+                "frame elements": null,
+                "lemma": "wrong",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t837": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Text",
+                "frame elements": null,
+                "lemma": "edition",
+                "reftype": "evoke",
+                "sentence": "40"
+            },
+            "t838": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Motion",
+                "frame elements": null,
+                "lemma": "go",
+                "reftype": "evoke",
+                "sentence": "40"
+            },
+            "t843": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Spatial_contact",
+                "frame elements": null,
+                "lemma": "on",
+                "reftype": "evoke",
+                "sentence": "40"
+            },
+            "t847": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Quantified_mass",
+                "frame elements": null,
+                "lemma": "many",
+                "reftype": "evoke",
+                "sentence": "40"
+            },
+            "t848": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Part_piece",
+                "frame elements": null,
+                "lemma": "piece",
+                "reftype": "evoke",
+                "sentence": "40"
+            },
+            "t849": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Spatial_contact",
+                "frame elements": null,
+                "lemma": "on",
+                "reftype": "evoke",
+                "sentence": "40"
+            },
+            "t852": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_impact",
+                "frame elements": null,
+                "lemma": "crash",
+                "reftype": "evoke",
+                "sentence": "40"
+            },
+            "t854": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "general",
+                "reftype": "evoke",
+                "sentence": "40"
+            },
+            "t857": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_motion",
+                "frame elements": null,
+                "lemma": "draw",
+                "reftype": "evoke",
+                "sentence": "40"
+            },
+            "t87": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Quantified_mass",
+                "frame elements": null,
+                "lemma": "number",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t874": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Communication",
+                "frame elements": null,
+                "lemma": "communicate",
+                "reftype": "evoke",
+                "sentence": "40"
+            },
+            "t876": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Temporal_subregion",
+                "frame elements": null,
+                "lemma": "early",
+                "reftype": "evoke",
+                "sentence": "40"
+            },
+            "t877": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Text",
+                "frame elements": null,
+                "lemma": "report",
+                "reftype": "evoke",
+                "sentence": "40"
+            },
+            "t879": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Foreign_or_domestic_country",
+                "frame elements": null,
+                "lemma": "foreign",
+                "reftype": "evoke",
+                "sentence": "41"
+            },
+            "t885": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Likelihood",
+                "frame elements": null,
+                "lemma": "likely",
+                "reftype": "evoke",
+                "sentence": "41"
+            },
+            "t887": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "mention",
+                "reftype": "evoke",
+                "sentence": "41"
+            },
+            "t897": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Reading_activity",
+                "frame elements": null,
+                "lemma": "read",
+                "reftype": "evoke",
+                "sentence": "42"
+            },
+            "t90": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "People_by_vocation",
+                "frame elements": null,
+                "lemma": "researcher",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t901": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Ordinal_numbers",
+                "frame elements": null,
+                "lemma": "third",
+                "reftype": "evoke",
+                "sentence": "44"
+            },
+            "t907": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "44"
+            },
+            "t91": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Travel",
+                "frame elements": null,
+                "lemma": "travel",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t912": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Ordinal_numbers",
+                "frame elements": null,
+                "lemma": "first",
+                "reftype": "evoke",
+                "sentence": "45"
+            },
+            "t921": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Text",
+                "frame elements": null,
+                "lemma": "report",
+                "reftype": "evoke",
+                "sentence": "45"
+            },
+            "t927": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Source_of_getting",
+                "frame elements": null,
+                "lemma": "source",
+                "reftype": "evoke",
+                "sentence": "45"
+            },
+            "t931": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Public_services",
+                "frame elements": null,
+                "lemma": "service",
+                "reftype": "evoke",
+                "sentence": "46"
+            },
+            "t937": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "claim",
+                "reftype": "evoke",
+                "sentence": "46"
+            },
+            "t940": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Simple_name",
+                "frame elements": null,
+                "lemma": "word",
+                "reftype": "evoke",
+                "sentence": "46"
+            },
+            "t942": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Unattributed_information",
+                "frame elements": null,
+                "lemma": "reportedly",
+                "reftype": "evoke",
+                "sentence": "46"
+            },
+            "t945": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Front_for",
+                "frame elements": null,
+                "lemma": "front",
+                "reftype": "evoke",
+                "sentence": "46"
+            },
+            "t952": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locative_relation",
+                "frame elements": null,
+                "lemma": "where",
+                "reftype": "evoke",
+                "sentence": "46"
+            },
+            "t955": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "come",
+                "reftype": "evoke",
+                "sentence": "46"
+            },
+            "t959": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "46"
+            },
+            "t96": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "international",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t963": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "confirm",
+                "reftype": "evoke",
+                "sentence": "46"
+            },
+            "t976": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "state",
+                "reftype": "evoke",
+                "sentence": "48"
+            },
+            "t98": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t982": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "mention",
+                "reftype": "evoke",
+                "sentence": "48"
+            },
+            "t985": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locative_relation",
+                "frame elements": null,
+                "lemma": "where",
+                "reftype": "evoke",
+                "sentence": "48"
+            },
+            "t987": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "come",
+                "reftype": "evoke",
+                "sentence": "48"
+            },
+            "t997": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Finish_competition",
+                "frame elements": null,
+                "lemma": "lose",
+                "reftype": "evoke",
+                "sentence": "49"
+            }
+        }
+    }
+}

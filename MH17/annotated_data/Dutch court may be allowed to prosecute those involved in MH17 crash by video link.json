@@ -1,0 +1,1286 @@
+{
+    "Dutch court may be allowed to prosecute those involved in MH17 crash by video link": {
+        "fe's without links": {
+            "t151": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Self_motion@Source"
+                ],
+                "lemma": "Amsterdam",
+                "sentence": "7",
+                "target phrase": "Amsterdam"
+            },
+            "t153": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Self_motion@Goal"
+                ],
+                "lemma": "Kuala",
+                "sentence": "7",
+                "target phrase": "Kuala"
+            },
+            "t24": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Extradition@Current_jurisdiction",
+                    "Trial@Court",
+                    "Trial@Court"
+                ],
+                "lemma": "District",
+                "sentence": "2",
+                "target phrase": "District"
+            },
+            "t268": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Downing@Cause"
+                ],
+                "lemma": "Buk",
+                "sentence": "12",
+                "target phrase": "a Russian - make Buk bring to Ukraine from Russia"
+            },
+            "t289": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Categorization@Cognizer"
+                ],
+                "lemma": "office",
+                "sentence": "13",
+                "target phrase": "-PRON- office"
+            },
+            "t303": {
+                "POS": "DET",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Making_arrangements@Agent",
+                    "Bringing@Agent",
+                    "Leadership@Leader"
+                ],
+                "lemma": "those",
+                "sentence": "13",
+                "target phrase": "those who organize the arrival of and oversee transportation to"
+            },
+            "t310": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arriving@Theme"
+                ],
+                "lemma": "rocket",
+                "sentence": "13",
+                "target phrase": "the rocket"
+            },
+            "t313": {
+                "POS": "DET",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Theme"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "13",
+                "target phrase": "-PRON-"
+            },
+            "t316": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Source"
+                ],
+                "lemma": "Russia",
+                "sentence": "13",
+                "target phrase": "Russia"
+            },
+            "t318": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arriving@Goal",
+                    "Bringing@Goal"
+                ],
+                "lemma": "Ukraine",
+                "sentence": "13",
+                "target phrase": "Ukraine"
+            },
+            "t38": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Sending@Theme",
+                    "Prohibiting_or_licensing@Principle"
+                ],
+                "lemma": "bill",
+                "sentence": "3",
+                "target phrase": "a bill allow prosecution of"
+            },
+            "t40": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Sending@Recipient"
+                ],
+                "lemma": "parliament",
+                "sentence": "3",
+                "target phrase": "parliament"
+            },
+            "t42": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Prohibiting_or_licensing@State_of_affairs"
+                ],
+                "lemma": "prosecution",
+                "sentence": "3",
+                "target phrase": "prosecution of any suspect in"
+            },
+            "t59": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Suspicion@Authority",
+                    "Extradition@Authorities"
+                ],
+                "lemma": "Ministry",
+                "sentence": "4",
+                "target phrase": "the Ministry of Justice"
+            }
+        },
+        "frames/links": {
+            "Q1631025548534": {
+                "t173": {
+                    "POS": "DET",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Quantified_mass",
+                    "frame elements": null,
+                    "lemma": "all",
+                    "reftype": "evoke",
+                    "sentence": "8"
+                },
+                "t175": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "People",
+                    "frame elements": [
+                        "Killing@Victim",
+                        "Causation@Affected",
+                        "Catastrophe@Patient"
+                    ],
+                    "lemma": "people",
+                    "reftype": "evoke",
+                    "sentence": "8",
+                    "target phrase": "all 298 people on board who be citizen of"
+                },
+                "t180": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "People_by_jurisdiction",
+                    "frame elements": null,
+                    "lemma": "citizen",
+                    "reftype": "evoke",
+                    "sentence": "8"
+                },
+                "t183": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Political_locales",
+                    "frame elements": null,
+                    "lemma": "country",
+                    "reftype": "evoke",
+                    "sentence": "8"
+                },
+                "t194": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Catastrophe@Patient"
+                    ],
+                    "lemma": "victim",
+                    "reftype": "evoke",
+                    "sentence": "9",
+                    "target phrase": "the victim"
+                }
+            },
+            "Q1631864271612": {
+                "t146": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Self_motion@Self_mover",
+                        "Impact@Impactee",
+                        "Downing@Patient",
+                        "Downing@Patient"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "7",
+                    "target phrase": "MH17"
+                },
+                "t228": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "11",
+                    "target phrase": "the plane"
+                },
+                "t259": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "12",
+                    "target phrase": "the plane"
+                }
+            },
+            "Q17374096": {
+                "mw1": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "7"
+                },
+                "mw2": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "11"
+                },
+                "t188": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Impact",
+                    "frame elements": [
+                        "Killing@Means"
+                    ],
+                    "lemma": "crash",
+                    "reftype": "type",
+                    "sentence": "8",
+                    "target phrase": "the crash"
+                },
+                "t221": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Causation@Effect"
+                    ],
+                    "lemma": "accident",
+                    "reftype": "evoke",
+                    "sentence": "10",
+                    "target phrase": "the accident"
+                },
+                "t262": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "down",
+                    "reftype": "type",
+                    "sentence": "12"
+                },
+                "t50": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Trial@Case",
+                        "Trial@Case",
+                        "Trial@Case"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "3",
+                    "target phrase": "MH17"
+                },
+                "t51": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Suspicion@Incident",
+                        "Suspicion@Incident",
+                        "Trial@Charges",
+                        "Catastrophe@Undesirable_event",
+                        "Catastrophe@Undesirable_event",
+                        "Criminal_investigation@Incident",
+                        "Trial@Charges",
+                        "Trial@Charges"
+                    ],
+                    "lemma": "down",
+                    "reftype": "type",
+                    "sentence": "3",
+                    "target phrase": "MH17 down over the territory of"
+                },
+                "t54": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Political_locales",
+                    "frame elements": null,
+                    "lemma": "territory",
+                    "reftype": "evoke",
+                    "sentence": "3"
+                }
+            }
+        },
+        "historical distance": 2492,
+        "implicated fe's": [
+            "Sending@Transport_means",
+            "Sending@Goal",
+            "Extradition@Crime_jurisdiction",
+            "Trial@Judge",
+            "Trial@Defense",
+            "Hearsay@Message",
+            "Self_motion@Path",
+            "Self_motion@Direction",
+            "Killing@Killer",
+            "Causation@Actor",
+            "Downing@Agent",
+            "Categorization@Category",
+            "Categorization@Criteria",
+            "Criminal_investigation@Suspect",
+            "Trial@Defense",
+            "Trial@Judge",
+            "Downing@Agent",
+            "Downing@Agent",
+            "Downing@Agent",
+            "Making_arrangements@Scheduled_time",
+            "Bringing@Path",
+            "Bringing@Area",
+            "Bringing@Carrier",
+            "Leadership@Governed",
+            "Leadership@Role",
+            "Trial@Defense",
+            "Trial@Judge"
+        ],
+        "raw text": "Dutch court may be allowed to prosecute those involved in MH17 crash by video link.\nThe case will be heard by the District Court of The Hague. The Government of the Netherlands has sent a bill to parliament allowing prosecution of any suspects in the case of MH17 downing over the territory of Ukraine. The Ministry of Justice said the law would allow foreign suspects to be brought before the court, including by video link, if their extradition would be complicated. It is also reported that the case will be heard by the District Court of The Hague, the press service of the Government of the Netherlands reported, according to the DW's Russian Service. Read alsoRussia trying to influence Dutch public opinion on MH17 with fake news - minister UNIAN memo. Malaysia Airlines' MH17 Boeing 777 heading from Amsterdam for Kuala Lumpur was shot down on July 17, 2014, over militant-occupied territory in Donetsk region. All 298 people on board who were citizens of 10 countries were killed in the crash. The majority of the victims, 196, were citizens of the Netherlands. The Dutch Safety Board October 13, 2015, issued a report on the causes of the accident. It was revealed that the plane had been shot down by a Buk anti-aircraft missile system. The Joint Investigation Team in its report published on September 28, 2016, confirmed that the plane had been downed by a Russian-made Buk brought to Ukraine from Russia. No suspects have been named, though Dutch Chief Prosecutor Fred Westerbeke said his office had identified 100 \"persons of interest\" in the investigation, including those who organized the arrival of the rocket and oversaw its transportation from Russia to Ukraine and back.",
+        "subevents": {
+            "t100": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": [
+                    "Trial@Court",
+                    "Hearsay@Hearer"
+                ],
+                "lemma": "District",
+                "reftype": "evoke",
+                "sentence": "5",
+                "target phrase": "District"
+            },
+            "t101": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Judicial_body",
+                "frame elements": null,
+                "lemma": "Court",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t108": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Public_services",
+                "frame elements": null,
+                "lemma": "service",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t111": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "Government",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t115": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "report",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t117": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Be_in_agreement_on_action",
+                "frame elements": null,
+                "lemma": "accord",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t122": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Origin",
+                "frame elements": null,
+                "lemma": "Russian",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t127": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attempt",
+                "frame elements": null,
+                "lemma": "try",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t129": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Objective_influence",
+                "frame elements": null,
+                "lemma": "influence",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t130": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Origin",
+                "frame elements": null,
+                "lemma": "dutch",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t132": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Opinion",
+                "frame elements": null,
+                "lemma": "opinion",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t139": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "minister",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t149": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Self_motion",
+                "frame elements": null,
+                "lemma": "head",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t156": {
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hit_target",
+                "frame elements": null,
+                "reftype": "evoke"
+            },
+            "t165": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Irregular_combatants",
+                "frame elements": null,
+                "lemma": "militant",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t168": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": [
+                    "Self_motion@Area"
+                ],
+                "lemma": "territory",
+                "reftype": "evoke",
+                "sentence": "7",
+                "target phrase": "militant - occupy territory in Donetsk region"
+            },
+            "t171": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locale",
+                "frame elements": null,
+                "lemma": "region",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t18": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Trial",
+                "frame elements": null,
+                "lemma": "case",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t185": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Killing",
+                "frame elements": null,
+                "lemma": "kill",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t199": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "People_by_jurisdiction",
+                "frame elements": null,
+                "lemma": "citizen",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t205": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Origin",
+                "frame elements": [
+                    "Criminal_investigation@Investigator"
+                ],
+                "lemma": "Dutch",
+                "reftype": "evoke",
+                "sentence": "10",
+                "target phrase": "Dutch"
+            },
+            "t206": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_at_risk",
+                "frame elements": null,
+                "lemma": "Safety",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t21": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hearsay",
+                "frame elements": null,
+                "lemma": "hear",
+                "reftype": "evoke",
+                "sentence": "2"
+            },
+            "t215": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Text",
+                "frame elements": null,
+                "lemma": "report",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t218": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Causation",
+                "frame elements": [
+                    "Causation@Cause"
+                ],
+                "lemma": "cause",
+                "reftype": "evoke",
+                "sentence": "10",
+                "target phrase": "the cause of the accident"
+            },
+            "t225": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Reveal_secret",
+                "frame elements": null,
+                "lemma": "reveal",
+                "reftype": "evoke",
+                "sentence": "11"
+            },
+            "t231": {
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hit_target",
+                "frame elements": null,
+                "reftype": "evoke"
+            },
+            "t239": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Weapon",
+                "frame elements": null,
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "11"
+            },
+            "t240": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Gizmo",
+                "frame elements": [
+                    "Killing@Instrument",
+                    "Impact@Impactor",
+                    "Downing@Cause",
+                    "Downing@Cause",
+                    "Downing@Cause"
+                ],
+                "lemma": "system",
+                "reftype": "evoke",
+                "sentence": "11",
+                "target phrase": "a Buk anti - aircraft missile system"
+            },
+            "t244": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Scrutiny",
+                "frame elements": null,
+                "lemma": "Investigation",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t248": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Text",
+                "frame elements": null,
+                "lemma": "report",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t256": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "confirm",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t276": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Awareness",
+                "frame elements": null,
+                "lemma": "suspect",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t279": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_named",
+                "frame elements": null,
+                "lemma": "name",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t282": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Origin",
+                "frame elements": [
+                    "Trial@Prosecution",
+                    "Trial@Prosecution",
+                    "Trial@Prosecution"
+                ],
+                "lemma": "dutch",
+                "reftype": "evoke",
+                "sentence": "13",
+                "target phrase": "dutch"
+            },
+            "t287": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t291": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Categorization",
+                "frame elements": null,
+                "lemma": "identify",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t294": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "People",
+                "frame elements": [
+                    "Categorization@Item"
+                ],
+                "lemma": "person",
+                "reftype": "evoke",
+                "sentence": "13",
+                "target phrase": "100 \" person of interest \" in the investigation , include those organize"
+            },
+            "t296": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Emotion_directed",
+                "frame elements": null,
+                "lemma": "interest",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t300": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "13"
+            },
+            "t302": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Inclusion",
+                "frame elements": null,
+                "lemma": "include",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t305": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Making_arrangements",
+                "frame elements": null,
+                "lemma": "organize",
+                "reftype": "type",
+                "sentence": "13"
+            },
+            "t307": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": [
+                    "Making_arrangements@Event"
+                ],
+                "lemma": "arrival",
+                "reftype": "evoke",
+                "sentence": "13",
+                "target phrase": "the arrival of the rocket"
+            },
+            "t31": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": [
+                    "Sending@Sender",
+                    "Suspicion@Authority"
+                ],
+                "lemma": "Government",
+                "reftype": "evoke",
+                "sentence": "3",
+                "target phrase": "the Government of the Netherlands"
+            },
+            "t312": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "oversee",
+                "reftype": "type",
+                "sentence": "13"
+            },
+            "t314": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bringing",
+                "frame elements": [
+                    "Leadership@Activity"
+                ],
+                "lemma": "transportation",
+                "reftype": "type",
+                "sentence": "13",
+                "target phrase": "-PRON- transportation from Russia"
+            },
+            "t36": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Sending",
+                "frame elements": null,
+                "lemma": "send",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t41": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Prohibiting_or_licensing",
+                "frame elements": null,
+                "lemma": "allow",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t45": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Suspicion",
+                "frame elements": [
+                    "Suspicion@Suspect",
+                    "Trial@Defendant",
+                    "Trial@Defendant",
+                    "Trial@Defendant"
+                ],
+                "lemma": "suspect",
+                "reftype": "evoke",
+                "sentence": "3",
+                "target phrase": "any suspect in the case of"
+            },
+            "t48": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Trial",
+                "frame elements": null,
+                "lemma": "case",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t62": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t64": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Law",
+                "frame elements": [
+                    "Prohibiting_or_licensing@Principle"
+                ],
+                "lemma": "law",
+                "reftype": "evoke",
+                "sentence": "4",
+                "target phrase": "the law"
+            },
+            "t66": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Prohibiting_or_licensing",
+                "frame elements": null,
+                "lemma": "allow",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "t67": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Foreign_or_domestic_country",
+                "frame elements": null,
+                "lemma": "foreign",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t68": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Suspicion",
+                "frame elements": [
+                    "Suspicion@Suspect",
+                    "Extradition@Suspect"
+                ],
+                "lemma": "suspect",
+                "reftype": "evoke",
+                "sentence": "4",
+                "target phrase": "foreign suspect"
+            },
+            "t71": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bringing",
+                "frame elements": [
+                    "Prohibiting_or_licensing@State_of_affairs"
+                ],
+                "lemma": "bring",
+                "reftype": "evoke",
+                "sentence": "4",
+                "target phrase": "foreign suspect to be bring before the court , include by link"
+            },
+            "t72": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Time_vector",
+                "frame elements": null,
+                "lemma": "before",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t74": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Judicial_body",
+                "frame elements": null,
+                "lemma": "court",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t76": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Inclusion",
+                "frame elements": null,
+                "lemma": "include",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t79": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Social_connection",
+                "frame elements": null,
+                "lemma": "link",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t83": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Extradition",
+                "frame elements": null,
+                "lemma": "extradition",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t91": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "report",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t94": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Trial",
+                "frame elements": [
+                    "Hearsay@Topic"
+                ],
+                "lemma": "case",
+                "reftype": "type",
+                "sentence": "5",
+                "target phrase": "the case"
+            },
+            "t97": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hearsay",
+                "frame elements": null,
+                "lemma": "hear",
+                "reftype": "evoke",
+                "sentence": "5"
+            }
+        }
+    }
+}

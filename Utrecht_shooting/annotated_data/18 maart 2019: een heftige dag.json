@@ -1,0 +1,1326 @@
+{
+    "18 maart 2019: een heftige dag": {
+        "fe's without links": {
+            "t103": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Request@Message"
+                ],
+                "lemma": "inzet",
+                "reftype": "type",
+                "sentence": "4",
+                "target phrase": "hun professioneel inzet"
+            },
+            "t106": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Motion@Theme",
+                    "Protest@Protester",
+                    "Intentionally_act@Agent",
+                    "Intentionally_act@Agent",
+                    "Intentionally_act@Agent",
+                    "Intentionally_act@Agent",
+                    "Intentionally_act@Agent",
+                    "Protest@Protester"
+                ],
+                "lemma": "politieman",
+                "sentence": "5",
+                "target phrase": "duizend politieman"
+            },
+            "t115": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Motion@Goal"
+                ],
+                "lemma": "malieveld",
+                "sentence": "5",
+                "target phrase": "naar het malieveld in den haag"
+            },
+            "t125": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Protest@Issue",
+                    "Protest@Issue"
+                ],
+                "lemma": "pensioenbeleid",
+                "sentence": "5",
+                "target phrase": "tegen het pensioenbeleid van het huidig kabinet"
+            },
+            "t129": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Protest@Side",
+                    "Protest@Side"
+                ],
+                "lemma": "kabinet",
+                "sentence": "5",
+                "target phrase": "van het huidig kabinet"
+            },
+            "t131": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Event@Event"
+                ],
+                "lemma": "dat",
+                "sentence": "6",
+                "target phrase": "dat"
+            },
+            "t136": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Event@Place"
+                ],
+                "lemma": "bus",
+                "sentence": "6",
+                "target phrase": "bus"
+            },
+            "t148": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Motion@Path",
+                    "Motion@Path"
+                ],
+                "lemma": "snelweg",
+                "sentence": "6",
+                "target phrase": "op de nederlands snelweg"
+            },
+            "t169": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Arriving@Theme"
+                ],
+                "lemma": "bus",
+                "sentence": "7",
+                "target phrase": "de eer bus met actievoerder bij het malieveld"
+            },
+            "t171": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Intentionally_act@Agent",
+                    "Awareness@Cognizer"
+                ],
+                "lemma": "actievoerder",
+                "sentence": "7",
+                "target phrase": "met actievoerder bij het malieveld"
+            },
+            "t174": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Arriving@Goal"
+                ],
+                "lemma": "malieveld",
+                "sentence": "7",
+                "target phrase": "bij het malieveld"
+            },
+            "t179": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Deciding@Cognizer",
+                    "Cause_to_end@Agent",
+                    "Deciding@Cognizer",
+                    "Cause_to_end@Agent"
+                ],
+                "lemma": "voorzitter",
+                "sentence": "7",
+                "target phrase": "de voorzitter van de organiseren vakbond"
+            },
+            "t183": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Making_arrangements@Agent"
+                ],
+                "lemma": "vakbond",
+                "sentence": "7",
+                "target phrase": "van de organiseren vakbond"
+            },
+            "t190": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Categorization@Cognizer",
+                    "Cause_to_perceive@Agent",
+                    "Supporting@Supporter"
+                ],
+                "lemma": "wij",
+                "sentence": "8",
+                "target phrase": "wij"
+            },
+            "t192": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Categorization@Item"
+                ],
+                "lemma": "het",
+                "sentence": "8",
+                "target phrase": "het"
+            },
+            "t195": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Categorization@Category"
+                ],
+                "lemma": "verantwoordelijkheid",
+                "sentence": "8",
+                "target phrase": "wij voelen het als onze verantwoordelijkheid om manier respect te tonen slachtoffer ."
+            },
+            "t200": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Cause_to_perceive@Phenomenon"
+                ],
+                "lemma": "respect",
+                "sentence": "8",
+                "target phrase": "respect"
+            },
+            "t205": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Killing@Victim"
+                ],
+                "lemma": "slachtoffer",
+                "sentence": "8",
+                "target phrase": "voor de slachtoffer van de krankzinnig moordpartij in utrecht"
+            },
+            "t221": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Supporting@Supported",
+                    "Activity_start@Agent",
+                    "Assistance@Helper",
+                    "Desiring@Experiencer",
+                    "Supporting@Supported",
+                    "Work@Agent"
+                ],
+                "lemma": "lid",
+                "sentence": "9",
+                "target phrase": "onze lid"
+            },
+            "t231": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Coming_to_be@Entity"
+                ],
+                "lemma": "situatie",
+                "sentence": "9",
+                "target phrase": "in de ontstaan situatie"
+            },
+            "t243": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Assistance@Benefited_party"
+                ],
+                "lemma": "collega",
+                "sentence": "9",
+                "target phrase": "hun collega \u2019 in utrecht"
+            },
+            "t27": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Remembering_experience@Cognizer",
+                    "Reassuring@Experiencer",
+                    "Emotion_directed@Experiencer",
+                    "Judgment@Cognizer"
+                ],
+                "lemma": "burger",
+                "sentence": "3",
+                "target phrase": "voor veel burger"
+            },
+            "t272": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Emotion_directed@Stimulus"
+                ],
+                "lemma": "het",
+                "sentence": "11",
+                "target phrase": "het"
+            },
+            "t275": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Emotion_directed@Experiencer"
+                ],
+                "lemma": "kaderlid",
+                "sentence": "11",
+                "target phrase": "het voor veel kaderlid"
+            },
+            "t302": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Activity_prepare@Agent",
+                    "Intentionally_affect@Agent"
+                ],
+                "lemma": "mens",
+                "sentence": "13",
+                "target phrase": "mens"
+            },
+            "t315": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Judgment_direct_address@Communicator"
+                ],
+                "lemma": "wij",
+                "sentence": "14",
+                "target phrase": "wij"
+            },
+            "t317": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Judgment_direct_address@Addressee",
+                    "Motion@Theme",
+                    "Supporting@Supporter",
+                    "Awareness@Cognizer"
+                ],
+                "lemma": "lid",
+                "sentence": "14",
+                "target phrase": "alle lid die maandag als actievoerder"
+            },
+            "t325": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Motion@Goal"
+                ],
+                "lemma": "den",
+                "sentence": "14",
+                "target phrase": "naar den haag"
+            },
+            "t33": {
+                "POS": "VERB",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Relative_time@Landmark_occasion",
+                    "Reassuring@Situation"
+                ],
+                "lemma": "doodschieten",
+                "sentence": "3",
+                "target phrase": "over het doodschieten van drie onschuldig burger"
+            },
+            "t337": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Work@Agent",
+                    "Cause_to_start@Cause",
+                    "Judgment_direct_address@Addressee"
+                ],
+                "lemma": "kaderlid",
+                "sentence": "15",
+                "target phrase": "alle kaderlid en medewerker die hard hebben werken"
+            },
+            "t352": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Work@Salient_entity",
+                    "Cause_to_start@Effect"
+                ],
+                "lemma": "actiedag",
+                "sentence": "15",
+                "target phrase": "van onze actiedag"
+            },
+            "t354": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Judgment_direct_address@Communicator"
+                ],
+                "lemma": "we",
+                "sentence": "15",
+                "target phrase": "we"
+            },
+            "t359": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Judgment_direct_address@Reason"
+                ],
+                "lemma": "enthousiasme",
+                "sentence": "15",
+                "target phrase": "voor hun kennelijk onuitputtelijk enthousiasme en doorzettingsvermogen"
+            },
+            "t37": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Hit_target@Target",
+                    "Dead_or_alive@Protagonist"
+                ],
+                "lemma": "burger",
+                "sentence": "3",
+                "target phrase": "van drie onschuldig burger"
+            },
+            "t61": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Intentionally_act@Agent",
+                    "Relative_time@Focal_participant",
+                    "Reassuring@Speaker"
+                ],
+                "lemma": "veiligheidsdienst",
+                "sentence": "3",
+                "target phrase": "van de nederlands veiligheidsdienst dat daarop volgen"
+            },
+            "t71": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Accomplishment@Agent",
+                    "Adjusting@Agent",
+                    "Body_movement@Agent",
+                    "Awareness@Cognizer",
+                    "Request@Addressee"
+                ],
+                "lemma": "medewerker",
+                "sentence": "4",
+                "target phrase": "van de medewerker van die veiligheidsdienst"
+            },
+            "t9": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Remembering_experience@Experience",
+                    "Event@Time"
+                ],
+                "lemma": "maandag",
+                "sentence": "2",
+                "target phrase": "18 maart 2019 aan maandag"
+            }
+        },
+        "frames/links": {
+            "Q62090804": {
+                "t209.c0": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "moordpartij",
+                    "frame": "Killing",
+                    "frame elements": [
+                        "Participation@Event"
+                    ],
+                    "function": "modifier",
+                    "lemma": "moord",
+                    "reftype": "type",
+                    "sentence": "8",
+                    "target phrase": "moordpartij"
+                },
+                "t209.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "moordpartij",
+                    "frame": "Participation",
+                    "frame elements": null,
+                    "function": "head",
+                    "lemma": "partij",
+                    "reftype": "evoke",
+                    "sentence": "8"
+                },
+                "t33.c0": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "doodschieten",
+                    "frame": "Dead_or_alive",
+                    "frame elements": [
+                        "Hit_target@Purpose"
+                    ],
+                    "function": "modifier",
+                    "lemma": "dood",
+                    "reftype": "evoke",
+                    "sentence": "3",
+                    "target phrase": "doodschieten"
+                },
+                "t33.c1": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "doodschieten",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Emotion_directed@Topic",
+                        "Killing@Means"
+                    ],
+                    "function": "head",
+                    "lemma": "schieten",
+                    "reftype": "type",
+                    "sentence": "3",
+                    "target phrase": "doodschieten"
+                },
+                "t88.c0": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "huiveringwekkend",
+                    "frame": "Body_movement",
+                    "frame elements": [
+                        "Cause_to_start@Effect"
+                    ],
+                    "function": "modifier",
+                    "lemma": "huivering",
+                    "reftype": "type",
+                    "sentence": "4",
+                    "target phrase": "huiveringwekkend"
+                },
+                "t88.c1": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "huiveringwekkend",
+                    "frame": "Cause_to_start",
+                    "frame elements": null,
+                    "function": "head",
+                    "lemma": "wekken",
+                    "reftype": "type",
+                    "sentence": "4"
+                },
+                "t89": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "het"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Cause_to_start@Cause",
+                        "Awareness@Content"
+                    ],
+                    "lemma": "nieuws",
+                    "sentence": "4",
+                    "target phrase": "het huiveringwekkend nieuws"
+                }
+            },
+            "Q62116513": {
+                "t41": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hit_target@Agent",
+                        "Killing@Killer",
+                        "Participation@Participant_1"
+                    ],
+                    "lemma": "man",
+                    "sentence": "3",
+                    "target phrase": "door een storen man"
+                }
+            },
+            "Q803": {}
+        },
+        "historical distance": 249,
+        "implicated fe's": [
+            "Intentionally_act@Act",
+            "Dead_or_alive@Figure",
+            "Emotion_directed@State",
+            "Emotion_directed@Stimulus",
+            "Judgment@Reason",
+            "Judgment@Expressor",
+            "Adjusting@Part",
+            "Adjusting@Feature",
+            "Body_movement@Body_part",
+            "Awareness@Topic",
+            "Request@Speaker",
+            "Request@Medium",
+            "Motion@Source",
+            "Motion@Distance",
+            "Motion@Direction",
+            "Protest@Action",
+            "Categorization@Criteria",
+            "Cause_to_perceive@Perceiver",
+            "Killing@Instrument",
+            "Assistance@Focal_entity",
+            "Protest@Action",
+            "Awareness@Topic",
+            "Desiring@Focal_participant",
+            "Desiring@Location_of_event",
+            "Making_arrangements@Scheduled_time",
+            "Emotion_directed@Topic",
+            "Emotion_directed@State",
+            "Judgment_direct_address@Topic",
+            "Judgment_direct_address@Medium",
+            "Motion@Source",
+            "Motion@Distance",
+            "Motion@Direction",
+            "Awareness@Topic",
+            "Judgment_direct_address@Topic",
+            "Judgment_direct_address@Medium",
+            "Work@Goal",
+            "Work@Salient_entity",
+            "Participation@Participant_2"
+        ],
+        "raw text": "\n18 maart 2019: een heftige dag Aan maandag 18 maart 2019 zal tot in lengte van jaren met gemengde gevoelens worden teruggedacht. Voor veel burgers zal de afschuw over het doodschieten van drie onschuldige burgers door een gestoorde man in een Utrechtse tram voor altijd gekoppeld blijven aan waardering voor het kordate en geruststellende optreden van de Nederlandse veiligheidsdiensten dat daarop volgde. Een knappe prestatie van de medewerkers van die veiligheidsdiensten, want die moesten in veel gevallen een flinke omschakeling maken toen het huiveringwekkende nieuws begon door te dringen en er een beroep werd gedaan op hun professionele inzet. Duizenden politiemensen waren op dat moment namelijk onderweg naar het Malieveld in Den Haag voor een gezamenlijke protestactie tegen het pensioenbeleid van het huidige kabinet. Dat gebeurde zowel in tientallen bussen als in vele tientallen politie- en defensievoertuigen waarmee op de Nederlandse snelwegen een langzaamaan-actie werd uitgevoerd (66 kilometer per uur op alle rijbanen). Kort nadat de eerste bussen met actievoerders bij het Malieveld waren gearriveerd besloten de voorzitters van de organiserende vakbonden de actie af te blazen. Wij voelden het als onze verantwoordelijkheid om op die manier respect te tonen voor de slachtoffers van de krankzinnige moordpartij in Utrecht. Tegelijkertijd was dit de beste manier om onze leden te steunen in hun duidelijke wens in de ontstane situatie zo snel mogelijk weer aan het werk te gaan en hun collega\u2019s in Utrecht te helpen. Voor het besluit om de protestactie af te gelasten was op het Malieveld en in de bussen volop begrip. Toch was het voor veel kaderleden en medewerkers van de bonden ook een doffe teleurstelling. Het ging om een grootschalige en logistiek ambitieuze actie; met de voorbereidingen daarvan waren honderden mensen wekenlang intensief bezig geweest. Namens het bestuur van de NPB bedanken wij alle leden die maandag als actievoerder op weg naar Den Haag zijn gegaan voor hun steun en hun begrip. Alle kaderleden en medewerkers die zo hard hebben gewerkt aan het op poten zetten van onze actiedag bedanken we voor hun kennelijk onuitputtelijke enthousiasme en doorzettingsvermogen.\n",
+        "subevents": {
+            "mw1": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Awareness",
+                "frame elements": null,
+                "lemma": "doordringen",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "mw2": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_to_end",
+                "frame elements": [
+                    "Deciding@Decision"
+                ],
+                "lemma": "afblazen",
+                "reftype": "type",
+                "sentence": "7",
+                "target phrase": "afblazen"
+            },
+            "mw3": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_to_end",
+                "frame elements": [
+                    "Deciding@Decision"
+                ],
+                "lemma": "afgelasten",
+                "reftype": "type",
+                "sentence": "10",
+                "target phrase": "afgelasten"
+            },
+            "mw4": {
+                "POS": null,
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Request",
+                "frame elements": null,
+                "lemma": "beroep doen op",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "mw5": {
+                "POS": null,
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Motion",
+                "frame elements": null,
+                "lemma": "onderweg zijn",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "mw7": {
+                "POS": null,
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Motion",
+                "frame elements": null,
+                "lemma": "op weg gaan",
+                "reftype": "type",
+                "sentence": "14"
+            },
+            "mw8": {
+                "POS": null,
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_to_start",
+                "frame elements": [
+                    "Work@Goal"
+                ],
+                "lemma": "op poten zetten",
+                "reftype": "type",
+                "sentence": "15",
+                "target phrase": "op poten zetten"
+            },
+            "t122.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "protestactie",
+                "frame": "Protest",
+                "frame elements": null,
+                "function": "modifier",
+                "lemma": "protest",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t122.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "protestactie",
+                "frame": "Intentionally_act",
+                "frame elements": [
+                    "Intentionally_act@Act"
+                ],
+                "function": "head",
+                "lemma": "actie",
+                "reftype": "type",
+                "sentence": "5",
+                "target phrase": "protestactie"
+            },
+            "t132": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Event",
+                "frame elements": null,
+                "lemma": "gebeuren",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t152": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": [
+                    "Intentionally_act@Act",
+                    "Intentionally_act@Act"
+                ],
+                "lemma": "actie",
+                "reftype": "type",
+                "sentence": "6",
+                "target phrase": "- actie"
+            },
+            "t154": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": null,
+                "lemma": "uitvoeren",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t176": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "arriveren",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t177": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Deciding",
+                "frame elements": null,
+                "lemma": "besluiten",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t182": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Making_arrangements",
+                "frame elements": null,
+                "lemma": "organiseren",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t185": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Intentionally_act",
+                "frame elements": [
+                    "Intentionally_act@Act",
+                    "Cause_to_end@Process",
+                    "Making_arrangements@Event"
+                ],
+                "lemma": "actie",
+                "reftype": "type",
+                "sentence": "7",
+                "target phrase": "de actie"
+            },
+            "t191": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Categorization",
+                "frame elements": null,
+                "lemma": "voelen",
+                "reftype": "type",
+                "sentence": "8"
+            },
+            "t202": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_to_perceive",
+                "frame elements": null,
+                "lemma": "tonen",
+                "reftype": "type",
+                "sentence": "8"
+            },
+            "t223": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Supporting",
+                "frame elements": null,
+                "lemma": "steunen",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t227": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Desiring",
+                "frame elements": null,
+                "lemma": "wens",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t23": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Remembering_experience",
+                "frame elements": null,
+                "lemma": "terugdenken",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t230": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Coming_to_be",
+                "frame elements": null,
+                "lemma": "ontstaan",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t238": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Work",
+                "frame elements": [
+                    "Activity_start@Activity"
+                ],
+                "lemma": "werk",
+                "reftype": "type",
+                "sentence": "9",
+                "target phrase": "aan het werk"
+            },
+            "t240": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Activity_start",
+                "frame elements": [
+                    "Desiring@Event"
+                ],
+                "lemma": "gaan",
+                "reftype": "type",
+                "sentence": "9",
+                "target phrase": "zo snel mogelijk weer aan het werk te gaan en hun collega \u2019 utrecht te helpen"
+            },
+            "t248": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Assistance",
+                "frame elements": null,
+                "lemma": "helpen",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t252": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame": "Deciding",
+                "frame elements": [
+                    "Awareness@Content",
+                    "Awareness@Content"
+                ],
+                "lemma": "besluit",
+                "reftype": "type",
+                "sentence": "10",
+                "target phrase": "voor het besluit om protestactie te zijn op het malieveld en bus volop begrip ."
+            },
+            "t255.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "protestactie",
+                "frame": "Protest",
+                "frame elements": null,
+                "function": "modifier",
+                "lemma": "protest",
+                "reftype": "type",
+                "sentence": "10"
+            },
+            "t255.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "protestactie",
+                "frame": "Intentionally_act",
+                "frame elements": [
+                    "Cause_to_end@Process",
+                    "Intentionally_act@Act"
+                ],
+                "function": "head",
+                "lemma": "actie",
+                "reftype": "type",
+                "sentence": "10",
+                "target phrase": "protestactie"
+            },
+            "t268": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Awareness",
+                "frame elements": null,
+                "lemma": "begrip",
+                "reftype": "type",
+                "sentence": "10"
+            },
+            "t284": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame": "Emotion_directed",
+                "frame elements": null,
+                "lemma": "teleurstelling",
+                "reftype": "type",
+                "sentence": "11"
+            },
+            "t294": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame": "Intentionally_act",
+                "frame elements": [
+                    "Intentionally_act@Act",
+                    "Activity_prepare@Activity",
+                    "Intentionally_affect@Event"
+                ],
+                "lemma": "actie",
+                "reftype": "type",
+                "sentence": "12",
+                "target phrase": "om een grootschalig en logistiek ambitieus actie"
+            },
+            "t298": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Activity_prepare",
+                "frame elements": [
+                    "Intentionally_affect@Patient"
+                ],
+                "lemma": "voorbereiding",
+                "reftype": "type",
+                "sentence": "13",
+                "target phrase": "met de voorbereiding daarvan zijn"
+            },
+            "t30": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Emotion_directed",
+                "frame elements": [
+                    "Cognitive_connection@Concept_1"
+                ],
+                "lemma": "afschuw",
+                "reftype": "type",
+                "sentence": "3",
+                "target phrase": "de afschuw over het doodschieten van drie onschuldig burger"
+            },
+            "t305": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_affect",
+                "frame elements": null,
+                "lemma": "bezig",
+                "reftype": "type",
+                "sentence": "13"
+            },
+            "t314": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Judgment_direct_address",
+                "frame elements": null,
+                "lemma": "bedanken",
+                "reftype": "type",
+                "sentence": "14"
+            },
+            "t331": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Supporting",
+                "frame elements": [
+                    "Judgment_direct_address@Reason"
+                ],
+                "lemma": "steun",
+                "reftype": "type",
+                "sentence": "14",
+                "target phrase": "voor hun steun en hun begrip"
+            },
+            "t334": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Awareness",
+                "frame elements": null,
+                "lemma": "begrip",
+                "reftype": "type",
+                "sentence": "14"
+            },
+            "t344": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Work",
+                "frame elements": null,
+                "lemma": "werken",
+                "reftype": "type",
+                "sentence": "15"
+            },
+            "t353": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Judgment_direct_address",
+                "frame elements": null,
+                "lemma": "bedanken",
+                "reftype": "type",
+                "sentence": "15"
+            },
+            "t48": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cognitive_connection",
+                "frame elements": null,
+                "lemma": "koppelen",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t51": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Judgment",
+                "frame elements": [
+                    "Cognitive_connection@Concept_2"
+                ],
+                "lemma": "waardering",
+                "reftype": "type",
+                "sentence": "3",
+                "target phrase": "aan waardering voor het kordaat en geruststellen"
+            },
+            "t56": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Reassuring",
+                "frame elements": null,
+                "lemma": "geruststellen",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t57": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": [
+                    "Relative_time@Focal_occasion",
+                    "Accomplishment@Goal",
+                    "Reassuring@Message",
+                    "Judgment@Evaluee",
+                    "Assistance@Goal"
+                ],
+                "lemma": "optreden",
+                "reftype": "type",
+                "sentence": "3",
+                "target phrase": "optreden van de nederlands veiligheidsdienst dat daarop volgen"
+            },
+            "t64": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Relative_time",
+                "frame elements": null,
+                "lemma": "volgen",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t68": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Accomplishment",
+                "frame elements": null,
+                "lemma": "prestatie",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "t84": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame": "Adjusting",
+                "frame elements": null,
+                "lemma": "omschakeling",
+                "reftype": "type",
+                "sentence": "4"
+            }
+        }
+    }
+}

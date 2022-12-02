@@ -1,0 +1,357 @@
+{
+    "Voorarrest G\u00f6kmen T. in lopende zedenzaak": {
+        "fe's without links": {
+            "t108": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": false,
+                    "lemma": "een"
+                },
+                "frame elements": [
+                    "Collaboration@Undertaking"
+                ],
+                "lemma": "persoonlijkheidsonderzoek",
+                "sentence": "6",
+                "target phrase": "aan een persoonlijkheidsonderzoek en een rapportage van de reclassering"
+            },
+            "t117": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Suspicion@Authority",
+                    "Detaining@Authorities",
+                    "Activity_pause@Agent"
+                ],
+                "lemma": "gerechtshof",
+                "sentence": "6",
+                "target phrase": "het gerechtshof -"
+            },
+            "t26": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Compliance@Norm"
+                ],
+                "lemma": "voorwaarde",
+                "sentence": "2",
+                "target phrase": "aan alle voorwaarde"
+            },
+            "t32": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Detaining@Authorities",
+                    "Request@Addressee",
+                    "Commitment@Addressee",
+                    "Activity_pause@Agent"
+                ],
+                "lemma": "rechtbank",
+                "sentence": "3",
+                "target phrase": "de rechtbank"
+            },
+            "t51": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Suspicion@Authority"
+                ],
+                "lemma": "gerechtshof",
+                "sentence": "4",
+                "target phrase": "bij het gerechtshof arnhem - leeuward"
+            },
+            "t57": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Perception_experience@Perceiver_passive",
+                    "Suspicion@Authority"
+                ],
+                "lemma": "gerechtshof",
+                "sentence": "5",
+                "target phrase": "het gerechtshof"
+            },
+            "t93": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Suspicion@Authority"
+                ],
+                "lemma": "gerechtshof",
+                "sentence": "6",
+                "target phrase": "van het gerechtshof"
+            }
+        },
+        "frames/links": {
+            "Q62116513": {
+                "t133": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Suspicion@Suspect",
+                        "Detaining@Suspect"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "6",
+                    "target phrase": "van verdenken"
+                },
+                "t4": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Detaining@Suspect",
+                        "Request@Speaker",
+                        "Commitment@Speaker",
+                        "Compliance@Protagonist"
+                    ],
+                    "lemma": "man",
+                    "sentence": "2",
+                    "target phrase": "de man"
+                },
+                "t42": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Appeal@Convict",
+                        "Suspicion@Suspect"
+                    ],
+                    "lemma": "verdachte",
+                    "reftype": "evoke",
+                    "sentence": "4",
+                    "target phrase": "verdachte"
+                },
+                "t75": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Perception_experience@Phenomenon",
+                        "Suspicion@Suspect"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "5",
+                    "target phrase": "de verdenken"
+                },
+                "t87": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Suspicion",
+                    "frame elements": [
+                        "Statement@Speaker",
+                        "Collaboration@Partner_1",
+                        "Suspicion@Suspect"
+                    ],
+                    "lemma": "verdenken",
+                    "reftype": "evoke",
+                    "sentence": "6",
+                    "target phrase": "de verdenken"
+                }
+            }
+        },
+        "historical distance": 1,
+        "implicated fe's": [
+            "Request@Medium",
+            "Commitment@Topic",
+            "Commitment@Medium",
+            "Compliance@State_of_affairs",
+            "Appeal@Representative",
+            "Perception_experience@Body_part",
+            "Statement@Topic",
+            "Statement@Medium",
+            "Collaboration@Partner_2",
+            "Suspicion@Incident",
+            "Suspicion@Incident",
+            "Suspicion@Incident",
+            "Suspicion@Incident"
+        ],
+        "raw text": "\nInhoud 2 De man heeft op 22 januari vervolgens opnieuw om schorsing van zijn voorlopige hechtenis verzocht en daarbij toegezegd zich nu wel aan alle voorwaarden te zullen houden. De rechtbank heeft dit verzoek op 31 januari 2019 afgewezen. Verdachte is daartegen in hoger beroep gegaan bij het gerechtshof Arnhem-Leeuwarden. Het gerechtshof heeft de behandeling van het hoger beroep op de zitting van 20 februari 2019 aangehouden om de verdachte op een volgende zitting in persoon te horen. Nadat de verdachte vervolgens ter zitting van het gerechtshof op 27 februari 2019 uitdrukkelijk had verklaard ook mee te zullen werken aan een persoonlijkheidsonderzoek en een rapportage van de reclassering heeft het gerechtshof - conform de standpunten van de verdediging en het OM - de voorlopige hechtenis van verdachte per 1 maart 2019 wederom onder voorwaarden geschorst.\n",
+        "subevents": {
+            "mw1": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Collaboration",
+                "frame elements": [
+                    "Statement@Message"
+                ],
+                "lemma": "meewerken",
+                "reftype": "type",
+                "sentence": "6",
+                "target phrase": "meewerken"
+            },
+            "mw3": {
+                "POS": "MWE",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Appeal",
+                "frame elements": null,
+                "lemma": "in hoger beroep gaan",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "t100": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "verklaren",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t12": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Activity_pause",
+                "frame elements": [
+                    "Request@Message"
+                ],
+                "lemma": "schorsing",
+                "reftype": "evoke",
+                "sentence": "2",
+                "target phrase": "schorsing van zijn voorlopig hechtenis"
+            },
+            "t131": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame": "Detaining",
+                "frame elements": [
+                    "Activity_pause@Activity"
+                ],
+                "lemma": "hechtenis",
+                "reftype": "evoke",
+                "sentence": "6",
+                "target phrase": "de voorlopig hechtenis van verdenken"
+            },
+            "t141": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Activity_pause",
+                "frame elements": null,
+                "lemma": "schorsen",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t16": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Detaining",
+                "frame elements": [
+                    "Appeal@Decision",
+                    "Activity_pause@Activity"
+                ],
+                "lemma": "hechtenis",
+                "reftype": "evoke",
+                "sentence": "2",
+                "target phrase": "van zijn voorlopig hechtenis"
+            },
+            "t17": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Request",
+                "frame elements": null,
+                "lemma": "verzoeken",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t20": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Commitment",
+                "frame elements": null,
+                "lemma": "toezeggen",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t29": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Compliance",
+                "frame elements": [
+                    "Commitment@Message",
+                    "Compliance@Act"
+                ],
+                "lemma": "houden",
+                "reftype": "type",
+                "sentence": "2",
+                "target phrase": "nu wel aan alle voorwaarde te zullen houden"
+            },
+            "t83": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Perception_experience",
+                "frame elements": null,
+                "lemma": "horen",
+                "reftype": "type",
+                "sentence": "5"
+            }
+        }
+    }
+}

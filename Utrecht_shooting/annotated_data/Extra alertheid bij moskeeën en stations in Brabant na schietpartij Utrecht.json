@@ -1,0 +1,1496 @@
+{
+    "Extra alertheid bij moskee\u00ebn en stations in Brabant na schietpartij Utrecht": {
+        "fe's without links": {
+            "t107": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Protecting@Protection"
+                ],
+                "lemma": "politie",
+                "sentence": "9",
+                "target phrase": "de politie"
+            },
+            "t113": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Protecting@Asset"
+                ],
+                "lemma": "afrit",
+                "sentence": "9",
+                "target phrase": "de brabants afrit van de a2"
+            },
+            "t142": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Intentionally_act@Agent"
+                ],
+                "lemma": "n",
+                "sentence": "11",
+                "target phrase": "volgens de n"
+            },
+            "t162": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Protecting@Asset"
+                ],
+                "lemma": "plek",
+                "sentence": "13",
+                "target phrase": "op meerdere plek in de stad en rondom uitvalsweg"
+            },
+            "t175": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Protecting@Asset"
+                ],
+                "lemma": "rechtbank",
+                "sentence": "14",
+                "target phrase": "ook rechtbank"
+            },
+            "t184": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Perception_active@Phenomenon"
+                ],
+                "lemma": "moskee",
+                "sentence": "15",
+                "target phrase": "bij de moskee aan de willemstraat in eindhov"
+            },
+            "t191": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Perception_active@Perceiver_agentive"
+                ],
+                "lemma": "agent",
+                "sentence": "15",
+                "target phrase": "agent"
+            },
+            "t2": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Protecting@Protection",
+                    "Protecting@Protection",
+                    "Protecting@Protection",
+                    "Protecting@Protection",
+                    "Protecting@Protection",
+                    "Protecting@Protection",
+                    "Protecting@Protection",
+                    "Protecting@Protection"
+                ],
+                "lemma": "politie",
+                "sentence": "1",
+                "target phrase": "videode politie"
+            },
+            "t211": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Traversing@Area"
+                ],
+                "lemma": "daar",
+                "sentence": "17",
+                "target phrase": "daar"
+            },
+            "t221": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Traversing@Theme"
+                ],
+                "lemma": "auto",
+                "sentence": "17",
+                "target phrase": "- auto"
+            },
+            "t296.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "politietoezicht",
+                "frame elements": [
+                    "Protecting@Protection"
+                ],
+                "function": "modifier",
+                "lemma": "politie",
+                "sentence": "22",
+                "target phrase": "politietoezicht"
+            },
+            "t303": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Protecting@Asset"
+                ],
+                "lemma": "instelling",
+                "sentence": "22",
+                "target phrase": "bij alle islamitisch instelling"
+            },
+            "t31": {
+                "POS": "VERB",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Protecting@Asset"
+                ],
+                "lemma": "gebedshuis",
+                "sentence": "2",
+                "target phrase": "de gebedshuis en het station"
+            },
+            "t329": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Protecting@Asset",
+                    "Protecting@Asset"
+                ],
+                "lemma": "s\u00fcleymaniye",
+                "sentence": "24",
+                "target phrase": "van de s\u00fcleymaniye moskee in tilburg"
+            },
+            "t338.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "politiebewaking",
+                "frame elements": [
+                    "Protecting@Protection",
+                    "Intentionally_act@Agent"
+                ],
+                "function": "modifier",
+                "lemma": "politie",
+                "sentence": "26",
+                "target phrase": "politiebewaking"
+            },
+            "t372": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Locale_closure@Locale"
+                ],
+                "lemma": "deur",
+                "sentence": "30",
+                "target phrase": "de deur"
+            },
+            "t39": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Protecting@Asset"
+                ],
+                "lemma": "eindhov",
+                "sentence": "3",
+                "target phrase": "eindhov airport"
+            },
+            "t390": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Protecting@Asset"
+                ],
+                "lemma": "moskee",
+                "sentence": "32",
+                "target phrase": "andere moskee in west - brabant , zoals in breda berg roosendaal zijn wel gewoon open , maar worden extra bewaken ."
+            },
+            "t429": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Locale_closure@Locale"
+                ],
+                "lemma": "deur",
+                "sentence": "33",
+                "target phrase": "de deur"
+            },
+            "t43": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Protecting@Protection"
+                ],
+                "lemma": "politie",
+                "sentence": "3",
+                "target phrase": "de politie"
+            },
+            "t434": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Protecting@Asset"
+                ],
+                "lemma": "grensovergang",
+                "sentence": "34",
+                "target phrase": "grensovergang"
+            },
+            "t437": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Protecting@Asset"
+                ],
+                "lemma": "uitvalsweg",
+                "sentence": "34",
+                "target phrase": "belangrijk uitvalsweg en grensovergang"
+            },
+            "t468": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Protecting@Asset"
+                ],
+                "lemma": "station",
+                "sentence": "36",
+                "target phrase": "station den bosch"
+            },
+            "t480.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "politiebewaking",
+                "frame elements": [
+                    "Protecting@Protection"
+                ],
+                "function": "modifier",
+                "lemma": "politie",
+                "sentence": "36",
+                "target phrase": "politiebewaking"
+            },
+            "t483": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Protecting@Asset"
+                ],
+                "lemma": "rechtbank",
+                "sentence": "36",
+                "target phrase": "bij de rechtbank in den bosch"
+            },
+            "t498": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arranging@Theme"
+                ],
+                "lemma": "politie",
+                "sentence": "38",
+                "target phrase": "extra politie - inzet in eindhov op het centraal station schietpartij ."
+            },
+            "t505": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arranging@Configuration"
+                ],
+                "lemma": "centraal",
+                "sentence": "38",
+                "target phrase": "centraal"
+            },
+            "t519": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arranging@Theme"
+                ],
+                "lemma": "politie",
+                "sentence": "40",
+                "target phrase": "extra politie - inzet in eindhov na de schietpartij utrecht ."
+            },
+            "t523": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arranging@Configuration"
+                ],
+                "lemma": "eindhov",
+                "sentence": "40",
+                "target phrase": "in eindhov"
+            },
+            "t536": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arranging@Theme"
+                ],
+                "lemma": "politie",
+                "sentence": "42",
+                "target phrase": "extra politie - inzet in eindhov bij de moskee schietpartij ."
+            },
+            "t543": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Arranging@Configuration"
+                ],
+                "lemma": "moskee",
+                "sentence": "42",
+                "target phrase": "bij de moskee na de schietpartij in utrecht"
+            },
+            "t555.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "politiebewaking",
+                "frame elements": [
+                    "Protecting@Protection"
+                ],
+                "function": "modifier",
+                "lemma": "politie",
+                "sentence": "43",
+                "target phrase": "politiebewaking"
+            },
+            "t559": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Protecting@Asset"
+                ],
+                "lemma": "moskee",
+                "sentence": "43",
+                "target phrase": "bij de marokkaans moskee in roosendaal"
+            },
+            "t571": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Protecting@Asset"
+                ],
+                "lemma": "moskee",
+                "sentence": "44",
+                "target phrase": "de turks moskee in roosendaal"
+            },
+            "t583.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "politiebewaking",
+                "frame elements": [
+                    "Protecting@Protection"
+                ],
+                "function": "modifier",
+                "lemma": "politie",
+                "sentence": "45",
+                "target phrase": "politiebewaking"
+            },
+            "t586": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Protecting@Asset"
+                ],
+                "lemma": "s\u00fcleymaniye",
+                "sentence": "45",
+                "target phrase": "bij de s\u00fcleymaniye moskee in tilburg"
+            },
+            "t59": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Death@Time",
+                    "Experience_bodily_harm@Time"
+                ],
+                "lemma": "ochtend",
+                "sentence": "5",
+                "target phrase": "op de ochtend"
+            },
+            "t609.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "politiebewaking",
+                "frame elements": [
+                    "Protecting@Protection"
+                ],
+                "function": "modifier",
+                "lemma": "politie",
+                "sentence": "48",
+                "target phrase": "politiebewaking"
+            },
+            "t612": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Protecting@Asset"
+                ],
+                "lemma": "grensovergang",
+                "sentence": "48",
+                "target phrase": "bij de grensovergang met es"
+            },
+            "t621.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "politiebewaking",
+                "frame elements": [
+                    "Protecting@Protection"
+                ],
+                "function": "modifier",
+                "lemma": "politie",
+                "sentence": "49",
+                "target phrase": "politiebewaking"
+            },
+            "t624": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Protecting@Asset"
+                ],
+                "lemma": "grens",
+                "sentence": "49",
+                "target phrase": "aan de grens met goirle"
+            },
+            "t636.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "politiebewaking",
+                "frame elements": [
+                    "Protecting@Protection"
+                ],
+                "function": "modifier",
+                "lemma": "politie",
+                "sentence": "50",
+                "target phrase": "politiebewaking"
+            },
+            "t639": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Protecting@Asset"
+                ],
+                "lemma": "station",
+                "sentence": "50",
+                "target phrase": "op het station in den bosch"
+            },
+            "t649.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "politiecontrole",
+                "frame elements": [
+                    "Control@Controlling_entity"
+                ],
+                "function": "modifier",
+                "lemma": "politie",
+                "sentence": "51",
+                "target phrase": "politiecontrole"
+            },
+            "t669.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "politiebewaking",
+                "frame elements": [
+                    "Protecting@Protection"
+                ],
+                "function": "modifier",
+                "lemma": "politie",
+                "sentence": "52",
+                "target phrase": "politiebewaking"
+            },
+            "t672": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "de"
+                },
+                "frame elements": [
+                    "Protecting@Asset"
+                ],
+                "lemma": "s\u00fcleymaniye",
+                "sentence": "52",
+                "target phrase": "bij de s\u00fcleymaniye"
+            },
+            "t686.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "politiebewaking",
+                "frame elements": [
+                    "Protecting@Protection"
+                ],
+                "function": "modifier",
+                "lemma": "politie",
+                "sentence": "53",
+                "target phrase": "politiebewaking"
+            },
+            "t689": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Protecting@Asset"
+                ],
+                "lemma": "station",
+                "sentence": "53",
+                "target phrase": "op het station in tilburg"
+            },
+            "t78": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Hit_target@Time"
+                ],
+                "lemma": "maandagmorgen",
+                "sentence": "6",
+                "target phrase": "maandagmorgen"
+            },
+            "t95.c0": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "voortvluchtig",
+                "frame elements": [
+                    "Fleeing@Direction"
+                ],
+                "function": "modifier",
+                "lemma": "voort",
+                "sentence": "7",
+                "target phrase": "voortvluchtig"
+            }
+        },
+        "frames/links": {
+            "Q1632409367599": {
+                "t67": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hit_target@Target",
+                        "Hit_target@Target",
+                        "Hit_target@Target",
+                        "Hit_target@Target",
+                        "Hit_target@Target",
+                        "Hit_target@Target",
+                        "Participation@Participant_2",
+                        "Participation@Participant_2",
+                        "Participation@Participant_2",
+                        "Participation@Participant_2",
+                        "Participation@Participant_2",
+                        "Death@Protagonist",
+                        "Hit_target@Target"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "5",
+                    "target phrase": "drie mens"
+                },
+                "t71": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Experience_bodily_harm@Experiencer"
+                    ],
+                    "lemma": "mens",
+                    "sentence": "5",
+                    "target phrase": "vijf mens"
+                }
+            },
+            "Q62090804": {
+                "t443.c0": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Participation@Event"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schieten",
+                    "reftype": "type",
+                    "sentence": "34",
+                    "target phrase": "schietpartij"
+                },
+                "t443.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Participation",
+                    "frame elements": null,
+                    "function": "head",
+                    "lemma": "partij",
+                    "reftype": "evoke",
+                    "sentence": "34"
+                },
+                "t50.c0": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Participation@Event"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schieten",
+                    "reftype": "type",
+                    "sentence": "4",
+                    "target phrase": "schietpartij"
+                },
+                "t50.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Participation",
+                    "frame elements": [
+                        "Committing_crime@Crime"
+                    ],
+                    "function": "head",
+                    "lemma": "partij",
+                    "reftype": "evoke",
+                    "sentence": "4",
+                    "target phrase": "schietpartij"
+                },
+                "t509.c0": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Participation@Event"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schieten",
+                    "reftype": "type",
+                    "sentence": "38",
+                    "target phrase": "schietpartij"
+                },
+                "t509.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Participation",
+                    "frame elements": null,
+                    "function": "head",
+                    "lemma": "partij",
+                    "reftype": "evoke",
+                    "sentence": "38"
+                },
+                "t52": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Fleeing@Source"
+                    ],
+                    "lemma": "utrecht",
+                    "sentence": "4",
+                    "target phrase": "in utrecht"
+                },
+                "t526.c0": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Participation@Event"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schieten",
+                    "reftype": "type",
+                    "sentence": "40",
+                    "target phrase": "schietpartij"
+                },
+                "t526.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Participation",
+                    "frame elements": null,
+                    "function": "head",
+                    "lemma": "partij",
+                    "reftype": "evoke",
+                    "sentence": "40"
+                },
+                "t546.c0": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Hit_target",
+                    "frame elements": [
+                        "Participation@Event"
+                    ],
+                    "function": "modifier",
+                    "lemma": "schieten",
+                    "reftype": "type",
+                    "sentence": "42",
+                    "target phrase": "schietpartij"
+                },
+                "t546.c1": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "compound": "schietpartij",
+                    "frame": "Participation",
+                    "frame elements": null,
+                    "function": "head",
+                    "lemma": "partij",
+                    "reftype": "evoke",
+                    "sentence": "42"
+                }
+            },
+            "Q62116513": {
+                "t92": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": true,
+                        "lemma": "de"
+                    },
+                    "frame": "Committing_crime",
+                    "frame elements": [
+                        "Hit_target@Agent",
+                        "Hit_target@Agent",
+                        "Hit_target@Agent",
+                        "Hit_target@Agent",
+                        "Hit_target@Agent",
+                        "Hit_target@Agent",
+                        "Participation@Participant_1",
+                        "Participation@Participant_1",
+                        "Participation@Participant_1",
+                        "Participation@Participant_1",
+                        "Participation@Participant_1",
+                        "Protecting@Danger",
+                        "Protecting@Danger",
+                        "Protecting@Danger",
+                        "Protecting@Danger",
+                        "Protecting@Danger",
+                        "Protecting@Danger",
+                        "Protecting@Danger",
+                        "Protecting@Danger",
+                        "Protecting@Danger",
+                        "Protecting@Danger",
+                        "Protecting@Danger",
+                        "Protecting@Danger",
+                        "Protecting@Danger",
+                        "Protecting@Danger",
+                        "Protecting@Danger",
+                        "Protecting@Danger",
+                        "Protecting@Danger",
+                        "Protecting@Danger",
+                        "Protecting@Danger",
+                        "Protecting@Danger",
+                        "Hit_target@Agent",
+                        "Committing_crime@Perpetrator",
+                        "Fleeing@Self_mover",
+                        "Protecting@Danger",
+                        "Use_firearm@Agent"
+                    ],
+                    "lemma": "dader",
+                    "reftype": "evoke",
+                    "sentence": "7",
+                    "target phrase": "de dader"
+                }
+            },
+            "Q803": {
+                "t52": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Fleeing@Source"
+                    ],
+                    "lemma": "utrecht",
+                    "sentence": "4",
+                    "target phrase": "in utrecht"
+                },
+                "t62": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Death@Place",
+                        "Experience_bodily_harm@Place"
+                    ],
+                    "lemma": "tram",
+                    "sentence": "5",
+                    "target phrase": "in een tram"
+                },
+                "t85": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hit_target@Place"
+                    ],
+                    "lemma": "tram",
+                    "sentence": "6",
+                    "target phrase": "in een tram bij het 24 oktoberplein"
+                }
+            }
+        },
+        "historical distance": 0,
+        "implicated fe's": [
+            "Experience_bodily_harm@Body_part",
+            "Fleeing@Path",
+            "Fleeing@Goal",
+            "Perception_active@Body_part",
+            "Perception_active@Direction",
+            "Arranging@Agent",
+            "Arranging@Agent",
+            "Arranging@Agent",
+            "Control@Dependent_entity",
+            "Control@Degree",
+            "Use_firearm@Firearm"
+        ],
+        "raw text": "\nVIDEODe politie is extra alert bij de moskee\u00ebn, stations en in de steden in Brabant. Onder meer in Tilburg, Den Bosch, Roosendaal en Eindhoven worden de gebedshuizen en het station bewaakt. Ook op Eindhoven Airport houdt de politie extra toezicht. Aanleiding is de schietpartij in Utrecht. Daar werd eerder op de ochtend in een tram geschoten , waarbij drie mensen overleden en vijf mensen gewond raakten. Het vuur werd maandagmorgen rond 10.45 uur geopend in een tram bij het 24 Oktoberplein. De dader is nog voortvluchtig. De waakzaamheid is groot in heel het land. De politie bewaakt inmiddels ook de Brabantse afritten van de A2. Bij alle afritten van de A2 vanuit Utrecht richting het Zuiden staan politieagenten. Op en rond de treinen en stations zijn volgens de NS zichtbare en onzichtbare maatregelen genomen. Volgens agenten op de stations is er overal meer alertheid. Op meerdere plekken in de steden en rondom uitvalswegen wordt extra toezicht gehouden. Ook rechtbanken worden extra beveiligd. Onopvallende auto Bij de moskee aan de Willemstraat in Eindhoven kijken agenten vanuit een onopvallende auto toe. Dezelfde auto staat niet veel later aan de moskee aan de Otterstraat. Daar rijdt om de zoveel tijd een opvallende politie-auto voorbij. Bezoekers die na het middaggebed net uit de moskee komen gelopen, maken zich nog weinig zorgen. De extra alertheid van de politie was hen nog niet opgevallen. Vrijdag, na de aanslag in Nieuw-Zeeland, hield de politie uit voorzorg de moskee ook al scherp in de gaten. Ook bij de islamitische basisscholen is alles rustig en wordt gewoon lesgegeven. In Helmond wordt het intensievere politietoezicht van afgelopen vrijdag bij alle islamitische instellingen gecontinueerd. De politie is extra alert bij de moskee\u00ebn en de islamitische basisschool in Helmond. Moskee\u00ebn dicht Vooralsnog is de voorzitter van de S\u00fcleymaniye Moskee in Tilburg niet ongerust. \u201cDe politiebewaking is een voorzorgsmaatregel. Het is voor ons een normale dag. Het middaggebed gaat dan ook gewoon door.\u201d De Almohisin moskee in Oosterhout heeft wel besloten om uit voorzorg de deuren te sluiten. Dit op advies van de Samenwerkende Moskeebesturen West-Brabant en Zeeland. Andere moskee\u00ebn in West-Brabant, zoals in Breda, Bergen op Zoom en Roosendaal zijn wel gewoon open, maar worden extra bewaakt. Ook het bestuur van de moskee Arrahma in Den Bosch heeft besloten om de deuren voorlopig te sluiten. Grensovergangen bewaakt Belangrijk uitvalswegen en grensovergangen worden na de schietpartij in Utrecht extra bewaakt. Zo staan er onder meer agenten bij de grensovergangen bij Essen, Putte en Goirle. Volledig scherm Beveiliging station Den Bosch \u00a9 Meesters Multi Media / Bart Meesters Volledig scherm Politiebewaking bij de rechtbank in Den Bosch. \u00a9 Meesters Multi Media/Bart Meesters Volledig scherm Extra politie-inzetten in Eindhoven op het centraal station na de schietpartij in Utrecht. \u00a9 Bert Jansen Volledig scherm Extra politie-inzet in Eindhoven na de schietpartij in Utrecht. \u00a9 Bert Jansen Volledig scherm Extra politie-inzet in Eindhoven bij de moskee na de schietpartij in Utrecht. \u00a9 Bert Jansen Volledig scherm Politiebewaking bij de Marokkaanse moskee in Roosendaal. \u00a9 Alfred de Bruijn Volledig scherm De Turkse moskee in Roosendaal extra beveiligd. \u00a9 Alfred de Bruijn Volledig scherm Politiebewaking bij de S\u00fcleymaniye Moskee in Tilburg. \u00a9 Erik van Hest Volledig scherm Extra alertheid bij moskee in Eindhoven. \u00a9 Bert Jansen Volledig scherm Politiebewaking bij de grensovergang met Essen. \u00a9 Rob Zorn Volledig scherm Politiebewaking aan de grens met Goirle. \u00a9 MaRicMedia/Toby de Kort Volledig scherm Politiebewaking op het station in Den Bosch. \u00a9 Bart Gotink Volledig scherm Politiecontroles op belangrijke uitvalswegen, zoals hier op de John F. Kennedylaan in Eindhoven. \u00a9 Bert Jansen Volledig scherm Politiebewaking bij de S\u00fcleymaniye moskee aan de Wandelboslaan in Tilburg. \u00a9 Erik van Hest Volledig scherm Politiebewaking op het station in Tilburg. \u00a9 Hein Eikenaar\n",
+        "subevents": {
+            "mw1": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Perception_active",
+                "frame elements": null,
+                "lemma": "toekijken",
+                "reftype": "type",
+                "sentence": "15"
+            },
+            "mw2": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Traversing",
+                "frame elements": null,
+                "lemma": "voorbijrijden",
+                "reftype": "type",
+                "sentence": "17"
+            },
+            "mw5": {
+                "POS": "MWE",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Experience_bodily_harm",
+                "frame elements": null,
+                "lemma": "gewond raken",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "mw7": {
+                "POS": "MWE",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Use_firearm",
+                "frame elements": null,
+                "lemma": "vuur openen",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t108": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Protecting",
+                "frame elements": null,
+                "lemma": "bewaken",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t146": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": [
+                    "Intentionally_act@Act"
+                ],
+                "lemma": "maatregel",
+                "reftype": "evoke",
+                "sentence": "11",
+                "target phrase": "zichtbaar en onzichtbaar maatregel"
+            },
+            "t171": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Protecting",
+                "frame elements": null,
+                "lemma": "toezicht",
+                "reftype": "type",
+                "sentence": "13"
+            },
+            "t178": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Protecting",
+                "frame elements": null,
+                "lemma": "beveiligen",
+                "reftype": "type",
+                "sentence": "14"
+            },
+            "t296.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "politietoezicht",
+                "frame": "Protecting",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "toezicht",
+                "reftype": "type",
+                "sentence": "22"
+            },
+            "t338.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "politiebewaking",
+                "frame": "Protecting",
+                "frame elements": [
+                    "Intentionally_act@Act",
+                    "Protecting@Protection"
+                ],
+                "function": "head",
+                "lemma": "bewaking",
+                "reftype": "type",
+                "sentence": "26",
+                "target phrase": "politiebewaking"
+            },
+            "t341.c0": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "voorzorgsmaatregel",
+                "frame": "Protecting",
+                "frame elements": [
+                    "Intentionally_act@Explanation"
+                ],
+                "function": "modifier",
+                "lemma": "voorzorg",
+                "reftype": "evoke",
+                "sentence": "26",
+                "target phrase": "voorzorgsmaatregel"
+            },
+            "t341.c2": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "voorzorgsmaatregel",
+                "frame": "Intentionally_act",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "maatregel",
+                "reftype": "evoke",
+                "sentence": "26"
+            },
+            "t35": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Protecting",
+                "frame elements": null,
+                "lemma": "bewaken",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t374": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locale_closure",
+                "frame elements": null,
+                "lemma": "sluiten",
+                "reftype": "type",
+                "sentence": "30"
+            },
+            "t413": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Protecting",
+                "frame elements": null,
+                "lemma": "bewaken",
+                "reftype": "type",
+                "sentence": "32"
+            },
+            "t432": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locale_closure",
+                "frame elements": null,
+                "lemma": "sluiten",
+                "reftype": "type",
+                "sentence": "33"
+            },
+            "t435": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Protecting",
+                "frame elements": null,
+                "lemma": "bewaken",
+                "reftype": "type",
+                "sentence": "34"
+            },
+            "t447": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Protecting",
+                "frame elements": null,
+                "lemma": "bewaken",
+                "reftype": "type",
+                "sentence": "34"
+            },
+            "t45": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Protecting",
+                "frame elements": null,
+                "lemma": "toezicht",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t467": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Protecting",
+                "frame elements": null,
+                "lemma": "beveiliging",
+                "reftype": "type",
+                "sentence": "36"
+            },
+            "t480.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "politiebewaking",
+                "frame": "Protecting",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "bewaking",
+                "reftype": "type",
+                "sentence": "36"
+            },
+            "t500": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arranging",
+                "frame elements": null,
+                "lemma": "inzet",
+                "reftype": "type",
+                "sentence": "38"
+            },
+            "t521": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arranging",
+                "frame elements": null,
+                "lemma": "inzet",
+                "reftype": "type",
+                "sentence": "40"
+            },
+            "t538": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arranging",
+                "frame elements": null,
+                "lemma": "inzet",
+                "reftype": "type",
+                "sentence": "42"
+            },
+            "t555.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "politiebewaking",
+                "frame": "Protecting",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "bewaking",
+                "reftype": "type",
+                "sentence": "43"
+            },
+            "t575": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Protecting",
+                "frame elements": null,
+                "lemma": "beveiligen",
+                "reftype": "type",
+                "sentence": "44"
+            },
+            "t583.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "politiebewaking",
+                "frame": "Protecting",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "bewaking",
+                "reftype": "type",
+                "sentence": "45"
+            },
+            "t609.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "politiebewaking",
+                "frame": "Protecting",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "bewaking",
+                "reftype": "type",
+                "sentence": "48"
+            },
+            "t621.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "politiebewaking",
+                "frame": "Protecting",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "bewaking",
+                "reftype": "type",
+                "sentence": "49"
+            },
+            "t63": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hit_target",
+                "frame elements": [
+                    "Death@Manner",
+                    "Experience_bodily_harm@Manner"
+                ],
+                "lemma": "schieten",
+                "reftype": "type",
+                "sentence": "5",
+                "target phrase": "daar worden eerder op de ochtend in een tram schieten , waarbij drie mens overlijden en mens ."
+            },
+            "t636.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "politiebewaking",
+                "frame": "Protecting",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "bewaking",
+                "reftype": "type",
+                "sentence": "50"
+            },
+            "t649.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "politiecontrole",
+                "frame": "Control",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "controle",
+                "reftype": "type",
+                "sentence": "51"
+            },
+            "t669.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "politiebewaking",
+                "frame": "Protecting",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "bewaking",
+                "reftype": "type",
+                "sentence": "52"
+            },
+            "t68": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Death",
+                "frame elements": null,
+                "lemma": "overlijden",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t686.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "politiebewaking",
+                "frame": "Protecting",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "bewaking",
+                "reftype": "type",
+                "sentence": "53"
+            },
+            "t95.c1": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "voortvluchtig",
+                "frame": "Fleeing",
+                "frame elements": null,
+                "function": "head",
+                "lemma": "vluchtig",
+                "reftype": "evoke",
+                "sentence": "7"
+            }
+        }
+    }
+}

@@ -1,0 +1,1604 @@
+{
+    "Here's The Ridiculous Way Russia's Propaganda Channel Is Covering The Malaysia Airlines Crash": {
+        "fe's without links": {
+            "t118": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Motion@Area",
+                    "Ride_vehicle@Area"
+                ],
+                "lemma": "warzone",
+                "sentence": "7",
+                "target phrase": "ukrainian warzone"
+            },
+            "t20": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Judgment_communication@Medium"
+                ],
+                "lemma": "Russia",
+                "sentence": "2",
+                "target phrase": "Kremlin - back Russia"
+            },
+            "t205": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Contacting@Communication",
+                    "Questioning@Message"
+                ],
+                "lemma": "what",
+                "sentence": "12",
+                "target phrase": "what"
+            },
+            "t210": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Hostile_encounter@Side_1",
+                    "Rebellion@Current_leadership"
+                ],
+                "lemma": "Ukraine",
+                "sentence": "12",
+                "target phrase": "Ukraine"
+            },
+            "t333": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Attempt@Agent"
+                ],
+                "lemma": "Vladimir",
+                "sentence": "26",
+                "target phrase": "Vladimir"
+            },
+            "t374": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Activity_stop@Activity"
+                ],
+                "lemma": "what",
+                "sentence": "27",
+                "target phrase": "what"
+            },
+            "t396": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Quitting@Position"
+                ],
+                "lemma": "correspondent",
+                "sentence": "29",
+                "target phrase": "RT correspondent"
+            },
+            "t397": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Quitting@Employee"
+                ],
+                "lemma": "Sarah",
+                "sentence": "29",
+                "target phrase": "Sarah"
+            },
+            "t402": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Quitting@Employer"
+                ],
+                "lemma": "channel",
+                "sentence": "29",
+                "target phrase": "the channel"
+            },
+            "t43": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Judgment_communication@Evaluee"
+                ],
+                "lemma": "everyone",
+                "sentence": "4",
+                "target phrase": "everyone"
+            }
+        },
+        "frames/links": {
+            "Q159": {
+                "t17": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Supporting@Supporter"
+                    ],
+                    "lemma": "Kremlin",
+                    "sentence": "2",
+                    "target phrase": "Kremlin"
+                },
+                "t47": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Origin",
+                    "frame elements": null,
+                    "lemma": "russian",
+                    "reftype": "evoke",
+                    "sentence": "4"
+                },
+                "t48": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Leadership",
+                    "frame elements": null,
+                    "lemma": "government",
+                    "reftype": "evoke",
+                    "sentence": "4"
+                }
+            },
+            "Q1631025548534": {
+                "t71": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "People",
+                    "frame elements": [
+                        "Catastrophe@Patient",
+                        "Catastrophe@Patient",
+                        "Ride_vehicle@Theme"
+                    ],
+                    "lemma": "people",
+                    "reftype": "evoke",
+                    "sentence": "5",
+                    "target phrase": "298 people"
+                }
+            },
+            "Q1631864085791": {
+                "t166": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Downing@Agent",
+                        "Hostile_encounter@Side_2",
+                        "Downing@Agent",
+                        "Supporting@Supported",
+                        "Rebellion@Rebel",
+                        "Responsibility@Agent",
+                        "Discussion@Interlocutors"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "10",
+                    "target phrase": "the separatist in eastern Ukraine"
+                },
+                "t168": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Part_orientational",
+                    "frame elements": null,
+                    "lemma": "eastern",
+                    "reftype": "evoke",
+                    "sentence": "10"
+                },
+                "t170": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Awareness",
+                    "frame elements": null,
+                    "lemma": "believe",
+                    "reftype": "evoke",
+                    "sentence": "10"
+                },
+                "t171": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Responsibility",
+                    "frame elements": null,
+                    "lemma": "responsible",
+                    "reftype": "type",
+                    "sentence": "10"
+                },
+                "t179": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Recording",
+                    "frame elements": null,
+                    "lemma": "recording",
+                    "reftype": "evoke",
+                    "sentence": "10"
+                },
+                "t180": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Discussion",
+                    "frame elements": null,
+                    "lemma": "talk",
+                    "reftype": "type",
+                    "sentence": "10"
+                },
+                "t183": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Discussion@Topic"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "10",
+                    "target phrase": "the plane"
+                },
+                "t186": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Coming_to_believe@Cognizer"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "10",
+                    "target phrase": "-PRON-"
+                },
+                "t189": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Agent"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "10",
+                    "target phrase": "-PRON-"
+                },
+                "t201": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Irregular_combatants",
+                    "frame elements": [
+                        "Contacting@Communicator",
+                        "Irregular_combatants@Combatant",
+                        "Questioning@Speaker"
+                    ],
+                    "lemma": "militant",
+                    "reftype": "evoke",
+                    "sentence": "11",
+                    "target phrase": "one militant"
+                },
+                "t215": {
+                    "POS": "DET",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Increment",
+                    "frame elements": [
+                        "Contacting@Addressee",
+                        "Response@Agent",
+                        "Questioning@Addressee"
+                    ],
+                    "lemma": "another",
+                    "reftype": "evoke",
+                    "sentence": "13",
+                    "target phrase": "another"
+                }
+            },
+            "Q1631864271612": {
+                "t114": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Ride_vehicle",
+                    "frame elements": [
+                        "Motion@Theme",
+                        "Ride_vehicle@Vehicle"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "7",
+                    "target phrase": "Malaysia plane"
+                },
+                "t141": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Motion@Theme"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "9",
+                    "target phrase": "MH17"
+                },
+                "t183": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Discussion@Topic"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "10",
+                    "target phrase": "the plane"
+                },
+                "t192": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "10",
+                    "target phrase": "-PRON-"
+                },
+                "t30": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Coming_to_believe@Topic"
+                    ],
+                    "lemma": "Malaysia",
+                    "sentence": "3",
+                    "target phrase": "Malaysia"
+                },
+                "t33": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Impact@Impactee",
+                        "Downing@Patient",
+                        "Operate_vehicle@Vehicle"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "3",
+                    "target phrase": "a Malaysia Airlines passenger plane"
+                },
+                "t58": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "5",
+                    "target phrase": "the plane"
+                }
+            },
+            "Q1636580448374": {
+                "t339": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Leadership",
+                    "frame elements": null,
+                    "lemma": "government",
+                    "reftype": "evoke",
+                    "sentence": "26"
+                },
+                "t371": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Activity_stop@Agent"
+                    ],
+                    "lemma": "govt",
+                    "sentence": "27",
+                    "target phrase": "the ukrainian govt"
+                }
+            },
+            "Q17374096": {
+                "mw1": {
+                    "POS": "MWE",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Contacting@Topic",
+                        "Catastrophe@Undesirable_event",
+                        "Catastrophe@Undesirable_event",
+                        "Judgment_communication@Topic",
+                        "Judgment_communication@Reason",
+                        "Questioning@Topic"
+                    ],
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "3",
+                    "target phrase": "shoot down"
+                },
+                "mw2": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Coming_to_believe@Content",
+                        "Responsibility@Act"
+                    ],
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "10",
+                    "target phrase": "shoot down"
+                },
+                "t30": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Coming_to_believe@Topic"
+                    ],
+                    "lemma": "Malaysia",
+                    "sentence": "3",
+                    "target phrase": "Malaysia"
+                },
+                "t329": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Impact",
+                    "frame elements": null,
+                    "lemma": "crash",
+                    "reftype": "type",
+                    "sentence": "26"
+                },
+                "t33": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Impact@Impactee",
+                        "Downing@Patient",
+                        "Operate_vehicle@Vehicle"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "3",
+                    "target phrase": "a Malaysia Airlines passenger plane"
+                },
+                "t344": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": null,
+                    "lemma": "disaster",
+                    "reftype": "evoke",
+                    "sentence": "26"
+                },
+                "t363": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": null,
+                    "lemma": "tragedy",
+                    "reftype": "evoke",
+                    "sentence": "27"
+                },
+                "t60": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "down",
+                    "reftype": "type",
+                    "sentence": "5"
+                }
+            }
+        },
+        "historical distance": 1,
+        "implicated fe's": [
+            "Motion@Source",
+            "Motion@Path",
+            "Motion@Goal",
+            "Motion@Distance",
+            "Motion@Direction",
+            "Coming_to_believe@Means",
+            "Coming_to_believe@Medium",
+            "Coming_to_believe@Evidence",
+            "Contacting@Address",
+            "Hostile_encounter@Issue",
+            "Hostile_encounter@Purpose",
+            "Impact@Impactor",
+            "Judgment_communication@Communicator",
+            "Judgment_communication@Expressor",
+            "Operate_vehicle@Driver",
+            "Operate_vehicle@Source",
+            "Operate_vehicle@Path",
+            "Operate_vehicle@Goal",
+            "Motion@Source",
+            "Motion@Path",
+            "Motion@Goal",
+            "Motion@Distance",
+            "Motion@Direction",
+            "Ride_vehicle@Source",
+            "Ride_vehicle@Path",
+            "Ride_vehicle@Goal"
+        ],
+        "raw text": "Here's The Ridiculous Way Russia's Propaganda Channel Is Covering The Malaysia Airlines Crash.\nKremlin-backed Russia Today is covering the the shoot down of a Malaysia Airlines passenger plane in the only way it knows how: Blaming everyone except for the Russian government. Leading its website just one day after the plane was downed in pro-Russian rebel-held territory with 298 people onboard, RT\u2019s main headline is to a video of the U.N. Security Council discussion on the topic, along with other headlines that insinuate it was Malaysia Airlines fault for flying over the area. \u201cQuestions over why Malaysia plane flew over Ukrainian warzone,\u201d one headline reads. Another, under their military vertical \u201cOp-Edge,\u201d asks \u201cWhy was MH17 flying through a war zone where 10 aircraft have been shot down?\u201d Noticeably absent is any mention of Russian support for the separatists in eastern Ukraine believed responsible, who were caught on an audio recording talking about the plane, after they apparently realized they had shot it down. In one leaked call, one militant asks, \u201cWhat was it doing in Ukraine\u2019s territory?\u201d Another, identified as Nikolay Kozitsin, responds, \u201cThat means they were carrying spies. F\u2014 them, got it? \u2026 They shouldn\u2019t be f\u2014ing flying. There is a war going on.\u201d On the route, according to a Malaysia Airlines spokesman speaking to the Telegraph: \u201dThis route is an approved route. 15 out of 16 airlines use this route. It\u2019s a safe route \u2013 most other countries use this route. So we were not given any notice to change this.\u201d RT\u2019s coverage shouldn\u2019t come as a surprise, of course. Soon after the crash, Russian President Vladimir Putin attempted to blame the government of Ukraine for the disaster. An interview on the site published today parroted this line under the headline, \u201cMalaysia airplane tragedy is a wakeup call to the Ukrainian govt to stop what it is doing.\u201d In response to what she called a \u201ctotal disregard for the facts,\u201d RT Correspondent Sarah Firth resigned from the channel on Thursday, according to BuzzFeed. \u201cWhen this story broke I ran back into the newsroom and saw how we were covering it already and I just knew I had to go,\u201d she said. The channel also had a very similar record in the coverage of Russia\u2019s annexation of Ukraine\u2019s Crimea.",
+        "subevents": {
+            "t102": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Judgment",
+                "frame elements": null,
+                "lemma": "fault",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t104": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Operate_vehicle",
+                "frame elements": null,
+                "lemma": "fly",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t105": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Proportional_quantity",
+                "frame elements": null,
+                "lemma": "over",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t107": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locale",
+                "frame elements": [
+                    "Operate_vehicle@Area"
+                ],
+                "lemma": "area",
+                "reftype": "evoke",
+                "sentence": "5",
+                "target phrase": "the area"
+            },
+            "t115": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Motion",
+                "frame elements": null,
+                "lemma": "fly",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t123": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Reading_activity",
+                "frame elements": null,
+                "lemma": "read",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t125": {
+                "POS": "DET",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Increment",
+                "frame elements": null,
+                "lemma": "another",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t129": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Military",
+                "frame elements": null,
+                "lemma": "military",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t142": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Motion",
+                "frame elements": null,
+                "lemma": "fly",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t145": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "war",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t146": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locale",
+                "frame elements": [
+                    "Motion@Area"
+                ],
+                "lemma": "zone",
+                "reftype": "evoke",
+                "sentence": "9",
+                "target phrase": "a war zone where 10 aircraft have be shoot down"
+            },
+            "t152": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hit_target",
+                "frame elements": null,
+                "lemma": "shoot",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t160": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "mention",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t162": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Origin",
+                "frame elements": null,
+                "lemma": "russian",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t163": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Supporting",
+                "frame elements": null,
+                "lemma": "support",
+                "reftype": "type",
+                "sentence": "10"
+            },
+            "t188": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Coming_to_believe",
+                "frame elements": null,
+                "lemma": "realize",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t19": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Taking_sides",
+                "frame elements": null,
+                "lemma": "back",
+                "reftype": "evoke",
+                "sentence": "2"
+            },
+            "t191": {
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hit_target",
+                "frame elements": null,
+                "reftype": "evoke"
+            },
+            "t197": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Reveal_secret",
+                "frame elements": null,
+                "lemma": "leaked",
+                "reftype": "evoke",
+                "sentence": "11"
+            },
+            "t198": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Contacting",
+                "frame elements": null,
+                "lemma": "call",
+                "reftype": "evoke",
+                "sentence": "11"
+            },
+            "t202": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Questioning",
+                "frame elements": [
+                    "Response@Trigger"
+                ],
+                "lemma": "ask",
+                "reftype": "type",
+                "sentence": "11",
+                "target phrase": "in one leaked call , one militant ask , \""
+            },
+            "t208": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": null,
+                "lemma": "do",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t21": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "Today",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t212": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "territory",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t222": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Response",
+                "frame elements": null,
+                "lemma": "respond",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t226": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": [
+                    "Response@Response"
+                ],
+                "lemma": "mean",
+                "reftype": "evoke",
+                "sentence": "14",
+                "target phrase": "that mean -PRON- be carry spy ."
+            },
+            "t229": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bringing",
+                "frame elements": null,
+                "lemma": "carry",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t240": {
+                "POS": "AUX",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Desirable_event",
+                "frame elements": null,
+                "lemma": "should",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t248": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locative_relation",
+                "frame elements": null,
+                "lemma": "there",
+                "reftype": "evoke",
+                "sentence": "18"
+            },
+            "t251": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "war",
+                "reftype": "evoke",
+                "sentence": "18"
+            },
+            "t252": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Motion",
+                "frame elements": null,
+                "lemma": "go",
+                "reftype": "evoke",
+                "sentence": "18"
+            },
+            "t260": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Be_in_agreement_on_action",
+                "frame elements": null,
+                "lemma": "accord",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t265": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Representative",
+                "frame elements": null,
+                "lemma": "spokesman",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t266": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "speak",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t273": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Roadways",
+                "frame elements": null,
+                "lemma": "route",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t276": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Deny_or_grant_permission",
+                "frame elements": null,
+                "lemma": "approve",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t277": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Roadways",
+                "frame elements": null,
+                "lemma": "route",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t284": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Using",
+                "frame elements": null,
+                "lemma": "use",
+                "reftype": "evoke",
+                "sentence": "21"
+            },
+            "t291": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Containers",
+                "frame elements": null,
+                "lemma": "safe",
+                "reftype": "evoke",
+                "sentence": "22"
+            },
+            "t295": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Increment",
+                "frame elements": null,
+                "lemma": "other",
+                "reftype": "evoke",
+                "sentence": "23"
+            },
+            "t296": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "country",
+                "reftype": "evoke",
+                "sentence": "23"
+            },
+            "t297": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Using",
+                "frame elements": null,
+                "lemma": "use",
+                "reftype": "evoke",
+                "sentence": "23"
+            },
+            "t305": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Giving",
+                "frame elements": null,
+                "lemma": "give",
+                "reftype": "evoke",
+                "sentence": "24"
+            },
+            "t307": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Becoming_aware",
+                "frame elements": null,
+                "lemma": "notice",
+                "reftype": "evoke",
+                "sentence": "24"
+            },
+            "t309": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Undergo_change",
+                "frame elements": null,
+                "lemma": "change",
+                "reftype": "evoke",
+                "sentence": "24"
+            },
+            "t316": {
+                "POS": "AUX",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Desirable_event",
+                "frame elements": null,
+                "lemma": "should",
+                "reftype": "evoke",
+                "sentence": "25"
+            },
+            "t318": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "come",
+                "reftype": "evoke",
+                "sentence": "25"
+            },
+            "t321": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Experiencer_obj",
+                "frame elements": null,
+                "lemma": "surprise",
+                "reftype": "evoke",
+                "sentence": "25"
+            },
+            "t332": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Appellations",
+                "frame elements": null,
+                "lemma": "President",
+                "reftype": "evoke",
+                "sentence": "26"
+            },
+            "t335": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attempt",
+                "frame elements": null,
+                "lemma": "attempt",
+                "reftype": "evoke",
+                "sentence": "26"
+            },
+            "t337": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Judgment",
+                "frame elements": [
+                    "Attempt@Goal"
+                ],
+                "lemma": "blame",
+                "reftype": "evoke",
+                "sentence": "26",
+                "target phrase": "to blame the government of Ukraine for the disaster"
+            },
+            "t350": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locale_by_use",
+                "frame elements": null,
+                "lemma": "site",
+                "reftype": "evoke",
+                "sentence": "27"
+            },
+            "t352": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "today",
+                "reftype": "evoke",
+                "sentence": "27"
+            },
+            "t367": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Contacting",
+                "frame elements": null,
+                "lemma": "call",
+                "reftype": "evoke",
+                "sentence": "27"
+            },
+            "t37": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Means",
+                "frame elements": null,
+                "lemma": "way",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t373": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Activity_stop",
+                "frame elements": null,
+                "lemma": "stop",
+                "reftype": "type",
+                "sentence": "27"
+            },
+            "t377": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": null,
+                "lemma": "do",
+                "reftype": "evoke",
+                "sentence": "27"
+            },
+            "t381": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Response",
+                "frame elements": null,
+                "lemma": "response",
+                "reftype": "evoke",
+                "sentence": "29"
+            },
+            "t385": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Referring_by_name",
+                "frame elements": null,
+                "lemma": "call",
+                "reftype": "evoke",
+                "sentence": "29"
+            },
+            "t388": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Amounting_to",
+                "frame elements": null,
+                "lemma": "total",
+                "reftype": "evoke",
+                "sentence": "29"
+            },
+            "t39": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Awareness",
+                "frame elements": null,
+                "lemma": "know",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t399": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Quitting",
+                "frame elements": null,
+                "lemma": "resign",
+                "reftype": "type",
+                "sentence": "29"
+            },
+            "t404": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "Thursday",
+                "reftype": "evoke",
+                "sentence": "29"
+            },
+            "t406": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Be_in_agreement_on_action",
+                "frame elements": null,
+                "lemma": "accord",
+                "reftype": "evoke",
+                "sentence": "29"
+            },
+            "t414": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Wealthiness",
+                "frame elements": null,
+                "lemma": "break",
+                "reftype": "evoke",
+                "sentence": "31"
+            },
+            "t416": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Self_motion",
+                "frame elements": null,
+                "lemma": "run",
+                "reftype": "evoke",
+                "sentence": "31"
+            },
+            "t42": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Judgment_communication",
+                "frame elements": null,
+                "lemma": "blame",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "t426": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Topic",
+                "frame elements": null,
+                "lemma": "cover",
+                "reftype": "evoke",
+                "sentence": "31"
+            },
+            "t432": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Awareness",
+                "frame elements": null,
+                "lemma": "know",
+                "reftype": "evoke",
+                "sentence": "32"
+            },
+            "t436": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Motion",
+                "frame elements": null,
+                "lemma": "go",
+                "reftype": "evoke",
+                "sentence": "32"
+            },
+            "t440": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "32"
+            },
+            "t448": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Similarity",
+                "frame elements": null,
+                "lemma": "similar",
+                "reftype": "evoke",
+                "sentence": "33"
+            },
+            "t55": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "day",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t56": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Time_vector",
+                "frame elements": null,
+                "lemma": "after",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t68": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "territory",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t76": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Importance",
+                "frame elements": null,
+                "lemma": "main",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t85": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_at_risk",
+                "frame elements": null,
+                "lemma": "Security",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t87": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "discussion",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t94": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Increment",
+                "frame elements": null,
+                "lemma": "other",
+                "reftype": "evoke",
+                "sentence": "5"
+            }
+        }
+    }
+}

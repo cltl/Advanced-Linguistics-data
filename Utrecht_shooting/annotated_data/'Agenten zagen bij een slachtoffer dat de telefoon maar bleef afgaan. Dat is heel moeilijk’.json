@@ -1,0 +1,271 @@
+{
+    "'Agenten zagen bij een slachtoffer dat de telefoon maar bleef afgaan. Dat is heel moeilijk\u2019": {
+        "fe's without links": {
+            "t104.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "meldkamer",
+                "frame elements": [
+                    "Mass_motion@Goal",
+                    "Reporting@Place"
+                ],
+                "function": "head",
+                "lemma": "kamer",
+                "sentence": "7",
+                "target phrase": "meldkamer"
+            },
+            "t111": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Mass_motion@Mass_theme"
+                ],
+                "lemma": "telefoon",
+                "sentence": "8",
+                "target phrase": "met telefoon"
+            },
+            "t70": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": true,
+                    "lemma": "het"
+                },
+                "frame elements": [
+                    "Contacting@Communicator"
+                ],
+                "lemma": "hoofd",
+                "sentence": "5",
+                "target phrase": "het hoofd operatie van de politie midden - nederland"
+            },
+            "t86.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "recherchechef",
+                "frame elements": [
+                    "Contacting@Addressee",
+                    "Criminal_investigation@Investigator"
+                ],
+                "function": "head",
+                "lemma": "chef",
+                "reftype": "evoke",
+                "sentence": "5",
+                "target phrase": "recherchechef"
+            },
+            "t97": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Contacting@Addressee"
+                ],
+                "lemma": "hij",
+                "sentence": "6",
+                "target phrase": "hij"
+            }
+        },
+        "frames/links": {
+            "Q1632409367599": {
+                "t6": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": false,
+                        "lemma": "een"
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Attack@Victim",
+                        "Catastrophe@Patient",
+                        "Killing@Victim",
+                        "Hit_target@Target"
+                    ],
+                    "lemma": "slachtoffer",
+                    "reftype": "evoke",
+                    "sentence": "1",
+                    "target phrase": "maar blijven afgaan bij een slachtoffer dat de telefoon"
+                }
+            },
+            "Q62090804": {
+                "t19": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event",
+                        "Killing@Cause",
+                        "Contacting@Topic",
+                        "Contacting@Topic"
+                    ],
+                    "lemma": "aanslag",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "dat zijn heel moeilijk \u2019 aanslag utrechtal"
+                },
+                "t37": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Killing",
+                    "frame elements": null,
+                    "lemma": "liquidatie",
+                    "reftype": "evoke",
+                    "sentence": "4"
+                }
+            },
+            "Q803": {}
+        },
+        "historical distance": 12,
+        "implicated fe's": [
+            "Attack@Assailant",
+            "Killing@Killer",
+            "Killing@Instrument",
+            "Hit_target@Agent",
+            "Mass_motion@Area",
+            "Reporting@Informer",
+            "Reporting@Wrongdoer",
+            "Reporting@Authorities",
+            "Reporting@Behavior",
+            "Contacting@Communicator",
+            "Contacting@Address",
+            "Contacting@Communication",
+            "Contacting@Address",
+            "Contacting@Communication",
+            "Catastrophe@Undesirable_event",
+            "Catastrophe@Patient",
+            "Team@Members",
+            "Criminal_investigation@Incident",
+            "Criminal_investigation@Suspect"
+        ],
+        "raw text": "\n'Agenten zagen bij een slachtoffer dat de telefoon maar bleef afgaan. Dat is heel moeilijk\u2019 Aanslag UtrechtAl direct heeft hij het gevoel dat er iets niet pluis is. Dit is geen gewone liquidatie, denkt Rob van Bree (41) als hij in de ochtend van 18 maart hoort dat er is geschoten in een tram op het 24 Oktoberplein in Utrecht. Het hoofd operaties van de politie Midden-Nederland pakt meteen de telefoon en belt met de recherchechef en algemeen commandant van het crisisteam. Direct daarna wordt hij zelf gebeld. ,,De meldkamer. Ze werden daar overspoeld met telefoontjes.\u2019\u2019 Dan is duidelijk dat zijn gevoel klopt. ,,Het is echt groot.\u201d Het begin van een dag die z\u2019n weerga niet kent.\n",
+        "subevents": {
+            "t104.c0": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "meldkamer",
+                "frame": "Reporting",
+                "frame elements": null,
+                "function": "modifier",
+                "lemma": "meld",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t109": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Mass_motion",
+                "frame elements": null,
+                "lemma": "overspoelen",
+                "reftype": "type",
+                "sentence": "8"
+            },
+            "t58": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hit_target",
+                "frame elements": [
+                    "Killing@Means"
+                ],
+                "lemma": "schieten",
+                "reftype": "type",
+                "sentence": "4",
+                "target phrase": "dat er zijn schieten in een tram op 24 oktoberplein utrecht"
+            },
+            "t83": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Contacting",
+                "frame elements": null,
+                "lemma": "bellen",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t86.c0": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "recherchechef",
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "function": "modifier",
+                "lemma": "recherche",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t92.c0": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "crisisteam",
+                "frame": "Catastrophe",
+                "frame elements": [
+                    "Team@Activity"
+                ],
+                "function": "modifier",
+                "lemma": "crisis",
+                "reftype": "type",
+                "sentence": "5",
+                "target phrase": "crisisteam"
+            },
+            "t92.c1": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "compound": "crisisteam",
+                "frame": "Team",
+                "frame elements": [
+                    "Team@Team"
+                ],
+                "function": "head",
+                "lemma": "team",
+                "reftype": "type",
+                "sentence": "5",
+                "target phrase": "crisisteam"
+            },
+            "t99": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Contacting",
+                "frame elements": null,
+                "lemma": "bellen",
+                "reftype": "type",
+                "sentence": "6"
+            }
+        }
+    }
+}

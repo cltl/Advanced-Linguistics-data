@@ -1,0 +1,969 @@
+{
+    "Air India flight with 126 on board was right behind MH 17": {
+        "fe's without links": {
+            "t188": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Avoiding@Agent"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "10",
+                "target phrase": "-PRON-"
+            },
+            "t233": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Using@Agent"
+                ],
+                "lemma": "airline",
+                "sentence": "12",
+                "target phrase": "many airline"
+            },
+            "t236": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Using@Instrument"
+                ],
+                "lemma": "it.\"also",
+                "sentence": "12",
+                "target phrase": "it.\"also"
+            },
+            "t237": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Opinion@Cognizer"
+                ],
+                "lemma": "airline",
+                "sentence": "12",
+                "target phrase": "airline and pilot"
+            },
+            "t256": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Opinion@Opinion"
+                ],
+                "lemma": "be",
+                "sentence": "12",
+                "target phrase": "that once -PRON- be 33,000 foot over , -PRON- be in a different world have"
+            },
+            "t282": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Breaking_apart@Whole"
+                ],
+                "lemma": "myth",
+                "sentence": "13",
+                "target phrase": "that myth"
+            }
+        },
+        "frames/links": {
+            "Q1631864271612": {
+                "t105": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Vehicle",
+                    "frame elements": [
+                        "Possession@Owner"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "5",
+                    "target phrase": "both the plane"
+                },
+                "t21": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "Malaysia",
+                    "sentence": "3",
+                    "target phrase": "Malaysia"
+                },
+                "t84": {
+                    "POS": "ADV",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Medical_conditions",
+                    "frame elements": null,
+                    "lemma": "ill",
+                    "reftype": "evoke",
+                    "sentence": "4"
+                }
+            },
+            "Q1636580448374": {
+                "t148": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hostile_encounter@Side_1",
+                        "Hostile_encounter@Side_1",
+                        "Hostile_encounter@Side_1"
+                    ],
+                    "lemma": "Ukraine",
+                    "sentence": "8",
+                    "target phrase": "Ukraine 's"
+                },
+                "t193": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Avoiding@Undesirable_situation"
+                    ],
+                    "lemma": "Ukraine",
+                    "sentence": "10",
+                    "target phrase": "Ukraine"
+                }
+            },
+            "Q17374096": {
+                "mw1": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "3"
+                },
+                "t187": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Attack",
+                    "frame elements": null,
+                    "lemma": "attack",
+                    "reftype": "evoke",
+                    "sentence": "10"
+                },
+                "t346": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Calendric_unit",
+                    "frame elements": null,
+                    "lemma": "Thursday",
+                    "reftype": "evoke",
+                    "sentence": "16"
+                }
+            }
+        },
+        "historical distance": 1,
+        "implicated fe's": [
+            "Hostile_encounter@Side_2",
+            "Hostile_encounter@Issue",
+            "Hostile_encounter@Purpose",
+            "Attack@Victim",
+            "Attack@Assailant",
+            "Hostile_encounter@Side_2",
+            "Hostile_encounter@Issue",
+            "Hostile_encounter@Purpose",
+            "Downing@Cause",
+            "Hostile_encounter@Side_2",
+            "Hostile_encounter@Issue",
+            "Hostile_encounter@Purpose",
+            "Using@Purpose",
+            "Breaking_apart@Pieces"
+        ],
+        "raw text": "Air India flight with 126 on board was right behind MH 17.\n\nREAD ALSO: NEW DELHI: When Malaysia Airlines' MH 17 was shot down over Ukraine on Thursday night, an Air India flight with 126 passengers was right behind it. The flight, AI 113 en route from Birmingham to Delhi, and a Singapore Airlines flight flying home from Copenhagen were both about 25 to 50 nautical miles (40 to 80 km) behind the ill-fated Malaysian Boeing 777.This gap, say pilots, is covered in less than five minutes. Both the planes clearly had a narrow escape.A senior AI official, however, said that the Dreamliner operating as AI 113 was to take a different route. \"AI director (operations) SPS Suri had issued a directive to avoid Ukraine's conflict zone ever since hostilities broke out in the region. We were taking a route that did not fly over the worst affected area that has been recognized as the conflict zone. But after the attack we have decided to avoid Ukraine completely,\" said an official.Several international agencies had warned airlines against flying over Ukraine due to constant raging battle there. But this country is on straight path between western Europe and southeast Asia and many airline continued using it.\"Also airlines and pilots have long held this belief that once they are 33,000 feet over ground level, they are in a different world that has its own ecosystem, its own risks but no danger from the ground. MH 17 has shattered that myth forever,\" said a senior commander.Till now, pilots used to be doubly careful while flying over Iraq, Afghanistan and Pakistan. They expect their airlines or en route air traffic controls to inform them of trouble in those regions so that they can divert. But such fears did not exist over Europe, at least till Terrible Thursday.\n",
+        "subevents": {
+            "t101": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Measure_duration",
+                "frame elements": null,
+                "lemma": "minute",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t107": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Possession",
+                "frame elements": null,
+                "lemma": "have",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t109": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Margin_of_resolution",
+                "frame elements": null,
+                "lemma": "narrow",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t110": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Departing",
+                "frame elements": [
+                    "Possession@Possession"
+                ],
+                "lemma": "escape",
+                "reftype": "evoke",
+                "sentence": "5",
+                "target phrase": "a narrow escape"
+            },
+            "t113": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Subordinates_and_superiors",
+                "frame elements": null,
+                "lemma": "senior",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t115": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "official",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t119": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t131": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Similarity",
+                "frame elements": null,
+                "lemma": "different",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t132": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Roadways",
+                "frame elements": [
+                    "Using@Role"
+                ],
+                "lemma": "route",
+                "reftype": "evoke",
+                "sentence": "6",
+                "target phrase": "a different route"
+            },
+            "t136": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "director",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t138": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Businesses",
+                "frame elements": null,
+                "lemma": "operation",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t143": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Creating",
+                "frame elements": null,
+                "lemma": "issue",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t147": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Avoiding",
+                "frame elements": null,
+                "lemma": "avoid",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t150": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "conflict",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t151": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locale",
+                "frame elements": null,
+                "lemma": "zone",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t154": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "hostility",
+                "reftype": "type",
+                "sentence": "8"
+            },
+            "t159": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locale",
+                "frame elements": null,
+                "lemma": "region",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t163": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Taking_time",
+                "frame elements": null,
+                "lemma": "take",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t165": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Roadways",
+                "frame elements": null,
+                "lemma": "route",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t170": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Proportional_quantity",
+                "frame elements": null,
+                "lemma": "over",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t173": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Objective_influence",
+                "frame elements": null,
+                "lemma": "affected",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t174": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locale",
+                "frame elements": null,
+                "lemma": "area",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t178": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Becoming_aware",
+                "frame elements": null,
+                "lemma": "recognize",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t181": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "conflict",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t182": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locale",
+                "frame elements": null,
+                "lemma": "zone",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t190": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Deciding",
+                "frame elements": null,
+                "lemma": "decide",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t192": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Avoiding",
+                "frame elements": null,
+                "lemma": "avoid",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t197": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t199": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "official",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t202": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Political_locales",
+                "frame elements": null,
+                "lemma": "international",
+                "reftype": "evoke",
+                "sentence": "11"
+            },
+            "t215": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "battle",
+                "reftype": "evoke",
+                "sentence": "11"
+            },
+            "t216": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locative_relation",
+                "frame elements": null,
+                "lemma": "there",
+                "reftype": "evoke",
+                "sentence": "11"
+            },
+            "t235": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Using",
+                "frame elements": null,
+                "lemma": "use",
+                "reftype": "type",
+                "sentence": "12"
+            },
+            "t244": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Opinion",
+                "frame elements": null,
+                "lemma": "belief",
+                "reftype": "type",
+                "sentence": "12"
+            },
+            "t280": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Breaking_apart",
+                "frame elements": null,
+                "lemma": "shatter",
+                "reftype": "type",
+                "sentence": "13"
+            },
+            "t286": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t288": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Subordinates_and_superiors",
+                "frame elements": null,
+                "lemma": "senior",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t289": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Leadership",
+                "frame elements": null,
+                "lemma": "commander",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t295": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Using",
+                "frame elements": null,
+                "lemma": "use",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t310": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Expectation",
+                "frame elements": null,
+                "lemma": "expect",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t315": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Roadways",
+                "frame elements": null,
+                "lemma": "route",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t318": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_in_control",
+                "frame elements": null,
+                "lemma": "control",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t32": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "Thursday",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t320": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Telling",
+                "frame elements": null,
+                "lemma": "inform",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t323": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Predicament",
+                "frame elements": null,
+                "lemma": "trouble",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t326": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locale",
+                "frame elements": null,
+                "lemma": "region",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t33": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Calendric_unit",
+                "frame elements": null,
+                "lemma": "night",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t330": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Capability",
+                "frame elements": null,
+                "lemma": "can",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t331": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_to_experience",
+                "frame elements": null,
+                "lemma": "divert",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t335": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Fear",
+                "frame elements": null,
+                "lemma": "fear",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t338": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Existence",
+                "frame elements": null,
+                "lemma": "exist",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t339": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Proportional_quantity",
+                "frame elements": null,
+                "lemma": "over",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t38": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Fleeing",
+                "frame elements": null,
+                "lemma": "flight",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t48": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Fleeing",
+                "frame elements": null,
+                "lemma": "flight",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t53": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Roadways",
+                "frame elements": null,
+                "lemma": "route",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t63": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Fleeing",
+                "frame elements": null,
+                "lemma": "flight",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t64": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Motion",
+                "frame elements": null,
+                "lemma": "fly",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t65": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Buildings",
+                "frame elements": null,
+                "lemma": "home",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t70": {
+                "POS": "ADP",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Topic",
+                "frame elements": null,
+                "lemma": "about",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t75": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Measure_linear_extent",
+                "frame elements": null,
+                "lemma": "mile",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t92": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t96": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Topic",
+                "frame elements": null,
+                "lemma": "cover",
+                "reftype": "evoke",
+                "sentence": "4"
+            }
+        }
+    }
+}
