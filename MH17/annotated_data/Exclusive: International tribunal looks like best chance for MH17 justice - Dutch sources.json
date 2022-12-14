@@ -1,0 +1,1641 @@
+{
+    "Exclusive: International tribunal looks like best chance for MH17 justice - Dutch sources": {
+        "fe's without links": {
+            "t123": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Trial@Court"
+                ],
+                "lemma": "court",
+                "reftype": "evoke",
+                "sentence": "7",
+                "target phrase": "a u.n.-style court"
+            },
+            "t131": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Attempt_suasion@Speaker"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "7",
+                "target phrase": "-PRON-"
+            },
+            "t145": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Attempt_suasion@Content",
+                    "Point_of_dispute@Question"
+                ],
+                "lemma": "cooperating",
+                "sentence": "7",
+                "target phrase": "cooperating"
+            },
+            "t187": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Opinion@Cognizer"
+                ],
+                "lemma": "public",
+                "sentence": "9",
+                "target phrase": "a public who mostly believe Russia either plane or supply"
+            },
+            "t200": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Supply@Theme"
+                ],
+                "lemma": "rocket",
+                "sentence": "9",
+                "target phrase": "the rocket"
+            },
+            "t22": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Suspicion@Authority",
+                    "Trial@Prosecution",
+                    "Notification_of_charges@Arraign_authority"
+                ],
+                "lemma": "Netherlands",
+                "sentence": "4",
+                "target phrase": "the Netherlands"
+            },
+            "t244": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Trial@Court",
+                    "Creating@Created_entity"
+                ],
+                "lemma": "court",
+                "reftype": "evoke",
+                "sentence": "10",
+                "target phrase": "an international court back by Council"
+            },
+            "t30": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Trial@Court",
+                    "Trial@Court",
+                    "Trial@Court"
+                ],
+                "lemma": "tribunal",
+                "sentence": "4",
+                "target phrase": "an international tribunal to prosecute those suspect"
+            },
+            "t33": {
+                "POS": "DET",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Suspicion@Suspect",
+                    "Criminal_investigation@Suspect",
+                    "Notification_of_charges@Accused",
+                    "Downing@Agent",
+                    "Killing@Killer",
+                    "Criminal_investigation@Suspect",
+                    "Trial@Defendant",
+                    "Downing@Agent",
+                    "Downing@Agent",
+                    "Downing@Agent",
+                    "Trial@Defendant"
+                ],
+                "lemma": "those",
+                "sentence": "4",
+                "target phrase": "those suspect of down"
+            },
+            "t414": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Ride_vehicle@Goal",
+                    "Ride_vehicle@Goal"
+                ],
+                "lemma": "Malaysia",
+                "sentence": "19",
+                "target phrase": "Malaysia , the flight \u2019s destination"
+            },
+            "t45": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Ride_vehicle@Area",
+                    "Bringing@Goal",
+                    "Ride_vehicle@Area"
+                ],
+                "lemma": "Ukraine",
+                "sentence": "4",
+                "target phrase": "rebel - hold eastern Ukraine"
+            },
+            "t474": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Notification_of_charges@Arraign_authority",
+                    "Trial@Prosecution",
+                    "Trial@Prosecution",
+                    "Trial@Prosecution",
+                    "Trial@Prosecution"
+                ],
+                "lemma": "prosecutor",
+                "sentence": "21",
+                "target phrase": "dutch prosecutor"
+            },
+            "t487": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Investigator"
+                ],
+                "lemma": "Dutch",
+                "reftype": "evoke",
+                "sentence": "21",
+                "target phrase": "Dutch"
+            },
+            "t529": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Impact@Impactor",
+                    "Shoot_projectiles@Projectile",
+                    "Killing@Instrument",
+                    "Downing@Cause"
+                ],
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "22",
+                "target phrase": "a Russian - build BUK surface - to - air missile fire from area"
+            },
+            "t533": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Control@Dependent_entity"
+                ],
+                "lemma": "area",
+                "reftype": "evoke",
+                "sentence": "22",
+                "target phrase": "an area hold by force"
+            },
+            "t555": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Investigator",
+                    "Suspicion@Authority",
+                    "Criminal_investigation@Investigator"
+                ],
+                "lemma": "Joint",
+                "sentence": "25",
+                "target phrase": "Joint"
+            },
+            "t565": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Rebellion@Current_leadership"
+                ],
+                "lemma": "Ukraine",
+                "sentence": "25",
+                "target phrase": "Ukraine , Malaysia , Australia and \u2014"
+            },
+            "t610": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Downing@Agent"
+                ],
+                "lemma": "rebel",
+                "reftype": "evoke",
+                "sentence": "26",
+                "target phrase": "the rebel"
+            },
+            "t613": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Catastrophe@Patient",
+                    "Downing@Patient"
+                ],
+                "lemma": "MH17",
+                "sentence": "26",
+                "target phrase": "MH17"
+            },
+            "t619": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Theme"
+                ],
+                "lemma": "system",
+                "reftype": "evoke",
+                "sentence": "26",
+                "target phrase": "an advanced BUK missile system that be transport from territory shortly before incident"
+            },
+            "t625": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Source"
+                ],
+                "lemma": "territory",
+                "reftype": "evoke",
+                "sentence": "26",
+                "target phrase": "russian territory"
+            },
+            "t637": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Notification_of_charges@Accused"
+                ],
+                "lemma": "national",
+                "reftype": "evoke",
+                "sentence": "27",
+                "target phrase": "russian national"
+            },
+            "t684": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Downing@Cause",
+                    "Shoot_projectiles@Projectile"
+                ],
+                "lemma": "rocket",
+                "sentence": "28",
+                "target phrase": "a rocket fire from jet"
+            },
+            "t698": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Relation@Entity_2"
+                ],
+                "lemma": "West",
+                "sentence": "29",
+                "target phrase": "the West"
+            },
+            "t717": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Collaboration@Undertaking"
+                ],
+                "lemma": "trial",
+                "reftype": "evoke",
+                "sentence": "29",
+                "target phrase": "any trial hold in West"
+            },
+            "t721": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Collaboration@Partner_2"
+                ],
+                "lemma": "West",
+                "reftype": "evoke",
+                "sentence": "29",
+                "target phrase": "the West"
+            },
+            "t743": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Suasion@Content"
+                ],
+                "lemma": "acquiesce",
+                "sentence": "30",
+                "target phrase": "either to acquiesce or to use -PRON- veto and risk see in killing"
+            },
+            "t748": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Using@Instrument"
+                ],
+                "lemma": "veto",
+                "sentence": "30",
+                "target phrase": "-PRON- veto and risk be see as obstacle"
+            },
+            "t752": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Run_risk@Bad_outcome"
+                ],
+                "lemma": "see",
+                "reftype": "evoke",
+                "sentence": "30",
+                "target phrase": "be see as the main obstacle to"
+            },
+            "t770": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Agree_or_refuse_to_act@Proposed_action",
+                    "Agree_or_refuse_to_act@Proposed_action"
+                ],
+                "lemma": "back",
+                "sentence": "31",
+                "target phrase": "to back a tribunal"
+            },
+            "t775": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Agree_or_refuse_to_act@Interlocutor"
+                ],
+                "lemma": "Netherlands",
+                "sentence": "31",
+                "target phrase": "the Netherlands"
+            },
+            "t797": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Taking_sides@Action"
+                ],
+                "lemma": "annexation",
+                "sentence": "31",
+                "target phrase": "Russia \u2019s annexation of Crimea from Ukraine"
+            },
+            "t894": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Suspicion@Authority",
+                    "Taking_captive@Agent"
+                ],
+                "lemma": "Dutch",
+                "reftype": "evoke",
+                "sentence": "38",
+                "target phrase": "the Dutch"
+            }
+        },
+        "frames/links": {
+            "Q159": {
+                "t134": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Attempt_suasion@Addressee"
+                    ],
+                    "lemma": "Russia",
+                    "sentence": "7",
+                    "target phrase": "Russia , whose role in be critical"
+                },
+                "t140": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Process",
+                    "frame elements": null,
+                    "lemma": "process",
+                    "reftype": "evoke",
+                    "sentence": "7"
+                },
+                "t191": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Supply@Supplier",
+                        "Downing@Agent"
+                    ],
+                    "lemma": "Russia",
+                    "sentence": "9",
+                    "target phrase": "Russia"
+                },
+                "t358": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Subjective_influence@Agent",
+                        "Affirm_or_deny@Speaker",
+                        "Rebellion@Current_leadership",
+                        "Emotion_directed@Experiencer"
+                    ],
+                    "lemma": "government",
+                    "reftype": "evoke",
+                    "sentence": "17",
+                    "target phrase": "the russian government , which sympathize with and influence -PRON- but strenuously deny involvement"
+                },
+                "t361": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Emotion_directed",
+                    "frame elements": null,
+                    "lemma": "sympathize",
+                    "reftype": "type",
+                    "sentence": "17"
+                },
+                "t364": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Subjective_influence",
+                    "frame elements": null,
+                    "lemma": "influence",
+                    "reftype": "type",
+                    "sentence": "17"
+                },
+                "t365": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Subjective_influence@Cognizer",
+                        "Emotion_directed@Stimulus"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "17",
+                    "target phrase": "-PRON-"
+                },
+                "t368": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Affirm_or_deny",
+                    "frame elements": null,
+                    "lemma": "deny",
+                    "reftype": "evoke",
+                    "sentence": "17"
+                },
+                "t369": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Affirm_or_deny@Message"
+                    ],
+                    "lemma": "involvement",
+                    "reftype": "evoke",
+                    "sentence": "17",
+                    "target phrase": "involvement in the incident or rebellion"
+                },
+                "t372": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Affirm_or_deny@Topic",
+                        "Emotion_directed@Topic"
+                    ],
+                    "lemma": "incident",
+                    "reftype": "evoke",
+                    "sentence": "17",
+                    "target phrase": "the incident or the rebellion"
+                },
+                "t375": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": null,
+                    "lemma": "rebellion",
+                    "reftype": "type",
+                    "sentence": "17"
+                },
+                "t663": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Statement@Speaker"
+                    ],
+                    "lemma": "Russia",
+                    "sentence": "28",
+                    "target phrase": "Russia for -PRON- part"
+                },
+                "t695": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Relation@Entity_1"
+                    ],
+                    "lemma": "Russia",
+                    "sentence": "29",
+                    "target phrase": "Russia and the West"
+                },
+                "t708": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Collaboration@Partner_1"
+                    ],
+                    "lemma": "Moscow",
+                    "sentence": "29",
+                    "target phrase": "Moscow"
+                },
+                "t737": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Suasion@Addressee",
+                        "Using@Agent",
+                        "Run_risk@Protagonist"
+                    ],
+                    "lemma": "Russia",
+                    "sentence": "30",
+                    "target phrase": "Russia"
+                },
+                "t767": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Agree_or_refuse_to_act@Speaker"
+                    ],
+                    "lemma": "Moscow",
+                    "sentence": "31",
+                    "target phrase": "Moscow"
+                },
+                "t795": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Taking_sides@Cognizer"
+                    ],
+                    "lemma": "Russia",
+                    "sentence": "31",
+                    "target phrase": "Russia"
+                }
+            },
+            "Q1631025548534": {
+                "t150": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Dead_or_alive",
+                    "frame elements": null,
+                    "lemma": "dead",
+                    "reftype": "evoke",
+                    "sentence": "8"
+                },
+                "t151": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Ride_vehicle",
+                    "frame elements": [
+                        "Dead_or_alive@Protagonist",
+                        "Catastrophe@Patient",
+                        "Ride_vehicle@Theme",
+                        "Ride_vehicle@Theme"
+                    ],
+                    "lemma": "passenger",
+                    "reftype": "evoke",
+                    "sentence": "8",
+                    "target phrase": "the 298 dead passenger and crew on Airlines flight MH17"
+                },
+                "t764": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Killing@Victim"
+                    ],
+                    "lemma": "civilian",
+                    "sentence": "30",
+                    "target phrase": "civilian"
+                }
+            },
+            "Q1631864085791": {
+                "t202": {
+                    "POS": "DET",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Supply@Recipient"
+                    ],
+                    "lemma": "those",
+                    "sentence": "9",
+                    "target phrase": "those who do"
+                },
+                "t349": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Trial@Defendant",
+                        "Rebellion@Rebel",
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "17",
+                    "target phrase": "the pro - russian rebel"
+                },
+                "t539": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Shoot_projectiles@Agent",
+                        "Control@Controlling_entity"
+                    ],
+                    "lemma": "force",
+                    "reftype": "evoke",
+                    "sentence": "22",
+                    "target phrase": "pro - russian force"
+                },
+                "t809": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel",
+                        "Taking_sides@Side"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "31",
+                    "target phrase": "the rebel"
+                }
+            },
+            "Q1631864271612": {
+                "t196": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Catastrophe@Patient",
+                        "Downing@Patient"
+                    ],
+                    "lemma": "plane",
+                    "sentence": "9",
+                    "target phrase": "the plane"
+                },
+                "t39": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Ride_vehicle@Vehicle",
+                        "Downing@Patient",
+                        "Ride_vehicle@Vehicle"
+                    ],
+                    "lemma": "airliner",
+                    "reftype": "evoke",
+                    "sentence": "4",
+                    "target phrase": "a malaysian airliner over hold eastern Ukraine"
+                },
+                "t397": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "airliner",
+                    "sentence": "18",
+                    "target phrase": "a civilian airliner"
+                },
+                "t498": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Impact@Impactee",
+                        "Downing@Patient"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "21",
+                    "target phrase": "the plane"
+                },
+                "t514": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "plane",
+                    "sentence": "22",
+                    "target phrase": "the plane"
+                },
+                "t679": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "airliner",
+                    "sentence": "28",
+                    "target phrase": "the airliner"
+                },
+                "t72": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "Malaysia",
+                    "sentence": "5",
+                    "target phrase": "Malaysia"
+                }
+            },
+            "Q1636580448374": {
+                "t675": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Affirm_or_deny@Speaker"
+                    ],
+                    "lemma": "Kiev",
+                    "sentence": "28",
+                    "target phrase": "Kiev"
+                },
+                "t801": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Rebellion@Current_leadership"
+                    ],
+                    "lemma": "Ukraine",
+                    "sentence": "31",
+                    "target phrase": "Ukraine"
+                }
+            },
+            "Q17374096": {
+                "mw1": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event",
+                        "Opinion@Opinion",
+                        "Supply@Imposed_purpose"
+                    ],
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "9",
+                    "target phrase": "shoot down"
+                },
+                "mw2": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "22"
+                },
+                "t171": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": null,
+                    "lemma": "disaster",
+                    "reftype": "evoke",
+                    "sentence": "9"
+                },
+                "t36": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Suspicion@Incident",
+                        "Criminal_investigation@Incident",
+                        "Suspicion@Incident",
+                        "Trial@Charges",
+                        "Catastrophe@Undesirable_event",
+                        "Notification_of_charges@Charges",
+                        "Suasion@Topic",
+                        "Killing@Means",
+                        "Criminal_investigation@Incident",
+                        "Suspicion@Incident",
+                        "Trial@Charges",
+                        "Trial@Charges",
+                        "Trial@Charges",
+                        "Trial@Charges"
+                    ],
+                    "lemma": "down",
+                    "reftype": "type",
+                    "sentence": "4",
+                    "target phrase": "down a malaysian airliner over Ukraine last year"
+                },
+                "t372": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Affirm_or_deny@Topic",
+                        "Emotion_directed@Topic"
+                    ],
+                    "lemma": "incident",
+                    "reftype": "evoke",
+                    "sentence": "17",
+                    "target phrase": "the incident or the rebellion"
+                },
+                "t393": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "downing",
+                    "reftype": "type",
+                    "sentence": "18"
+                },
+                "t397": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "airliner",
+                    "sentence": "18",
+                    "target phrase": "a civilian airliner"
+                },
+                "t469": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Impact",
+                    "frame elements": [
+                        "Criminal_investigation@Incident"
+                    ],
+                    "lemma": "crash",
+                    "reftype": "evoke",
+                    "sentence": "21",
+                    "target phrase": "the crash"
+                },
+                "t500": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Notification_of_charges@Charges"
+                    ],
+                    "lemma": "down",
+                    "reftype": "type",
+                    "sentence": "21",
+                    "target phrase": "how the plane be down"
+                },
+                "t681": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Affirm_or_deny@Message",
+                        "Statement@Message"
+                    ],
+                    "lemma": "down",
+                    "reftype": "type",
+                    "sentence": "28",
+                    "target phrase": "that the airliner be down by a rocket fire"
+                }
+            }
+        },
+        "historical distance": 342,
+        "implicated fe's": [
+            "Attempt_suasion@Medium",
+            "Attempt_suasion@Salient_entity",
+            "Dead_or_alive@Figure",
+            "Trial@Defense",
+            "Trial@Judge",
+            "Subjective_influence@Behavior",
+            "Affirm_or_deny@Medium",
+            "Ride_vehicle@Source",
+            "Ride_vehicle@Path",
+            "Bringing@Agent",
+            "Bringing@Path",
+            "Bringing@Area",
+            "Bringing@Carrier",
+            "Affirm_or_deny@Medium",
+            "Affirm_or_deny@Topic",
+            "Shoot_projectiles@Agent",
+            "Relation@Relation_type",
+            "Suasion@Speaker",
+            "Suasion@Text",
+            "Using@Purpose",
+            "Run_risk@Asset",
+            "Run_risk@Action",
+            "Trial@Defense",
+            "Trial@Judge",
+            "Trial@Judge",
+            "Trial@Defense",
+            "Trial@Judge",
+            "Trial@Defense",
+            "Ride_vehicle@Source",
+            "Ride_vehicle@Path",
+            "Trial@Defense",
+            "Trial@Judge",
+            "Emotion_directed@Expressor",
+            "Statement@Topic",
+            "Statement@Medium",
+            "Taking_sides@Issue",
+            "Control@Degree"
+        ],
+        "raw text": "Exclusive: International tribunal looks like best chance for MH17 justice - Dutch sources.\nAMSTERDAM (Reuters) - The Netherlands is discussing with its allies an international tribunal to prosecute those suspected of downing a Malaysian airliner over rebel-held eastern Ukraine last year, sources familiar with the discussions have told Reuters. A teddy bear is placed next to wreckage at the site of the downed Malaysia Airlines flight MH17, near the village of Hrabove (Grabovo) in Donetsk region, eastern Ukraine September 9, 2014. REUTERS/Marko Djurica The chance of a successful prosecution is considered slim at best but the Dutch still hope that, by pushing for a U.N.-style court with the backing of Western allies, they could pressure Russia, whose role in the process is critical, into cooperating. Of the 298 dead passengers and crew on Malaysia Airlines flight MH17, two-thirds were Dutch. With the anniversary of the disaster looming on July 17, the government is under intense pressure to act from a public who mostly believe Russia either shot down the plane or supplied the rocket to those who did. Two sources in the Netherlands, who spoke on condition of anonymity because of the sensitivity of the issue, said the legal and political complexities of the case had persuaded it to focus on creating an international court backed by the U.N. Security Council, once a multinational investigation finishes and suspects are named. Asked about the plan, a high-level Dutch government official who also declined to be named told Reuters: \u201cA U.N. tribunal is the best option. We expect that it will provide the greatest chance of cooperation from all countries involved.\u201d Kremlin spokesman Dmitry Peskov was quoted by the TASS news agency on Wednesday as telling journalists he could not comment on media reports. A trial in Ukraine itself appears a non-starter, since the pro-Russian rebels are as unlikely to attend as the Russian government, which sympathizes with and influences them but strenuously denies involvement in the incident or the rebellion. And, while Dutch law provides a form of universal jurisdiction for war crimes, the downing of a civilian airliner during a civil war, possibly by mistake, is not a good legal fit. Malaysia, the flight\u2019s destination, is even farther from the crime scene. Other legal options are still being considered, the sources said, but an international tribunal, rather than a domestic court, is seen as providing the greatest chance of success. For now, the investigation into the crash continues, and Dutch prosecutors have said they do not expect to issue indictments until after the Dutch Safety Board releases a report in October detailing how the plane was downed. But the prosecutors have narrowed their focus to the theory that the plane was shot down by a Russian-built BUK surface-to-air missile fired from an area held by pro-Russian forces. INVESTIGATORS AT THE SCENE After recovering human remains and wreckage, experts from the Joint Investigative Team \u2014 comprising members from the Netherlands, Ukraine, Malaysia, Australia and Britain \u2014 returned to the crash site on June 15 to \u201cgather evidence to support or eliminate various scenarios\u201d. Experts have cited radio intercepts, photo and video material and satellite imagery as evidence that the rebels shot down MH17 with an advanced BUK missile system that was transported from Russian territory shortly before the incident. This raises the possibility that Russian nationals could be named in the indictment; the Dutch have not named anyone but say they are looking at all possible avenues of inquiry. Russia for its part has put forward a scenario, denied by Kiev, that the airliner was downed by a rocket fired from a Ukrainian fighter jet. With relations between Russia and the West at their lowest ebb since the Cold War, Moscow might have little interest in cooperating with any trial held in the West. But since an international court would require backing from the U.N. Security Council, Russia would be forced either to acquiesce or to use its veto and risk being seen as the main obstacle to justice in a mass killing of civilians. If Moscow refused to back a tribunal, the Netherlands could push for further economic sanctions beyond those already imposed by the European Union and the United States over Russia\u2019s annexation of Crimea from Ukraine last year and its support for the rebels, one diplomatic source said. Holding the EU presidency in the first half of 2016 would give The Hague extra leverage. Dutch Foreign Minister Bert Koenders met his Russian counterpart Sergei Lavrov on June 6 for talks about the criminal investigation. \u201cThey are not easy discussions because we disagree on a lot of points. But they are discussions we have to have,\u201d Koenders said at the time. Slideshow (4 Images) The sources said the Dutch would like the court to be based in the Netherlands, although details of which law would apply and how the suspects would be captured and tried had yet to be worked out. The closest analogy might be the 1988 Lockerbie bombing, when Pan Am flight 103 was blown out of the sky over Scotland, killing all 243 people onboard. Two Libyan secret service agents were handed over by Libya\u2019s late leader Muammar Gaddafi under the pressure of broad economic sanctions. They were put on trial in the Netherlands under Scottish law, and one was convicted.",
+        "subevents": {
+            "mw3": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Downing",
+                "frame elements": [
+                    "Catastrophe@Undesirable_event"
+                ],
+                "lemma": "shoot down",
+                "reftype": "type",
+                "sentence": "26",
+                "target phrase": "shoot down"
+            },
+            "mw4": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "put forward",
+                "reftype": "type",
+                "sentence": "28"
+            },
+            "t105": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Trial",
+                "frame elements": null,
+                "lemma": "prosecution",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t133": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attempt_suasion",
+                "frame elements": null,
+                "lemma": "pressure",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t190": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Opinion",
+                "frame elements": null,
+                "lemma": "believe",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t198": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Supply",
+                "frame elements": null,
+                "lemma": "supply",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t224": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Point_of_dispute",
+                "frame elements": null,
+                "lemma": "issue",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t234": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Trial",
+                "frame elements": [
+                    "Trial@Case",
+                    "Trial@Case",
+                    "Trial@Case",
+                    "Trial@Case",
+                    "Trial@Case",
+                    "Creating@Cause"
+                ],
+                "lemma": "case",
+                "reftype": "type",
+                "sentence": "10",
+                "target phrase": "the case"
+            },
+            "t241": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Creating",
+                "frame elements": null,
+                "lemma": "create",
+                "reftype": "type",
+                "sentence": "10"
+            },
+            "t255": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "10"
+            },
+            "t258": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Suspicion",
+                "frame elements": [
+                    "Criminal_investigation@Suspect",
+                    "Suspicion@Suspect",
+                    "Trial@Defendant"
+                ],
+                "lemma": "suspect",
+                "reftype": "evoke",
+                "sentence": "10",
+                "target phrase": "suspect"
+            },
+            "t32": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Trial",
+                "frame elements": [
+                    "Attempt_suasion@Topic",
+                    "Process@Process"
+                ],
+                "lemma": "prosecute",
+                "reftype": "type",
+                "sentence": "4",
+                "target phrase": "to prosecute those suspect of"
+            },
+            "t334": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Trial",
+                "frame elements": null,
+                "lemma": "trial",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t34": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Suspicion",
+                "frame elements": null,
+                "lemma": "suspect",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "t417": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Ride_vehicle",
+                "frame elements": null,
+                "lemma": "flight",
+                "reftype": "type",
+                "sentence": "19"
+            },
+            "t466": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "21"
+            },
+            "t483": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Notification_of_charges",
+                "frame elements": null,
+                "lemma": "indictment",
+                "reftype": "evoke",
+                "sentence": "21"
+            },
+            "t530": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": null,
+                "lemma": "fire",
+                "reftype": "evoke",
+                "sentence": "22"
+            },
+            "t534": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Control",
+                "frame elements": null,
+                "lemma": "hold",
+                "reftype": "type",
+                "sentence": "22"
+            },
+            "t622": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bringing",
+                "frame elements": null,
+                "lemma": "transport",
+                "reftype": "evoke",
+                "sentence": "26"
+            },
+            "t629": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Catastrophe",
+                "frame elements": null,
+                "lemma": "incident",
+                "reftype": "evoke",
+                "sentence": "26"
+            },
+            "t643": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Notification_of_charges",
+                "frame elements": null,
+                "lemma": "indictment",
+                "reftype": "evoke",
+                "sentence": "27"
+            },
+            "t673": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Affirm_or_deny",
+                "frame elements": null,
+                "lemma": "deny",
+                "reftype": "evoke",
+                "sentence": "28"
+            },
+            "t685": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": null,
+                "lemma": "fire",
+                "reftype": "evoke",
+                "sentence": "28"
+            },
+            "t693": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Relation",
+                "frame elements": null,
+                "lemma": "relation",
+                "reftype": "evoke",
+                "sentence": "29"
+            },
+            "t71": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Downing",
+                "frame elements": null,
+                "lemma": "down",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t714": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Collaboration",
+                "frame elements": null,
+                "lemma": "cooperate",
+                "reftype": "type",
+                "sentence": "29"
+            },
+            "t740": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Suasion",
+                "frame elements": null,
+                "lemma": "force",
+                "reftype": "type",
+                "sentence": "30"
+            },
+            "t746": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Using",
+                "frame elements": null,
+                "lemma": "use",
+                "reftype": "evoke",
+                "sentence": "30"
+            },
+            "t750": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Run_risk",
+                "frame elements": null,
+                "lemma": "risk",
+                "reftype": "type",
+                "sentence": "30"
+            },
+            "t762": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Killing",
+                "frame elements": null,
+                "lemma": "killing",
+                "reftype": "evoke",
+                "sentence": "30"
+            },
+            "t768": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Agree_or_refuse_to_act",
+                "frame elements": null,
+                "lemma": "refuse",
+                "reftype": "evoke",
+                "sentence": "31"
+            },
+            "t806": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Taking_sides",
+                "frame elements": null,
+                "lemma": "support",
+                "reftype": "type",
+                "sentence": "31"
+            },
+            "t852": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "33"
+            },
+            "t916": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Suspicion",
+                "frame elements": [
+                    "Suspicion@Suspect",
+                    "Taking_captive@Captive",
+                    "Trial@Defendant"
+                ],
+                "lemma": "suspect",
+                "reftype": "evoke",
+                "sentence": "38",
+                "target phrase": "the suspect"
+            },
+            "t919": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Taking_captive",
+                "frame elements": null,
+                "lemma": "capture",
+                "reftype": "type",
+                "sentence": "38"
+            },
+            "t921": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Trial",
+                "frame elements": null,
+                "lemma": "try",
+                "reftype": "type",
+                "sentence": "38"
+            }
+        }
+    }
+}

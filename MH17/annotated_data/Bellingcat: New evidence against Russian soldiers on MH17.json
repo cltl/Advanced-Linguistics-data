@@ -1,0 +1,1051 @@
+{
+    "Bellingcat: New evidence against Russian soldiers on MH17": {
+        "fe's without links": {
+            "t109": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Verification@Medium"
+                ],
+                "lemma": "film",
+                "reftype": "evoke",
+                "sentence": "6",
+                "target phrase": "that be film by various russian citizen between June 23 and June"
+            },
+            "t126": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Convoy@Cargo"
+                ],
+                "lemma": "launcher",
+                "sentence": "7",
+                "target phrase": "that missile launcher"
+            },
+            "t132": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Verification@Inspector"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "8",
+                "target phrase": "-PRON-"
+            },
+            "t137": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Verification@Unconfirmed_content"
+                ],
+                "lemma": "where",
+                "sentence": "8",
+                "target phrase": "where"
+            },
+            "t168": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Sending@Sender"
+                ],
+                "lemma": "soldier",
+                "reftype": "evoke",
+                "sentence": "10",
+                "target phrase": "many soldier who be part of"
+            },
+            "t177": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Sending@Theme"
+                ],
+                "lemma": "information",
+                "reftype": "evoke",
+                "sentence": "10",
+                "target phrase": "information on social medium"
+            },
+            "t179": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Sending@Transport_means"
+                ],
+                "lemma": "social",
+                "sentence": "10",
+                "target phrase": "social"
+            },
+            "t182": {
+                "POS": "DET",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Research@Researcher"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "11",
+                "target phrase": "-PRON-"
+            },
+            "t204": {
+                "POS": "DET",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Participation@Participants"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "11",
+                "target phrase": "-PRON-"
+            },
+            "t226": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Convoy@Support"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "11",
+                "target phrase": "-PRON-"
+            },
+            "t237": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Research@Question"
+                ],
+                "lemma": "involve",
+                "sentence": "11",
+                "target phrase": "who be involve with the Buk missile launcher"
+            },
+            "t242": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Downing@Cause",
+                    "Convoy@Cargo"
+                ],
+                "lemma": "launcher",
+                "sentence": "11",
+                "target phrase": "the Buk missile launcher that MH17"
+            },
+            "t291": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Passing@Agent"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "13",
+                "target phrase": "-PRON-"
+            },
+            "t299": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Passing@Theme"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "13",
+                "target phrase": "-PRON-"
+            },
+            "t347": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Convoy@Support"
+                ],
+                "lemma": "individual",
+                "reftype": "evoke",
+                "sentence": "16",
+                "target phrase": "about 100 individual in -PRON-"
+            },
+            "t39": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Downing@Cause",
+                    "Impact@Impactor",
+                    "Convoy@Cargo",
+                    "Convoy@Cargo",
+                    "Convoy@Cargo",
+                    "Convoy@Cargo"
+                ],
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "3",
+                "target phrase": "a Buk surface - to - air missile"
+            },
+            "t473": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Cause_motion@Agent"
+                ],
+                "lemma": "battalion",
+                "sentence": "23",
+                "target phrase": "the transport battalion that be move these unit back and forth on border"
+            },
+            "t478": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Cause_motion@Theme"
+                ],
+                "lemma": "unit",
+                "sentence": "23",
+                "target phrase": "these unit"
+            },
+            "t484": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Cause_motion@Area"
+                ],
+                "lemma": "border",
+                "reftype": "evoke",
+                "sentence": "23",
+                "target phrase": "the border"
+            },
+            "t53": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Coming_to_believe@Cognizer",
+                    "Coming_to_believe@Cognizer"
+                ],
+                "lemma": "Bellingcat",
+                "sentence": "4",
+                "target phrase": "Bellingcat"
+            },
+            "t567": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Operate_vehicle@Driver"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "29",
+                "target phrase": "-PRON-"
+            },
+            "t572": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Operate_vehicle@Vehicle"
+                ],
+                "lemma": "launcher",
+                "sentence": "29",
+                "target phrase": "the missile launcher"
+            },
+            "t699": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Convoy@Support"
+                ],
+                "lemma": "53rd",
+                "sentence": "37",
+                "target phrase": "53rd"
+            },
+            "t743": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Incident"
+                ],
+                "lemma": "MH17",
+                "sentence": "38",
+                "target phrase": "MH17"
+            },
+            "t771": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Investigator"
+                ],
+                "lemma": "police",
+                "sentence": "40",
+                "target phrase": "the dutch police"
+            },
+            "t80": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Categorization@Cognizer"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "6",
+                "target phrase": "-PRON-"
+            },
+            "t838": {
+                "POS": "DET",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Response@Trigger"
+                ],
+                "lemma": "this",
+                "sentence": "43",
+                "target phrase": "this"
+            },
+            "t842": {
+                "POS": "DET",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Work@Agent"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "44",
+                "target phrase": "-PRON-"
+            },
+            "t87": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Categorization@Item",
+                    "Downing@Cause"
+                ],
+                "lemma": "launcher",
+                "sentence": "6",
+                "target phrase": "the missile launcher see in Ukraine on July"
+            }
+        },
+        "frames/links": {
+            "Q159": {
+                "t835": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Response@Agent"
+                    ],
+                    "lemma": "Russia",
+                    "sentence": "43",
+                    "target phrase": "Russia"
+                }
+            },
+            "Q1631864271612": {
+                "t102": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Ride_vehicle",
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "flight",
+                    "reftype": "type",
+                    "sentence": "6",
+                    "target phrase": "flight"
+                },
+                "t103": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Ride_vehicle@Vehicle"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "6",
+                    "target phrase": "flight MH17"
+                },
+                "t13": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Ride_vehicle@Vehicle",
+                        "Downing@Patient",
+                        "Impact@Impactee"
+                    ],
+                    "lemma": "Malaysia",
+                    "sentence": "3",
+                    "target phrase": "Malaysia"
+                },
+                "t15": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Ride_vehicle",
+                    "frame elements": null,
+                    "lemma": "flight",
+                    "reftype": "evoke",
+                    "sentence": "3"
+                },
+                "t246": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "11",
+                    "target phrase": "MH17"
+                },
+                "t75": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "4",
+                    "target phrase": "the plane"
+                }
+            },
+            "Q1633495626707": {
+                "t144": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Convoy@Support",
+                        "Convoy@Support",
+                        "Convoy@Support"
+                    ],
+                    "lemma": "53rd",
+                    "sentence": "8",
+                    "target phrase": "53rd"
+                },
+                "t208": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Participation@Institution"
+                    ],
+                    "lemma": "unit",
+                    "sentence": "11",
+                    "target phrase": "the unit - who be the commander , the missile launcher driver , the radar operator , which of be in and involve"
+                },
+                "t303": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Passing@Recipient"
+                    ],
+                    "lemma": "unit",
+                    "sentence": "13",
+                    "target phrase": "the unit"
+                },
+                "t458": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Participation@Participants"
+                    ],
+                    "lemma": "53rd",
+                    "sentence": "22",
+                    "target phrase": "53rd"
+                },
+                "t518": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Participation@Participants"
+                    ],
+                    "lemma": "soldier",
+                    "reftype": "evoke",
+                    "sentence": "26",
+                    "target phrase": "the 20 soldier -PRON- mention"
+                },
+                "t546": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Operating_a_system@Operator"
+                    ],
+                    "lemma": "soldier",
+                    "reftype": "evoke",
+                    "sentence": "28",
+                    "target phrase": "the individual soldier who be operate Buk missile launcher in division"
+                },
+                "t549": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Operating_a_system",
+                    "frame elements": null,
+                    "lemma": "operate",
+                    "reftype": "evoke",
+                    "sentence": "28"
+                },
+                "t552": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Operating_a_system@System"
+                    ],
+                    "lemma": "launcher",
+                    "sentence": "28",
+                    "target phrase": "Buk missile launcher"
+                },
+                "t60": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Agent",
+                        "Downing@Agent",
+                        "Participation@Participants",
+                        "Downing@Agent",
+                        "Criminal_investigation@Suspect"
+                    ],
+                    "lemma": "soldier",
+                    "reftype": "evoke",
+                    "sentence": "4",
+                    "target phrase": "20 soldier from Russia 53rd aircraft brigade"
+                },
+                "t64": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Participation@Institution"
+                    ],
+                    "lemma": "53rd",
+                    "sentence": "4",
+                    "target phrase": "53rd"
+                }
+            },
+            "Q17374096": {
+                "mw1": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Coming_to_believe@Topic",
+                        "Participation@Event"
+                    ],
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "4",
+                    "target phrase": "shoot down"
+                },
+                "t18": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Participation@Event",
+                        "Participation@Event"
+                    ],
+                    "lemma": "down",
+                    "reftype": "type",
+                    "sentence": "3",
+                    "target phrase": "Airlines flight MH17 be down over tear eastern Ukraine on 17 July , 2014 , by a Buk surface missile"
+                },
+                "t848": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Work@Salient_entity"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "44",
+                    "target phrase": "MH17 and other subject"
+                }
+            }
+        },
+        "historical distance": 1209,
+        "implicated fe's": [
+            "Ride_vehicle@Theme",
+            "Ride_vehicle@Theme",
+            "Ride_vehicle@Source",
+            "Ride_vehicle@Goal",
+            "Ride_vehicle@Path",
+            "Ride_vehicle@Area",
+            "Coming_to_believe@Evidence",
+            "Coming_to_believe@Medium",
+            "Ride_vehicle@Theme",
+            "Ride_vehicle@Source",
+            "Ride_vehicle@Path",
+            "Ride_vehicle@Goal",
+            "Ride_vehicle@Area",
+            "Research@Field",
+            "Operate_vehicle@Source",
+            "Operate_vehicle@Goal",
+            "Operate_vehicle@Path",
+            "Operate_vehicle@Area",
+            "Work@Goal",
+            "Categorization@Category",
+            "Categorization@Criteria",
+            "Downing@Agent",
+            "Participation@Institution",
+            "Convoy@Vehicles",
+            "Convoy@Vehicles",
+            "Convoy@Vehicles",
+            "Convoy@Vehicles",
+            "Convoy@Vehicles",
+            "Convoy@Vehicles",
+            "Response@Response"
+        ],
+        "raw text": "Bellingcat: New evidence against Russian soldiers on MH17.\nDW: Malaysia Airlines flight MH17 was downed over war-torn eastern Ukraine on 17 July, 2014, by a Buk surface-to-air missile, air crash investigators said last October. How did your investigative platform Bellingcat come to the conclusion that 20 soldiers from Russia's 53rd anti-aircraft brigade were involved in shooting down the plane? Eliot Higgins: We began by first identifying the missile launcher seen in Ukraine on July 17, 2014, which we believe shot down flight MH17 in a convoy that was filmed by various Russian citizens between June 23 and June 25, 2014. And that missile launcher was in that convoy. We were able to identify where the convoy came from: the 53rd Air Defense Brigade outside of Kursk. We then started looking at any information we could find online about this unit. Many soldiers who were part of the unit were posting information on social media. Our research includes looking at probably hundreds, if not thousands of social media profiles, looking for relevant individuals, establishing their role within the unit - who were the commanders, the missile launcher drivers, the radar operators, which of them were in the convoy filmed in June and who was involved with the Buk missile launcher that shot down MH17. We are assuming the command would have come from across the border. This isn't something that a soldier would decide to do by himself, so the people who are part of the command structure are of great interest, because they must have received the order and passed it down to the unit. Then we are looking at the various people whom we can establish as drivers and operators of the Buk missile launcher. All this nails it down to a smaller group. We are looking at a convoy that has about 100 individuals in it, and they were going to a camp near the Ukrainian border. They would be aware of what was going on in their unit. If that Buk missile launcher suddenly disappeared one day along with some of their colleagues, they would have noticed. So we have 20 \"core\" people, but there are probably another 70 or 80 people we have also written about who would also probably know something about it. Eliot Higgins and Bellingcat received the special Hanns- Joachim Friedrichs Prize for journalism in 2015 in Cologne Were other soldiers involved? From what we can tell, the 53rd brigade were the group involved. But we've also written about the transport battalion that was moving these units back and forth on the border. So we are pretty sure we have the names of those people. That's something we also passed along to the police previously. What was the role of the 20 soldiers you mentioned? We have several commanders - from senior commanders down to brigade commanders, division commanders and unit commanders. There are also the individual soldiers who were operating Buk missile launchers in the second division of the 53rd brigade. Obviously, not all of them were driving the missile launcher. But this is a military unit: Its members are aware of what is happening there. Why are you sure that these men were active soldiers of the Russian army? We were looking through hundreds of pages of information. All these soldiers were posting things about each other on social media. They were discussing the work they were doing. They were even posting photographs of their attendance records and roll-call sheets for several months into the summer of 2014 where they've listed all the other members of their unit. Using that we can tell who was active and who wasn't. And in fact we've given some of the soldiers who were part of 53rd brigade excellent alibis because we've established that some weren't part of that convoy - using their own information. So some soldiers should be happy that we looked into them, because we guarantee that they were not part of the MH17 case. Do you believe your list will be reflected in the Dutch prosecutors' report? It's very difficult to know exactly what the Dutch police have at the moment, but my hope it that they've already got information that relates to the 53rd brigade and that our work will provide them extra details. I can't say what they will find most important. And the Dutch public prosecution service said they would take the information provided by Bellingcat seriously. The question is how Russia reacts to this. Based on my previous experience with work on MH17 and other subjects concerning Russia, generally what happens is that embassies and the Russian Ministry of Defense get lots of media requests asking them to comment - which they usually ignore. And I get [Russian state-controlled outlets] \"Russia Today\" or \"Sputnik\" doing a piece attacking me or Bellingcat without actually getting into our work. Eliot Higgins is a British citizen journalist and blogger known for using social media and open sources on the Internet for investigations. In July 2014 he started the investigative platform Bellingcat.",
+        "subevents": {
+            "mw2": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Downing",
+                "frame elements": null,
+                "lemma": "shoot down",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "mw3": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Downing",
+                "frame elements": [
+                    "Research@Topic"
+                ],
+                "lemma": "shoot down",
+                "reftype": "type",
+                "sentence": "11",
+                "target phrase": "shoot down"
+            },
+            "t106": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Convoy",
+                "frame elements": [
+                    "Convoy@Convoy"
+                ],
+                "lemma": "convoy",
+                "reftype": "type",
+                "sentence": "6",
+                "target phrase": "a convoy that be film by citizen between June"
+            },
+            "t130": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Convoy",
+                "frame elements": [
+                    "Convoy@Convoy"
+                ],
+                "lemma": "convoy",
+                "reftype": "type",
+                "sentence": "7",
+                "target phrase": "that convoy"
+            },
+            "t136": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Verification",
+                "frame elements": null,
+                "lemma": "identify",
+                "reftype": "type",
+                "sentence": "8"
+            },
+            "t139": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Convoy",
+                "frame elements": [
+                    "Convoy@Convoy"
+                ],
+                "lemma": "convoy",
+                "reftype": "type",
+                "sentence": "8",
+                "target phrase": "the convoy the 53rd Air Defense Brigade outside of"
+            },
+            "t176": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Sending",
+                "frame elements": null,
+                "lemma": "post",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t183": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Research",
+                "frame elements": [
+                    "Coming_to_believe@Means"
+                ],
+                "lemma": "research",
+                "reftype": "evoke",
+                "sentence": "11",
+                "target phrase": "-PRON- research"
+            },
+            "t205": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Participation",
+                "frame elements": null,
+                "lemma": "role",
+                "reftype": "type",
+                "sentence": "11"
+            },
+            "t230": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Convoy",
+                "frame elements": [
+                    "Convoy@Convoy"
+                ],
+                "lemma": "convoy",
+                "reftype": "type",
+                "sentence": "11",
+                "target phrase": "the convoy film in June"
+            },
+            "t298": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Passing",
+                "frame elements": null,
+                "lemma": "pass",
+                "reftype": "type",
+                "sentence": "13"
+            },
+            "t342": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Convoy",
+                "frame elements": [
+                    "Convoy@Convoy"
+                ],
+                "lemma": "convoy",
+                "reftype": "type",
+                "sentence": "16",
+                "target phrase": "a convoy that have 100 individual in"
+            },
+            "t42": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Impact",
+                "frame elements": null,
+                "lemma": "crash",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t463": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Participation",
+                "frame elements": null,
+                "lemma": "involve",
+                "reftype": "type",
+                "sentence": "22"
+            },
+            "t476": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cause_motion",
+                "frame elements": null,
+                "lemma": "move",
+                "reftype": "type",
+                "sentence": "23"
+            },
+            "t514": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Participation",
+                "frame elements": null,
+                "lemma": "role",
+                "reftype": "type",
+                "sentence": "26"
+            },
+            "t569": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Operate_vehicle",
+                "frame elements": null,
+                "lemma": "drive",
+                "reftype": "evoke",
+                "sentence": "29"
+            },
+            "t57": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Coming_to_believe",
+                "frame elements": null,
+                "lemma": "conclusion",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t70": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Participation",
+                "frame elements": [
+                    "Coming_to_believe@Content"
+                ],
+                "lemma": "involve",
+                "reftype": "type",
+                "sentence": "4",
+                "target phrase": "that 20 soldier from brigade be involve in plane"
+            },
+            "t714": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Convoy",
+                "frame elements": [
+                    "Convoy@Convoy"
+                ],
+                "lemma": "convoy",
+                "reftype": "type",
+                "sentence": "37",
+                "target phrase": "that convoy"
+            },
+            "t744": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "case",
+                "reftype": "type",
+                "sentence": "38"
+            },
+            "t836": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Response",
+                "frame elements": null,
+                "lemma": "react",
+                "reftype": "type",
+                "sentence": "43"
+            },
+            "t84": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Categorization",
+                "frame elements": null,
+                "lemma": "identify",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t846": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Work",
+                "frame elements": null,
+                "lemma": "work",
+                "reftype": "evoke",
+                "sentence": "44"
+            }
+        }
+    }
+}

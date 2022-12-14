@@ -1,0 +1,571 @@
+{
+    "Did the Ukrainian rebels even know they were shooting at a civilian aircraft?": {
+        "fe's without links": {
+            "t382": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Operating_a_system@System"
+                ],
+                "lemma": "control",
+                "sentence": "17",
+                "target phrase": "the control"
+            },
+            "t386": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Possession@Possession"
+                ],
+                "lemma": "sophistication",
+                "sentence": "17",
+                "target phrase": "the sophistication"
+            },
+            "t392": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Differentiation@Phenomena"
+                ],
+                "lemma": "code",
+                "sentence": "17",
+                "target phrase": "different transponder code"
+            },
+            "t416": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Downing@Patient"
+                ],
+                "lemma": "airliner",
+                "sentence": "19",
+                "target phrase": "a civilian airliner"
+            },
+            "t417": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Evidence@Support"
+                ],
+                "lemma": "seem",
+                "reftype": "evoke",
+                "sentence": "19",
+                "target phrase": "first , a civilian airliner seem like -PRON- would work against interest ."
+            },
+            "t432": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Give_impression@Phenomenon"
+                ],
+                "lemma": "SA-11",
+                "sentence": "20",
+                "target phrase": "the SA-11"
+            },
+            "t439": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Give_impression@Inference"
+                ],
+                "lemma": "introduce",
+                "sentence": "20",
+                "target phrase": "to have be only recently introduce to the theater"
+            },
+            "t495": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Participation@Participants"
+                ],
+                "lemma": "trainer",
+                "sentence": "22",
+                "target phrase": "russian trainer"
+            },
+            "t542": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Operating_a_system@System"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "26",
+                "target phrase": "-PRON-"
+            }
+        },
+        "frames/links": {
+            "Q159": {
+                "t45": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Education_teaching@Teacher",
+                        "Education_teaching@Teacher"
+                    ],
+                    "lemma": "force",
+                    "reftype": "evoke",
+                    "sentence": "3",
+                    "target phrase": "russian force"
+                }
+            },
+            "Q1631864085791": {
+                "t362": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Rebellion@Current_leadership",
+                        "Rebellion@Current_leadership",
+                        "Rebellion@Current_leadership",
+                        "Rebellion@Current_leadership",
+                        "Rebellion@Current_leadership"
+                    ],
+                    "lemma": "ukrainian",
+                    "sentence": "17",
+                    "target phrase": "ukrainian"
+                },
+                "t363": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel",
+                        "Attempt@Agent",
+                        "Operating_a_system@Operator",
+                        "Differentiation@Cognizer"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "17",
+                    "target phrase": "the ukrainian rebel"
+                },
+                "t373": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Education_teaching@Student",
+                        "Possession@Owner"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "17",
+                    "target phrase": "-PRON-"
+                },
+                "t39": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Education_teaching@Student",
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "3",
+                    "target phrase": "the separatist"
+                },
+                "t424": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel",
+                        "Downing@Agent"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "19",
+                    "target phrase": "the rebel '"
+                },
+                "t460": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Contacting@Communicator",
+                        "Contacting@Addressee",
+                        "Chatting@Interlocutors"
+                    ],
+                    "lemma": "leader",
+                    "reftype": "evoke",
+                    "sentence": "21",
+                    "target phrase": "rebel leader"
+                },
+                "t464": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "21",
+                    "target phrase": "the separatist"
+                },
+                "t468": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Agent"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "21",
+                    "target phrase": "-PRON-"
+                },
+                "t502": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel",
+                        "Capability@Entity"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "22",
+                    "target phrase": "the rebel '"
+                },
+                "t534": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Capability@Entity",
+                        "Operating_a_system@Operator"
+                    ],
+                    "lemma": "hillbilly",
+                    "sentence": "26",
+                    "target phrase": "ukrainian hillbilly"
+                }
+            },
+            "Q1631864271612": {
+                "t473": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "airliner",
+                    "reftype": "evoke",
+                    "sentence": "21",
+                    "target phrase": "a commercial airliner"
+                }
+            },
+            "Q1636580448374": {},
+            "Q17374096": {
+                "mw1": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "19"
+                },
+                "t470": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Contacting@Topic"
+                    ],
+                    "lemma": "down",
+                    "reftype": "type",
+                    "sentence": "21",
+                    "target phrase": "-PRON- would down a commercial airliner after the fact"
+                }
+            }
+        },
+        "historical distance": 3,
+        "implicated fe's": [
+            "Evidence@Support",
+            "Contacting@Address",
+            "Contacting@Communication"
+        ],
+        "raw text": "Did the Ukrainian rebels even know they were shooting at a civilian aircraft?.\nThat's some sophisticated equipment. Speaking to reporters Friday, President Obama said U.S. intelligence officials had gathered strong evidence suggesting the separatists had been trained by Russian forces. Here's the thing: A well-trained radar operator should have been able to distinguish between a civilian airliner and military aircraft. AD AD All aircraft carry transponders \u2014 radio equipment that sends out signals about a plane and what it's doing. Military and civilian transponders use different patterns; the most commonly used modes for commercial flights are known as Mode C and Mode S, the latter of which is also used in a positioning system called ADS-B, a term you might be familiar with from following our coverage of that other Malaysia Airlines flight, MH370. Meanwhile, military planes use a different identification system whose different modes are numbered rather than lettered. In the military, this system is known as Identification Friend-or-Foe (IFF); for civilian purposes, it's called Secondary Surveillance Radar (SSR). What distinguishes one mode from another is generally how far apart two radio pulses are, along with any information that's included in the transmission. Here's one illustration that tries to depict the differences. If you want an idea of how complicated this can get, read this. AD AD A missile platform like the SA-11 Gadfly relies on its operator to know which radar contacts are safe to shoot and which are not; this means the transponder codes are crucial information. Once fired, the SA-11's missiles hunt down the target with a 95 percent interception rate, no matter who's on the receiving end. The more advanced SA-17 Grizzly can apparently determine when it's latched onto a civilian transponder code, but that won't stop the operator from taking the shot. So we're left with two possibilities: Either the Ukrainian rebels were deliberately trying to shoot down an airliner or they were trained just well enough to operate the controls but lacked the sophistication to distinguish between different transponder codes. The evidence seems to point in favor of the latter, for a few reasons. First, shooting down a civilian airliner seems like it would work against the rebels' strategic interest. Second, the SA-11 appears to have been only recently introduced to the theater. Third, phone calls released by the Ukrainian government purporting to be a conversation between rebel leaders suggest that the separatists only found out they'd downed a commercial airliner after the fact. Sen. Mark Kirk (R-Ill.), hinting strongly at the involvement of Russian trainers, said Friday he doubted the rebels' capabilities. \"The Buk missile system is such a complicated radar-guided system,\" he told the Post. \"I would think a bunch of Ukrainian hillbillies would not have an ability to operate it efficiently.\" RELATED:",
+        "subevents": {
+            "mw2": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Downing",
+                "frame elements": [
+                    "Attempt@Goal"
+                ],
+                "lemma": "shoot down",
+                "reftype": "type",
+                "sentence": "17",
+                "target phrase": "shoot down"
+            },
+            "t36": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": null,
+                "lemma": "evidence",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t366": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attempt",
+                "frame elements": null,
+                "lemma": "try",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t375": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Education_teaching",
+                "frame elements": [
+                    "Evidence@Proposition"
+                ],
+                "lemma": "train",
+                "reftype": "evoke",
+                "sentence": "17",
+                "target phrase": "-PRON- be train just well enough to operate the control but lack the sophistication to distinguish between ."
+            },
+            "t380": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Operating_a_system",
+                "frame elements": [
+                    "Education_teaching@Skill",
+                    "Education_teaching@Skill"
+                ],
+                "lemma": "operate",
+                "reftype": "evoke",
+                "sentence": "17",
+                "target phrase": "to operate the control"
+            },
+            "t384": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Possession",
+                "frame elements": null,
+                "lemma": "lack",
+                "reftype": "type",
+                "sentence": "17"
+            },
+            "t388": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Differentiation",
+                "frame elements": null,
+                "lemma": "distinguish",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t395": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": null,
+                "lemma": "evidence",
+                "reftype": "evoke",
+                "sentence": "18"
+            },
+            "t42": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Education_teaching",
+                "frame elements": [
+                    "Evidence@Proposition",
+                    "Participation@Event"
+                ],
+                "lemma": "train",
+                "reftype": "evoke",
+                "sentence": "3",
+                "target phrase": "the separatist have be train by russian force"
+            },
+            "t433": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Give_impression",
+                "frame elements": null,
+                "lemma": "appear",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t447": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Contacting",
+                "frame elements": null,
+                "lemma": "call",
+                "reftype": "type",
+                "sentence": "21"
+            },
+            "t457": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Chatting",
+                "frame elements": null,
+                "lemma": "conversation",
+                "reftype": "evoke",
+                "sentence": "21"
+            },
+            "t492": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Participation",
+                "frame elements": null,
+                "lemma": "involvement",
+                "reftype": "evoke",
+                "sentence": "22"
+            },
+            "t504": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Capability",
+                "frame elements": null,
+                "lemma": "capability",
+                "reftype": "evoke",
+                "sentence": "22"
+            },
+            "t539": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Capability",
+                "frame elements": null,
+                "lemma": "ability",
+                "reftype": "evoke",
+                "sentence": "26"
+            },
+            "t541": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Operating_a_system",
+                "frame elements": [
+                    "Capability@Event"
+                ],
+                "lemma": "operate",
+                "reftype": "evoke",
+                "sentence": "26",
+                "target phrase": "to operate -PRON- efficiently"
+            }
+        }
+    }
+}

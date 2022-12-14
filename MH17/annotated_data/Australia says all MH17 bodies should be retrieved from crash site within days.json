@@ -1,0 +1,873 @@
+{
+    "Australia says all MH17 bodies should be retrieved from crash site within days": {
+        "fe's without links": {
+            "t102": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Preventing_or_letting@Event"
+                ],
+                "lemma": "passage",
+                "sentence": "4",
+                "target phrase": "passage of the body"
+            },
+            "t111": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Area",
+                    "Bringing@Area"
+                ],
+                "lemma": "Donetsk",
+                "sentence": "4",
+                "target phrase": "Donetsk"
+            },
+            "t228": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Carrier",
+                    "Bringing@Carrier"
+                ],
+                "lemma": "van",
+                "sentence": "12",
+                "target phrase": "refrigerated van"
+            },
+            "t232": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Theme",
+                    "Transfer@Theme",
+                    "Categorization@Item"
+                ],
+                "lemma": "remain",
+                "reftype": "evoke",
+                "sentence": "12",
+                "target phrase": "the remain , which would then be transfer to Netherlands for identification"
+            },
+            "t241": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Goal",
+                    "Bringing@Goal"
+                ],
+                "lemma": "Netherlands",
+                "sentence": "12",
+                "target phrase": "the Netherlands"
+            },
+            "t270": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Getting@Recipient"
+                ],
+                "lemma": "team",
+                "reftype": "evoke",
+                "sentence": "15",
+                "target phrase": "the advance team , which have be prevent four time from reach ,"
+            },
+            "t279": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Preventing_or_letting@Event"
+                ],
+                "lemma": "reach",
+                "reftype": "evoke",
+                "sentence": "15",
+                "target phrase": "reach the site due to shelling and gunfire"
+            },
+            "t292": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Getting@Theme"
+                ],
+                "lemma": "remain",
+                "reftype": "evoke",
+                "sentence": "15",
+                "target phrase": "some remain"
+            },
+            "t32": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Theme"
+                ],
+                "lemma": "body",
+                "reftype": "evoke",
+                "sentence": "2",
+                "target phrase": "the remain body of MH17 victim and -PRON- effect"
+            },
+            "t330": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Impact@Impactor",
+                    "Impact@Impactor",
+                    "Shoot_projectiles@Projectile",
+                    "Killing@Instrument",
+                    "Killing@Instrument",
+                    "Killing@Instrument",
+                    "Impact@Impactor",
+                    "Impact@Impactor"
+                ],
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "17",
+                "target phrase": "a surface - to - air missile fire by separatist , kill all 298 people on board include Australians"
+            },
+            "t398": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Being_obligated@Responsible_party"
+                ],
+                "lemma": "team",
+                "reftype": "evoke",
+                "sentence": "19",
+                "target phrase": "the international team involve in mission"
+            },
+            "t44": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Source",
+                    "Bringing@Source"
+                ],
+                "lemma": "site",
+                "reftype": "evoke",
+                "sentence": "2",
+                "target phrase": "the crash site in eastern Ukraine"
+            },
+            "t458": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Agent"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "24",
+                "target phrase": "-PRON-"
+            },
+            "t469": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Agent"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "24",
+                "target phrase": "-PRON-"
+            },
+            "t517": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Discussion@Interlocutors"
+                ],
+                "lemma": "representative",
+                "sentence": "27",
+                "target phrase": "senior representative from Ukraine , Russia"
+            },
+            "t546": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Discussion@Interlocutors"
+                ],
+                "lemma": "representative",
+                "sentence": "28",
+                "target phrase": "the senior representative"
+            },
+            "t593": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Rebellion@Current_leadership"
+                ],
+                "lemma": "Ukraine",
+                "sentence": "29",
+                "target phrase": "Ukraine and Russia"
+            },
+            "t76": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Being_obligated@Responsible_party",
+                    "Being_obligated@Responsible_party"
+                ],
+                "lemma": "team",
+                "reftype": "evoke",
+                "sentence": "3",
+                "target phrase": "an advance team involve australian police"
+            },
+            "t99": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Preventing_or_letting@Potential_hindrance",
+                    "Preventing_or_letting@Agent",
+                    "Preventing_or_letting@Agent"
+                ],
+                "lemma": "militant",
+                "reftype": "evoke",
+                "sentence": "4",
+                "target phrase": "militant"
+            }
+        },
+        "frames/links": {
+            "Q159": {},
+            "Q1631025548534": {
+                "t341": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Killing@Victim"
+                    ],
+                    "lemma": "people",
+                    "reftype": "evoke",
+                    "sentence": "17",
+                    "target phrase": "all 298 people"
+                },
+                "t35": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Catastrophe@Patient"
+                    ],
+                    "lemma": "victim",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "MH17 victim"
+                },
+                "t442": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Killing@Victim"
+                    ],
+                    "lemma": "people",
+                    "reftype": "evoke",
+                    "sentence": "22",
+                    "target phrase": "298 innocent people"
+                },
+                "t448": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Killing@Victim"
+                    ],
+                    "lemma": "Australians",
+                    "sentence": "22",
+                    "target phrase": "38 Australians"
+                },
+                "t463": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Dead_or_alive",
+                    "frame elements": [
+                        "Dead_or_alive@Protagonist"
+                    ],
+                    "lemma": "dead",
+                    "reftype": "evoke",
+                    "sentence": "24",
+                    "target phrase": "-PRON- dead"
+                },
+                "t466": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Bringing@Theme"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "24",
+                    "target phrase": "-PRON-"
+                },
+                "t477": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Bringing@Theme"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "24",
+                    "target phrase": "-PRON-"
+                }
+            },
+            "Q1631864085791": {
+                "t336": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Shoot_projectiles@Agent",
+                        "Killing@Killer",
+                        "Killing@Killer",
+                        "Killing@Killer",
+                        "Downing@Agent",
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "17",
+                    "target phrase": "pro - russian separatist"
+                },
+                "t369": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Hostile_encounter@Side_2",
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "18",
+                    "target phrase": "separatist"
+                },
+                "t60": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": null,
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "3"
+                },
+                "t61": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Discussion@Interlocutors",
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "leader",
+                    "reftype": "evoke",
+                    "sentence": "3",
+                    "target phrase": "russian , ukrainian and separatist leader in the belarusian capital Minsk"
+                }
+            },
+            "Q1631864271612": {
+                "t309": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Impact@Impactee",
+                        "Impact@Impactee",
+                        "Impact@Impactee",
+                        "Impact@Impactee",
+                        "Downing@Patient"
+                    ],
+                    "lemma": "Malaysia",
+                    "sentence": "17",
+                    "target phrase": "Malaysia"
+                }
+            },
+            "Q1636580448374": {
+                "t367": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hostile_encounter@Side_1",
+                        "Rebellion@Current_leadership"
+                    ],
+                    "lemma": "force",
+                    "reftype": "evoke",
+                    "sentence": "18",
+                    "target phrase": "ukrainian force and separatist"
+                },
+                "t58": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Rebellion@Current_leadership"
+                    ],
+                    "lemma": "ukrainian",
+                    "sentence": "3",
+                    "target phrase": "ukrainian and separatist"
+                }
+            },
+            "Q17374096": {}
+        },
+        "historical distance": 15,
+        "implicated fe's": [
+            "Bringing@Path",
+            "Bringing@Path",
+            "Bringing@Agent",
+            "Transfer@Recipient",
+            "Transfer@Donor",
+            "Categorization@Cognizer",
+            "Categorization@Category",
+            "Categorization@Criteria",
+            "Shoot_projectiles@Projectile",
+            "Shoot_projectiles@Agent",
+            "Hostile_encounter@Issue",
+            "Hostile_encounter@Purpose",
+            "Dead_or_alive@Figure",
+            "Use_firearm@Agent",
+            "Use_firearm@Firearm"
+        ],
+        "raw text": "Australia says all MH17 bodies should be retrieved from crash site within days.\n\nThe Australian government is increasingly confident it will be only a matter of days before the remaining bodies of MH17 victims and their effects are transported from the crash site in eastern Ukraine. The breakthrough came after a meeting between Russian, Ukrainian and separatist leaders in the Belarusian capital Minsk, and followed the successful mission of an advance team involving Australian and Dutch police. The Ukrainian deputy prime minister, Volodymyr Groysman, wrote on Twitter that within two days militants would allow passage of the bodies through the war-torn Donetsk region. The advance team has identified a new, safer but longer route for a 14-vehicle convoy, which on Friday afternoon, Sydney time, was on its way to the site, Organisation for Security and Cooperation in Europe (OSCE) spokesman Michael Bociurkiw said. \u201cThere will be about 100 [people] in this convoy,\u201d the Australian foreign affairs minister, Julie Bishop, said from Kiev. \u201cWe have judged that it is safe for a much larger team to go on to the crash site and really start working in earnest.\u201d Bishop, who will leave Ukraine on Friday, said refrigerated vans would carry the remains, which would then be transferred to the Netherlands for identification. \u201cMy work is done but the mission goes on,\u201d she said. The prime minister, Tony Abbott, said the advance team, which had been prevented four times from reaching the site due to shelling and gunfire, had itself recovered some remains. Australian officials believe as many as 80 bodies are still at the site. The Malaysia Airlines Boeing 777 is believed to have been shot down on July 17 by a surface-to-air missile fired by pro-Russian separatists, killing all 298 people on board including 38 Australians. Abbott said the Australian federal police and Dutch police mission was risky, given the continued fighting between Ukrainian forces and separatists in the area. But the government had taken the best expert advice and Australia\u2019s special envoy Angus Houston was \u201cplugged in\u201d to the international team involved in the mission. Following Clive Palmer\u2019s comments that Australian police should be withdrawn because of the dangers, Mr Abbott said he did not lightly put personnel in harm\u2019s way. \u201cBut let\u2019s not forget 298 innocent people have been murdered, 38 Australians have been murdered,\u201d he said. \u201cWe owe it to our dead to bring them back, we owe it to their families to bring them back.\u201d The advance team paused for a moment\u2019s silence at the crash site, almost two weeks to the hour since the plane went down, after travelling for six hours to get there. Senior representatives from Ukraine, Russia and the OSCE met in Minsk as news came through of the successful advance mission. A statement following the meeting said the senior representatives had committed to securing safe access by international investigators to the crash site until their work on the spot was completed. There was also agreement on the release of hostages, improved monitoring of the ceasefire and better control and verification on the border between Ukraine and Russia. Another meeting will be held next week.\n",
+        "subevents": {
+            "mw1": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Downing",
+                "frame elements": null,
+                "lemma": "shoot down",
+                "reftype": "type",
+                "sentence": "17"
+            },
+            "t101": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Preventing_or_letting",
+                "frame elements": null,
+                "lemma": "allow",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t207": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Impact",
+                "frame elements": null,
+                "lemma": "crash",
+                "reftype": "type",
+                "sentence": "10"
+            },
+            "t230": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bringing",
+                "frame elements": null,
+                "lemma": "carry",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t238": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Transfer",
+                "frame elements": null,
+                "lemma": "transfer",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t243": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Categorization",
+                "frame elements": null,
+                "lemma": "identification",
+                "reftype": "type",
+                "sentence": "12"
+            },
+            "t275": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Preventing_or_letting",
+                "frame elements": null,
+                "lemma": "prevent",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t284": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": [
+                    "Preventing_or_letting@Potential_hindrance"
+                ],
+                "lemma": "shelling",
+                "reftype": "type",
+                "sentence": "15",
+                "target phrase": "shelling and gunfire"
+            },
+            "t286": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Use_firearm",
+                "frame elements": null,
+                "lemma": "gunfire",
+                "reftype": "type",
+                "sentence": "15"
+            },
+            "t290": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Getting",
+                "frame elements": [
+                    "Being_obligated@Duty",
+                    "Being_obligated@Duty",
+                    "Being_obligated@Duty"
+                ],
+                "lemma": "recover",
+                "reftype": "type",
+                "sentence": "15",
+                "target phrase": "the advance team , which have be prevent time from , have -PRON- recover some remain"
+            },
+            "t331": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": [
+                    "Killing@Means",
+                    "Killing@Means",
+                    "Killing@Means"
+                ],
+                "lemma": "fire",
+                "reftype": "evoke",
+                "sentence": "17",
+                "target phrase": "fire by russian separatist ,"
+            },
+            "t338": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Killing",
+                "frame elements": null,
+                "lemma": "kill",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t364": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "fighting",
+                "reftype": "evoke",
+                "sentence": "18"
+            },
+            "t40": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bringing",
+                "frame elements": null,
+                "lemma": "transport",
+                "reftype": "evoke",
+                "sentence": "2"
+            },
+            "t402": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_obligated",
+                "frame elements": null,
+                "lemma": "mission",
+                "reftype": "type",
+                "sentence": "19"
+            },
+            "t43": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Impact",
+                "frame elements": [
+                    "Catastrophe@Undesirable_event",
+                    "Discussion@Topic"
+                ],
+                "lemma": "crash",
+                "reftype": "type",
+                "sentence": "2",
+                "target phrase": "crash"
+            },
+            "t445": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Killing",
+                "frame elements": null,
+                "lemma": "murder",
+                "reftype": "evoke",
+                "sentence": "22"
+            },
+            "t451": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Killing",
+                "frame elements": null,
+                "lemma": "murder",
+                "reftype": "evoke",
+                "sentence": "22"
+            },
+            "t465": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bringing",
+                "frame elements": null,
+                "lemma": "bring",
+                "reftype": "evoke",
+                "sentence": "24"
+            },
+            "t476": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bringing",
+                "frame elements": null,
+                "lemma": "bring",
+                "reftype": "evoke",
+                "sentence": "24"
+            },
+            "t492": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Impact",
+                "frame elements": null,
+                "lemma": "crash",
+                "reftype": "type",
+                "sentence": "26"
+            },
+            "t525": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "meet",
+                "reftype": "type",
+                "sentence": "27"
+            },
+            "t536": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_obligated",
+                "frame elements": [
+                    "Discussion@Topic"
+                ],
+                "lemma": "mission",
+                "reftype": "evoke",
+                "sentence": "27",
+                "target phrase": "the successful advance mission"
+            },
+            "t54": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "meeting",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t542": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "meeting",
+                "reftype": "evoke",
+                "sentence": "28"
+            },
+            "t558": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Impact",
+                "frame elements": [
+                    "Discussion@Topic"
+                ],
+                "lemma": "crash",
+                "reftype": "type",
+                "sentence": "28",
+                "target phrase": "crash"
+            },
+            "t72": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_obligated",
+                "frame elements": null,
+                "lemma": "mission",
+                "reftype": "evoke",
+                "sentence": "3"
+            }
+        }
+    }
+}

@@ -1,0 +1,1670 @@
+{
+    "Canadian killed in MH17 crash was a medical student from Ontario": {
+        "fe's without links": {
+            "t101": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Ride_vehicle@Area",
+                    "Ride_vehicle@Area",
+                    "Event@Place"
+                ],
+                "lemma": "Ukraine",
+                "sentence": "6",
+                "target phrase": "eastern Ukraine"
+            },
+            "t1101": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Killing@Instrument",
+                    "Destroying@Cause"
+                ],
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "80",
+                "target phrase": "a surface - to - air missile"
+            },
+            "t1109": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Ride_vehicle@Source",
+                    "Ride_vehicle@Source",
+                    "Ride_vehicle@Source",
+                    "Ride_vehicle@Source",
+                    "Ride_vehicle@Source"
+                ],
+                "lemma": "Amsterdam",
+                "sentence": "80",
+                "target phrase": "Amsterdam - to - Kuala"
+            },
+            "t1113": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Ride_vehicle@Goal",
+                    "Ride_vehicle@Goal",
+                    "Ride_vehicle@Goal",
+                    "Ride_vehicle@Goal",
+                    "Ride_vehicle@Goal"
+                ],
+                "lemma": "Kuala",
+                "sentence": "80",
+                "target phrase": "Kuala"
+            },
+            "t1118": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Waiting@Protagonist",
+                    "Memory@Cognizer"
+                ],
+                "lemma": "Alexandra",
+                "sentence": "81",
+                "target phrase": "Alexandra"
+            },
+            "t1133": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Memory@Content"
+                ],
+                "lemma": "text",
+                "sentence": "81",
+                "target phrase": "-PRON- last text"
+            },
+            "t115": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Awareness@Cognizer"
+                ],
+                "lemma": "Alexandra",
+                "sentence": "9",
+                "target phrase": "Alexandra"
+            },
+            "t118": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Awareness@Content"
+                ],
+                "lemma": "where",
+                "sentence": "9",
+                "target phrase": "where"
+            },
+            "t299": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Activity_finish@Activity"
+                ],
+                "lemma": "school",
+                "reftype": "evoke",
+                "sentence": "24",
+                "target phrase": "medical school"
+            },
+            "t301": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Travel@Source"
+                ],
+                "lemma": "Romania",
+                "sentence": "24",
+                "target phrase": "Romania"
+            },
+            "t314": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Killing@Instrument",
+                    "Impact@Impactor",
+                    "Downing@Cause",
+                    "Downing@Cause",
+                    "Downing@Cause"
+                ],
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "25",
+                "target phrase": "the missile that flight MH17"
+            },
+            "t329": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Ride_vehicle@Area"
+                ],
+                "lemma": "Ukraine",
+                "sentence": "25",
+                "target phrase": "eastern Ukraine"
+            },
+            "t428": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Desiring@Event"
+                ],
+                "lemma": "change",
+                "reftype": "evoke",
+                "sentence": "36",
+                "target phrase": "to change the world"
+            },
+            "t435": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Desiring@Event"
+                ],
+                "lemma": "cure",
+                "reftype": "evoke",
+                "sentence": "37",
+                "target phrase": "to cure stuff"
+            },
+            "t442": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Questioning@Addressee"
+                ],
+                "lemma": "professor",
+                "reftype": "evoke",
+                "sentence": "39",
+                "target phrase": "Andrei \u2019s immunology professor"
+            },
+            "t497": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Request@Addressee"
+                ],
+                "lemma": "Iuliu",
+                "sentence": "40",
+                "target phrase": "Iuliu"
+            },
+            "t50": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Event@Time"
+                ],
+                "lemma": "Thursday",
+                "reftype": "evoke",
+                "sentence": "3",
+                "target phrase": "Thursday"
+            },
+            "t559": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Questioning@Message"
+                ],
+                "lemma": "question",
+                "reftype": "evoke",
+                "sentence": "45",
+                "target phrase": "all the question -PRON- ask after class and in"
+            },
+            "t579": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Statement@Medium"
+                ],
+                "lemma": "email",
+                "sentence": "47",
+                "target phrase": "an August 2012 email , when the young man say -PRON- do"
+            },
+            "t589": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Statement@Message"
+                ],
+                "lemma": "think",
+                "reftype": "evoke",
+                "sentence": "48",
+                "target phrase": "not think -PRON- be go to get into and would take year off to"
+            },
+            "t597": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Statement@Topic"
+                ],
+                "lemma": "school",
+                "reftype": "evoke",
+                "sentence": "48",
+                "target phrase": "medical school"
+            },
+            "t62": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Travel@Source",
+                    "Self_motion@Source",
+                    "Travel@Source"
+                ],
+                "lemma": "Romania",
+                "sentence": "3",
+                "target phrase": "Romania"
+            },
+            "t620": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Contacting@Addressee"
+                ],
+                "lemma": "Dixon",
+                "sentence": "50",
+                "target phrase": "Dixon"
+            },
+            "t643": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Intentionally_act@Act"
+                ],
+                "lemma": "what",
+                "sentence": "52",
+                "target phrase": "what"
+            },
+            "t67": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Commitment@Addressee",
+                    "Contacting@Addressee"
+                ],
+                "lemma": "sister",
+                "reftype": "evoke",
+                "sentence": "4",
+                "target phrase": "-PRON- sister"
+            },
+            "t684": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Removing@Theme"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "55",
+                "target phrase": "-PRON-"
+            },
+            "t74": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Commitment@Message"
+                ],
+                "lemma": "check",
+                "reftype": "evoke",
+                "sentence": "4",
+                "target phrase": "to check in from Bali"
+            },
+            "t77": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Travel@Goal",
+                    "Self_motion@Goal",
+                    "Travel@Goal",
+                    "Travel@Goal"
+                ],
+                "lemma": "Bali",
+                "sentence": "4",
+                "target phrase": "Bali"
+            },
+            "t805": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Work@Salient_entity"
+                ],
+                "lemma": "home",
+                "sentence": "64",
+                "target phrase": "home"
+            },
+            "t814": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Being_employed@Position"
+                ],
+                "lemma": "operator",
+                "sentence": "64",
+                "target phrase": "a camera operator and photo lab"
+            },
+            "t820": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Being_employed@Employer",
+                    "Being_employed@Place_of_employment"
+                ],
+                "lemma": "university",
+                "reftype": "evoke",
+                "sentence": "64",
+                "target phrase": "university"
+            },
+            "t873": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Representing@Phenomenon"
+                ],
+                "lemma": "good",
+                "reftype": "evoke",
+                "sentence": "68",
+                "target phrase": "the good that Ajax and Canada have to offer"
+            },
+            "t90": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Motion_directional@Goal"
+                ],
+                "lemma": "earth",
+                "sentence": "6",
+                "target phrase": "earth"
+            },
+            "t926": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Losing_someone@Sufferer"
+                ],
+                "lemma": "family",
+                "reftype": "evoke",
+                "sentence": "71",
+                "target phrase": "-PRON- family \u2019s"
+            },
+            "t937": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Emotion_directed@Experiencer"
+                ],
+                "lemma": "parent",
+                "reftype": "evoke",
+                "sentence": "72",
+                "target phrase": "Andrei \u2019s parent , -PRON- sister , other family member and friend , as well as those of girlfriend , a german citizen travel , share"
+            },
+            "t979": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Investigator"
+                ],
+                "lemma": "authority",
+                "reftype": "evoke",
+                "sentence": "74",
+                "target phrase": "ukrainian authority"
+            }
+        },
+        "frames/links": {
+            "Q1631025548534": {
+                "t1004": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Ride_vehicle@Theme"
+                    ],
+                    "lemma": "Andrei",
+                    "sentence": "77",
+                    "target phrase": "Andrei"
+                },
+                "t1086": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Killing@Victim",
+                        "Ride_vehicle@Theme"
+                    ],
+                    "lemma": "people",
+                    "reftype": "evoke",
+                    "sentence": "80",
+                    "target phrase": "the 298 people kill"
+                },
+                "t1123": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Waiting@Salient_entity"
+                    ],
+                    "lemma": "brother",
+                    "reftype": "evoke",
+                    "sentence": "81",
+                    "target phrase": "-PRON- brother"
+                },
+                "t121": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Self_motion@Self_mover",
+                        "Catastrophe@Patient"
+                    ],
+                    "lemma": "brother",
+                    "reftype": "evoke",
+                    "sentence": "9",
+                    "target phrase": "-PRON- little brother"
+                },
+                "t211": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Ride_vehicle@Theme",
+                        "Board_vehicle@Traveller"
+                    ],
+                    "lemma": "brother",
+                    "reftype": "evoke",
+                    "sentence": "18",
+                    "target phrase": "-PRON- brother"
+                },
+                "t287": {
+                    "POS": "DET",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Travel@Traveler"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "24",
+                    "target phrase": "-PRON-"
+                },
+                "t292": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Activity_finish@Agent"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "24",
+                    "target phrase": "-PRON-"
+                },
+                "t30": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Killing@Victim",
+                        "Catastrophe@Patient",
+                        "Ride_vehicle@Theme"
+                    ],
+                    "lemma": "man",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "the canadian man"
+                },
+                "t31": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Killing",
+                    "frame elements": null,
+                    "lemma": "kill",
+                    "reftype": "evoke",
+                    "sentence": "2"
+                },
+                "t33": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Board_vehicle@Vehicle",
+                        "Ride_vehicle@Vehicle",
+                        "Board_vehicle@Vehicle",
+                        "Ride_vehicle@Vehicle"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "2",
+                    "target phrase": "MH17"
+                },
+                "t38": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Board_vehicle@Traveller",
+                        "Travel@Traveler"
+                    ],
+                    "lemma": "Andrei",
+                    "sentence": "3",
+                    "target phrase": "Andrei"
+                },
+                "t397": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Catastrophe@Patient",
+                        "Ride_vehicle@Theme"
+                    ],
+                    "lemma": "victim",
+                    "reftype": "evoke",
+                    "sentence": "34",
+                    "target phrase": "the victim of Flight MH17 Andrei"
+                },
+                "t399": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Ride_vehicle",
+                    "frame elements": null,
+                    "lemma": "Flight",
+                    "reftype": "evoke",
+                    "sentence": "34"
+                },
+                "t425": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Desiring@Experiencer"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "36",
+                    "target phrase": "-PRON-"
+                },
+                "t432": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Desiring@Experiencer"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "37",
+                    "target phrase": "-PRON-"
+                },
+                "t457": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Death@Protagonist"
+                    ],
+                    "lemma": "student",
+                    "reftype": "evoke",
+                    "sentence": "39",
+                    "target phrase": "-PRON- former student \u2019s"
+                },
+                "t494": {
+                    "POS": "DET",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Request@Speaker"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "40",
+                    "target phrase": "-PRON-"
+                },
+                "t560": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Questioning@Speaker"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "45",
+                    "target phrase": "-PRON-"
+                },
+                "t584": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Statement@Speaker"
+                    ],
+                    "lemma": "man",
+                    "reftype": "evoke",
+                    "sentence": "47",
+                    "target phrase": "the young man"
+                },
+                "t618": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Contacting@Communicator"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "50",
+                    "target phrase": "-PRON-"
+                },
+                "t64": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Commitment@Speaker",
+                        "Contacting@Communicator"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "4",
+                    "target phrase": "-PRON-"
+                },
+                "t640": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Intentionally_act@Agent"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "52",
+                    "target phrase": "-PRON-"
+                },
+                "t689": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Removing@Source"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "55",
+                    "target phrase": "-PRON-"
+                },
+                "t69": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Board_vehicle@Traveller"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "4",
+                    "target phrase": "-PRON-"
+                },
+                "t724": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Death@Protagonist"
+                    ],
+                    "lemma": "Andrei",
+                    "sentence": "57",
+                    "target phrase": "Andrei"
+                },
+                "t786": {
+                    "POS": "DET",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Death@Protagonist"
+                    ],
+                    "lemma": "those",
+                    "sentence": "63",
+                    "target phrase": "those who die in event"
+                },
+                "t788": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Death",
+                    "frame elements": null,
+                    "lemma": "die",
+                    "reftype": "evoke",
+                    "sentence": "63"
+                },
+                "t792": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Event",
+                    "frame elements": null,
+                    "lemma": "event",
+                    "reftype": "type",
+                    "sentence": "63"
+                },
+                "t798": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Work@Agent",
+                        "Being_employed@Employee"
+                    ],
+                    "lemma": "Andrei",
+                    "sentence": "64",
+                    "target phrase": "Andrei"
+                },
+                "t86": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Motion_directional@Theme"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "6",
+                    "target phrase": "-PRON-"
+                },
+                "t870": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Representing@Entity"
+                    ],
+                    "lemma": "Andrei",
+                    "sentence": "68",
+                    "target phrase": "Andrei"
+                },
+                "t925": {
+                    "POS": "DET",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Losing_someone@Deceased"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "71",
+                    "target phrase": "-PRON-"
+                },
+                "t961": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Travel@Traveler"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "72",
+                    "target phrase": "-PRON-"
+                },
+                "t963": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Travel",
+                    "frame elements": null,
+                    "lemma": "travel",
+                    "reftype": "evoke",
+                    "sentence": "72"
+                }
+            },
+            "Q1631864271612": {
+                "t1056": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Impact@Impactee",
+                        "Downing@Patient"
+                    ],
+                    "lemma": "jet",
+                    "reftype": "evoke",
+                    "sentence": "79",
+                    "target phrase": "the passenger jet"
+                },
+                "t1105": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Ride_vehicle",
+                    "frame elements": [
+                        "Ride_vehicle@Vehicle",
+                        "Destroying@Patient"
+                    ],
+                    "lemma": "flight",
+                    "reftype": "evoke",
+                    "sentence": "80",
+                    "target phrase": "the flight"
+                },
+                "t318": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Ride_vehicle",
+                    "frame elements": [
+                        "Ride_vehicle@Vehicle",
+                        "Downing@Patient"
+                    ],
+                    "lemma": "flight",
+                    "reftype": "evoke",
+                    "sentence": "25",
+                    "target phrase": "flight"
+                },
+                "t33": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Board_vehicle@Vehicle",
+                        "Ride_vehicle@Vehicle",
+                        "Board_vehicle@Vehicle",
+                        "Ride_vehicle@Vehicle"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "2",
+                    "target phrase": "MH17"
+                },
+                "t95": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Travel@Mode_of_transportation",
+                        "Motion_directional@Source",
+                        "Travel@Mode_of_transportation",
+                        "Downing@Patient",
+                        "Travel@Mode_of_transportation"
+                    ],
+                    "lemma": "plane",
+                    "sentence": "6",
+                    "target phrase": "-PRON- Malaysia Airlines plane"
+                }
+            },
+            "Q17374096": {
+                "mw1": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Killing@Means",
+                        "Catastrophe@Undesirable_event",
+                        "Catastrophe@Undesirable_event",
+                        "Catastrophe@Undesirable_event",
+                        "Intentionally_act@Act",
+                        "Emotion_directed@Topic",
+                        "Emotion_directed@Stimulus",
+                        "Criminal_investigation@Incident",
+                        "Removing@Cause",
+                        "Event@Event"
+                    ],
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "6",
+                    "target phrase": "shoot down"
+                },
+                "mw2": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "25"
+                },
+                "mw3": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "79"
+                },
+                "mw4": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Destroying",
+                    "frame elements": [
+                        "Killing@Means"
+                    ],
+                    "lemma": "bring down",
+                    "reftype": "type",
+                    "sentence": "80",
+                    "target phrase": "bring down"
+                },
+                "t1074": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Impact",
+                    "frame elements": null,
+                    "lemma": "crash",
+                    "reftype": "type",
+                    "sentence": "79"
+                },
+                "t137": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": null,
+                    "lemma": "disaster",
+                    "reftype": "evoke",
+                    "sentence": "10"
+                },
+                "t399": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Ride_vehicle",
+                    "frame elements": null,
+                    "lemma": "Flight",
+                    "reftype": "evoke",
+                    "sentence": "34"
+                },
+                "t763": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Intentionally_act",
+                    "frame elements": null,
+                    "lemma": "act",
+                    "reftype": "evoke",
+                    "sentence": "62"
+                },
+                "t792": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Event",
+                    "frame elements": null,
+                    "lemma": "event",
+                    "reftype": "type",
+                    "sentence": "63"
+                }
+            }
+        },
+        "historical distance": 1,
+        "implicated fe's": [
+            "Killing@Killer",
+            "Travel@Path",
+            "Travel@Area",
+            "Travel@Direction",
+            "Motion_directional@Path",
+            "Motion_directional@Area",
+            "Motion_directional@Direction",
+            "Self_motion@Path",
+            "Self_motion@Area",
+            "Self_motion@Direction",
+            "Ride_vehicle@Path",
+            "Ride_vehicle@Path",
+            "Request@Message",
+            "Request@Medium",
+            "Questioning@Topic",
+            "Contacting@Address",
+            "Contacting@Communication",
+            "Intentionally_act@Agent",
+            "Work@Goal",
+            "Travel@Area",
+            "Travel@Path",
+            "Travel@Direction",
+            "Criminal_investigation@Suspect",
+            "Ride_vehicle@Path",
+            "Ride_vehicle@Area",
+            "Killing@Killer",
+            "Ride_vehicle@Path",
+            "Ride_vehicle@Area",
+            "Contacting@Address",
+            "Downing@Agent",
+            "Travel@Direction",
+            "Travel@Path",
+            "Travel@Area",
+            "Downing@Agent",
+            "Ride_vehicle@Path",
+            "Removing@Agent",
+            "Downing@Agent"
+        ],
+        "raw text": "Canadian killed in MH17 crash was a medical student from Ontario.\nSend this page to someone via email Watch extended video above: The sister of the Canadian man killed aboard MH17 speaks out TORONTO \u2013 Andrei Anghel and his girlfriend Olga Ioppa embarked on their dream trip Thursday morning, bound for a tropical break from medical school in Romania. He texted his sister as he boarded, promising to check in from Bali. They never made it. Hours later they were plunged to earth as their Malaysia Airlines plane was shot down in eastern Ukraine. READ MORE: Australian woman loses family in both Malaysian flight disasters Alexandra Anghel knew where her little brother was headed but it didn\u2019t click when she read the news about the airline disaster Thursday. It wasn\u2019t until a friend called with questions that she got an uneasy feeling. Story continues below advertisement \u201cRight away, I knew something was wrong,\u201d Alexandra told Global News. \u201cI had seen the article show up on the Internet, just as a headline, and I never put two and two together.\u201d When the family confirmed with Malaysia Airlines her brother indeed boarded the flight, she said \u201ceverything just kinda went numb.\u201d Alexandra, who lives in Edmonton, flew home to Ajax to be with her devastated family. \u201cHearing my dad cry on the phone after the cops came \u2026 my dad never cries,\u201d she said, wiping away her own tears. 24-year-old Andrei and Olga, his German girlfriend, were on \u201ctheir dream trip\u201d after he finished his second year of medical school in Romania, his sister said. U.S. President Barack Obama has said the missile that shot down flight MH17 came from pro-Russian separatist territory in eastern Ukraine. \u201cIt\u2019s not fair,\u201d Alexandra said. \u201cHe had nothing to do with whatever has been going on in that war zone. No one on that plane did. \u201cIt makes me sick that there\u2019s people out there that could ruin so many families with a push of a button.\u201d WATCH: Jennifer Tryon reports on the victims of Flight MH17 Andrei had so many plans for his career that wont\u2019 ever be fulfilled, Alexandra said. Story continues below advertisement \u201cHe wanted to change the world. He wanted to cure stuff.\u201d Andrei\u2019s immunology professor told Global News he was shocked and saddened at the news of his former student\u2019s death, remembering Andrei as someone \u201cfascinated with human disease\u201d with an \u201cabiding wish to be a doctor.\u201d University of Waterloo professor Brian Dixon wrote Andrei a recommendation letter for his application to Iuliu Hatieganu University of Medicine and Pharmacy in Cluj-Napoca, Romania\u2014his father Sorin\u2019s hometown. \u201cI knew that he was Romanian, I knew that his mother and his grandmother had done medical degrees in Romania,\u201d Dixon said. \u201cI knew about his abilities and his drive and his curiosity from all the questions he asked after class and in office hours.\u201d Dixon remembers hearing from Andrei in an August 2012 email, when the young man said he didn\u2019t think he was going to get into medical school and would take a year off to \u201cthink about things\u201d instead. Then in October of 2012, he wrote Dixon a second time with a very different outlook: He\u2019d gotten in. \u201cHe was so happy he was doing what he wanted,\u201d Dixon recalled. \u201cAnd this morning when I found out it was him, I was really saddened that after all that desire, after all that hard work to get into medical school\u2014it was taken away from him.\u201d Tweet This Story continues below advertisement President of the University of Waterloo Feridun Hamdullahpur said in a statement the entire university community is \u201cshocked and saddened by the tragic passing of Andrei Anghel.\u201d Related News Shot that downed Malaysia Airlines Flight MH17 came from separatist territory: Obama \u201cI offer my heartfelt condolences to his family members and friends at this extremely difficult time. This deplorable act has rocked the world\u00b9s scientific and research community. Our thoughts are with the families, friends and colleagues of all of those who died in this tragic event,\u201d said Hamdullahpur. Andrei also volunteered at a seniors\u2019 home in Waterloo, and worked as a camera operator and photo lab technician at university, according to a resume posted on his website. READ MORE: World leaders react to Malaysian Airlines MH17 Citizenship and Immigration Minister Chris Alexander, the member of Parliament for Ajax-Pickering, visited the Anghel family home Friday morning to express his sympathies. \u201cAndrei represented the best that Ajax and Canada have to offer,\u201d Alexander said in a statement. \u201cHe had worked and studied hard to realize his dream of becoming a doctor, and was looking forward to a long-planned holiday in Bali. My wife and I are devastated by his family\u2019s loss. Our hearts go out to Andrei\u2019s parents, his sister, other family members and friends, as well as those of his girlfriend, a German citizen with whom he was travelling, whose grief we share.\u201d The Canadian government is ready to assist Ukrainian authorities with the investigation, Alexander said. Story continues below advertisement Ontario Premier Kathleen Wynne tweeted her condolences Friday. So sad to hear Andrei Anghel from Ajax was on the Malaysian flight. Our thoughts are with his family during this tragic time of sorrow \u2014 Kathleen Wynne (@Kathleen_Wynne) July 18, 2014 Prime Minister Stephen Harper has issued a statement saying he was \u201cshocked and saddened\u201d to learn the passenger jet was shot down and said Canada is willing to assist authorities in determining the cause of the crash. The airline has said one Canadian was among the 298 people killed after what U.S. intelligence officials believe was a surface-to-air missile brought down the flight en route from Amsterdam-to-Kuala Lumpur. Meantime, Alexandra keeps waiting for her brother to walk in the door, remembering her last text to him. \u201cPlease be safe, kiddo.\u201d Click here to follow our live blog for updates *With files from Global News\u2019s Jennifer Tryon, Cindy Pom and The Canadian Press",
+        "subevents": {
+            "mw5": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Removing",
+                "frame elements": null,
+                "lemma": "take away",
+                "reftype": "type",
+                "sentence": "55"
+            },
+            "t1012": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Ride_vehicle",
+                "frame elements": null,
+                "lemma": "flight",
+                "reftype": "type",
+                "sentence": "77"
+            },
+            "t1087": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Killing",
+                "frame elements": null,
+                "lemma": "kill",
+                "reftype": "evoke",
+                "sentence": "80"
+            },
+            "t1120": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Waiting",
+                "frame elements": null,
+                "lemma": "wait",
+                "reftype": "evoke",
+                "sentence": "81"
+            },
+            "t1130": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Memory",
+                "frame elements": null,
+                "lemma": "remember",
+                "reftype": "evoke",
+                "sentence": "81"
+            },
+            "t114": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Catastrophe",
+                "frame elements": null,
+                "lemma": "disaster",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t117": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Awareness",
+                "frame elements": null,
+                "lemma": "know",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t123": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Self_motion",
+                "frame elements": null,
+                "lemma": "head",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t213": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Board_vehicle",
+                "frame elements": null,
+                "lemma": "board",
+                "reftype": "type",
+                "sentence": "18"
+            },
+            "t215": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Ride_vehicle",
+                "frame elements": [
+                    "Ride_vehicle@Vehicle",
+                    "Board_vehicle@Vehicle"
+                ],
+                "lemma": "flight",
+                "reftype": "evoke",
+                "sentence": "18",
+                "target phrase": "the flight"
+            },
+            "t289": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Travel",
+                "frame elements": null,
+                "lemma": "trip",
+                "reftype": "type",
+                "sentence": "24"
+            },
+            "t293": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Activity_finish",
+                "frame elements": null,
+                "lemma": "finish",
+                "reftype": "type",
+                "sentence": "24"
+            },
+            "t426": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Desiring",
+                "frame elements": null,
+                "lemma": "want",
+                "reftype": "type",
+                "sentence": "36"
+            },
+            "t433": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Desiring",
+                "frame elements": null,
+                "lemma": "want",
+                "reftype": "type",
+                "sentence": "37"
+            },
+            "t45": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Board_vehicle",
+                "frame elements": null,
+                "lemma": "embark",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t459": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Death",
+                "frame elements": null,
+                "lemma": "death",
+                "reftype": "evoke",
+                "sentence": "39"
+            },
+            "t49": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Travel",
+                "frame elements": [
+                    "Commitment@Topic",
+                    "Contacting@Topic"
+                ],
+                "lemma": "trip",
+                "reftype": "evoke",
+                "sentence": "3",
+                "target phrase": "-PRON- dream trip"
+            },
+            "t495": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Request",
+                "frame elements": [
+                    "Contacting@Topic"
+                ],
+                "lemma": "application",
+                "reftype": "type",
+                "sentence": "40",
+                "target phrase": "-PRON- application to Iuliu Hatieganu University of and Pharmacy"
+            },
+            "t561": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Questioning",
+                "frame elements": null,
+                "lemma": "ask",
+                "reftype": "type",
+                "sentence": "45"
+            },
+            "t585": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "say",
+                "reftype": "type",
+                "sentence": "47"
+            },
+            "t619": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Contacting",
+                "frame elements": null,
+                "lemma": "write",
+                "reftype": "type",
+                "sentence": "50"
+            },
+            "t642": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": null,
+                "lemma": "do",
+                "reftype": "evoke",
+                "sentence": "52"
+            },
+            "t65": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Contacting",
+                "frame elements": [
+                    "Commitment@Medium"
+                ],
+                "lemma": "texte",
+                "reftype": "type",
+                "sentence": "4",
+                "target phrase": "-PRON- texte -PRON- sister as -PRON- board , promise to check in from ."
+            },
+            "t70": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Board_vehicle",
+                "frame elements": null,
+                "lemma": "board",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "t72": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Commitment",
+                "frame elements": [
+                    "Contacting@Communication"
+                ],
+                "lemma": "promise",
+                "reftype": "type",
+                "sentence": "4",
+                "target phrase": "promise to check in from Bali"
+            },
+            "t722": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Death",
+                "frame elements": null,
+                "lemma": "passing",
+                "reftype": "type",
+                "sentence": "57"
+            },
+            "t800": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Work",
+                "frame elements": null,
+                "lemma": "volunteer",
+                "reftype": "type",
+                "sentence": "64"
+            },
+            "t810": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_employed",
+                "frame elements": null,
+                "lemma": "work",
+                "reftype": "type",
+                "sentence": "64"
+            },
+            "t871": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Representing",
+                "frame elements": null,
+                "lemma": "represent",
+                "reftype": "type",
+                "sentence": "68"
+            },
+            "t88": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Motion_directional",
+                "frame elements": null,
+                "lemma": "plunge",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t928": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Losing_someone",
+                "frame elements": null,
+                "lemma": "loss",
+                "reftype": "type",
+                "sentence": "71"
+            },
+            "t966": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Emotion_directed",
+                "frame elements": null,
+                "lemma": "grief",
+                "reftype": "evoke",
+                "sentence": "72"
+            },
+            "t982": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "74"
+            }
+        }
+    }
+}

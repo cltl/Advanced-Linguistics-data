@@ -1,0 +1,1584 @@
+{
+    "Here Are The Intercepted Transcripts Indicating Russian Rebels Shot Down Malaysian Flight MH17": {
+        "fe's without links": {
+            "t1012": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Needing@Dependent"
+                ],
+                "lemma": "convoy",
+                "sentence": "91",
+                "target phrase": "the convoy"
+            },
+            "t1062": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Operate_vehicle@Vehicle"
+                ],
+                "lemma": "piece",
+                "reftype": "evoke",
+                "sentence": "97",
+                "target phrase": "this piece , which -PRON- will drive now"
+            },
+            "t1398": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Waiting@Protagonist"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "145",
+                "target phrase": "-PRON-"
+            },
+            "t1404": {
+                "POS": "X",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Waiting@Expected_event"
+                ],
+                "lemma": "f",
+                "sentence": "146",
+                "target phrase": "f"
+            },
+            "t1437": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Activity_stop@Activity"
+                ],
+                "lemma": "lie",
+                "reftype": "evoke",
+                "sentence": "149",
+                "target phrase": "lie and fantasize"
+            },
+            "t1444": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Placing@Theme"
+                ],
+                "lemma": "responsibility",
+                "reftype": "evoke",
+                "sentence": "149",
+                "target phrase": "the responsibility on Ukraine \""
+            },
+            "t1446": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Rebellion@Current_leadership",
+                    "Placing@Goal"
+                ],
+                "lemma": "Ukraine",
+                "sentence": "149",
+                "target phrase": "Ukraine \""
+            },
+            "t1480": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Hiding_objects@Hidden_object"
+                ],
+                "lemma": "fact",
+                "sentence": "149",
+                "target phrase": "fact"
+            },
+            "t1533": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Supply@Theme"
+                ],
+                "lemma": "equipment",
+                "reftype": "evoke",
+                "sentence": "152",
+                "target phrase": "advanced military equipment contrary to assertion"
+            },
+            "t1546": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Hostile_encounter@Side_1",
+                    "Rebellion@Current_leadership"
+                ],
+                "lemma": "Ukraine",
+                "sentence": "152",
+                "target phrase": "Ukraine"
+            },
+            "t1559": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Hostile_encounter@Side_1"
+                ],
+                "lemma": "ukrainian",
+                "sentence": "153",
+                "target phrase": "ukrainian"
+            },
+            "t213": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bragging@Medium"
+                ],
+                "lemma": "social",
+                "sentence": "9",
+                "target phrase": "social"
+            },
+            "t290": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Communication@Topic"
+                ],
+                "lemma": "order",
+                "reftype": "evoke",
+                "sentence": "11",
+                "target phrase": "issue order"
+            },
+            "t307": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Using@Instrument"
+                ],
+                "lemma": "word",
+                "sentence": "12",
+                "target phrase": "code word ,"
+            },
+            "t322": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Statement@Topic"
+                ],
+                "lemma": "buk",
+                "sentence": "12",
+                "target phrase": "buk"
+            },
+            "t334": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Rebellion@Current_leadership",
+                    "Rebellion@Current_leadership",
+                    "Rebellion@Current_leadership",
+                    "Rebellion@Current_leadership",
+                    "Intercepting@Interceptor",
+                    "Rebellion@Current_leadership",
+                    "Rebellion@Current_leadership"
+                ],
+                "lemma": "side",
+                "reftype": "evoke",
+                "sentence": "13",
+                "target phrase": "the ukrainian side"
+            },
+            "t366": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Contacting@Communication",
+                    "Receiving@Theme"
+                ],
+                "lemma": "instruction",
+                "sentence": "14",
+                "target phrase": "instruction from superior in"
+            },
+            "t368": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Contacting@Communicator",
+                    "Receiving@Donor"
+                ],
+                "lemma": "superior",
+                "reftype": "evoke",
+                "sentence": "14",
+                "target phrase": "superior in russian military intelligence ( GRU )"
+            },
+            "t380": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Contacting@Topic",
+                    "Topic@Topic"
+                ],
+                "lemma": "receipt",
+                "sentence": "14",
+                "target phrase": "receipt , disposition ( include hiding )"
+            },
+            "t391": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Awareness@Topic"
+                ],
+                "lemma": "buk",
+                "sentence": "14",
+                "target phrase": "buk"
+            },
+            "t41": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Contacting@Addressee",
+                    "Discussion@Interlocutor_2",
+                    "Contacting@Addressee"
+                ],
+                "lemma": "agent",
+                "reftype": "evoke",
+                "sentence": "3",
+                "target phrase": "russian military intelligence agent"
+            },
+            "t438": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Categorization@Item"
+                ],
+                "lemma": "buk",
+                "sentence": "14",
+                "target phrase": "the buk"
+            },
+            "t44": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Contacting@Topic",
+                    "Discussion@Topic",
+                    "Contacting@Topic",
+                    "Discussion@Topic",
+                    "Discussion@Topic"
+                ],
+                "lemma": "presence",
+                "reftype": "evoke",
+                "sentence": "3",
+                "target phrase": "the presence , location , and disposition of BUK surface missile in the Donetsk region"
+            },
+            "t441": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Categorization@Category"
+                ],
+                "lemma": "changer",
+                "sentence": "14",
+                "target phrase": "the buk a game changer"
+            },
+            "t453": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Expectation@Phenomenon"
+                ],
+                "lemma": "action",
+                "reftype": "evoke",
+                "sentence": "14",
+                "target phrase": "russian hostile action"
+            },
+            "t538": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Contacting@Communication",
+                    "Contacting@Communication",
+                    "Communication@Message"
+                ],
+                "lemma": "work",
+                "sentence": "21",
+                "target phrase": "work out a plane near Stanitsa ."
+            },
+            "t570": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Possession@Possession"
+                ],
+                "lemma": "BUK",
+                "sentence": "26",
+                "target phrase": "BUK"
+            },
+            "t589": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Terrorism@Terrorist"
+                ],
+                "lemma": "Khmuryi",
+                "sentence": "27",
+                "target phrase": "talk between terrorist July 17 , 2014 Khmuryi :"
+            },
+            "t60": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Area",
+                    "Operate_vehicle@Area"
+                ],
+                "lemma": "Donetsk",
+                "sentence": "3",
+                "target phrase": "Donetsk"
+            },
+            "t654": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Placing@Theme"
+                ],
+                "lemma": "beauty",
+                "sentence": "33",
+                "target phrase": "this beauty , Nikolaievich"
+            },
+            "t671": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Theme"
+                ],
+                "lemma": "one",
+                "sentence": "38",
+                "target phrase": "yes , the one -PRON- have bring ."
+            },
+            "t732": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Needing@Requirement"
+                ],
+                "lemma": "unload",
+                "sentence": "54",
+                "target phrase": "to unload -PRON- somewhere , in order hide"
+            },
+            "t997": {
+                "POS": "DET",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Needing@Requirement"
+                ],
+                "lemma": "those",
+                "sentence": "91",
+                "target phrase": "just come back , only as much need only those , who"
+            }
+        },
+        "frames/links": {
+            "Q159": {
+                "t1402": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Waiting@Salient_entity"
+                    ],
+                    "lemma": "Russia",
+                    "sentence": "145",
+                    "target phrase": "Russia"
+                },
+                "t1435": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Activity_stop@Agent",
+                        "Placing@Agent"
+                    ],
+                    "lemma": "authority",
+                    "reftype": "evoke",
+                    "sentence": "149",
+                    "target phrase": "russian authority"
+                },
+                "t1461": {
+                    "POS": "DET",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Guilt_or_innocence@Accused"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "149",
+                    "target phrase": "-PRON-"
+                },
+                "t1472": {
+                    "POS": "DET",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Committing_crime@Perpetrator",
+                        "Hiding_objects@Agent",
+                        "Destroying@Destroyer"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "149",
+                    "target phrase": "-PRON-"
+                },
+                "t1518": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Supply@Supplier"
+                    ],
+                    "lemma": "Russia",
+                    "sentence": "152",
+                    "target phrase": "Russia"
+                }
+            },
+            "Q1631864085791": {
+                "t1008": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Needing@Cognizer"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "91",
+                    "target phrase": "-PRON-"
+                },
+                "t1065": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Operate_vehicle@Driver"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "97",
+                    "target phrase": "-PRON-"
+                },
+                "t1432": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "149",
+                    "target phrase": "the separatist and russian authority"
+                },
+                "t1461": {
+                    "POS": "DET",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Guilt_or_innocence@Accused"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "149",
+                    "target phrase": "-PRON-"
+                },
+                "t1472": {
+                    "POS": "DET",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Committing_crime@Perpetrator",
+                        "Hiding_objects@Agent",
+                        "Destroying@Destroyer"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "149",
+                    "target phrase": "-PRON-"
+                },
+                "t1528": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": null,
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "152"
+                },
+                "t1529": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Supply@Recipient",
+                        "Hostile_encounter@Side_2",
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "leader",
+                    "reftype": "evoke",
+                    "sentence": "152",
+                    "target phrase": "fanatical and in case possibly insane rebel leader with advanced military equipment contrary"
+                },
+                "t1572": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Hostile_encounter@Side_2",
+                        "Rebellion@Rebel",
+                        "Supply@Recipient",
+                        "Destroying@Destroyer"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "154",
+                    "target phrase": "rebel , supply by power"
+                },
+                "t1574": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Supply",
+                    "frame elements": null,
+                    "lemma": "supply",
+                    "reftype": "evoke",
+                    "sentence": "154"
+                },
+                "t1578": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Supply@Supplier"
+                    ],
+                    "lemma": "power",
+                    "reftype": "evoke",
+                    "sentence": "154",
+                    "target phrase": "a major power with surface missile"
+                },
+                "t1585": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Supply@Theme"
+                    ],
+                    "lemma": "missile",
+                    "reftype": "evoke",
+                    "sentence": "154",
+                    "target phrase": "surface - to - air missile"
+                },
+                "t209": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": null,
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "9"
+                },
+                "t210": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Bragging@Speaker",
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "commander",
+                    "reftype": "evoke",
+                    "sentence": "9",
+                    "target phrase": "the supreme rebel commander"
+                },
+                "t217": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Destroying@Destroyer"
+                    ],
+                    "lemma": "force",
+                    "reftype": "evoke",
+                    "sentence": "9",
+                    "target phrase": "-PRON- force"
+                },
+                "t262": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "10",
+                    "target phrase": "the rebel and -PRON- russian handler"
+                },
+                "t271": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": null,
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "11"
+                },
+                "t273": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Communication@Communicator",
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "officer",
+                    "sentence": "11",
+                    "target phrase": "that separatist field officer and -PRON- russian superior"
+                },
+                "t304": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Using@Agent"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "12",
+                    "target phrase": "-PRON-"
+                },
+                "t318": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Statement@Speaker"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "12",
+                    "target phrase": "-PRON-"
+                },
+                "t326": {
+                    "POS": "DET",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Communication@Communicator"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "13",
+                    "target phrase": "-PRON-"
+                },
+                "t36": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Irregular_combatants",
+                    "frame elements": [
+                        "Contacting@Communicator",
+                        "Irregular_combatants@Combatant",
+                        "Discussion@Interlocutor_1",
+                        "Contacting@Communicator"
+                    ],
+                    "lemma": "militant",
+                    "reftype": "evoke",
+                    "sentence": "3",
+                    "target phrase": "militant and russian military intelligence agent"
+                },
+                "t360": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Contacting@Addressee",
+                        "Rebellion@Rebel",
+                        "Receiving@Recipient"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "14",
+                    "target phrase": "rebel on the ground"
+                },
+                "t378": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Topic@Communicator"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "14",
+                    "target phrase": "-PRON-"
+                },
+                "t416": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Awareness@Cognizer"
+                    ],
+                    "lemma": "crew",
+                    "reftype": "evoke",
+                    "sentence": "14",
+                    "target phrase": "a crew that know how to operate -PRON-"
+                },
+                "t418": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Awareness",
+                    "frame elements": null,
+                    "lemma": "know",
+                    "reftype": "evoke",
+                    "sentence": "14"
+                },
+                "t419": {
+                    "POS": "ADV",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Awareness@Content"
+                    ],
+                    "lemma": "how",
+                    "sentence": "14",
+                    "target phrase": "how"
+                },
+                "t435": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel",
+                        "Categorization@Cognizer"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "14",
+                    "target phrase": "the rebel"
+                },
+                "t445": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Expectation@Cognizer"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "14",
+                    "target phrase": "-PRON-"
+                },
+                "t478": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Terrorism",
+                    "frame elements": [
+                        "Discussion@Interlocutors"
+                    ],
+                    "lemma": "terrorist",
+                    "reftype": "evoke",
+                    "sentence": "15",
+                    "target phrase": "terrorist , July 14 , 2014"
+                },
+                "t485": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Terrorism@Terrorist"
+                    ],
+                    "lemma": "Oleh",
+                    "sentence": "16",
+                    "target phrase": "\u201c Oleh \""
+                },
+                "t568": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Possession@Owner"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "26",
+                    "target phrase": "-PRON-"
+                },
+                "t583": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Terrorism",
+                    "frame elements": [
+                        "Discussion@Interlocutors"
+                    ],
+                    "lemma": "terrorist",
+                    "reftype": "evoke",
+                    "sentence": "27",
+                    "target phrase": "terrorist ,"
+                },
+                "t651": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Placing@Agent"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "33",
+                    "target phrase": "-PRON-"
+                },
+                "t672": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Bringing@Agent"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "38",
+                    "target phrase": "-PRON-"
+                },
+                "t729": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Needing@Cognizer"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "54",
+                    "target phrase": "-PRON-"
+                }
+            },
+            "Q1631864271612": {
+                "t1591": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Destroying@Patient"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "154",
+                    "target phrase": "a passenger plane"
+                },
+                "t222": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Destroying@Patient"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "9",
+                    "target phrase": "the plane which prove to be MH17"
+                }
+            },
+            "Q1637127655450": {},
+            "Q17374096": {
+                "mw2": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Destroying",
+                    "frame elements": [
+                        "Committing_crime@Crime",
+                        "Bragging@Message"
+                    ],
+                    "lemma": "bring down",
+                    "reftype": "type",
+                    "sentence": "9",
+                    "target phrase": "bring down"
+                },
+                "mw4": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Destroying",
+                    "frame elements": null,
+                    "lemma": "bring down",
+                    "reftype": "type",
+                    "sentence": "154"
+                },
+                "t1472": {
+                    "POS": "DET",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Committing_crime@Perpetrator",
+                        "Hiding_objects@Agent",
+                        "Destroying@Destroyer"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "149",
+                    "target phrase": "-PRON-"
+                },
+                "t1474": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Committing_crime",
+                    "frame elements": [
+                        "Guilt_or_innocence@Misdeed"
+                    ],
+                    "lemma": "crime",
+                    "reftype": "evoke",
+                    "sentence": "149",
+                    "target phrase": "-PRON- unpremeditated crime"
+                }
+            }
+        },
+        "historical distance": 2,
+        "implicated fe's": [
+            "Contacting@Address",
+            "Communication@Message",
+            "Communication@Medium",
+            "Using@Purpose",
+            "Statement@Message",
+            "Contacting@Address",
+            "Topic@Text",
+            "Awareness@Expressor",
+            "Categorization@Criteria",
+            "Terrorism@Act",
+            "Terrorism@Victim",
+            "Terrorism@Act",
+            "Terrorism@Victim",
+            "Placing@Goal",
+            "Bringing@Goal",
+            "Bringing@Source",
+            "Bringing@Path",
+            "Bringing@Carrier",
+            "Needing@Consequences",
+            "Needing@Dependent",
+            "Operate_vehicle@Source",
+            "Operate_vehicle@Path",
+            "Operate_vehicle@Goal",
+            "Evidence@Proposition",
+            "Hostile_encounter@Issue",
+            "Hostile_encounter@Purpose",
+            "Hostile_encounter@Issue",
+            "Hostile_encounter@Purpose",
+            "Bragging@Expressor",
+            "Bragging@Topic",
+            "Communication@Topic"
+        ],
+        "raw text": "Here Are The Intercepted Transcripts Indicating Russian Rebels Shot Down Malaysian Flight MH17.\nThis article is more than 6 years old. The Ukrainian intelligence service has released more intercepted phone calls that show militants and Russian military intelligence agents discussing the presence, location, and disposition of BUK surface-to-air missiles in the Donetsk region. Ukrainian intelligence has provided the voice recordings and English transcripts, which I have had checked by an expert against the Russian voice recordings. I have used such intercepts in past columns on hostage releases and on ordered executions of opposition figures, and they have proven to be accurate. Russian propaganda will, of course, sputter in indignation that these recordings are fabricated, but they are, in my considered opinion, authentic. I reproduce them in full. Readers can form their own opinion. They correspond to known facts I have already described\u2013that surface-to-air missiles had been fired from this very area to bring down a Ukrainian transport plane days before, that a BUK missile had been sighted in the area by an Associated Press correspondent, and that the supreme rebel commander boasted on social media that his forces had brought down the plane which proved to be MH17. But once this piece is posted, Putin\u2019s trolls will go over every word of the often-garbled conversations to triumphantly declare they are falsifications or prove the innocence of the rebels and their Russian handlers. Forget not that separatist field officers and their Russian superiors must communicate with one another in order to be briefed and issue orders. In the case of the BUK systems, there are instances where they use code words, like \u201cbeauty,\u201d but in most cases they speak clearly about BUKs. Apparently, their communications are routinely intercepted by the Ukrainian side, just as I imagine similar Ukrainian field communications are by the pro-Russian side. The transcripts of the intercepted calls show that rebels on the ground were receiving instructions from superiors in Russian military intelligence (GRU), that they discussed receipt, disposition (including hiding), and use of BUKs to bring down Ukrainian planes, that at least one BUK had come into Ukraine across the Russian border, that there was a crew that knew how to operate it, that there was likely more than one BUK, that the rebels considered the BUKs a game changer, and that they were expecting some sort of Russian hostile action launched from across the border. Here are the English transcripts and the voice recordings of intercepted phone calls in Russian: Talks between terrorists, July 14, 2014 \u201cOleh\u201d \u2013 Oleh Bugrov Valeriovych, army chief of staff of self-proclaimed Luhansk People's Republic, deputy minister of defense of \u201cLNR\u201d \u201cOreon\u201d \u2013 a citizen of the Russian Federation, officer of Main Intelligence Directorate (to be identified). Oleh: \u2013 Worked out a plane near Stanitsa. Missed. Oreon: \u2013 Great. This way they are taking revenge on planes, but only several days remain. Now we have BUK, will shall bring them (planes) down. Talks between terrorists, July 17, 2014 Khmuryi: Sergei Nikolaevich Petrovskiy, officer of Main Intelligence Directorate of Russian Federation, Deputy Chief of Igor Girkin on Intelligence; at the time of the interception he was in Donetsk. \u201cBuryat\u201d \u2013 militant of rebel group \u201cDNR,\u201d or Donetsk People's Republic (to be identified). Buryat: \u2013 Where should we load this beauty, Nikolaievich? Khmuryi: Which one? This one? B: Yes, the one I've brought. I'm already in Donetsk. K: Is it the one I'm thinking about? \u201cB...,\u201dM\u201d one? B: Yes, yes, yes. \u201cBUK\u201d,\u201dBUK\u201d. K: Is it on a tractor? B: Yes, it's on it. We need to unload it somewhere, in order to hide. K: Is it with a crew? B: Yes, with the crew. K: Don't hide it anywhere. She'll go there now. July 17, 2014 Khmuryi: \u2013 Tell me, have you brought me one or two? Buryat: One, one. Because they had a misunderstanding there. They didn't give us a tug. We loaded it and went at their own pace. K: Did it go on her own or on a tug? B: It crossed the line (border). H: And now have you brought it on a tug? Don't put in anywhere... I'll tell now where it should go, it will go together with \u201cVostok\u201d tanks. July 17, 2014 Khmuryi and \u201cSanych\u201d \u2013 militant of terrorist organization \u201cDNR\u201d. Deputy of Khmuryi. K: Sanych, the point is that my \u201cBUK\u2013M\u201d will go with yours, it is on a tug. Where should I drive it to put in a column? Sanych: There, behind \u201cMotel\u201d, not reaching Hornostaevka. K: Just after the Motel, right? July 17, 2014 Khmuryi: Listen to me carefully, behind the circle near \u201cMotel\u201d there will be you know what. Call to \u201cBibliotekar\u201d (Librarian). Bring inside only those, who just came back, only as much as you need for the convoy. Leave everyone else here. Not far away there is Pervomaiskoe, look at the map. DNR militant: I got it. Khmuryi: Settle somewhere in that area, bring there those who are left. Your task is reserve, plus protection of this piece, which you will drive now. \u201cGiyrza\u201d will come there too. If anything, I'm on line. DNR militant: \u2013 Ok. July 17, 2014 Khmuryi and \u201cBotsman\u201d \u2013 officer of Main Intelligence Directorate of Russian Federation (to be identified). K: Yes, Botsman, I'm listening. B: Hello, big brother. How are you? K: Not so well. We are in Mariinovka. That's why not well. Carrying on. B: What's wrong? K: What do you think? (The Ukrainian army is) attacking with \u201cGrad\u201d (multiple-rocket launchers) all the time, finally now we're having a little break. We've just hit a plane, Su\u2013type. Because we've got BUK\u2013M. They (Ukrainian soldiers) are now in Zelenopillja, trying to break free, but their way out is only through me. Yesterday we hit 2 Su jets, today \u2013 another two. Thank God \u201cBUK\u2013M\u201d arrived today in the morning. It became easier. But in general, of course, it's tough. B: What can I say, if you need anything, call me \u2013 and I'll arrive immediately. H: Thanks, brother. I'm going in two hours...Seems like it's a lull. In two hours I'm heading to Donetsk. Because I was sent three more \u201cGvozdika\u201d (self\u2013propelled artillery). Will carry 'Gvozdikas' here because it's really tough now. B: Maybe we should cover them with (our own) Grad (multiple-rocket launchers)? H: The thing is that we have Grad, but no spotter. And secondly, we are waiting for Russia to f*** them from their side. Independent Russian military analyst Pavel Felgenhauer, advises Putin as follows: \u201cIt would be better if the separatists and Russian authorities stopped lying and fantasizing and \u201cplacing the responsibility on Ukraine\u201d (to use Putin\u2019s words) but admit as soon as possible their own guilt, such as it exists, not prolonging their unpremeditated crime with a premeditated concealing of facts and the destruction or distortion of evidence.\u201d Felgenhauer, I am sure, gave this advice knowing that Putin cannot comply. If Putin were to admit the truth, it would confirm that Russia has supplied fanatical and in some cases possibly insane rebel leaders with advanced military equipment contrary to his assertions that Russia has nothing to do with the Ukraine conflict, other than wanting peace. Such an admission expands the Ukrainian conflict to the world stage. It is the first case of rebels, supplied by a major power with surface-to-air missiles, bringing down a passenger plane. A nightmare shared by the whole world has come true. Which rebel group in Afghanistan, Iraq, Somalia, or the Gaza strip will be next? In this context, Putin is just as dangerous as al Qaeda, ISIS, Hamas, and the rest of this crowd.",
+        "subevents": {
+            "t1009": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Needing",
+                "frame elements": null,
+                "lemma": "need",
+                "reftype": "evoke",
+                "sentence": "91"
+            },
+            "t1067": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Operate_vehicle",
+                "frame elements": null,
+                "lemma": "drive",
+                "reftype": "evoke",
+                "sentence": "97"
+            },
+            "t1400": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Waiting",
+                "frame elements": null,
+                "lemma": "wait",
+                "reftype": "evoke",
+                "sentence": "145"
+            },
+            "t1436": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Activity_stop",
+                "frame elements": null,
+                "lemma": "stop",
+                "reftype": "type",
+                "sentence": "149"
+            },
+            "t1442": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Placing",
+                "frame elements": null,
+                "lemma": "place",
+                "reftype": "type",
+                "sentence": "149"
+            },
+            "t1463": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Guilt_or_innocence",
+                "frame elements": null,
+                "lemma": "guilt",
+                "reftype": "type",
+                "sentence": "149"
+            },
+            "t1478": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hiding_objects",
+                "frame elements": null,
+                "lemma": "concealing",
+                "reftype": "evoke",
+                "sentence": "149"
+            },
+            "t1483": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Destroying",
+                "frame elements": null,
+                "lemma": "destruction",
+                "reftype": "evoke",
+                "sentence": "149"
+            },
+            "t1487": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": [
+                    "Destroying@Patient",
+                    "Evidence@Support"
+                ],
+                "lemma": "evidence",
+                "reftype": "evoke",
+                "sentence": "149",
+                "target phrase": "evidence"
+            },
+            "t1520": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Supply",
+                "frame elements": null,
+                "lemma": "supply",
+                "reftype": "evoke",
+                "sentence": "152"
+            },
+            "t1547": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": [
+                    "Supply@Imposed_purpose",
+                    "Supply@Imposed_purpose"
+                ],
+                "lemma": "conflict",
+                "reftype": "evoke",
+                "sentence": "152",
+                "target phrase": "the Ukraine conflict"
+            },
+            "t1560": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "conflict",
+                "reftype": "evoke",
+                "sentence": "153"
+            },
+            "t211": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bragging",
+                "frame elements": null,
+                "lemma": "boast",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t279": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Communication",
+                "frame elements": null,
+                "lemma": "communicate",
+                "reftype": "evoke",
+                "sentence": "11"
+            },
+            "t305": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Using",
+                "frame elements": null,
+                "lemma": "use",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t319": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "speak",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t327": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Communication",
+                "frame elements": [
+                    "Intercepting@Theme"
+                ],
+                "lemma": "communication",
+                "reftype": "type",
+                "sentence": "13",
+                "target phrase": "-PRON- communication"
+            },
+            "t33": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Contacting",
+                "frame elements": [
+                    "Statement@Medium",
+                    "Communication@Medium"
+                ],
+                "lemma": "call",
+                "reftype": "evoke",
+                "sentence": "3",
+                "target phrase": "more intercept phone call that show militant and agent discuss presence"
+            },
+            "t330": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intercepting",
+                "frame elements": null,
+                "lemma": "intercept",
+                "reftype": "type",
+                "sentence": "13"
+            },
+            "t357": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Contacting",
+                "frame elements": null,
+                "lemma": "call",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t365": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Receiving",
+                "frame elements": null,
+                "lemma": "receive",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t379": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Topic",
+                "frame elements": null,
+                "lemma": "discuss",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t42": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "discuss",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t436": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Categorization",
+                "frame elements": null,
+                "lemma": "consider",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t447": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Expectation",
+                "frame elements": null,
+                "lemma": "expect",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t472": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Contacting",
+                "frame elements": null,
+                "lemma": "call",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t476": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "talk",
+                "reftype": "type",
+                "sentence": "15"
+            },
+            "t569": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Possession",
+                "frame elements": null,
+                "lemma": "have",
+                "reftype": "type",
+                "sentence": "26"
+            },
+            "t581": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "talk",
+                "reftype": "type",
+                "sentence": "27"
+            },
+            "t652": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Placing",
+                "frame elements": null,
+                "lemma": "load",
+                "reftype": "evoke",
+                "sentence": "33"
+            },
+            "t674": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bringing",
+                "frame elements": null,
+                "lemma": "bring",
+                "reftype": "evoke",
+                "sentence": "38"
+            },
+            "t730": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Needing",
+                "frame elements": null,
+                "lemma": "need",
+                "reftype": "evoke",
+                "sentence": "54"
+            }
+        }
+    }
+}

@@ -1,0 +1,879 @@
+{
+    "General designer of Su-25 says aircraft couldn\u2019t have shot down MH17": {
+        "fe's without links": {
+            "t147": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Damaging@Cause"
+                ],
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "10",
+                "target phrase": "air - to - air missile"
+            },
+            "t188": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Impact@Impactor",
+                    "Shoot_projectiles@Projectile",
+                    "Impact@Impactor"
+                ],
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "12",
+                "target phrase": "a ground - to - air missile that be launch from system"
+            },
+            "t210": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Participation@Participant_1"
+                ],
+                "lemma": "Su-25",
+                "sentence": "14",
+                "target phrase": "Su-25"
+            },
+            "t238": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Downing@Cause"
+                ],
+                "lemma": "Su-25",
+                "sentence": "16",
+                "target phrase": "a Su-25"
+            },
+            "t316": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Supply@Theme",
+                    "Downing@Cause"
+                ],
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "18",
+                "target phrase": "a powerful Buk - M anti - aircraft missile , which Ukraine say be supply to from"
+            },
+            "t341": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Evidence@Support",
+                    "Evidence@Support"
+                ],
+                "lemma": "photo",
+                "sentence": "19",
+                "target phrase": "photo and video of the Buk system in"
+            },
+            "t376": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Response@Trigger"
+                ],
+                "lemma": "news",
+                "sentence": "19",
+                "target phrase": "news of the"
+            },
+            "t406": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Operating_a_system@System",
+                    "Downing@Cause"
+                ],
+                "lemma": "system",
+                "reftype": "evoke",
+                "sentence": "19",
+                "target phrase": "a Buk system operate either by militant"
+            },
+            "t445": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Attack@Victim"
+                ],
+                "lemma": "plane",
+                "sentence": "20",
+                "target phrase": "a large ukrainian military transport plane"
+            },
+            "t450": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Investigator",
+                    "Creating@Creator"
+                ],
+                "lemma": "team",
+                "reftype": "evoke",
+                "sentence": "21",
+                "target phrase": "the dutch investigation team investigate the crash of"
+            },
+            "t462": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Creating@Created_entity"
+                ],
+                "lemma": "report",
+                "reftype": "evoke",
+                "sentence": "21",
+                "target phrase": "-PRON- final report"
+            }
+        },
+        "frames/links": {
+            "Q159": {
+                "t330": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Supply@Supplier"
+                    ],
+                    "lemma": "Russian",
+                    "sentence": "18",
+                    "target phrase": "Russian"
+                }
+            },
+            "Q1631025548534": {
+                "t281": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Catastrophe@Patient",
+                        "Catastrophe@Patient",
+                        "Catastrophe@Patient",
+                        "Causation@Affected",
+                        "Death@Protagonist"
+                    ],
+                    "lemma": "passenger",
+                    "sentence": "17",
+                    "target phrase": "298 passenger and crew member"
+                }
+            },
+            "Q1631864085791": {
+                "t327": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Irregular_combatants",
+                    "frame elements": [
+                        "Shoot_projectiles@Agent",
+                        "Supply@Recipient",
+                        "Irregular_combatants@Combatant",
+                        "Criminal_investigation@Suspect",
+                        "Downing@Agent"
+                    ],
+                    "lemma": "militant",
+                    "reftype": "evoke",
+                    "sentence": "18",
+                    "target phrase": "anti - government militant"
+                },
+                "t373": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Irregular_combatants",
+                    "frame elements": [
+                        "Irregular_combatants@Combatant",
+                        "Downing@Agent",
+                        "Downing@Agent",
+                        "Response@Responding_entity"
+                    ],
+                    "lemma": "militant",
+                    "reftype": "evoke",
+                    "sentence": "19",
+                    "target phrase": "militant react to news"
+                },
+                "t389": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Irregular_combatants",
+                    "frame elements": [
+                        "Irregular_combatants@Combatant"
+                    ],
+                    "lemma": "militant",
+                    "reftype": "evoke",
+                    "sentence": "19",
+                    "target phrase": "militant on social medium"
+                },
+                "t411": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Irregular_combatants",
+                    "frame elements": [
+                        "Operating_a_system@Operator",
+                        "Irregular_combatants@Combatant",
+                        "Downing@Agent"
+                    ],
+                    "lemma": "militant",
+                    "reftype": "evoke",
+                    "sentence": "19",
+                    "target phrase": "the militant or russian serviceman"
+                },
+                "t424": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Irregular_combatants",
+                    "frame elements": [
+                        "Irregular_combatants@Combatant",
+                        "Cogitation@Cognizer",
+                        "Downing@Agent",
+                        "Bungling@Agent"
+                    ],
+                    "lemma": "militant",
+                    "reftype": "evoke",
+                    "sentence": "20",
+                    "target phrase": "the militant or Russians"
+                },
+                "t435": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Attack@Assailant"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "20",
+                    "target phrase": "-PRON-"
+                }
+            },
+            "Q1631864271612": {
+                "t110": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Destroying@Patient",
+                        "Breaking_apart@Whole"
+                    ],
+                    "lemma": "Boeing",
+                    "sentence": "8",
+                    "target phrase": "the Boeing , which at time break apart in air"
+                },
+                "t118": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": null,
+                    "lemma": "disaster",
+                    "reftype": "evoke",
+                    "sentence": "8"
+                },
+                "t119": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Breaking_apart",
+                    "frame elements": null,
+                    "lemma": "break",
+                    "reftype": "type",
+                    "sentence": "8"
+                },
+                "t155": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Damaging@Patient"
+                    ],
+                    "lemma": "aircraft",
+                    "reftype": "evoke",
+                    "sentence": "10",
+                    "target phrase": "the malaysian aircraft"
+                },
+                "t177": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Impact@Impactee"
+                    ],
+                    "lemma": "Boeing",
+                    "sentence": "12",
+                    "target phrase": "Boeing"
+                },
+                "t243": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "Boeing",
+                    "sentence": "16",
+                    "target phrase": "a Boeing"
+                },
+                "t303": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "18",
+                    "target phrase": "the malaysian plane"
+                },
+                "t366": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "19",
+                    "target phrase": "MH17"
+                },
+                "t382": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "19",
+                    "target phrase": "MH17"
+                },
+                "t398": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "19",
+                    "target phrase": "the plane"
+                },
+                "t429": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient",
+                        "Bungling@Patient"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "20",
+                    "target phrase": "MH17"
+                },
+                "t455": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Impact@Impactee"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "21",
+                    "target phrase": "MH17"
+                }
+            },
+            "Q1636580448374": {},
+            "Q17374096": {
+                "mw2": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event",
+                        "Catastrophe@Undesirable_event",
+                        "Catastrophe@Undesirable_event"
+                    ],
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "18",
+                    "target phrase": "shoot down"
+                },
+                "mw5": {
+                    "POS": "MWE",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "shooting down",
+                    "reftype": "type",
+                    "sentence": "19"
+                },
+                "mw6": {
+                    "POS": "MWE",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "shooting down",
+                    "reftype": "type",
+                    "sentence": "19"
+                },
+                "mw7": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Evidence@Proposition",
+                        "Bungling@Action"
+                    ],
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "20",
+                    "target phrase": "shoot down"
+                },
+                "mw8": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Evidence@Proposition"
+                    ],
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "19",
+                    "target phrase": "shoot down"
+                },
+                "t118": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": null,
+                    "lemma": "disaster",
+                    "reftype": "evoke",
+                    "sentence": "8"
+                },
+                "t214": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Participation@Event"
+                    ],
+                    "lemma": "tragedy",
+                    "reftype": "evoke",
+                    "sentence": "14",
+                    "target phrase": "the tragedy"
+                },
+                "t267": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Causation@Cause"
+                    ],
+                    "lemma": "tragedy",
+                    "reftype": "evoke",
+                    "sentence": "17",
+                    "target phrase": "the tragedy of Airlines Flight MH17 , lead ,"
+                },
+                "t366": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "19",
+                    "target phrase": "MH17"
+                },
+                "t382": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "19",
+                    "target phrase": "MH17"
+                },
+                "t453": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Impact",
+                    "frame elements": [
+                        "Criminal_investigation@Incident"
+                    ],
+                    "lemma": "crash",
+                    "reftype": "type",
+                    "sentence": "21",
+                    "target phrase": "the crash of MH17"
+                },
+                "t455": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Impact@Impactee"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "21",
+                    "target phrase": "MH17"
+                }
+            }
+        },
+        "historical distance": 237,
+        "implicated fe's": [
+            "Destroying@Destroyer",
+            "Breaking_apart@Pieces",
+            "Supply@Imposed_purpose",
+            "Response@Response"
+        ],
+        "raw text": "General designer of Su-25 says aircraft couldn&#8217;t have shot down MH17.\n\"The Su-25 could attack a Boeing at a height of three or four thousand meters, but it can\u2019t shoot down a plane flying at an altitude of 10,500 meters,\" he said. According to Babak, he was engaged in the construction of this attack aircraft for about 30 years. \"Our team has designed this plane so that it can be used only at low and medium altitudes,\" he said. \"The aircraft can briefly rise to high altitude, but in order to destroy the Boeing, which at the time of the disaster broke apart in the air, there would have to have been heavy missiles on the Su-25,\" Babak said. \"Air-to-air missiles could only cause damage to the Malaysian aircraft, but they could not lead to what happened,\" he said. \"Many more factors indicate that the Boeing 777 was hit by a ground-to-air missile that was launched from a Buk missile system,\" Babak said. \"I believe that all allegations of the Su-25 involvement in the tragedy are an attempt to cover tracks. I can\u2019t explain it in any other way. We do not understand how a Su-25 could shoot down a Boeing,\" he added. As reported earlier, the version of the possible involvement of the Ukrainian Su-25 attack aircraft into the tragedy of Malaysia Airlines Flight MH17, which led to the deaths of 298 passengers and crew members, was spread by Russia\u2019s General Staff. However, the Ukrainian authorities believe that the Malaysian plane was shot down by a powerful Buk-M anti-aircraft missile, which Ukraine says was supplied to anti-government militants from the Russian Federation. A large amount of circumstantial evidence, including photos and videos of the Buk system in Ukraine, interviews with witnesses who saw the system in the area where the shooting down of MH17 occurred, alleged tape recordings of militants reacting to news of the shooting down of MH17, and tweets and postings by militants on social media, strongly indicate that the plane was indeed shot down by a Buk system operated either by the militants or Russian servicemen. According to some of the evidence, the militants or Russians shot down MH17 by mistake, thinking that they had in fact attacked a large Ukrainian military transport plane. The Dutch investigation team investigating the crash of MH17 is expected to issue its final report in October.",
+        "subevents": {
+            "mw1": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Downing",
+                "frame elements": null,
+                "lemma": "shoot down",
+                "reftype": "type",
+                "sentence": "16"
+            },
+            "t108": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Destroying",
+                "frame elements": null,
+                "lemma": "destroy",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t151": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Damaging",
+                "frame elements": null,
+                "lemma": "damage",
+                "reftype": "type",
+                "sentence": "10"
+            },
+            "t180": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Impact",
+                "frame elements": null,
+                "lemma": "hit",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t191": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": null,
+                "lemma": "launch",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t211": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Participation",
+                "frame elements": null,
+                "lemma": "involvement",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t275": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Causation",
+                "frame elements": null,
+                "lemma": "lead",
+                "reftype": "type",
+                "sentence": "17"
+            },
+            "t278": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Death",
+                "frame elements": [
+                    "Causation@Effect"
+                ],
+                "lemma": "death",
+                "reftype": "evoke",
+                "sentence": "17",
+                "target phrase": "the death of 298 passenger and member"
+            },
+            "t322": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Supply",
+                "frame elements": null,
+                "lemma": "supply",
+                "reftype": "evoke",
+                "sentence": "18"
+            },
+            "t338": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": null,
+                "lemma": "evidence",
+                "reftype": "evoke",
+                "sentence": "19"
+            },
+            "t374": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Response",
+                "frame elements": null,
+                "lemma": "react",
+                "reftype": "type",
+                "sentence": "19"
+            },
+            "t407": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Operating_a_system",
+                "frame elements": null,
+                "lemma": "operate",
+                "reftype": "evoke",
+                "sentence": "19"
+            },
+            "t421": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": null,
+                "lemma": "evidence",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t431": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bungling",
+                "frame elements": null,
+                "lemma": "mistake",
+                "reftype": "type",
+                "sentence": "20"
+            },
+            "t433": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cogitation",
+                "frame elements": null,
+                "lemma": "think",
+                "reftype": "type",
+                "sentence": "20"
+            },
+            "t439": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attack",
+                "frame elements": [
+                    "Cogitation@Topic"
+                ],
+                "lemma": "attack",
+                "reftype": "evoke",
+                "sentence": "20",
+                "target phrase": "that -PRON- have in fact attack a large ukrainian military transport plane"
+            },
+            "t451": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigate",
+                "reftype": "type",
+                "sentence": "21"
+            },
+            "t459": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Creating",
+                "frame elements": null,
+                "lemma": "issue",
+                "reftype": "evoke",
+                "sentence": "21"
+            }
+        }
+    }
+}

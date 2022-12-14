@@ -1,0 +1,319 @@
+{
+    "Air India flight with 126 on board was right behind MH 17": {
+        "fe's without links": {
+            "t110": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Possession@Possession"
+                ],
+                "lemma": "escape",
+                "reftype": "evoke",
+                "sentence": "5",
+                "target phrase": "a narrow escape"
+            },
+            "t132": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Using@Role"
+                ],
+                "lemma": "route",
+                "reftype": "evoke",
+                "sentence": "6",
+                "target phrase": "a different route"
+            },
+            "t188": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Avoiding@Agent"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "10",
+                "target phrase": "-PRON-"
+            },
+            "t233": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Using@Agent"
+                ],
+                "lemma": "airline",
+                "sentence": "12",
+                "target phrase": "many airline"
+            },
+            "t236": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Using@Instrument"
+                ],
+                "lemma": "it.\"also",
+                "sentence": "12",
+                "target phrase": "it.\"also"
+            },
+            "t237": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Opinion@Cognizer"
+                ],
+                "lemma": "airline",
+                "sentence": "12",
+                "target phrase": "airline and pilot"
+            },
+            "t256": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Opinion@Opinion"
+                ],
+                "lemma": "be",
+                "sentence": "12",
+                "target phrase": "that once -PRON- be 33,000 foot over , -PRON- be in a different world have"
+            },
+            "t282": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Breaking_apart@Whole"
+                ],
+                "lemma": "myth",
+                "sentence": "13",
+                "target phrase": "that myth"
+            }
+        },
+        "frames/links": {
+            "Q1631864271612": {
+                "t105": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Possession@Owner"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "5",
+                    "target phrase": "both the plane"
+                },
+                "t21": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "Malaysia",
+                    "sentence": "3",
+                    "target phrase": "Malaysia"
+                }
+            },
+            "Q1636580448374": {
+                "t148": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hostile_encounter@Side_1",
+                        "Hostile_encounter@Side_1",
+                        "Hostile_encounter@Side_1"
+                    ],
+                    "lemma": "Ukraine",
+                    "sentence": "8",
+                    "target phrase": "Ukraine 's"
+                },
+                "t193": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Avoiding@Undesirable_situation"
+                    ],
+                    "lemma": "Ukraine",
+                    "sentence": "10",
+                    "target phrase": "Ukraine"
+                }
+            },
+            "Q17374096": {
+                "mw1": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "3"
+                },
+                "t187": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Attack",
+                    "frame elements": null,
+                    "lemma": "attack",
+                    "reftype": "evoke",
+                    "sentence": "10"
+                }
+            }
+        },
+        "historical distance": 1,
+        "implicated fe's": [
+            "Hostile_encounter@Side_2",
+            "Hostile_encounter@Issue",
+            "Hostile_encounter@Purpose",
+            "Attack@Victim",
+            "Attack@Assailant",
+            "Hostile_encounter@Side_2",
+            "Hostile_encounter@Issue",
+            "Hostile_encounter@Purpose",
+            "Downing@Cause",
+            "Hostile_encounter@Side_2",
+            "Hostile_encounter@Issue",
+            "Hostile_encounter@Purpose",
+            "Using@Purpose",
+            "Breaking_apart@Pieces"
+        ],
+        "raw text": "Air India flight with 126 on board was right behind MH 17.\n\nREAD ALSO: NEW DELHI: When Malaysia Airlines' MH 17 was shot down over Ukraine on Thursday night, an Air India flight with 126 passengers was right behind it. The flight, AI 113 en route from Birmingham to Delhi, and a Singapore Airlines flight flying home from Copenhagen were both about 25 to 50 nautical miles (40 to 80 km) behind the ill-fated Malaysian Boeing 777.This gap, say pilots, is covered in less than five minutes. Both the planes clearly had a narrow escape.A senior AI official, however, said that the Dreamliner operating as AI 113 was to take a different route. \"AI director (operations) SPS Suri had issued a directive to avoid Ukraine's conflict zone ever since hostilities broke out in the region. We were taking a route that did not fly over the worst affected area that has been recognized as the conflict zone. But after the attack we have decided to avoid Ukraine completely,\" said an official.Several international agencies had warned airlines against flying over Ukraine due to constant raging battle there. But this country is on straight path between western Europe and southeast Asia and many airline continued using it.\"Also airlines and pilots have long held this belief that once they are 33,000 feet over ground level, they are in a different world that has its own ecosystem, its own risks but no danger from the ground. MH 17 has shattered that myth forever,\" said a senior commander.Till now, pilots used to be doubly careful while flying over Iraq, Afghanistan and Pakistan. They expect their airlines or en route air traffic controls to inform them of trouble in those regions so that they can divert. But such fears did not exist over Europe, at least till Terrible Thursday.\n",
+        "subevents": {
+            "t107": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Possession",
+                "frame elements": null,
+                "lemma": "have",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t150": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "conflict",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t154": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "hostility",
+                "reftype": "type",
+                "sentence": "8"
+            },
+            "t192": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Avoiding",
+                "frame elements": null,
+                "lemma": "avoid",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t215": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "battle",
+                "reftype": "evoke",
+                "sentence": "11"
+            },
+            "t235": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Using",
+                "frame elements": null,
+                "lemma": "use",
+                "reftype": "type",
+                "sentence": "12"
+            },
+            "t244": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Opinion",
+                "frame elements": null,
+                "lemma": "belief",
+                "reftype": "type",
+                "sentence": "12"
+            },
+            "t280": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Breaking_apart",
+                "frame elements": null,
+                "lemma": "shatter",
+                "reftype": "type",
+                "sentence": "13"
+            }
+        }
+    }
+}

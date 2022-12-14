@@ -1,0 +1,1088 @@
+{
+    "Dutch Safety Board heads investigation: investigation effort in full swing, black boxes currently being read out": {
+        "fe's without links": {
+            "t174": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arriving@Theme",
+                    "Giving@Theme"
+                ],
+                "lemma": "recorder",
+                "sentence": "9",
+                "target phrase": "the two recorder"
+            },
+            "t177": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arriving@Goal"
+                ],
+                "lemma": "Kiev",
+                "sentence": "9",
+                "target phrase": "Kiev"
+            },
+            "t186": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Giving@Recipient"
+                ],
+                "lemma": "Dutch",
+                "reftype": "evoke",
+                "sentence": "9",
+                "target phrase": "Dutch"
+            },
+            "t190": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Sending@Theme"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "10",
+                "target phrase": "-PRON-"
+            },
+            "t195": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Sending@Transport_means"
+                ],
+                "lemma": "air",
+                "sentence": "10",
+                "target phrase": "air"
+            },
+            "t198": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Sending@Goal"
+                ],
+                "lemma": "United",
+                "sentence": "10",
+                "target phrase": "United"
+            },
+            "t206": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Sending@Recipient",
+                    "Scrutiny@Cognizer",
+                    "Scrutiny@Cognizer"
+                ],
+                "lemma": "specialist",
+                "sentence": "10",
+                "target phrase": "specialist"
+            },
+            "t218": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Scrutiny@Ground"
+                ],
+                "lemma": "datum",
+                "reftype": "evoke",
+                "sentence": "10",
+                "target phrase": "the datum store in recorder"
+            },
+            "t232": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Attempt@Agent",
+                    "Assessing@Assessor"
+                ],
+                "lemma": "team",
+                "reftype": "evoke",
+                "sentence": "11",
+                "target phrase": "the team"
+            },
+            "t243": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Assessing@Phenomenon"
+                ],
+                "lemma": "manipulate",
+                "reftype": "evoke",
+                "sentence": "11",
+                "target phrase": "whether the black box may have be manipulate"
+            },
+            "t263": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Scrutiny@Ground"
+                ],
+                "lemma": "datum",
+                "reftype": "evoke",
+                "sentence": "13",
+                "target phrase": "black box datum"
+            },
+            "t27": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Gathering_up@Aggregate"
+                ],
+                "lemma": "information",
+                "reftype": "evoke",
+                "sentence": "2",
+                "target phrase": "information from the crash site"
+            },
+            "t280": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Investigator"
+                ],
+                "lemma": "investigator",
+                "sentence": "14",
+                "target phrase": "the investigator"
+            },
+            "t310": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Investigator"
+                ],
+                "lemma": "investigator",
+                "sentence": "15",
+                "target phrase": "the investigator"
+            },
+            "t35": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Scrutiny@Ground"
+                ],
+                "lemma": "black",
+                "reftype": "evoke",
+                "sentence": "2",
+                "target phrase": "black"
+            },
+            "t409": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Losing@Owner"
+                ],
+                "lemma": "Dutch",
+                "reftype": "evoke",
+                "sentence": "18",
+                "target phrase": "Dutch"
+            },
+            "t41": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Control@Dependent_entity"
+                ],
+                "lemma": "team",
+                "reftype": "evoke",
+                "sentence": "2",
+                "target phrase": "the international team"
+            },
+            "t413": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Gathering_up@Agent"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "18",
+                "target phrase": "-PRON-"
+            },
+            "t421": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Gathering_up@Aggregate"
+                ],
+                "lemma": "information",
+                "reftype": "evoke",
+                "sentence": "18",
+                "target phrase": "sufficient relevant information from the crash site"
+            },
+            "t433": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Investigator"
+                ],
+                "lemma": "investigator",
+                "sentence": "19",
+                "target phrase": "investigator"
+            },
+            "t468": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Gathering_up@Aggregate",
+                    "Submitting_documents@Documents"
+                ],
+                "lemma": "information",
+                "reftype": "evoke",
+                "sentence": "20",
+                "target phrase": "all information"
+            },
+            "t482": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Submitting_documents@Authority"
+                ],
+                "lemma": "Dutch",
+                "reftype": "evoke",
+                "sentence": "20",
+                "target phrase": "Dutch"
+            },
+            "t487": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Scrutiny@Cognizer",
+                    "Attempt_suasion@Salient_entity"
+                ],
+                "lemma": "Dutch",
+                "reftype": "evoke",
+                "sentence": "21",
+                "target phrase": "Dutch"
+            },
+            "t494": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Scrutiny@Ground"
+                ],
+                "lemma": "information",
+                "reftype": "evoke",
+                "sentence": "21",
+                "target phrase": "this information , which will serve as basis"
+            },
+            "t514": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Supporting@Supporter"
+                ],
+                "lemma": "investigator",
+                "sentence": "22",
+                "target phrase": "other investigator or investigation board"
+            },
+            "t521": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Supporting@Supported"
+                ],
+                "lemma": "process",
+                "reftype": "evoke",
+                "sentence": "22",
+                "target phrase": "this process and comment on the investigation report and conclusion"
+            },
+            "t562": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Evidence@Proposition"
+                ],
+                "lemma": "activity",
+                "reftype": "evoke",
+                "sentence": "24",
+                "target phrase": "any criminal or terrorist activity"
+            },
+            "t565": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Submitting_documents@Documents"
+                ],
+                "lemma": "information",
+                "reftype": "evoke",
+                "sentence": "24",
+                "target phrase": "the information"
+            },
+            "t573": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Submitting_documents@Authority"
+                ],
+                "lemma": "authority",
+                "reftype": "evoke",
+                "sentence": "24",
+                "target phrase": "the relevant authority"
+            },
+            "t581": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Investigator",
+                    "Criminal_investigation@Investigator"
+                ],
+                "lemma": "Dutch",
+                "reftype": "evoke",
+                "sentence": "25",
+                "target phrase": "Dutch"
+            },
+            "t606": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Investigator",
+                    "Criminal_investigation@Investigator",
+                    "Criminal_investigation@Investigator"
+                ],
+                "lemma": "Dutch",
+                "reftype": "evoke",
+                "sentence": "26",
+                "target phrase": "Dutch"
+            },
+            "t624": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Incident"
+                ],
+                "lemma": "process",
+                "reftype": "evoke",
+                "sentence": "26",
+                "target phrase": "the decision - make process"
+            },
+            "t635": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Incident"
+                ],
+                "lemma": "availability",
+                "sentence": "26",
+                "target phrase": "the availability of passenger list"
+            },
+            "t73": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Sending@Sender",
+                    "Submitting_documents@Submittor",
+                    "Control@Controlling_entity"
+                ],
+                "lemma": "Dutch",
+                "reftype": "evoke",
+                "sentence": "4",
+                "target phrase": "Dutch"
+            },
+            "t84": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Gathering_up@Agent",
+                    "Scrutiny@Cognizer",
+                    "Criminal_investigation@Investigator",
+                    "Criminal_investigation@Investigator",
+                    "Giving@Donor",
+                    "Criminal_investigation@Investigator",
+                    "Criminal_investigation@Investigator",
+                    "Criminal_investigation@Investigator",
+                    "Gathering_up@Agent",
+                    "Criminal_investigation@Investigator",
+                    "Submitting_documents@Submittor",
+                    "Criminal_investigation@Investigator"
+                ],
+                "lemma": "team",
+                "reftype": "evoke",
+                "sentence": "4",
+                "target phrase": "the international investigation team"
+            }
+        },
+        "frames/links": {
+            "Q1631025548534": {
+                "t51": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Catastrophe@Patient",
+                        "Causation@Affected"
+                    ],
+                    "lemma": "victim",
+                    "reftype": "evoke",
+                    "sentence": "3",
+                    "target phrase": "victim"
+                }
+            },
+            "Q17374096": {
+                "t292": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Impact",
+                    "frame elements": [
+                        "Criminal_investigation@Incident"
+                    ],
+                    "lemma": "crash",
+                    "reftype": "type",
+                    "sentence": "14",
+                    "target phrase": "the crash"
+                },
+                "t69": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Impact",
+                    "frame elements": [
+                        "Criminal_investigation@Incident",
+                        "Catastrophe@Undesirable_event",
+                        "Criminal_investigation@Incident",
+                        "Criminal_investigation@Incident",
+                        "Criminal_investigation@Incident",
+                        "Criminal_investigation@Incident",
+                        "Criminal_investigation@Incident",
+                        "Criminal_investigation@Incident",
+                        "Criminal_investigation@Incident",
+                        "Criminal_investigation@Incident",
+                        "Criminal_investigation@Incident",
+                        "Criminal_investigation@Incident",
+                        "Criminal_investigation@Incident",
+                        "Attempt_suasion@Topic",
+                        "Path_traveled@Theme"
+                    ],
+                    "lemma": "crash",
+                    "reftype": "type",
+                    "sentence": "3",
+                    "target phrase": "the crash"
+                }
+            }
+        },
+        "historical distance": 1720,
+        "implicated fe's": [
+            "Gathering_up@Individuals",
+            "Scrutiny@Medium",
+            "Scrutiny@Instrument",
+            "Criminal_investigation@Suspect",
+            "Causation@Effect",
+            "Causation@Actor",
+            "Impact@Impactor",
+            "Impact@Impactee",
+            "Criminal_investigation@Suspect",
+            "Scrutiny@Medium",
+            "Scrutiny@Instrument",
+            "Assessing@Method",
+            "Assessing@Medium",
+            "Criminal_investigation@Suspect",
+            "Scrutiny@Medium",
+            "Scrutiny@Instrument",
+            "Criminal_investigation@Suspect",
+            "Impact@Impactor",
+            "Impact@Impactee",
+            "Criminal_investigation@Suspect",
+            "Criminal_investigation@Suspect",
+            "Evidence@Support",
+            "Evidence@Proposition",
+            "Damaging@Agent",
+            "Gathering_up@Individuals",
+            "Criminal_investigation@Suspect",
+            "Criminal_investigation@Suspect",
+            "Gathering_up@Individuals",
+            "Criminal_investigation@Suspect",
+            "Scrutiny@Medium",
+            "Scrutiny@Instrument",
+            "Criminal_investigation@Suspect",
+            "Evidence@Support",
+            "Criminal_investigation@Suspect",
+            "Criminal_investigation@Suspect",
+            "Criminal_investigation@Suspect",
+            "Criminal_investigation@Suspect",
+            "Criminal_investigation@Suspect",
+            "Control@Degree",
+            "Attempt_suasion@Content",
+            "Attempt_suasion@Addressee",
+            "Attempt_suasion@Speaker",
+            "Attempt_suasion@Medium",
+            "Path_traveled@Path"
+        ],
+        "raw text": "Dutch Safety Board heads investigation: investigation effort in full swing, black boxes currently being read out.\n\nThe first priorities will be to gather information from the crash site, analyse the black boxes and coordinate the international team. Ultimately, the air crash investigation should offer victims families and the international community a clear and comprehensive overview of the causes and course of the crash. With the Dutch Safety Board now heading the investigation, the international investigation team will have more freedom to go about its tasks unhindered. The Dutch Safety Board is also responsible for coordinating all participating investigators and investigation teams from the countries involved (Ukraine, Malaysia, Australia, Germany, the United States, the United Kingdom and Russia) and the International Civil Aviation Organisation (ICAO). The international team currently consists of 24 investigators. A total of four Dutch Safety Board investigators are currently operating in Ukraine. Black boxes On Tuesday evening the two recorders arrived in Kiev from Kharkiv and were handed over to the Dutch Safety Board. They were then shipped by air to the United Kingdom, where an international team of specialists is working on the read-out and analysis of the data stored in the recorders. As a part of this effort, the team will also assess whether the black boxes may have been manipulated. The black boxes are expected to provide information relevant to this investigation. The analysis of black box data may take several weeks. On-site investigation At the time of writing, the investigators have not yet been able to visit the site of the crash and conduct their investigation under safe conditions. In order to conduct an effective investigation, the investigators must have the opportunity to move around the entire investigation site freely, investigate materials and traces from up close and secure them for further study where necessary. At present, the investigators' safety has not been guaranteed. The Dutch Safety Board and other parties involved are continually working to gain access to the accident site, and are working with other parties to organise effective security so that the investigators can do their work under controlled and safe conditions. Despite the fact that evidence and traces have been damaged or lost, the Dutch Safety Board expects it will be able to gather sufficient relevant information from the crash site. Over the past few days, investigators have been working on the investigation in the Ukrainian capital of Kiev and in the Netherlands on the basis of available film and photo materials and other sources of information. Investigation results All information gathered as a part of this international investigation will be submitted to the Dutch Safety Board. The Dutch Safety Board will subsequently analyse this information, which will serve as the basis for a report and \u2013 where necessary \u2013 relevant recommendations. Other investigators or investigation boards will support this process and comment on the draft investigation report and its conclusions. The Dutch Safety Board will have the final say as regards the contents and timing of all publications. If the investigation shows evidence of any criminal or terrorist activities, the information will subsequently be submitted to the relevant authorities in accordance with applicable regulations. The Dutch Safety Board's investigation will focus on ascertaining facts, rather than apportioning blame. In addition to the international accident investigation, the Dutch Safety Board is also conducting two other independent investigations: an investigation into the decision-making process with regard to flight routes and an investigation into the availability of passenger lists. These investigation reports are expected to be published ahead of the main accident report.\n",
+        "subevents": {
+            "t175": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "arrive",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t182": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Giving",
+                "frame elements": null,
+                "lemma": "hand",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t193": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Sending",
+                "frame elements": null,
+                "lemma": "ship",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t215": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Scrutiny",
+                "frame elements": null,
+                "lemma": "analysis",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t229": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attempt",
+                "frame elements": null,
+                "lemma": "effort",
+                "reftype": "evoke",
+                "sentence": "11"
+            },
+            "t235": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Assessing",
+                "frame elements": [
+                    "Attempt@Goal"
+                ],
+                "lemma": "assess",
+                "reftype": "evoke",
+                "sentence": "11",
+                "target phrase": "as a part of , the team will also assess whether the black box may have be manipulate ."
+            },
+            "t256": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "12"
+            },
+            "t259": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Scrutiny",
+                "frame elements": null,
+                "lemma": "analysis",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t26": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Gathering_up",
+                "frame elements": null,
+                "lemma": "gather",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t272": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "14"
+            },
+            "t296": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "14"
+            },
+            "t307": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "15"
+            },
+            "t33": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Scrutiny",
+                "frame elements": null,
+                "lemma": "analyse",
+                "reftype": "evoke",
+                "sentence": "2"
+            },
+            "t38": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Control",
+                "frame elements": null,
+                "lemma": "coordinate",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t399": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": [
+                    "Damaging@Patient",
+                    "Losing@Possession"
+                ],
+                "lemma": "evidence",
+                "reftype": "evoke",
+                "sentence": "18",
+                "target phrase": "evidence and trace"
+            },
+            "t404": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Damaging",
+                "frame elements": null,
+                "lemma": "damage",
+                "reftype": "evoke",
+                "sentence": "18"
+            },
+            "t406": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Losing",
+                "frame elements": null,
+                "lemma": "lose",
+                "reftype": "type",
+                "sentence": "18"
+            },
+            "t418": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Gathering_up",
+                "frame elements": null,
+                "lemma": "gather",
+                "reftype": "type",
+                "sentence": "18"
+            },
+            "t439": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "19"
+            },
+            "t465": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "20"
+            },
+            "t469": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Gathering_up",
+                "frame elements": null,
+                "lemma": "gather",
+                "reftype": "type",
+                "sentence": "20"
+            },
+            "t476": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "20"
+            },
+            "t479": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Submitting_documents",
+                "frame elements": null,
+                "lemma": "submit",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t48": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t492": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Scrutiny",
+                "frame elements": null,
+                "lemma": "analyse",
+                "reftype": "evoke",
+                "sentence": "21"
+            },
+            "t511": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attempt_suasion",
+                "frame elements": null,
+                "lemma": "recommendation",
+                "reftype": "type",
+                "sentence": "21"
+            },
+            "t519": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Supporting",
+                "frame elements": null,
+                "lemma": "support",
+                "reftype": "type",
+                "sentence": "22"
+            },
+            "t554": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "24"
+            },
+            "t556": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": null,
+                "lemma": "evidence",
+                "reftype": "evoke",
+                "sentence": "24"
+            },
+            "t569": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Submitting_documents",
+                "frame elements": null,
+                "lemma": "submit",
+                "reftype": "evoke",
+                "sentence": "24"
+            },
+            "t585": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "25"
+            },
+            "t603": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "26"
+            },
+            "t615": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "26"
+            },
+            "t618": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "26"
+            },
+            "t632": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "26"
+            },
+            "t64": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Causation",
+                "frame elements": [
+                    "Causation@Cause"
+                ],
+                "lemma": "cause",
+                "reftype": "evoke",
+                "sentence": "3",
+                "target phrase": "the cause and course of the crash"
+            },
+            "t66": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Path_traveled",
+                "frame elements": null,
+                "lemma": "course",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t79": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "4"
+            }
+        }
+    }
+}

@@ -1,0 +1,1554 @@
+{
+    "Evidence Mounts That Russia Supplied the Missiles That Shot Down MH17 in Ukraine": {
+        "fe's without links": {
+            "t101": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Cotheme@Goal"
+                ],
+                "lemma": "Ukraine",
+                "sentence": "5",
+                "target phrase": "Ukraine"
+            },
+            "t161": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Using@Instrument"
+                ],
+                "lemma": "system",
+                "reftype": "evoke",
+                "sentence": "8",
+                "target phrase": "a Russian - provide Buk system"
+            },
+            "t180": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Supply@Theme"
+                ],
+                "lemma": "Buks",
+                "sentence": "9",
+                "target phrase": "Buks -- or any other weapon"
+            },
+            "t199": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Evidence@Support"
+                ],
+                "lemma": "photograph",
+                "sentence": "10",
+                "target phrase": "photograph on the VKontakte page of"
+            },
+            "t290": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Delivery@Theme",
+                    "Convoy@Cargo"
+                ],
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "13",
+                "target phrase": "missile"
+            },
+            "t358": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Convoy@Cargo"
+                ],
+                "lemma": "Buk",
+                "sentence": "16",
+                "target phrase": "the Buk"
+            },
+            "t368": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Travel@Mode_of_transportation",
+                    "Convoy@Vehicles",
+                    "Convoy@Vehicles",
+                    "Convoy@Vehicles",
+                    "Convoy@Vehicles",
+                    "Convoy@Vehicles",
+                    "Convoy@Vehicles",
+                    "Convoy@Vehicles",
+                    "Convoy@Vehicles",
+                    "Convoy@Vehicles",
+                    "Convoy@Vehicles"
+                ],
+                "lemma": "vehicle",
+                "reftype": "evoke",
+                "sentence": "16",
+                "target phrase": "80 to 100 vehicle move toward Ukraine"
+            },
+            "t379": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Traversing@Theme"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "17",
+                "target phrase": "-PRON-"
+            },
+            "t381": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Traversing@Area",
+                    "Travel@Source"
+                ],
+                "lemma": "Russia",
+                "sentence": "17",
+                "target phrase": "Russia and the soldier who be travel with"
+            },
+            "t384": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Travel@Traveler"
+                ],
+                "lemma": "soldier",
+                "reftype": "evoke",
+                "sentence": "17",
+                "target phrase": "the soldier who be travel with -PRON-"
+            },
+            "t44": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Travel@Goal",
+                    "Bringing@Goal",
+                    "Delivery@Goal",
+                    "Traversing@Goal",
+                    "Travel@Goal",
+                    "Bringing@Area",
+                    "Operate_vehicle@Goal",
+                    "Operate_vehicle@Goal",
+                    "Ride_vehicle@Area"
+                ],
+                "lemma": "Ukraine",
+                "sentence": "4",
+                "target phrase": "eastern Ukraine"
+            },
+            "t458": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Theme",
+                    "Convoy@Cargo"
+                ],
+                "lemma": "system",
+                "reftype": "evoke",
+                "sentence": "20",
+                "target phrase": "the Buk system"
+            },
+            "t461": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Goal"
+                ],
+                "lemma": "Ukraine",
+                "sentence": "20",
+                "target phrase": "eastern Ukraine"
+            },
+            "t465": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Using@Instrument"
+                ],
+                "lemma": "one",
+                "sentence": "20",
+                "target phrase": "the one -PRON- believe be use"
+            },
+            "t507": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Source",
+                    "Ride_vehicle@Source"
+                ],
+                "lemma": "Amsterdam",
+                "sentence": "22",
+                "target phrase": "Amsterdam"
+            },
+            "t509": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Goal",
+                    "Ride_vehicle@Goal"
+                ],
+                "lemma": "Kuala",
+                "sentence": "22",
+                "target phrase": "Kuala"
+            },
+            "t52": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Theme",
+                    "Killing@Instrument",
+                    "Convoy@Cargo",
+                    "Convoy@Cargo",
+                    "Convoy@Cargo",
+                    "Convoy@Cargo",
+                    "Convoy@Cargo",
+                    "Convoy@Cargo"
+                ],
+                "lemma": "system",
+                "reftype": "evoke",
+                "sentence": "4",
+                "target phrase": "Buk antiaircraft system"
+            },
+            "t532": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Downing@Cause"
+                ],
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "22",
+                "target phrase": "a surface - to - air missile"
+            },
+            "t620": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Operate_vehicle@Vehicle"
+                ],
+                "lemma": "vehicle",
+                "reftype": "evoke",
+                "sentence": "28",
+                "target phrase": "which vehicle"
+            },
+            "t621": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Operate_vehicle@Driver"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "28",
+                "target phrase": "-PRON-"
+            },
+            "t629": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Operate_vehicle@Driver"
+                ],
+                "lemma": "guy",
+                "sentence": "29",
+                "target phrase": "the guy who -PRON- feature in article"
+            },
+            "t643": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Operate_vehicle@Vehicle"
+                ],
+                "lemma": "vehicle",
+                "reftype": "evoke",
+                "sentence": "29",
+                "target phrase": "just one vehicle"
+            },
+            "t650": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Downing@Cause"
+                ],
+                "lemma": "launcher",
+                "sentence": "29",
+                "target phrase": "the actual missile launcher"
+            },
+            "t681": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Downing@Cause"
+                ],
+                "lemma": "launcher",
+                "sentence": "31",
+                "target phrase": "the missile launcher that [ -PRON- believe ] MH17 , and later -PRON- see -PRON- in on"
+            },
+            "t716": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Investigator",
+                    "Scrutiny@Cognizer"
+                ],
+                "lemma": "investigator",
+                "sentence": "32",
+                "target phrase": "investigator in the Netherlands who be look into downing and plan issue"
+            },
+            "t73": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Categorization@Cognizer"
+                ],
+                "lemma": "activist",
+                "sentence": "5",
+                "target phrase": "- ukrainian citizen activist"
+            },
+            "t765": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Participation@Participants"
+                ],
+                "lemma": "Russia",
+                "sentence": "33",
+                "target phrase": "Russia 's"
+            },
+            "t787": {
+                "POS": "DET",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Statement@Speaker"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "34",
+                "target phrase": "-PRON-"
+            },
+            "t81": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Travel@Traveler",
+                    "Bringing@Agent",
+                    "Categorization@Item",
+                    "Bringing@Agent",
+                    "Cotheme@Cotheme"
+                ],
+                "lemma": "soldier",
+                "reftype": "evoke",
+                "sentence": "5",
+                "target phrase": "a russian soldier who be a driver in and"
+            },
+            "t821": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Using@Instrument",
+                    "Downing@Cause"
+                ],
+                "lemma": "system",
+                "reftype": "evoke",
+                "sentence": "35",
+                "target phrase": "a Buk antiaircraft system"
+            },
+            "t85": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Categorization@Category"
+                ],
+                "lemma": "driver",
+                "sentence": "5",
+                "target phrase": "a driver in that convoy and"
+            },
+            "t94": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Cotheme@Theme",
+                    "Convoy@Cargo"
+                ],
+                "lemma": "system",
+                "reftype": "evoke",
+                "sentence": "5",
+                "target phrase": "Buk system"
+            },
+            "t99": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Travel@Source",
+                    "Bringing@Source",
+                    "Bringing@Source",
+                    "Operate_vehicle@Source",
+                    "Operate_vehicle@Source",
+                    "Cotheme@Source"
+                ],
+                "lemma": "Russia",
+                "sentence": "5",
+                "target phrase": "Russia"
+            }
+        },
+        "frames/links": {
+            "Q159": {
+                "t177": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Supply@Supplier",
+                        "Affirm_or_deny@Speaker"
+                    ],
+                    "lemma": "Moscow",
+                    "sentence": "9",
+                    "target phrase": "Moscow"
+                }
+            },
+            "Q1631025548534": {
+                "t129": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Killing@Victim"
+                    ],
+                    "lemma": "people",
+                    "reftype": "evoke",
+                    "sentence": "7",
+                    "target phrase": "all 298 people on board"
+                },
+                "t514": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Ride_vehicle",
+                    "frame elements": [
+                        "Bringing@Theme",
+                        "Ride_vehicle@Theme"
+                    ],
+                    "lemma": "passenger",
+                    "reftype": "evoke",
+                    "sentence": "22",
+                    "target phrase": "295 passenger and crew"
+                }
+            },
+            "Q1631864085791": {
+                "t154": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Criminal_investigation@Suspect",
+                        "Using@Agent",
+                        "Downing@Agent",
+                        "Downing@Agent",
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "8",
+                    "target phrase": "the separatist use a provide Buk system"
+                },
+                "t164": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Judgment@Cognizer",
+                        "Rebellion@Rebel",
+                        "Downing@Agent"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "9",
+                    "target phrase": "the separatist and Russia"
+                },
+                "t189": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Supply@Recipient",
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "9",
+                    "target phrase": "the separatist"
+                },
+                "t293": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Delivery@Recipient",
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "13",
+                    "target phrase": "ukrainian separatist"
+                },
+                "t57": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Hostile_encounter@Side_1",
+                        "Killing@Killer",
+                        "Using@Agent",
+                        "Hostile_encounter@Side_2",
+                        "Rebellion@Rebel",
+                        "Downing@Agent",
+                        "Downing@Agent",
+                        "Downing@Agent",
+                        "Downing@Agent",
+                        "Downing@Agent",
+                        "Downing@Agent"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "4",
+                    "target phrase": "Russia - back separatist fight against Kyiv"
+                },
+                "t802": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Hostile_encounter@Side_1",
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "34",
+                    "target phrase": "the separatist"
+                },
+                "t816": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Using@Agent",
+                        "Downing@Agent",
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "35",
+                    "target phrase": "separatist use a antiaircraft system"
+                }
+            },
+            "Q1631864271612": {
+                "t114": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "Malaysia",
+                    "sentence": "6",
+                    "target phrase": "Malaysia"
+                },
+                "t148": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient",
+                        "Downing@Patient"
+                    ],
+                    "lemma": "aircraft",
+                    "sentence": "8",
+                    "target phrase": "the aircraft"
+                },
+                "t174": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "9",
+                    "target phrase": "MH17"
+                },
+                "t473": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "20",
+                    "target phrase": "MH17"
+                },
+                "t500": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Bringing@Carrier",
+                        "Ride_vehicle@Vehicle",
+                        "Downing@Patient"
+                    ],
+                    "lemma": "Flight",
+                    "sentence": "22",
+                    "target phrase": "Flight 17 , on -PRON- way from to and carry 295 passenger and crew"
+                },
+                "t658": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "29",
+                    "target phrase": "MH17"
+                },
+                "t689": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "31",
+                    "target phrase": "MH17"
+                },
+                "t727": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "32",
+                    "target phrase": "MH17"
+                },
+                "t811": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "35",
+                    "target phrase": "MH17"
+                }
+            },
+            "Q1636580448374": {
+                "t169": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Judgment@Evaluee",
+                        "Rebellion@Current_leadership",
+                        "Rebellion@Current_leadership"
+                    ],
+                    "lemma": "Kyiv",
+                    "sentence": "9",
+                    "target phrase": "Kyiv"
+                },
+                "t60": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hostile_encounter@Side_2",
+                        "Hostile_encounter@Side_1",
+                        "Hostile_encounter@Side_2",
+                        "Rebellion@Current_leadership",
+                        "Rebellion@Current_leadership",
+                        "Rebellion@Current_leadership",
+                        "Rebellion@Current_leadership",
+                        "Rebellion@Current_leadership"
+                    ],
+                    "lemma": "Kyiv",
+                    "sentence": "4",
+                    "target phrase": "Kyiv"
+                }
+            },
+            "Q17374096": {
+                "mw1": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Killing@Means"
+                    ],
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "6",
+                    "target phrase": "shoot down"
+                },
+                "mw2": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Using@Purpose"
+                    ],
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "8",
+                    "target phrase": "shoot down"
+                },
+                "mw3": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "22"
+                },
+                "mw4": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "29"
+                },
+                "mw5": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "31"
+                },
+                "mw6": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Using@Purpose"
+                    ],
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "35",
+                    "target phrase": "shoot down"
+                },
+                "mw7": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Using@Purpose"
+                    ],
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "20",
+                    "target phrase": "shoot down"
+                },
+                "t140": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Criminal_investigation@Incident"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "8",
+                    "target phrase": "MH17"
+                },
+                "t141": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "downing",
+                    "reftype": "type",
+                    "sentence": "8"
+                },
+                "t172": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Judgment@Reason",
+                        "Affirm_or_deny@Topic"
+                    ],
+                    "lemma": "downing",
+                    "reftype": "type",
+                    "sentence": "9",
+                    "target phrase": "the downing of MH17"
+                },
+                "t174": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "9",
+                    "target phrase": "MH17"
+                },
+                "t725": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Scrutiny@Ground"
+                    ],
+                    "lemma": "downing",
+                    "reftype": "type",
+                    "sentence": "32",
+                    "target phrase": "the downing of MH17"
+                },
+                "t727": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "32",
+                    "target phrase": "MH17"
+                }
+            }
+        },
+        "historical distance": 300,
+        "implicated fe's": [
+            "Travel@Path",
+            "Travel@Direction",
+            "Travel@Area",
+            "Bringing@Area",
+            "Bringing@Path",
+            "Hostile_encounter@Issue",
+            "Hostile_encounter@Purpose",
+            "Categorization@Criteria",
+            "Judgment@Expressor",
+            "Supply@Imposed_purpose",
+            "Traversing@Source",
+            "Traversing@Path",
+            "Traversing@Distance",
+            "Traversing@Path_shape",
+            "Traversing@Direction",
+            "Travel@Area",
+            "Travel@Path",
+            "Travel@Direction",
+            "Bringing@Area",
+            "Bringing@Path",
+            "Bringing@Path",
+            "Bringing@Agent",
+            "Operate_vehicle@Path",
+            "Operate_vehicle@Area",
+            "Operate_vehicle@Path",
+            "Operate_vehicle@Area",
+            "Scrutiny@Medium",
+            "Scrutiny@Instrument",
+            "Hostile_encounter@Issue",
+            "Hostile_encounter@Purpose",
+            "Statement@Medium",
+            "Hostile_encounter@Issue",
+            "Hostile_encounter@Purpose",
+            "Cotheme@Path",
+            "Cotheme@Area",
+            "Cotheme@Road",
+            "Cotheme@Direction",
+            "Affirm_or_deny@Medium",
+            "Convoy@Support",
+            "Convoy@Support",
+            "Convoy@Support",
+            "Convoy@Support",
+            "Convoy@Support",
+            "Convoy@Support",
+            "Convoy@Support",
+            "Convoy@Support",
+            "Convoy@Support",
+            "Convoy@Support",
+            "Ride_vehicle@Path"
+        ],
+        "raw text": "Evidence Mounts That Russia Supplied the Missiles That Shot Down MH17 in Ukraine.\n\nRussian BUK M1-2 SAM system. Wiki Commons More and more evidence is emerging that seems to document a large Russian military convoy that traveled to eastern Ukraine in June 2014 and brought Buk antiaircraft systems to Russia-backed separatists fighting against Kyiv. On May 13, a group of pro-Ukrainian citizen activists published a report purportedly identifying a Russian soldier who was a driver in that convoy and showing photographs of Buk systems apparently being escorted across Russia to Ukraine. A few weeks later -- on July 17, 2014 -- Malaysia Airlines Flight MH17 was shot down over Ukraine's Donetsk region. All 298 people on board were killed. Although the investigation into the MH17 downing is ongoing, many believe the aircraft was shot down by the separatists using a Russian-provided Buk system. The separatists and Russia have blamed Kyiv for the downing of MH17, and Moscow denies providing Buks -- or any other weapons -- to the separatists. However, the activist group InformNapalm has found photographs on the VKontakte page of a Russian soldier named Dmitry Zubov that seem to detail the convoy's June 2014 journey. According to Zubov's posts on VKontakte -- his account on the Russian social-media site has subsequently been closed down, but InformNapalm saved cached copies -- he was serving with the 147th Automotive Logistic Support Battalion, Unit 83466, based just outside of Moscow. At the time, he was serving his last few days before being demobilized. Russian convoy allegedly delivering missiles to Ukrainian separatists in June of 2014. VKontakete One of the photographs (above) shows a Buk system with the identifying number 232. The same Buk bearing the same number was photographed in the Russian town of Stary Oskol, not far from the Ukrainian border. In an Instagram post from June 2014, a user identified as \"rokersson\" said the Buk was part of a convoy of 80 to 100 vehicles moving toward Ukraine. Other photos show the convoy as it crosses Russia and the soldiers who were traveling with it. An additional photo shows Zubov on a train returning to his unit in Russia, where he was demobilized a few days later. Eliot Higgins is the founder of the citizen's journalism website Bellingcat, which occasionally cooperates with investigators from InformNapalm. He said the information released by InformNapalm jibes well with Bellingcat's own probes into the convoy that allegedly brought the Buk systems to eastern Ukraine, including the one he believes was used to shoot down MH17. Debris from Malaysia Airlines Flight 17 is shown smouldering in a field July 17, 2014 in Grabovo, Ukraine near the Russian border. Flight 17, on its way from Amsterdam to Kuala Lumpur and carrying 295 passengers and crew, is believed to have been shot down by a surface-to-air missile, according to U.S. intelligence officials and Ukrainian authorities quoted in published reports. Pierre Crom/Getty Images \"We've been looking at this same convoy and there's quite a lot of interesting information,\" Higgins told RFE/RL. \"InformNapalm has found one piece, one profile. We've found much, much more additional material. We've got the names of the people who were in the convoy. We've got a good idea of which vehicles they were driving. In fact, the guy who they feature in the article was actually almost certainly driving just one vehicle in front of the actual missile launcher that [we believe] shot down MH17.\" \"There was a big, massive movement of equipment between June 23 and June 25, including the missile launcher that [we believe] shot down MH17, and a few weeks later we see it in Ukraine on July 17,\" Higgins said. Bellingcat has been sharing its findings with investigators in the Netherlands who are looking into the downing of MH17 and plans to issue its own report on the convoy on May 28. The InformNapalm information comes one day after the release of a report based on research by slain Russian opposition politician Boris Nemtsov documenting Russia's alleged involvement in the conflict in Ukraine. The Nemtsov report also makes extensive use of social media to document its claims that Russian soldiers and Russian-paid mercenaries have been fighting with the separatists. Chapter Eight of that report argues that MH17 was shot down by separatists using a Buk antiaircraft system.\n",
+        "subevents": {
+            "t133": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Killing",
+                "frame elements": null,
+                "lemma": "kill",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t137": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "8"
+            },
+            "t155": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Using",
+                "frame elements": null,
+                "lemma": "use",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t168": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Judgment",
+                "frame elements": null,
+                "lemma": "blame",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t178": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Affirm_or_deny",
+                "frame elements": null,
+                "lemma": "deny",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t179": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Supply",
+                "frame elements": [
+                    "Affirm_or_deny@Message"
+                ],
+                "lemma": "provide",
+                "reftype": "evoke",
+                "sentence": "9",
+                "target phrase": "provide Buks -- or any other weapon"
+            },
+            "t216": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Convoy",
+                "frame elements": [
+                    "Convoy@Convoy"
+                ],
+                "lemma": "convoy",
+                "reftype": "type",
+                "sentence": "10",
+                "target phrase": "the convoy 's"
+            },
+            "t28": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": null,
+                "lemma": "evidence",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t287": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Convoy",
+                "frame elements": [
+                    "Delivery@Deliverer",
+                    "Convoy@Convoy"
+                ],
+                "lemma": "convoy",
+                "reftype": "type",
+                "sentence": "13",
+                "target phrase": "russian convoy"
+            },
+            "t289": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Delivery",
+                "frame elements": null,
+                "lemma": "deliver",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t363": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Convoy",
+                "frame elements": [
+                    "Convoy@Convoy"
+                ],
+                "lemma": "convoy",
+                "reftype": "type",
+                "sentence": "16",
+                "target phrase": "a convoy of 100 vehicle move"
+            },
+            "t377": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Convoy",
+                "frame elements": [
+                    "Travel@Mode_of_transportation",
+                    "Convoy@Convoy"
+                ],
+                "lemma": "convoy",
+                "reftype": "type",
+                "sentence": "17",
+                "target phrase": "the convoy"
+            },
+            "t380": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Traversing",
+                "frame elements": null,
+                "lemma": "cross",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t387": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Travel",
+                "frame elements": null,
+                "lemma": "travel",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t39": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Convoy",
+                "frame elements": [
+                    "Evidence@Proposition",
+                    "Bringing@Carrier",
+                    "Convoy@Convoy"
+                ],
+                "lemma": "convoy",
+                "reftype": "type",
+                "sentence": "4",
+                "target phrase": "a large russian military convoy that travel to Ukraine in June"
+            },
+            "t41": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Travel",
+                "frame elements": null,
+                "lemma": "travel",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t452": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Convoy",
+                "frame elements": [
+                    "Bringing@Carrier",
+                    "Convoy@Convoy"
+                ],
+                "lemma": "convoy",
+                "reftype": "type",
+                "sentence": "20",
+                "target phrase": "the convoy that allegedly bring the Buk system to Ukraine , include one"
+            },
+            "t455": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bringing",
+                "frame elements": null,
+                "lemma": "bring",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t469": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Using",
+                "frame elements": null,
+                "lemma": "use",
+                "reftype": "evoke",
+                "sentence": "20"
+            },
+            "t49": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bringing",
+                "frame elements": null,
+                "lemma": "bring",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t512": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bringing",
+                "frame elements": null,
+                "lemma": "carry",
+                "reftype": "evoke",
+                "sentence": "22"
+            },
+            "t560": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Convoy",
+                "frame elements": [
+                    "Convoy@Convoy"
+                ],
+                "lemma": "convoy",
+                "reftype": "type",
+                "sentence": "24",
+                "target phrase": "this same convoy"
+            },
+            "t58": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "fight",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t610": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Convoy",
+                "frame elements": [
+                    "Convoy@Convoy"
+                ],
+                "lemma": "convoy",
+                "reftype": "type",
+                "sentence": "27",
+                "target phrase": "the convoy"
+            },
+            "t623": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Operate_vehicle",
+                "frame elements": null,
+                "lemma": "drive",
+                "reftype": "evoke",
+                "sentence": "28"
+            },
+            "t640": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Operate_vehicle",
+                "frame elements": null,
+                "lemma": "drive",
+                "reftype": "evoke",
+                "sentence": "29"
+            },
+            "t722": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Scrutiny",
+                "frame elements": null,
+                "lemma": "look",
+                "reftype": "type",
+                "sentence": "32"
+            },
+            "t737": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Convoy",
+                "frame elements": [
+                    "Convoy@Convoy"
+                ],
+                "lemma": "convoy",
+                "reftype": "type",
+                "sentence": "32",
+                "target phrase": "the convoy"
+            },
+            "t768": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Participation",
+                "frame elements": null,
+                "lemma": "involvement",
+                "reftype": "evoke",
+                "sentence": "33"
+            },
+            "t771": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": [
+                    "Participation@Event",
+                    "Statement@Topic"
+                ],
+                "lemma": "conflict",
+                "reftype": "evoke",
+                "sentence": "33",
+                "target phrase": "the conflict in Ukraine"
+            },
+            "t78": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Categorization",
+                "frame elements": null,
+                "lemma": "identify",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t788": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "claim",
+                "reftype": "evoke",
+                "sentence": "34"
+            },
+            "t799": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": [
+                    "Statement@Message"
+                ],
+                "lemma": "fight",
+                "reftype": "evoke",
+                "sentence": "34",
+                "target phrase": "that russian soldier and pay mercenary have be fight with the separatist"
+            },
+            "t817": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Using",
+                "frame elements": null,
+                "lemma": "use",
+                "reftype": "evoke",
+                "sentence": "35"
+            },
+            "t88": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Convoy",
+                "frame elements": [
+                    "Convoy@Convoy"
+                ],
+                "lemma": "convoy",
+                "reftype": "type",
+                "sentence": "5",
+                "target phrase": "that convoy"
+            },
+            "t97": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cotheme",
+                "frame elements": null,
+                "lemma": "escort",
+                "reftype": "type",
+                "sentence": "5"
+            }
+        }
+    }
+}

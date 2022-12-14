@@ -1,0 +1,1301 @@
+{
+    "British Intelligence Report Confirms Russian Military Origin of MH17 Murder Weapon": {
+        "fe's without links": {
+            "t103": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Responsibility@Agent",
+                    "Transfer@Donor",
+                    "Transfer@Donor",
+                    "Bringing@Agent"
+                ],
+                "lemma": "military",
+                "reftype": "evoke",
+                "sentence": "5",
+                "target phrase": "military"
+            },
+            "t153": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Supply@Supplier",
+                    "Getting@Recipient"
+                ],
+                "lemma": "military",
+                "reftype": "evoke",
+                "sentence": "7",
+                "target phrase": "the russian military"
+            },
+            "t160": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Supply@Theme",
+                    "Getting@Theme"
+                ],
+                "lemma": "launcher",
+                "sentence": "7",
+                "target phrase": "the missile launcher"
+            },
+            "t185": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Investigator",
+                    "Suspicion@Authority",
+                    "Suspicion@Authority"
+                ],
+                "lemma": "Joint",
+                "sentence": "8",
+                "target phrase": "Joint"
+            },
+            "t200": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Suspect",
+                    "Supply@Supplier"
+                ],
+                "lemma": "military",
+                "reftype": "evoke",
+                "sentence": "8",
+                "target phrase": "the russian military"
+            },
+            "t209": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Supply@Theme"
+                ],
+                "lemma": "weapon",
+                "reftype": "evoke",
+                "sentence": "8",
+                "target phrase": "the murder weapon"
+            },
+            "t23": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Using@Role"
+                ],
+                "lemma": "Weapon",
+                "sentence": "2",
+                "target phrase": "MH17 Murder Weapon"
+            },
+            "t271": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Supply@Supplier",
+                    "Getting@Recipient"
+                ],
+                "lemma": "military",
+                "reftype": "evoke",
+                "sentence": "9",
+                "target phrase": "the russian military"
+            },
+            "t283": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Supply@Theme",
+                    "Getting@Theme"
+                ],
+                "lemma": "launcher",
+                "sentence": "9",
+                "target phrase": "the Buk missile launcher"
+            },
+            "t293": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Downing@Cause",
+                    "Arriving@Theme"
+                ],
+                "lemma": "Buk",
+                "sentence": "9",
+                "target phrase": "the Buk that down MH17"
+            },
+            "t303": {
+                "POS": "ADV",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arriving@Goal"
+                ],
+                "lemma": "there",
+                "sentence": "9",
+                "target phrase": "there"
+            },
+            "t349": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Theme",
+                    "Shoot_projectiles@Projectile"
+                ],
+                "lemma": "Buk",
+                "sentence": "10",
+                "target phrase": "the Buk"
+            },
+            "t354": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Source",
+                    "Traversing@Source"
+                ],
+                "lemma": "Russia",
+                "sentence": "10",
+                "target phrase": "Russia"
+            },
+            "t363": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Shoot_projectiles@Agent",
+                    "Transfer@Recipient",
+                    "Supply@Recipient",
+                    "Transfer@Recipient",
+                    "Downing@Agent",
+                    "Supply@Recipient",
+                    "Downing@Agent",
+                    "Downing@Agent",
+                    "Downing@Agent",
+                    "Downing@Agent",
+                    "Downing@Agent",
+                    "Downing@Agent",
+                    "Supply@Recipient",
+                    "Assistance@Benefited_party"
+                ],
+                "lemma": "force",
+                "reftype": "evoke",
+                "sentence": "10",
+                "target phrase": "\u201c Russian - lead force"
+            },
+            "t409": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Assistance@Helper"
+                ],
+                "lemma": "actor",
+                "sentence": "11",
+                "target phrase": "the actor who facilitate the transfer of across border"
+            },
+            "t415": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Transfer@Theme"
+                ],
+                "lemma": "Buk",
+                "sentence": "11",
+                "target phrase": "Buk 332"
+            },
+            "t420": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Area"
+                ],
+                "lemma": "border",
+                "reftype": "evoke",
+                "sentence": "11",
+                "target phrase": "the ukrainian border"
+            },
+            "t434": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Traversing@Theme"
+                ],
+                "lemma": "Buk",
+                "sentence": "12",
+                "target phrase": "the Buk"
+            },
+            "t441": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Traversing@Source"
+                ],
+                "lemma": "Russian",
+                "reftype": "evoke",
+                "sentence": "12",
+                "target phrase": "Russian"
+            },
+            "t444": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Event@Place",
+                    "Bringing@Goal",
+                    "Traversing@Goal",
+                    "Traversing@Goal",
+                    "Bringing@Goal",
+                    "Bringing@Source"
+                ],
+                "lemma": "Ukraine",
+                "sentence": "12",
+                "target phrase": "Ukraine"
+            },
+            "t455": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Traversing@Path"
+                ],
+                "lemma": "Donetsk",
+                "sentence": "12",
+                "target phrase": "Donetsk ( Russia )"
+            },
+            "t481": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Chatting@Interlocutors",
+                    "Chatting@Interlocutors"
+                ],
+                "lemma": "people",
+                "reftype": "evoke",
+                "sentence": "14",
+                "target phrase": "the people in these conversation"
+            },
+            "t532": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Theme"
+                ],
+                "lemma": "Buk",
+                "sentence": "15",
+                "target phrase": "the Buk"
+            },
+            "t537": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Goal"
+                ],
+                "lemma": "Russia",
+                "sentence": "15",
+                "target phrase": "Russia"
+            },
+            "t565": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Getting@Recipient"
+                ],
+                "lemma": "guy",
+                "sentence": "16",
+                "target phrase": "that these \" guy \" who retrieve the Buk after -PRON- cross be"
+            },
+            "t570": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Traversing@Theme",
+                    "Getting@Theme"
+                ],
+                "lemma": "Buk",
+                "sentence": "16",
+                "target phrase": "the Buk"
+            },
+            "t575": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Traversing@Area"
+                ],
+                "lemma": "border",
+                "reftype": "evoke",
+                "sentence": "16",
+                "target phrase": "the border"
+            },
+            "t601": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Supply@Supplier"
+                ],
+                "lemma": "unit",
+                "sentence": "18",
+                "target phrase": "russian military unit ( 53rd - Aircraft Missile Brigade , base in Kursk"
+            },
+            "t618": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Supply@Theme"
+                ],
+                "lemma": "Buk",
+                "sentence": "18",
+                "target phrase": "the Buk 332"
+            },
+            "t626": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Downing@Cause"
+                ],
+                "lemma": "launcher",
+                "sentence": "18",
+                "target phrase": "the Buk - M1 missile launcher that down the passenger plane ,"
+            },
+            "t655": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Transfer@Theme",
+                    "Using@Instrument"
+                ],
+                "lemma": "launcher",
+                "sentence": "18",
+                "target phrase": "the missile launcher"
+            },
+            "t672": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Participation@Participants"
+                ],
+                "lemma": "soldier",
+                "reftype": "evoke",
+                "sentence": "19",
+                "target phrase": "the russian soldier"
+            },
+            "t674": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Agent"
+                ],
+                "lemma": "driver",
+                "sentence": "19",
+                "target phrase": "the russian soldier - driver who be involve in transport through Russia towards border"
+            },
+            "t686": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Theme"
+                ],
+                "lemma": "weapon",
+                "reftype": "evoke",
+                "sentence": "19",
+                "target phrase": "the eventual MH17 murder weapon"
+            },
+            "t688": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Source"
+                ],
+                "lemma": "Russia",
+                "sentence": "19",
+                "target phrase": "Russia"
+            },
+            "t692": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Area"
+                ],
+                "lemma": "border",
+                "sentence": "19",
+                "target phrase": "the ukrainian border"
+            },
+            "t717": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Getting@Recipient"
+                ],
+                "lemma": "actor",
+                "sentence": "19",
+                "target phrase": "key actor in the procurement and transfer of"
+            },
+            "t724": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Transfer@Theme",
+                    "Getting@Theme"
+                ],
+                "lemma": "Buk",
+                "sentence": "19",
+                "target phrase": "Buk 332"
+            },
+            "t732": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Research@Researcher"
+                ],
+                "lemma": "Bellingcat",
+                "sentence": "20",
+                "target phrase": "Bellingcat"
+            }
+        },
+        "frames/links": {
+            "Q1631864271612": {
+                "t111": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Catastrophe@Patient",
+                        "Catastrophe@Patient",
+                        "Downing@Patient",
+                        "Downing@Patient",
+                        "Downing@Patient",
+                        "Downing@Patient",
+                        "Downing@Patient"
+                    ],
+                    "lemma": "Malaysian",
+                    "sentence": "5",
+                    "target phrase": "Malaysian"
+                },
+                "t168": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "MH-17",
+                    "sentence": "8",
+                    "target phrase": "MH-17"
+                },
+                "t296": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient",
+                        "Downing@Patient"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "9",
+                    "target phrase": "MH17"
+                },
+                "t631": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "plane",
+                    "sentence": "18",
+                    "target phrase": "the passenger plane"
+                }
+            },
+            "Q1633495626707": {},
+            "Q1637127644242": {
+                "t526": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Chatting@Interlocutors"
+                    ],
+                    "lemma": "Dubinsky",
+                    "sentence": "15",
+                    "target phrase": "Dubinsky and other"
+                }
+            },
+            "Q1637127655450": {},
+            "Q17374096": {
+                "mw3": {
+                    "POS": "MWE",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "8"
+                },
+                "mw4": {
+                    "POS": "MWE",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Supply@Imposed_purpose"
+                    ],
+                    "lemma": "shooting down",
+                    "reftype": "type",
+                    "sentence": "7",
+                    "target phrase": "shooting down"
+                },
+                "mw5": {
+                    "POS": "MWE",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "9"
+                },
+                "t109": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Responsibility@Act",
+                        "Catastrophe@Undesirable_event",
+                        "Suspicion@Incident",
+                        "Using@Purpose",
+                        "Catastrophe@Undesirable_event"
+                    ],
+                    "lemma": "downing",
+                    "reftype": "type",
+                    "sentence": "5",
+                    "target phrase": "the downing of Airlines Flight 17 ( MH17 )"
+                },
+                "t111": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Catastrophe@Patient",
+                        "Catastrophe@Patient",
+                        "Downing@Patient",
+                        "Downing@Patient",
+                        "Downing@Patient",
+                        "Downing@Patient",
+                        "Downing@Patient"
+                    ],
+                    "lemma": "Malaysian",
+                    "sentence": "5",
+                    "target phrase": "Malaysian"
+                },
+                "t168": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "MH-17",
+                    "sentence": "8",
+                    "target phrase": "MH-17"
+                },
+                "t182": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": null,
+                    "lemma": "tragedy",
+                    "reftype": "evoke",
+                    "sentence": "8"
+                },
+                "t212": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Criminal_investigation@Incident",
+                        "Catastrophe@Undesirable_event",
+                        "Supply@Imposed_purpose"
+                    ],
+                    "lemma": "downing",
+                    "reftype": "type",
+                    "sentence": "8",
+                    "target phrase": "the downing"
+                },
+                "t260": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "downing",
+                    "reftype": "type",
+                    "sentence": "9"
+                },
+                "t295": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Supply@Imposed_purpose"
+                    ],
+                    "lemma": "down",
+                    "reftype": "type",
+                    "sentence": "9",
+                    "target phrase": "that down MH17"
+                },
+                "t345": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": null,
+                    "lemma": "tragedy",
+                    "reftype": "evoke",
+                    "sentence": "10"
+                },
+                "t476": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "downing",
+                    "reftype": "type",
+                    "sentence": "13"
+                },
+                "t628": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Supply@Imposed_purpose"
+                    ],
+                    "lemma": "down",
+                    "reftype": "type",
+                    "sentence": "18",
+                    "target phrase": "that down the passenger plane"
+                },
+                "t736": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Research@Topic"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "20",
+                    "target phrase": "MH17"
+                },
+                "t745": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": null,
+                    "lemma": "tragedy",
+                    "reftype": "evoke",
+                    "sentence": "20"
+                }
+            }
+        },
+        "historical distance": 1252,
+        "implicated fe's": [
+            "Supply@Recipient",
+            "Downing@Agent",
+            "Event@Time",
+            "Bringing@Path",
+            "Bringing@Agent",
+            "Bringing@Area",
+            "Bringing@Carrier",
+            "Traversing@Direction",
+            "Traversing@Path_shape",
+            "Traversing@Area",
+            "Traversing@Distance",
+            "Traversing@Distance",
+            "Traversing@Path_shape",
+            "Traversing@Direction",
+            "Traversing@Path",
+            "Bringing@Carrier",
+            "Bringing@Path",
+            "Catastrophe@Patient",
+            "Bringing@Carrier",
+            "Bringing@Path",
+            "Perception_experience@Body_part"
+        ],
+        "raw text": "British Intelligence Report Confirms Russian Military Origin of MH17 Murder Weapon.\n\nBritish Intelligence Report Confirms Russian Military Origin of MH17 Murder Weapon Today, December 20, the British Intelligence and Security Committee of Parliament published its 122-page annual report. This report covers a wide range of topics, including cyber security, the status of the UK\u2019s international relationships, the threat of foreign fighters, and so on. However, one almost anecdotal detail in the Russian objectives and activity against UK and allied interests section states a key fact in absolute terms: the Russian military bears direct responsibility for the downing of Malaysian Airlines Flight 17 (MH17). On page 52 of the report, when discussing Russian disinformation activities, a British Secret Intelligence Service (SIS) source described how \u201cwe know beyond any reasonable doubt that the Russian military supplied and subsequently recovered the missile launcher\u201d after \u201cthe shooting down of MH-17.\u201d Western governments and the Dutch-led criminal investigation into the tragedy, the Joint Investigation Team (JIT), have been reluctant to outright name the Russian military as the responsible party for providing the murder weapon for the downing, and even more reluctant to name the Russian military as the actors who carried out the shoot down. While the latter concern is understandable, as there is still no direct evidence placing specific active Russian servicemen with the Buk at the time of the downing, there is no reason to avoid naming the Russian military as the guilty party in providing and retrieving the Buk missile launcher It is widely acknowledged by official bodies that the Buk that downed MH17 came from Russia and was returned there after the shoot down, but the language describing these events has been deliberately obfuscated to avoid a direct accusation at the Russian military. For example, the U.S. State Department\u2019s press statement on the third anniversary of the tragedy mentioned that the Buk was brought \u201cfrom Russia\u201d and fired by \u201cRussian-led forces,\u201d but avoided direct accusations of the Russian military. The reticence to directly name the Russian military can be seen clearly in the JIT\u2019s 28 September 2016 press conference, where the investigators did all they could to avoid directly naming the actors who facilitated the transfer of Buk 332 across the Ukrainian border. For example, in one segment of the press conference, the Buk is described as crossing from the Russian Federation into Ukraine, with a map clearing showing the crossing point near Donetsk (Russia). Later, the JIT showed a number of intercepted phone conversations from the morning after the downing. Some of the people in these conversations are unidentified, but at least one is the Russian Sergey Dubinsky, who worked as Igor \u201cStrelkov\u201d Girkin\u2019s intelligence head in the so-called Donetsk People\u2019s Republic (DNR). In the conversations, Dubinsky and others describe how the Buk was transported back to Russia and left with some \u201cguys\u201d (\u043f\u0430\u0440\u043d\u0438). By following the statement in the British intelligence report, we can confirm that these \u201cguys\u201d who retrieved the Buk after it crossed the border were indeed Russian soldiers. Previous Bellingcat Research Since late 2014, Bellingcat has published a series of detailed reports outlining exactly which Russian military unit (53rd Anti-Aircraft Missile Brigade, based in Kursk, Russia) supplied the Buk 332, the Buk-M1 missile launcher that downed the passenger plane, along with the potential suspects and witnesses from this military unit who either participated in the transfer/use of the missile launcher or have direct knowledge of it. Additionally, we have published reports on the Russian soldier-drivers who were involved in the transport of the eventual MH17 murder weapon through Russia towards the Ukrainian border, along with two specific Russian suspects \u2014 one of which is a Colonel General in the Russian Armed Forces \u2014 who were key actors in the procurement and transfer of Buk 332. A summary of all of Bellingcat\u2019s research into MH17 up to the the third anniversary of the tragedy can be found here.\n",
+        "subevents": {
+            "t106": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Responsibility",
+                "frame elements": null,
+                "lemma": "responsibility",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t154": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Supply",
+                "frame elements": [
+                    "Event@Event"
+                ],
+                "lemma": "supply",
+                "reftype": "type",
+                "sentence": "7",
+                "target phrase": "that the russian military supply and subsequently recover the missile launcher \" after \" the of"
+            },
+            "t157": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Getting",
+                "frame elements": null,
+                "lemma": "recover",
+                "reftype": "type",
+                "sentence": "7"
+            },
+            "t179": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "8"
+            },
+            "t206": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Supply",
+                "frame elements": null,
+                "lemma": "provide",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t277": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Supply",
+                "frame elements": null,
+                "lemma": "provide",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t279": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Getting",
+                "frame elements": null,
+                "lemma": "retrieve",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t302": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "return",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t314": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Event",
+                "frame elements": null,
+                "lemma": "event",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t351": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bringing",
+                "frame elements": null,
+                "lemma": "bring",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t357": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": null,
+                "lemma": "fire",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t411": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Assistance",
+                "frame elements": null,
+                "lemma": "facilitate",
+                "reftype": "type",
+                "sentence": "11"
+            },
+            "t413": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Transfer",
+                "frame elements": [
+                    "Assistance@Goal"
+                ],
+                "lemma": "transfer",
+                "reftype": "evoke",
+                "sentence": "11",
+                "target phrase": "the transfer of Buk 332"
+            },
+            "t438": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Traversing",
+                "frame elements": null,
+                "lemma": "cross",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t470": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Chatting",
+                "frame elements": null,
+                "lemma": "conversation",
+                "reftype": "evoke",
+                "sentence": "13"
+            },
+            "t484": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Chatting",
+                "frame elements": null,
+                "lemma": "conversation",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t524": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Chatting",
+                "frame elements": null,
+                "lemma": "conversation",
+                "reftype": "type",
+                "sentence": "15"
+            },
+            "t534": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bringing",
+                "frame elements": null,
+                "lemma": "transport",
+                "reftype": "type",
+                "sentence": "15"
+            },
+            "t568": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Getting",
+                "frame elements": null,
+                "lemma": "retrieve",
+                "reftype": "type",
+                "sentence": "16"
+            },
+            "t573": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Traversing",
+                "frame elements": null,
+                "lemma": "cross",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t616": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Supply",
+                "frame elements": null,
+                "lemma": "supply",
+                "reftype": "evoke",
+                "sentence": "18"
+            },
+            "t637": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Suspicion",
+                "frame elements": [
+                    "Downing@Agent",
+                    "Suspicion@Suspect",
+                    "Participation@Participants",
+                    "Transfer@Recipient",
+                    "Using@Agent"
+                ],
+                "lemma": "suspect",
+                "reftype": "evoke",
+                "sentence": "18",
+                "target phrase": "the potential suspect and witness from this military unit participate"
+            },
+            "t639": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Perception_experience",
+                "frame elements": [
+                    "Perception_experience@Perceiver_passive"
+                ],
+                "lemma": "witness",
+                "reftype": "evoke",
+                "sentence": "18",
+                "target phrase": "witness"
+            },
+            "t646": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Participation",
+                "frame elements": null,
+                "lemma": "participate",
+                "reftype": "evoke",
+                "sentence": "18"
+            },
+            "t649": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Transfer",
+                "frame elements": [
+                    "Participation@Event",
+                    "Perception_experience@Phenomenon"
+                ],
+                "lemma": "transfer",
+                "reftype": "evoke",
+                "sentence": "18",
+                "target phrase": "the transfer"
+            },
+            "t651": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Using",
+                "frame elements": null,
+                "lemma": "use",
+                "reftype": "type",
+                "sentence": "18"
+            },
+            "t677": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Participation",
+                "frame elements": null,
+                "lemma": "involve",
+                "reftype": "type",
+                "sentence": "19"
+            },
+            "t680": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bringing",
+                "frame elements": [
+                    "Participation@Event"
+                ],
+                "lemma": "transport",
+                "reftype": "evoke",
+                "sentence": "19",
+                "target phrase": "the transport of the eventual murder weapon"
+            },
+            "t699": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Suspicion",
+                "frame elements": [
+                    "Suspicion@Suspect",
+                    "Transfer@Donor"
+                ],
+                "lemma": "suspect",
+                "reftype": "evoke",
+                "sentence": "19",
+                "target phrase": "two specific russian suspect"
+            },
+            "t720": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Getting",
+                "frame elements": [
+                    "Suspicion@Incident"
+                ],
+                "lemma": "procurement",
+                "reftype": "type",
+                "sentence": "19",
+                "target phrase": "the procurement and transfer of Buk 332"
+            },
+            "t722": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Transfer",
+                "frame elements": null,
+                "lemma": "transfer",
+                "reftype": "evoke",
+                "sentence": "19"
+            },
+            "t734": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Research",
+                "frame elements": null,
+                "lemma": "research",
+                "reftype": "evoke",
+                "sentence": "20"
+            }
+        }
+    }
+}

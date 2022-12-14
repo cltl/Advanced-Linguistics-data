@@ -1,0 +1,750 @@
+{
+    "Dutch premier halts search for Ukraine victims": {
+        "fe's without links": {
+            "t126": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arriving@Theme"
+                ],
+                "lemma": "coffin",
+                "sentence": "9",
+                "target phrase": "228 coffin with remain"
+            },
+            "t134": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arriving@Goal"
+                ],
+                "lemma": "Netherlands",
+                "sentence": "9",
+                "target phrase": "the Netherlands"
+            },
+            "t156": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Getting@Recipient",
+                    "Being_obligated@Responsible_party",
+                    "Scrutiny@Cognizer",
+                    "Communication@Communicator"
+                ],
+                "lemma": "team",
+                "reftype": "evoke",
+                "sentence": "10",
+                "target phrase": "the international recovery team"
+            },
+            "t163": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Scrutiny@Ground",
+                    "Scrutiny@Ground"
+                ],
+                "lemma": "site",
+                "reftype": "evoke",
+                "sentence": "10",
+                "target phrase": "the site"
+            },
+            "t17": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Activity_stop@Agent",
+                    "Scrutiny@Cognizer"
+                ],
+                "lemma": "prime",
+                "sentence": "4",
+                "target phrase": "prime"
+            },
+            "t179": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Getting@Recipient",
+                    "Attempt@Agent"
+                ],
+                "lemma": "authority",
+                "reftype": "evoke",
+                "sentence": "10",
+                "target phrase": "local authority"
+            },
+            "t219": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Hostile_encounter@Side_1",
+                    "Rebellion@Current_leadership"
+                ],
+                "lemma": "force",
+                "reftype": "evoke",
+                "sentence": "11",
+                "target phrase": "ukrainian force and - russia separatist rebel"
+            },
+            "t24": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Scrutiny@Phenomenon",
+                    "Attempt@Goal",
+                    "Getting@Theme",
+                    "Scrutiny@Phenomenon",
+                    "Getting@Theme",
+                    "Attempt@Goal"
+                ],
+                "lemma": "remain",
+                "reftype": "evoke",
+                "sentence": "4",
+                "target phrase": "remain of victim of"
+            },
+            "t274": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Scrutiny@Cognizer"
+                ],
+                "lemma": "authority",
+                "reftype": "evoke",
+                "sentence": "15",
+                "target phrase": "local ukrainian authority"
+            },
+            "t283": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Scrutiny@Ground"
+                ],
+                "lemma": "area",
+                "reftype": "evoke",
+                "sentence": "15",
+                "target phrase": "the area"
+            },
+            "t286": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Getting@Recipient"
+                ],
+                "lemma": "volunteer",
+                "reftype": "evoke",
+                "sentence": "15",
+                "target phrase": "800 volunteer"
+            },
+            "t292": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Getting@Theme"
+                ],
+                "lemma": "body",
+                "reftype": "evoke",
+                "sentence": "15",
+                "target phrase": "many body recover in day"
+            },
+            "t306": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Categorization@Item"
+                ],
+                "lemma": "remain",
+                "reftype": "evoke",
+                "sentence": "16",
+                "target phrase": "those remain"
+            },
+            "t336": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Criminal_investigation@Investigator",
+                    "Criminal_investigation@Investigator"
+                ],
+                "lemma": "Dutch",
+                "reftype": "evoke",
+                "sentence": "18",
+                "target phrase": "Dutch"
+            },
+            "t380": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arriving@Theme"
+                ],
+                "lemma": "investigator",
+                "sentence": "19",
+                "target phrase": "investigator"
+            },
+            "t387": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arriving@Goal"
+                ],
+                "lemma": "site",
+                "reftype": "evoke",
+                "sentence": "19",
+                "target phrase": "the crash site"
+            },
+            "t54": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Discussion@Interlocutor_1"
+                ],
+                "lemma": "Mark",
+                "sentence": "5",
+                "target phrase": "Mark"
+            }
+        },
+        "frames/links": {
+            "Q1631025548534": {
+                "t118": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Killing@Victim"
+                    ],
+                    "lemma": "people",
+                    "reftype": "evoke",
+                    "sentence": "8",
+                    "target phrase": "all 298 people on board"
+                },
+                "t143": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Catastrophe@Patient"
+                    ],
+                    "lemma": "victim",
+                    "reftype": "evoke",
+                    "sentence": "9",
+                    "target phrase": "how many victim"
+                },
+                "t238": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Catastrophe@Patient"
+                    ],
+                    "lemma": "victim",
+                    "reftype": "evoke",
+                    "sentence": "12",
+                    "target phrase": "only a few victim"
+                },
+                "t26": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Catastrophe@Patient",
+                        "Catastrophe@Patient",
+                        "Catastrophe@Patient",
+                        "Causation@Affected"
+                    ],
+                    "lemma": "victim",
+                    "reftype": "evoke",
+                    "sentence": "4",
+                    "target phrase": "victim of the Flight 17 disaster in"
+                },
+                "t33": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event",
+                        "Discussion@Topic",
+                        "Catastrophe@Undesirable_event",
+                        "Catastrophe@Undesirable_event",
+                        "Criminal_investigation@Incident"
+                    ],
+                    "lemma": "disaster",
+                    "reftype": "evoke",
+                    "sentence": "4",
+                    "target phrase": "the Malaysia Airlines Flight 17 disaster in Ukraine"
+                },
+                "t69": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Catastrophe@Patient"
+                    ],
+                    "lemma": "victim",
+                    "reftype": "evoke",
+                    "sentence": "5",
+                    "target phrase": "victim '"
+                }
+            },
+            "Q1631864085791": {
+                "t225": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Hostile_encounter@Side_2",
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "11",
+                    "target phrase": "pro - russia separatist rebel"
+                }
+            },
+            "Q1631864271612": {
+                "t103": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Impact@Impactee",
+                        "Impact@Impactee",
+                        "Downing@Patient"
+                    ],
+                    "lemma": "Flight",
+                    "sentence": "8",
+                    "target phrase": "Flight 17"
+                }
+            },
+            "Q17374096": {
+                "mw1": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event",
+                        "Killing@Means",
+                        "Catastrophe@Undesirable_event",
+                        "Catastrophe@Undesirable_event"
+                    ],
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "8",
+                    "target phrase": "shoot down"
+                },
+                "t183": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Impact",
+                    "frame elements": null,
+                    "lemma": "crash",
+                    "reftype": "type",
+                    "sentence": "10"
+                },
+                "t264": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": null,
+                    "lemma": "disaster",
+                    "reftype": "evoke",
+                    "sentence": "13"
+                },
+                "t322": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Impact",
+                    "frame elements": [
+                        "Criminal_investigation@Incident",
+                        "Causation@Effect"
+                    ],
+                    "lemma": "crash",
+                    "reftype": "type",
+                    "sentence": "17",
+                    "target phrase": "the crash"
+                },
+                "t33": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event",
+                        "Discussion@Topic",
+                        "Catastrophe@Undesirable_event",
+                        "Catastrophe@Undesirable_event",
+                        "Criminal_investigation@Incident"
+                    ],
+                    "lemma": "disaster",
+                    "reftype": "evoke",
+                    "sentence": "4",
+                    "target phrase": "the Malaysia Airlines Flight 17 disaster in Ukraine"
+                }
+            }
+        },
+        "historical distance": 20,
+        "implicated fe's": [
+            "Scrutiny@Medium",
+            "Scrutiny@Instrument",
+            "Discussion@Interlocutor_2",
+            "Scrutiny@Medium",
+            "Scrutiny@Instrument",
+            "Killing@Killer",
+            "Killing@Instrument",
+            "Communication@Message",
+            "Communication@Medium",
+            "Impact@Impactor",
+            "Hostile_encounter@Purpose",
+            "Hostile_encounter@Issue",
+            "Scrutiny@Medium",
+            "Scrutiny@Instrument",
+            "Categorization@Cognizer",
+            "Categorization@Category",
+            "Categorization@Criteria",
+            "Criminal_investigation@Suspect",
+            "Causation@Actor",
+            "Impact@Impactor",
+            "Criminal_investigation@Suspect",
+            "Downing@Agent",
+            "Downing@Cause"
+        ],
+        "raw text": "Dutch premier halts search for Ukraine victims.\n\nAMSTERDAM (AP) \u2014 The Netherlands' prime minister has halted the search for remains of victims of the Malaysia Airlines Flight 17 disaster in Ukraine, saying it is too dangerous to continue. At a news conference in The Hague Wednesday, Mark Rutte praised the effort of the international recovery mission so far, and promised victims' families the search will resume in the future when Ukraine is \"more stable.\" \"We're stopping now, but we won't stop,\" he said. Flight 17 was shot down in eastern Ukraine on July 17, killing all 298 people on board. In all, 228 coffins with remains have been returned to the Netherlands, but it is not known how many victims that number represents. Rutte said that now that the international recovery team has been able to access the site and communicate with local authorities, it has learned the recovery effort undertaken by local authorities immediately after the crash was more thorough than initially thought. The international team of Dutch, Australian and Malaysian recovery workers was unable to reach the site until July 31 because of fighting in the area between Ukrainian forces and pro-Russia separatist rebels. Since then, it has found remains of only a few victims, despite expectations it might find as many as 80. Rutte said that it now appears \"fortunately that more was done after the disaster than we thought until now.\" Local Ukrainian authorities carried out \"an intensive search in the area with 800 volunteers, and there were many bodies recovered in those (first) days,\" he said. Those remains are being identified in the Netherlands. A separate investigation into the cause of the crash is continuing, Rutte said. Earlier Wednesday, a spokesman for the Dutch Safety Board, which is overseeing that investigation, said preliminary findings due Aug. 17 won't be ready until several weeks after that date. Wim van der Weegen said in a telephone interview that is in part because of the difficulty investigators have had in reaching the crash site.\n",
+        "subevents": {
+            "t115": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Killing",
+                "frame elements": null,
+                "lemma": "kill",
+                "reftype": "evoke",
+                "sentence": "8"
+            },
+            "t131": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "return",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t165": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Communication",
+                "frame elements": null,
+                "lemma": "communicate",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t174": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Getting",
+                "frame elements": [
+                    "Communication@Topic"
+                ],
+                "lemma": "recovery",
+                "reftype": "type",
+                "sentence": "10",
+                "target phrase": "recovery"
+            },
+            "t175": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attempt",
+                "frame elements": null,
+                "lemma": "effort",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t20": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Activity_stop",
+                "frame elements": null,
+                "lemma": "halt",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t213": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "fighting",
+                "reftype": "evoke",
+                "sentence": "11"
+            },
+            "t22": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Scrutiny",
+                "frame elements": [
+                    "Activity_stop@Activity",
+                    "Being_obligated@Duty"
+                ],
+                "lemma": "search",
+                "reftype": "evoke",
+                "sentence": "4",
+                "target phrase": "the search for remain of"
+            },
+            "t280": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Scrutiny",
+                "frame elements": null,
+                "lemma": "search",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t293": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Getting",
+                "frame elements": null,
+                "lemma": "recover",
+                "reftype": "type",
+                "sentence": "15"
+            },
+            "t309": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Categorization",
+                "frame elements": null,
+                "lemma": "identify",
+                "reftype": "evoke",
+                "sentence": "16"
+            },
+            "t316": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "17"
+            },
+            "t319": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Causation",
+                "frame elements": [
+                    "Causation@Cause"
+                ],
+                "lemma": "cause",
+                "reftype": "evoke",
+                "sentence": "17",
+                "target phrase": "the cause of the crash"
+            },
+            "t344": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Criminal_investigation",
+                "frame elements": null,
+                "lemma": "investigation",
+                "reftype": "type",
+                "sentence": "18"
+            },
+            "t384": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "reach",
+                "reftype": "type",
+                "sentence": "19"
+            },
+            "t48": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t58": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attempt",
+                "frame elements": null,
+                "lemma": "effort",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t62": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Getting",
+                "frame elements": null,
+                "lemma": "recovery",
+                "reftype": "type",
+                "sentence": "5"
+            },
+            "t63": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Being_obligated",
+                "frame elements": [
+                    "Attempt@Agent"
+                ],
+                "lemma": "mission",
+                "reftype": "evoke",
+                "sentence": "5",
+                "target phrase": "the international recovery mission"
+            },
+            "t73": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Scrutiny",
+                "frame elements": null,
+                "lemma": "search",
+                "reftype": "evoke",
+                "sentence": "5"
+            }
+        }
+    }
+}

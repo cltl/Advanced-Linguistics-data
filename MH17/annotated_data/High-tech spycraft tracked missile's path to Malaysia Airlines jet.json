@@ -1,0 +1,424 @@
+{
+    "High-tech spycraft tracked missile's path to Malaysia Airlines jet": {
+        "fe's without links": {
+            "t102": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Categorization@Item"
+                ],
+                "lemma": "location",
+                "reftype": "evoke",
+                "sentence": "5",
+                "target phrase": "the location of a launch site and trajectory"
+            },
+            "t112": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Hit_target@Agent"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "5",
+                "target phrase": "-PRON-"
+            },
+            "t128": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Assessing@Assessor",
+                    "Becoming_aware@Cognizer",
+                    "Cotheme@Cotheme"
+                ],
+                "lemma": "Pentagon",
+                "sentence": "6",
+                "target phrase": "the Pentagon"
+            },
+            "t136": {
+                "POS": "DET",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Shoot_projectiles@Projectile"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "6",
+                "target phrase": "-PRON-"
+            },
+            "t137": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Becoming_aware@Means"
+                ],
+                "lemma": "heat",
+                "sentence": "6",
+                "target phrase": "heat"
+            },
+            "t246": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Cotheme@Theme"
+                ],
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "11",
+                "target phrase": "any surface - to - air missile , which ukrainian official have say probably come from"
+            },
+            "t286": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Shoot_projectiles@Projectile"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "14",
+                "target phrase": "-PRON-"
+            },
+            "t291": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Self_motion@Self_mover"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "14",
+                "target phrase": "-PRON-"
+            },
+            "t300": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Travel@Traveler"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "14",
+                "target phrase": "-PRON-"
+            },
+            "t34": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Becoming_aware@Topic",
+                    "Downing@Cause",
+                    "Impact@Impactor"
+                ],
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "2",
+                "target phrase": "a surface - to - air missile"
+            },
+            "t428": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Shoot_projectiles@Projectile"
+                ],
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "18",
+                "target phrase": "the missile"
+            },
+            "t59": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Assessing@Method"
+                ],
+                "lemma": "measurement",
+                "sentence": "3",
+                "target phrase": "measurement and signature"
+            },
+            "t81": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Assessing@Feature",
+                    "Categorization@Criteria"
+                ],
+                "lemma": "signature",
+                "reftype": "evoke",
+                "sentence": "4",
+                "target phrase": "electronic signature , include radar"
+            },
+            "t87": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Categorization@Cognizer"
+                ],
+                "lemma": "U.S.",
+                "sentence": "5",
+                "target phrase": "the U.S."
+            },
+            "t89": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Becoming_aware@Instrument"
+                ],
+                "lemma": "fleet",
+                "sentence": "5",
+                "target phrase": "identify fleet of listening satellite and satellite"
+            }
+        },
+        "frames/links": {
+            "Q1631864271612": {
+                "t122": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hit_target@Target"
+                    ],
+                    "lemma": "Malaysia",
+                    "sentence": "5",
+                    "target phrase": "Malaysia"
+                },
+                "t39": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient",
+                        "Impact@Impactee"
+                    ],
+                    "lemma": "jetliner",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "a malaysian jetliner over Ukraine"
+                }
+            },
+            "Q17374096": {
+                "mw1": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Assessing@Phenomenon"
+                    ],
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "2",
+                    "target phrase": "shoot down"
+                },
+                "t437": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Impact",
+                    "frame elements": null,
+                    "lemma": "crash",
+                    "reftype": "type",
+                    "sentence": "19"
+                }
+            }
+        },
+        "historical distance": 1,
+        "implicated fe's": [
+            "Assessing@Medium",
+            "Categorization@Category",
+            "Shoot_projectiles@Agent",
+            "Shoot_projectiles@Agent",
+            "Self_motion@Source",
+            "Self_motion@Path",
+            "Self_motion@Goal",
+            "Self_motion@Area",
+            "Self_motion@Direction",
+            "Travel@Area",
+            "Travel@Goal",
+            "Travel@Path",
+            "Travel@Source",
+            "Travel@Direction",
+            "Shoot_projectiles@Agent",
+            "Cotheme@Source",
+            "Cotheme@Path",
+            "Cotheme@Goal",
+            "Cotheme@Area",
+            "Cotheme@Road",
+            "Cotheme@Direction"
+        ],
+        "raw text": "High-tech spycraft tracked missile's path to Malaysia Airlines jet.\nAdvanced U.S. satellites played a key role in the determination by intelligence officials that a surface-to-air missile shot down a Malaysian jetliner over Ukraine on Thursday. The assessment was almost certainly based on a technical branch of spycraft known as measurement and signature intelligence, or MASINT, analysts said. The method detects, tracks and identifies a variety of electronic signatures, including radar. The U.S. operates fleets of listening satellites and early warning satellites that could have identified the location of a missile launch site and its trajectory as it shot up to the 33,000-foot cruising altitude of the Malaysia Airlines Boeing 777. The Pentagon would have detected the launch because of its heat signature, said Riki Ellison, founder and chairman of Missile Defense Advocacy Alliance, a group that lobbies for missile defense spending. Advertisement The U.S. Air Force has satellites in high-Earth orbit that use infrared sensors to detect heat from missile and booster plumes against Earth\u2019s background. Called the Defense Support Program, the system provides early warning for intercontinental ballistic missile launches. The satellites are sensitive enough to sense hot spots in forest fires, according to the Air Force. U.S. radar installations and other assets in the region would assist in tracking any surface-to-air missile, which Ukrainian officials have said probably came from a Russian-made Buk system. The information would be relayed to U.S. European Command, headquartered in Stuttgart, Germany. \u201cThey would have known exactly where it was launched, where it was headed, and the rate at which it was traveling,\u201d Ellison said. Separately, the U.S. operates sensitive listening satellites that can capture a wide range of electronic emissions from foreign nations\u2019 defense systems, allowing analysts to determine the origin of the signals and the type weapon that was used. For instance, the Buk missile uses a strong radar search and tracking system to find its targets and then helps guide a missile to the target. At some point in its flight, the missile begins to use its own radar system, emitting a unique signal. The combination of unique signals over a period of seconds or minutes would allow a U.S. satellite to triangulate the point of launch and track the trajectory of the missile. For more news on the Malaysia Airlines crash, follow @rvartabedian and @wjhenn on Twitter.",
+        "subevents": {
+            "t100": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Categorization",
+                "frame elements": null,
+                "lemma": "identify",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t113": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hit_target",
+                "frame elements": null,
+                "lemma": "shoot",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t131": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Becoming_aware",
+                "frame elements": null,
+                "lemma": "detect",
+                "reftype": "evoke",
+                "sentence": "6"
+            },
+            "t133": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": [
+                    "Becoming_aware@Phenomenon"
+                ],
+                "lemma": "launch",
+                "reftype": "evoke",
+                "sentence": "6",
+                "target phrase": "the launch"
+            },
+            "t239": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cotheme",
+                "frame elements": null,
+                "lemma": "track",
+                "reftype": "type",
+                "sentence": "11"
+            },
+            "t288": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": null,
+                "lemma": "launch",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t293": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Self_motion",
+                "frame elements": null,
+                "lemma": "head",
+                "reftype": "type",
+                "sentence": "14"
+            },
+            "t302": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Travel",
+                "frame elements": null,
+                "lemma": "travel",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t421": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Shoot_projectiles",
+                "frame elements": null,
+                "lemma": "launch",
+                "reftype": "evoke",
+                "sentence": "18"
+            },
+            "t46": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Assessing",
+                "frame elements": null,
+                "lemma": "assessment",
+                "reftype": "evoke",
+                "sentence": "3"
+            }
+        }
+    }
+}

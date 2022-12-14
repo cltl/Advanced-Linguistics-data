@@ -1,0 +1,505 @@
+{
+    "How Can a Civilian Plane Accidentally Be Shot Down?": {
+        "fe's without links": {
+            "t137": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Attack@Assailant"
+                ],
+                "lemma": "system",
+                "reftype": "evoke",
+                "sentence": "7",
+                "target phrase": "the Buk system that can attack aircraft at foot and at range"
+            },
+            "t141": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Attack@Victim"
+                ],
+                "lemma": "aircraft",
+                "reftype": "evoke",
+                "sentence": "7",
+                "target phrase": "aircraft"
+            },
+            "t195": {
+                "POS": "DET",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Operating_a_system@System",
+                    "Using@Agent"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "9",
+                "target phrase": "-PRON-"
+            },
+            "t226": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Using@Instrument"
+                ],
+                "lemma": "system",
+                "reftype": "evoke",
+                "sentence": "9",
+                "target phrase": "-PRON- own radar system"
+            },
+            "t251": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Cotheme@Cotheme"
+                ],
+                "lemma": "object",
+                "reftype": "evoke",
+                "sentence": "10",
+                "target phrase": "the various object the system be track"
+            },
+            "t253": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Cotheme@Theme"
+                ],
+                "lemma": "system",
+                "reftype": "evoke",
+                "sentence": "10",
+                "target phrase": "the system"
+            },
+            "t26": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bringing@Area"
+                ],
+                "lemma": "Ukraine",
+                "sentence": "2",
+                "target phrase": "eastern Ukraine"
+            },
+            "t278": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Operating_a_system@Operator",
+                    "Differentiation@Cognizer"
+                ],
+                "lemma": "operator",
+                "sentence": "12",
+                "target phrase": "-PRON- operator"
+            },
+            "t293": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Differentiation@Phenomenon_2"
+                ],
+                "lemma": "threat",
+                "reftype": "evoke",
+                "sentence": "12",
+                "target phrase": "a military threat"
+            },
+            "t381": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Differentiation@Phenomenon_1"
+                ],
+                "lemma": "civilian",
+                "sentence": "17",
+                "target phrase": "civilian and military"
+            },
+            "t383": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Differentiation@Phenomenon_2"
+                ],
+                "lemma": "military",
+                "reftype": "evoke",
+                "sentence": "17",
+                "target phrase": "military"
+            },
+            "t64": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Participation@Participants"
+                ],
+                "lemma": "system",
+                "reftype": "evoke",
+                "sentence": "3",
+                "target phrase": "the system that be involve"
+            },
+            "t72": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Bungling@Patient"
+                ],
+                "lemma": "plane",
+                "reftype": "evoke",
+                "sentence": "3",
+                "target phrase": "plane"
+            }
+        },
+        "frames/links": {
+            "Q1631025548534": {
+                "t102": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Bringing@Theme"
+                    ],
+                    "lemma": "people",
+                    "reftype": "evoke",
+                    "sentence": "6",
+                    "target phrase": "298 people"
+                }
+            },
+            "Q1631864085791": {
+                "t15": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel",
+                        "Downing@Agent",
+                        "Bungling@Agent",
+                        "Downing@Agent"
+                    ],
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "pro - russian separatist"
+                },
+                "t30": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Bungling@Agent"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "2",
+                    "target phrase": "-PRON-"
+                },
+                "t372": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Differentiation@Cognizer"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "17",
+                    "target phrase": "the rebel"
+                }
+            },
+            "Q1631864271612": {
+                "t100": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Bringing",
+                    "frame elements": null,
+                    "lemma": "carry",
+                    "reftype": "evoke",
+                    "sentence": "6"
+                },
+                "t102": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Bringing@Theme"
+                    ],
+                    "lemma": "people",
+                    "reftype": "evoke",
+                    "sentence": "6",
+                    "target phrase": "298 people"
+                },
+                "t20": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "Malaysia",
+                    "sentence": "2",
+                    "target phrase": "Malaysia"
+                },
+                "t289": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Differentiation@Phenomenon_1"
+                    ],
+                    "lemma": "airliner",
+                    "reftype": "evoke",
+                    "sentence": "12",
+                    "target phrase": "the civilian airliner"
+                },
+                "t34": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Bungling@Patient"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "the civilian plane"
+                },
+                "t97": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Bringing@Carrier",
+                        "Downing@Patient"
+                    ],
+                    "lemma": "Boeing",
+                    "sentence": "6",
+                    "target phrase": "Boeing"
+                }
+            },
+            "Q17374096": {
+                "mw1": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Participation@Event"
+                    ],
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "2",
+                    "target phrase": "shoot down"
+                },
+                "t95": {
+                    "POS": "ADP",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "down",
+                    "reftype": "type",
+                    "sentence": "6"
+                }
+            }
+        },
+        "historical distance": 1,
+        "implicated fe's": [
+            "Bringing@Agent",
+            "Bringing@Goal",
+            "Bringing@Source",
+            "Bringing@Path",
+            "Using@Purpose",
+            "Using@Role",
+            "Differentiation@Quality",
+            "Rebellion@Current_leadership",
+            "Bungling@Area",
+            "Bungling@Area",
+            "Cotheme@Source",
+            "Cotheme@Path",
+            "Cotheme@Area",
+            "Cotheme@Road",
+            "Cotheme@Goal",
+            "Cotheme@Direction"
+        ],
+        "raw text": "How Can a Civilian Plane Accidentally Be Shot Down?.\nPro-Russian separatists may have shot down Malaysia Airlines Flight 17 over eastern Ukraine on Thursday because they mistook the civilian plane for something else. While we don\u2019t yet know whether that explanation is correct, it does sound plausible to experts on missile technology, who say the systems that were involved create ample opportunities for planes to be misidentified. Crash site: Debris from Malaysia Airlines Flight 17 near Hrabove, Ukraine. The weapon used to down the Boeing 777\u2014which was carrying 298 people\u2014is believed to be the Buk surface-to-air missile system\u2014known in Western parlance as the SA-11 Gadfly or SA-17 Grizzly. There are some versions of the Buk system that can attack aircraft at over 80,000 feet and at ranges of over 30 miles. The Buk system was originally designed to defend advancing columns of ground troops from air attack, says Steve Zaloga, an expert on missile systems at the Teal Group, a defense-consulting firm in Virginia. Because of its purpose as a tactical weapon designed to support frontline troops, it is not connected to national air defense networks and can be operated independently, using its own radar systems, Zaloga says. The missile operators sit inside a very cramped launch vehicle looking at a basic radar screen that shows the various objects the system is tracking. But without the larger network, that information has very little in the way of context. That explains why its operators may not have had enough information to distinguish the civilian airliner from a military threat. \u201cThis definitely could have been an error,\u201d Zaloga says. Being a Soviet design, the user interface is fairly simple, says Michael Pietrucha, a former F-4G and F-15E electronic warfare officer and expert on air defenses. Pietrucha says he trained with German forces operating a similar Russian-built system during the 1990s. Pietrucha says that the Buk variant that is likely to have been operated by the rebels might have been especially unable to distinguish between civilian and military air traffic because of a quirk related to aircraft transponders. The transponder is a device that broadcasts an aircraft\u2019s identity when a radar \u201cinterrogates\u201d it for information. Military and civilian aircraft often use the same transponder modes and therefore that signal is not used as a \u201cdiscriminator\u201d for a military targeting system, Pietrucha says. The system has to be tied into the national air traffic control system to use that information effectively.",
+        "subevents": {
+            "t140": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attack",
+                "frame elements": null,
+                "lemma": "attack",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t219": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Operating_a_system",
+                "frame elements": null,
+                "lemma": "operate",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t222": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Using",
+                "frame elements": null,
+                "lemma": "use",
+                "reftype": "evoke",
+                "sentence": "9"
+            },
+            "t255": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Cotheme",
+                "frame elements": null,
+                "lemma": "track",
+                "reftype": "type",
+                "sentence": "10"
+            },
+            "t286": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Differentiation",
+                "frame elements": null,
+                "lemma": "distinguish",
+                "reftype": "evoke",
+                "sentence": "12"
+            },
+            "t31": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bungling",
+                "frame elements": null,
+                "lemma": "mistake",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t379": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Differentiation",
+                "frame elements": null,
+                "lemma": "distinguish",
+                "reftype": "evoke",
+                "sentence": "17"
+            },
+            "t67": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Participation",
+                "frame elements": null,
+                "lemma": "involve",
+                "reftype": "type",
+                "sentence": "3"
+            },
+            "t75": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Bungling",
+                "frame elements": [
+                    "Bungling@Action",
+                    "Bungling@Action"
+                ],
+                "lemma": "misidentifie",
+                "reftype": "type",
+                "sentence": "3",
+                "target phrase": "for plane to be misidentifie"
+            }
+        }
+    }
+}

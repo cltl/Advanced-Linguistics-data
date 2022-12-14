@@ -1,0 +1,122 @@
+{
+    "British journalist working for Russian TV resigns over bias in Ukraine MH17 coverage": {
+        "fe's without links": {
+            "t41": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Statement@Medium"
+                ],
+                "lemma": "network",
+                "reftype": "evoke",
+                "sentence": "2",
+                "target phrase": "the network"
+            },
+            "t62": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Downing@Agent"
+                ],
+                "lemma": "force",
+                "reftype": "evoke",
+                "sentence": "2",
+                "target phrase": "ukrainian force"
+            }
+        },
+        "frames/links": {
+            "Q1631864271612": {
+                "t53": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "the plane"
+                }
+            },
+            "Q17374096": {
+                "t50": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Statement@Message",
+                        "Statement@Topic",
+                        "Perception_experience@Phenomenon"
+                    ],
+                    "lemma": "downing",
+                    "reftype": "type",
+                    "sentence": "2",
+                    "target phrase": "the downing of the plane"
+                },
+                "t53": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "the plane"
+                }
+            }
+        },
+        "historical distance": 1,
+        "implicated fe's": [
+            "Perception_experience@Body_part"
+        ],
+        "raw text": "British journalist working for Russian TV resigns over bias in Ukraine MH17 coverage.\nMs Firth, who was RT's London correspondent and had worked for the network for five years, said she was dismayed to see the network airing interviews with eyewitnesses who claimed that the downing of the plane was without a doubt the work of Ukrainian forces.",
+        "subevents": {
+            "t45": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Perception_experience",
+                "frame elements": [
+                    "Statement@Speaker",
+                    "Perception_experience@Perceiver_passive"
+                ],
+                "lemma": "eyewitness",
+                "reftype": "evoke",
+                "sentence": "2",
+                "target phrase": "eyewitness who claim that downing be without work"
+            },
+            "t47": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "claim",
+                "reftype": "evoke",
+                "sentence": "2"
+            }
+        }
+    }
+}

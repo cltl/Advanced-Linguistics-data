@@ -1,0 +1,2037 @@
+{
+    "Is The MH17 Joint Investigation Team Avoiding The Question Of Kremlin Guilt?": {
+        "fe's without links": {
+            "t1022": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Hostile_encounter@Side_1",
+                    "Hostile_encounter@Side_1"
+                ],
+                "lemma": "family",
+                "reftype": "evoke",
+                "sentence": "45",
+                "target phrase": "family"
+            },
+            "t1068": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Trial@Court"
+                ],
+                "lemma": "international",
+                "reftype": "evoke",
+                "sentence": "46",
+                "target phrase": "international"
+            },
+            "t1076": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Questioning@Speaker"
+                ],
+                "lemma": "JIT",
+                "sentence": "48",
+                "target phrase": "the JIT"
+            },
+            "t1091": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Possession@Possession"
+                ],
+                "lemma": "information",
+                "reftype": "evoke",
+                "sentence": "48",
+                "target phrase": "intimate and invaluable information about the"
+            },
+            "t1143": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Giving@Donor"
+                ],
+                "lemma": "Putin",
+                "sentence": "50",
+                "target phrase": "Putin"
+            },
+            "t1152": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Giving@Theme"
+                ],
+                "lemma": "parliamentary",
+                "sentence": "50",
+                "target phrase": "parliamentary"
+            },
+            "t16": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Imposing_obligation@Responsible_party"
+                ],
+                "lemma": "Joint",
+                "sentence": "2",
+                "target phrase": "Joint"
+            },
+            "t191": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Evidence@Proposition"
+                ],
+                "lemma": "battery",
+                "sentence": "7",
+                "target phrase": "\" ukrainian surface - to - air battery and warplane"
+            },
+            "t217": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Surrendering_possession@Theme"
+                ],
+                "lemma": "account",
+                "reftype": "evoke",
+                "sentence": "9",
+                "target phrase": "-PRON- account that Ukraine be responsible"
+            },
+            "t230": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Impact@Impactor"
+                ],
+                "lemma": "BUK",
+                "sentence": "10",
+                "target phrase": "the BUK"
+            },
+            "t232": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arriving@Theme"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "10",
+                "target phrase": "-PRON-"
+            },
+            "t235": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arriving@Goal",
+                    "Departing@Source"
+                ],
+                "lemma": "Ukraine",
+                "sentence": "10",
+                "target phrase": "east Ukraine"
+            },
+            "t264": {
+                "POS": "DET",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Departing@Theme"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "10",
+                "target phrase": "-PRON-"
+            },
+            "t286": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Chatting@Interlocutors",
+                    "Discussion@Interlocutor_1",
+                    "Contacting@Communicator"
+                ],
+                "lemma": "crew",
+                "reftype": "evoke",
+                "sentence": "11",
+                "target phrase": "the crew ( code name Bibliotekar , or \" librarian \" ) and various controller discuss location"
+            },
+            "t299": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Discussion@Interlocutor_2",
+                    "Contacting@Addressee"
+                ],
+                "lemma": "controller",
+                "sentence": "11",
+                "target phrase": "various controller discuss the location of"
+            },
+            "t302": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Discussion@Topic",
+                    "Contacting@Topic"
+                ],
+                "lemma": "location",
+                "reftype": "evoke",
+                "sentence": "11",
+                "target phrase": "the location of the BUK , park"
+            },
+            "t31": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Rebellion@Current_leadership",
+                    "Rebellion@Current_leadership",
+                    "Rebellion@Current_leadership"
+                ],
+                "lemma": "Ukraine",
+                "sentence": "2",
+                "target phrase": "Ukraine , Malaysia and the Netherlands"
+            },
+            "t318": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Predicament@Experiencer"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "11",
+                "target phrase": "-PRON-"
+            },
+            "t349": {
+                "POS": "PRON",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Motion@Theme"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "14",
+                "target phrase": "-PRON-"
+            },
+            "t352": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Motion@Source"
+                ],
+                "lemma": "point",
+                "sentence": "14",
+                "target phrase": "point"
+            },
+            "t354": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Motion@Goal"
+                ],
+                "lemma": "point",
+                "sentence": "14",
+                "target phrase": "point"
+            },
+            "t370": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Quarreling@Arguer1"
+                ],
+                "lemma": "source",
+                "reftype": "evoke",
+                "sentence": "15",
+                "target phrase": "russian source"
+            },
+            "t374": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Quarreling@Issue"
+                ],
+                "lemma": "authenticity",
+                "sentence": "15",
+                "target phrase": "-PRON- authenticity"
+            },
+            "t377": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Quarreling@Arguer2",
+                    "Trial@Prosecution",
+                    "Trial@Prosecution"
+                ],
+                "lemma": "dutch",
+                "reftype": "evoke",
+                "sentence": "15",
+                "target phrase": "dutch"
+            },
+            "t41": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Imposing_obligation@Duty"
+                ],
+                "lemma": "bring",
+                "sentence": "2",
+                "target phrase": "bring the \u201c perpetrator of attack to justice"
+            },
+            "t468": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Awareness@Cognizer",
+                    "Participation@Participants"
+                ],
+                "lemma": "high",
+                "sentence": "19",
+                "target phrase": "high"
+            },
+            "t543": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Sending@Transport_means",
+                    "Removing@Source"
+                ],
+                "lemma": "social",
+                "sentence": "22",
+                "target phrase": "social"
+            },
+            "t587": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Removing@Theme"
+                ],
+                "lemma": "announcement",
+                "reftype": "evoke",
+                "sentence": "25",
+                "target phrase": "the announcement"
+            },
+            "t594": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Questioning@Addressee"
+                ],
+                "lemma": "Igor",
+                "sentence": "26",
+                "target phrase": "Igor"
+            },
+            "t624": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Questioning@Addressee"
+                ],
+                "lemma": "commander",
+                "reftype": "evoke",
+                "sentence": "27",
+                "target phrase": "the commander of the Vostok battalion"
+            },
+            "t634": {
+                "POS": "DET",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Request@Speaker"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "27",
+                "target phrase": "-PRON-"
+            },
+            "t641": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Gathering_up@Agent",
+                    "Hiding_objects@Agent",
+                    "Giving@Donor",
+                    "Locating@Perceiver",
+                    "Hiding_objects@Agent",
+                    "Request@Addressee"
+                ],
+                "lemma": "subordinate",
+                "reftype": "evoke",
+                "sentence": "27",
+                "target phrase": "subordinate work at scene"
+            },
+            "t646": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Locating@Ground"
+                ],
+                "lemma": "scene",
+                "sentence": "27",
+                "target phrase": "the crash scene"
+            },
+            "t651": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Gathering_up@Aggregate",
+                    "Hiding_objects@Hidden_object"
+                ],
+                "lemma": "wreckage",
+                "sentence": "27",
+                "target phrase": "wreckage"
+            },
+            "t660": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Giving@Recipient"
+                ],
+                "lemma": "people",
+                "reftype": "evoke",
+                "sentence": "27",
+                "target phrase": "\u2019s people"
+            },
+            "t667": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Locating@Sought_entity",
+                    "Hiding_objects@Hidden_object"
+                ],
+                "lemma": "black",
+                "reftype": "evoke",
+                "sentence": "27",
+                "target phrase": "black"
+            },
+            "t689": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Questioning@Addressee"
+                ],
+                "lemma": "Oleg",
+                "sentence": "27",
+                "target phrase": "Interrogate Oleg"
+            },
+            "t70": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Evidence@Proposition"
+                ],
+                "lemma": "path",
+                "reftype": "evoke",
+                "sentence": "4",
+                "target phrase": "the path of the BUK missile"
+            },
+            "t738": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Questioning@Addressee"
+                ],
+                "lemma": "Sergei",
+                "sentence": "30",
+                "target phrase": "Sergei"
+            },
+            "t74": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Impact@Impactor",
+                    "Downing@Cause"
+                ],
+                "lemma": "missile",
+                "reftype": "evoke",
+                "sentence": "4",
+                "target phrase": "the BUK missile that allegedly MH17 from entry , to location , and to"
+            },
+            "t773": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arriving@Theme"
+                ],
+                "lemma": "BUK",
+                "sentence": "32",
+                "target phrase": "BUK"
+            },
+            "t81": {
+                "POS": "DET",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arriving@Theme"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "4",
+                "target phrase": "-PRON-"
+            },
+            "t821": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Statement@Medium"
+                ],
+                "lemma": "forum",
+                "sentence": "36",
+                "target phrase": "public forum"
+            },
+            "t826": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arriving@Goal"
+                ],
+                "lemma": "Russia",
+                "sentence": "36",
+                "target phrase": "Russia"
+            },
+            "t831": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Statement@Message"
+                ],
+                "lemma": "start",
+                "reftype": "evoke",
+                "sentence": "36",
+                "target phrase": "that -PRON- start the war in Ukraine"
+            },
+            "t833": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Statement@Topic"
+                ],
+                "lemma": "war",
+                "reftype": "evoke",
+                "sentence": "36",
+                "target phrase": "the war in east Ukraine"
+            },
+            "t87": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Arriving@Goal",
+                    "Quitting_a_place@Source"
+                ],
+                "lemma": "Ukraine",
+                "sentence": "4",
+                "target phrase": "eastern Ukraine"
+            },
+            "t921": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Scrutiny@Cognizer"
+                ],
+                "lemma": "JIT",
+                "sentence": "42",
+                "target phrase": "the JIT"
+            },
+            "t931": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Scrutiny@Ground",
+                    "Deciding@Cognizer"
+                ],
+                "lemma": "command",
+                "reftype": "evoke",
+                "sentence": "42",
+                "target phrase": "political and military command"
+            },
+            "t940": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Deny_or_grant_permission@Protagonist"
+                ],
+                "lemma": "buk",
+                "sentence": "43",
+                "target phrase": "russian buk ( which require train crew and logistic )"
+            },
+            "t960": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Destroying@Patient"
+                ],
+                "lemma": "advantage",
+                "sentence": "43",
+                "target phrase": "Ukraine \u2019s air advantage"
+            },
+            "t972": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Deny_or_grant_permission@Authority"
+                ],
+                "lemma": "Kremlin",
+                "sentence": "43",
+                "target phrase": "Kremlin"
+            },
+            "t99": {
+                "POS": "DET",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Quitting_a_place@Self_mover"
+                ],
+                "lemma": "-PRON-",
+                "sentence": "4",
+                "target phrase": "-PRON-"
+            },
+            "t997": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Hostile_encounter@Purpose",
+                    "Hostile_encounter@Purpose"
+                ],
+                "lemma": "compensation",
+                "sentence": "45",
+                "target phrase": "victim of compensation for the"
+            }
+        },
+        "frames/links": {
+            "Q159": {
+                "t1046": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Trial@Defendant",
+                        "Trial@Defendant"
+                    ],
+                    "lemma": "Russia",
+                    "sentence": "46",
+                    "target phrase": "[ Russia ]"
+                },
+                "t211": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Surrendering_possession@Surrenderer"
+                    ],
+                    "lemma": "Kremlin",
+                    "sentence": "9",
+                    "target phrase": "the Kremlin"
+                }
+            },
+            "Q1631025548534": {
+                "t1000": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Catastrophe@Patient",
+                        "Catastrophe@Patient",
+                        "Catastrophe@Patient",
+                        "Catastrophe@Patient"
+                    ],
+                    "lemma": "victim",
+                    "reftype": "evoke",
+                    "sentence": "45",
+                    "target phrase": "victim of MH17 the"
+                },
+                "t1002": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "45",
+                    "target phrase": "MH17"
+                }
+            },
+            "Q1631864085791": {
+                "t1083": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": null,
+                    "lemma": "separatist",
+                    "reftype": "evoke",
+                    "sentence": "48"
+                },
+                "t1084": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Possession@Owner",
+                        "Questioning@Addressee",
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "official",
+                    "reftype": "evoke",
+                    "sentence": "48",
+                    "target phrase": "russian and separatist official and officer"
+                },
+                "t408": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": null,
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "17"
+                },
+                "t409": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "official",
+                    "reftype": "evoke",
+                    "sentence": "17",
+                    "target phrase": "rebel official and Moscow"
+                },
+                "t879": {
+                    "POS": "ADJ",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Rebellion",
+                    "frame elements": [
+                        "Rebellion@Rebel"
+                    ],
+                    "lemma": "rebel",
+                    "reftype": "evoke",
+                    "sentence": "39",
+                    "target phrase": "rebel"
+                }
+            },
+            "Q1631864271612": {
+                "t1097": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "48",
+                    "target phrase": "MH17"
+                },
+                "t49": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Attack@Victim",
+                        "Impact@Impactee"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "2",
+                    "target phrase": "MH17 ( Malaysian Airlines Flight 17 )"
+                },
+                "t555": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Impact@Impactee"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "22",
+                    "target phrase": "MH17"
+                },
+                "t566": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "22",
+                    "target phrase": "a transport plane"
+                },
+                "t613": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "plane",
+                    "sentence": "26",
+                    "target phrase": "a plane"
+                },
+                "t79": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "4",
+                    "target phrase": "MH17"
+                }
+            },
+            "Q1636580448374": {},
+            "Q1637127655450": {
+                "t1146": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Giving@Recipient"
+                    ],
+                    "lemma": "Strelkov",
+                    "sentence": "50",
+                    "target phrase": "Strelkov and Bezler"
+                },
+                "t517": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Questioning@Addressee"
+                    ],
+                    "lemma": "Igor",
+                    "sentence": "22",
+                    "target phrase": "Igor"
+                },
+                "t542": {
+                    "POS": "DET",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Sending@Sender"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "22",
+                    "target phrase": "-PRON-"
+                },
+                "t584": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Removing@Agent"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "25",
+                    "target phrase": "-PRON-"
+                },
+                "t815": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Statement@Speaker",
+                        "Chatting@Interlocutor_1"
+                    ],
+                    "lemma": "Strelkov",
+                    "sentence": "36",
+                    "target phrase": "Strelkov"
+                },
+                "t823": {
+                    "POS": "DET",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Arriving@Theme"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "36",
+                    "target phrase": "-PRON-"
+                }
+            },
+            "Q17374096": {
+                "mw1": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "4"
+                },
+                "mw2": {
+                    "POS": "MWE",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "shooting down",
+                    "reftype": "type",
+                    "sentence": "22"
+                },
+                "mw3": {
+                    "POS": "MWE",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event",
+                        "Questioning@Topic"
+                    ],
+                    "lemma": "shooting down",
+                    "reftype": "type",
+                    "sentence": "48",
+                    "target phrase": "shooting down"
+                },
+                "t1002": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "45",
+                    "target phrase": "MH17"
+                },
+                "t1097": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "48",
+                    "target phrase": "MH17"
+                },
+                "t1115": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Committing_crime@Crime"
+                    ],
+                    "lemma": "disaster",
+                    "reftype": "evoke",
+                    "sentence": "48",
+                    "target phrase": "the disaster"
+                },
+                "t202": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Hit_target@Target"
+                    ],
+                    "lemma": "Boeing",
+                    "sentence": "7",
+                    "target phrase": "Boeing"
+                },
+                "t203": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Hit_target",
+                    "frame elements": null,
+                    "lemma": "shooting",
+                    "reftype": "type",
+                    "sentence": "7"
+                },
+                "t274": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Impact",
+                    "frame elements": null,
+                    "lemma": "crash",
+                    "reftype": "type",
+                    "sentence": "10"
+                },
+                "t323": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Predicament",
+                    "frame elements": null,
+                    "lemma": "mess",
+                    "reftype": "type",
+                    "sentence": "11"
+                },
+                "t418": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": null,
+                    "lemma": "disaster",
+                    "reftype": "evoke",
+                    "sentence": "17"
+                },
+                "t47": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Attack",
+                    "frame elements": [
+                        "Perception_experience@Phenomenon",
+                        "Catastrophe@Undesirable_event",
+                        "Committing_crime@Crime",
+                        "Perception_experience@Phenomenon",
+                        "Perception_experience@Phenomenon",
+                        "Catastrophe@Undesirable_event",
+                        "Questioning@Topic",
+                        "Questioning@Topic",
+                        "Questioning@Topic",
+                        "Questioning@Topic",
+                        "Trial@Charges",
+                        "Trial@Charges"
+                    ],
+                    "lemma": "attack",
+                    "reftype": "evoke",
+                    "sentence": "2",
+                    "target phrase": "the attack on MH17 Flight"
+                },
+                "t479": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Awareness@Topic",
+                        "Participation@Event",
+                        "Committing_crime@Crime"
+                    ],
+                    "lemma": "catastrophe",
+                    "reftype": "type",
+                    "sentence": "19",
+                    "target phrase": "the catastrophe"
+                },
+                "t49": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Attack@Victim",
+                        "Impact@Impactee"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "2",
+                    "target phrase": "MH17 ( Malaysian Airlines Flight 17 )"
+                },
+                "t553": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Impact",
+                    "frame elements": null,
+                    "lemma": "crash",
+                    "reftype": "type",
+                    "sentence": "22"
+                },
+                "t555": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Impact@Impactee"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "22",
+                    "target phrase": "MH17"
+                },
+                "t566": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "plane",
+                    "reftype": "evoke",
+                    "sentence": "22",
+                    "target phrase": "a transport plane"
+                },
+                "t616": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Questioning@Topic"
+                    ],
+                    "lemma": "down",
+                    "reftype": "type",
+                    "sentence": "26",
+                    "target phrase": "that a plane have be down fifteen minute earlier"
+                }
+            }
+        },
+        "historical distance": 259,
+        "implicated fe's": [
+            "Imposing_obligation@Obligator",
+            "Evidence@Support",
+            "Evidence@Proposition",
+            "Perception_experience@Body_part",
+            "Evidence@Support",
+            "Motion@Area",
+            "Motion@Path",
+            "Motion@Distance",
+            "Motion@Direction",
+            "Contacting@Communication",
+            "Contacting@Address",
+            "Awareness@Content",
+            "Awareness@Expressor",
+            "Sending@Goal",
+            "Sending@Recipient",
+            "Gathering_up@Individuals",
+            "Hiding_objects@Hiding_place",
+            "Evidence@Support",
+            "Evidence@Proposition",
+            "Locating@Location",
+            "Hiding_objects@Hiding_place",
+            "Arriving@Goal",
+            "Scrutiny@Medium",
+            "Scrutiny@Instrument",
+            "Destroying@Destroyer",
+            "Hostile_encounter@Side_2",
+            "Hostile_encounter@Issue",
+            "Hostile_encounter@Side_2",
+            "Hostile_encounter@Issue",
+            "Perception_experience@Body_part",
+            "Hit_target@Agent",
+            "Perception_experience@Body_part",
+            "Downing@Agent",
+            "Questioning@Speaker",
+            "Questioning@Message",
+            "Questioning@Speaker",
+            "Questioning@Message",
+            "Questioning@Speaker",
+            "Questioning@Message",
+            "Questioning@Speaker",
+            "Questioning@Message",
+            "Questioning@Speaker",
+            "Questioning@Message",
+            "Request@Medium",
+            "Trial@Defense",
+            "Trial@Judge",
+            "Trial@Court",
+            "Trial@Defense",
+            "Trial@Judge",
+            "Questioning@Message"
+        ],
+        "raw text": "Is The MH17 Joint Investigation Team Avoiding The Question Of Kremlin Guilt?.\n\nThe Joint Investigation Team (JIT), comprised of investigators from Belgium, Australia, Ukraine, Malaysia and the Netherlands, is charged with bringing the \u201cperpetrators of the attack on MH17 (Malaysian Airlines Flight 17) to justice.\u201d The JIT has issued a YouTube video that traces the path of the BUK missile that allegedly shot down MH17 from its entry from Russia into eastern Ukraine, to its location near the crash site, and to its hasty retreat back into Russia. The JIT released the video to encourage eyewitnesses to come forward to testify. Insofar as such witnesses would be from occupied eastern Ukraine, the JIT has offered them a witness protection program. Russia Today (RT), the Kremlin\u2019s foreign propaganda arm, released a skeptical account of the JIT video, citing the lack of \u201cverifiable evidence made publicly available\u201d other than the Russian defense ministry\u2019s own evidence of \u201cUkrainian surface-to-air batteries and warplanes in the area on the day of the Boeing shooting.\u201d No matter what, the Kremlin will not give up its account that Ukraine was responsible. The JIT release contains videos of the BUK as it entered east Ukraine on a Volvo lorry, sat parked for the night at \u201chotel,\u201d preceded through various towns on its way to Torez, and then made its hasty exit back across the Russian border after the crash. The video also contains transcripts of intercepted conversations between the crew (code named Bibliotekar, or \u201clibrarian\u201d) and various controllers discussing the location of the BUK, where to park it, and confirmation the day after what they called \u201cyesterday\u2019s mess\u201d that \u201cthe truck is in Russia.\u201d The JIT release contains little that is new. The videos of the BUK as it moved from point to point and the intercepted phone calls have been widely circulated and commented upon. Although Russian sources heatedly dispute their authenticity, the Dutch public prosecutor has concluded that the audio intercepts are genuine. That may be the most important new news. If these intercepts are authentic, then the intercepts among rebel officials and Moscow in the immediate aftermath of the disaster should be authentic as well. I can appreciate the JIT\u2019s methodical approach, but calling for eyewitnesses will only bring forward conflicting accounts and even Russian plants. If the true goal is to bring the actual perpetrators to justice, the JIT should be talking to higher-ups, whose knowledge of and participation in the catastrophe has been apparent from day one. In my Is Putin Responsible For MH17? Five Questions For Investigators On Russian Culpability piece written last July, I offered JIT suggestions on whom to interview: Interrogate Igor Strelkov (real name Girkin), the self-appointed (former) commander of the People\u2019s Republic of Donetsk, about his social media posting a few minutes after the 4:30 PM crash of MH17 on July 18 about the shooting down of a transport plane: \u201cThis will teach them not to fly in our skies.\u201d Ask Strelkov why he removed the announcement a few minutes later. Interrogate Igor Bezler (alias Demon) about his informing Russian military intelligence colonel, Vasily Geranin, that a plane had been downed some fifteen minutes earlier. Interrogate the commander of the Vostok battalion, Alexander Khodakovsky, about his instructions starting at 5:53 PM to subordinates working at the crash scene to gather and hide wreckage, to give evidence only to Strelkov\u2019s people, to find and hide the black boxes, and that \u201chigh-level people in Moscow are very interested in this being done.\u201d Interrogate Oleg Bugrov, chief of staff of the self-proclaimed People\u2019s Republic of Luhansk about his July 14 conversation with Russian military intelligence officer, \u201cOreon,\u201d focusing on his statement \u201cNow we have BUKs, we can bring planes down.\u201d Interrogate Sergei Khmury, deputy chief of Igor Strelkov, about his July 17 conversation with \u201cBotsman,\u201d of Russian military intelligence and rebel activist \u201cBuryat\u201d stating, \u201cThank God, BUK-M arrived today in the morning.\u201d These figures represent the immediate command structure both in eastern Ukraine and their counterparts in Russia as of July 17. These individuals are not hard to find. Russian citizen, Strelkov, speaks regularly at public forums since his return to Russia, claiming that he started the war in east Ukraine. Bezler has posted a YouTube video denying he was \u201cneutralized\u201d by Russian intelligence and is alive and well in Poltava, Ukraine. Khodakovsky continues to command the Vostok battalion and has admitted (to Reuters) that the rebel forces have BUKs. I imagine that Ukrainian intelligence would be happy to give JIT the addresses of others conversationalists, such as Khmury, Bugrov and Geranin. In interrogating the Strelkovs. Bezlers, Khodakovskys and Khmurys, the JIT should probe the next level of political and military command. It defies logic to think that Russian BUKs (which require trained crews and complicated logistics) appeared for the urgent purpose of destroying Ukraine\u2019s air advantage over eastern Ukraine without the highest level of Russian military and Kremlin approval. Such a decision was well above the pay levels of those on the scene. The Guardian explains that the battle for compensation for the victims of MH17 will take years and will only be successful if governments take up the battle rather than leaving it to families. To quote one expert: \u201c[The case] would need to be pursued by one country against another country [Russia] using \u2026.arbitration or adjudication by the International Civil Aviation Organization council and if that fails a case in the international court of justice.\u201d That the JIT has yet to interview Russian and separatist officials and officers having intimate and invaluable information about the shooting down of MH17 seem to suggest a reluctance, if not cowardice, to bring the real perpetrators of the disaster to justice. Putin and the Kremlin need not worry. Even if the JIT got its act together and started to move up the ladder, Putin could grant Strelkov and Bezler et al either parliamentary immunity or an unexplained disappearance.\n",
+        "subevents": {
+            "mw4": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Surrendering_possession",
+                "frame elements": null,
+                "lemma": "give up",
+                "reftype": "type",
+                "sentence": "9"
+            },
+            "t101": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Quitting_a_place",
+                "frame elements": null,
+                "lemma": "retreat",
+                "reftype": "type",
+                "sentence": "4"
+            },
+            "t1016": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "battle",
+                "reftype": "evoke",
+                "sentence": "45"
+            },
+            "t1032": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Trial",
+                "frame elements": [
+                    "Trial@Case"
+                ],
+                "lemma": "case",
+                "reftype": "type",
+                "sentence": "46",
+                "target phrase": "[ the case ]"
+            },
+            "t1065": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Trial",
+                "frame elements": [
+                    "Trial@Case"
+                ],
+                "lemma": "case",
+                "reftype": "type",
+                "sentence": "46",
+                "target phrase": "a case in the international court of"
+            },
+            "t1080": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Questioning",
+                "frame elements": null,
+                "lemma": "interview",
+                "reftype": "type",
+                "sentence": "48"
+            },
+            "t1087": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Possession",
+                "frame elements": null,
+                "lemma": "have",
+                "reftype": "evoke",
+                "sentence": "48"
+            },
+            "t1112": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Committing_crime",
+                "frame elements": [
+                    "Downing@Agent",
+                    "Committing_crime@Perpetrator"
+                ],
+                "lemma": "perpetrator",
+                "reftype": "evoke",
+                "sentence": "48",
+                "target phrase": "the real perpetrator of the disaster"
+            },
+            "t113": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Perception_experience",
+                "frame elements": [
+                    "Perception_experience@Perceiver_passive"
+                ],
+                "lemma": "eyewitness",
+                "reftype": "evoke",
+                "sentence": "5",
+                "target phrase": "eyewitness"
+            },
+            "t1145": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Giving",
+                "frame elements": null,
+                "lemma": "grant",
+                "reftype": "type",
+                "sentence": "50"
+            },
+            "t118": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": null,
+                "lemma": "testify",
+                "reftype": "evoke",
+                "sentence": "5"
+            },
+            "t123": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Perception_experience",
+                "frame elements": [
+                    "Perception_experience@Perceiver_passive"
+                ],
+                "lemma": "witness",
+                "reftype": "evoke",
+                "sentence": "6",
+                "target phrase": "such witness"
+            },
+            "t169": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": null,
+                "lemma": "evidence",
+                "reftype": "evoke",
+                "sentence": "7"
+            },
+            "t182": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": [
+                    "Evidence@Support"
+                ],
+                "lemma": "evidence",
+                "reftype": "evoke",
+                "sentence": "7",
+                "target phrase": "the russian defense ministry \u2019s own evidence of \" ukrainian surface battery and warplane in the area on the day of"
+            },
+            "t233": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "enter",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t266": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Departing",
+                "frame elements": null,
+                "lemma": "exit",
+                "reftype": "evoke",
+                "sentence": "10"
+            },
+            "t283": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Chatting",
+                "frame elements": null,
+                "lemma": "conversation",
+                "reftype": "evoke",
+                "sentence": "11"
+            },
+            "t300": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "discuss",
+                "reftype": "type",
+                "sentence": "11"
+            },
+            "t350": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Motion",
+                "frame elements": null,
+                "lemma": "move",
+                "reftype": "evoke",
+                "sentence": "14"
+            },
+            "t359": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Contacting",
+                "frame elements": null,
+                "lemma": "call",
+                "reftype": "type",
+                "sentence": "14"
+            },
+            "t372": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Quarreling",
+                "frame elements": null,
+                "lemma": "dispute",
+                "reftype": "evoke",
+                "sentence": "15"
+            },
+            "t39": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Imposing_obligation",
+                "frame elements": null,
+                "lemma": "charge",
+                "reftype": "type",
+                "sentence": "2"
+            },
+            "t437": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Perception_experience",
+                "frame elements": [
+                    "Perception_experience@Perceiver_passive"
+                ],
+                "lemma": "eyewitness",
+                "reftype": "evoke",
+                "sentence": "18",
+                "target phrase": "eyewitness"
+            },
+            "t44": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Committing_crime",
+                "frame elements": [
+                    "Attack@Assailant",
+                    "Downing@Agent",
+                    "Committing_crime@Perpetrator"
+                ],
+                "lemma": "perpetrator",
+                "reftype": "evoke",
+                "sentence": "2",
+                "target phrase": "the \u201c perpetrator of the attack on"
+            },
+            "t458": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Committing_crime",
+                "frame elements": [
+                    "Committing_crime@Perpetrator"
+                ],
+                "lemma": "perpetrator",
+                "reftype": "evoke",
+                "sentence": "19",
+                "target phrase": "the actual perpetrator"
+            },
+            "t473": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Awareness",
+                "frame elements": null,
+                "lemma": "knowledge",
+                "reftype": "evoke",
+                "sentence": "19"
+            },
+            "t476": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Participation",
+                "frame elements": null,
+                "lemma": "participation",
+                "reftype": "evoke",
+                "sentence": "19"
+            },
+            "t516": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Questioning",
+                "frame elements": null,
+                "lemma": "interrogate",
+                "reftype": "type",
+                "sentence": "22"
+            },
+            "t545": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Sending",
+                "frame elements": [
+                    "Sending@Theme"
+                ],
+                "lemma": "post",
+                "reftype": "evoke",
+                "sentence": "22",
+                "target phrase": "-PRON- social medium post a few minute after the pm crash of on about"
+            },
+            "t585": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Removing",
+                "frame elements": null,
+                "lemma": "remove",
+                "reftype": "evoke",
+                "sentence": "25"
+            },
+            "t593": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Questioning",
+                "frame elements": null,
+                "lemma": "Interrogate",
+                "reftype": "type",
+                "sentence": "26"
+            },
+            "t622": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Questioning",
+                "frame elements": null,
+                "lemma": "interrogate",
+                "reftype": "type",
+                "sentence": "27"
+            },
+            "t635": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Request",
+                "frame elements": null,
+                "lemma": "instruction",
+                "reftype": "type",
+                "sentence": "27"
+            },
+            "t648": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Gathering_up",
+                "frame elements": [
+                    "Request@Message"
+                ],
+                "lemma": "gather",
+                "reftype": "type",
+                "sentence": "27",
+                "target phrase": "to gather and hide wreckage"
+            },
+            "t650": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hiding_objects",
+                "frame elements": null,
+                "lemma": "hide",
+                "reftype": "evoke",
+                "sentence": "27"
+            },
+            "t654": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Giving",
+                "frame elements": null,
+                "lemma": "give",
+                "reftype": "evoke",
+                "sentence": "27"
+            },
+            "t655": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Evidence",
+                "frame elements": [
+                    "Giving@Theme"
+                ],
+                "lemma": "evidence",
+                "reftype": "evoke",
+                "sentence": "27",
+                "target phrase": "evidence"
+            },
+            "t663": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Locating",
+                "frame elements": null,
+                "lemma": "find",
+                "reftype": "evoke",
+                "sentence": "27"
+            },
+            "t665": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hiding_objects",
+                "frame elements": null,
+                "lemma": "hide",
+                "reftype": "evoke",
+                "sentence": "27"
+            },
+            "t688": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Questioning",
+                "frame elements": null,
+                "lemma": "Interrogate",
+                "reftype": "type",
+                "sentence": "27"
+            },
+            "t737": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Questioning",
+                "frame elements": null,
+                "lemma": "Interrogate",
+                "reftype": "type",
+                "sentence": "30"
+            },
+            "t776": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "arrive",
+                "reftype": "evoke",
+                "sentence": "32"
+            },
+            "t817": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Chatting",
+                "frame elements": null,
+                "lemma": "speak",
+                "reftype": "type",
+                "sentence": "36"
+            },
+            "t82": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "entry",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t824": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Arriving",
+                "frame elements": null,
+                "lemma": "return",
+                "reftype": "evoke",
+                "sentence": "36"
+            },
+            "t828": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Statement",
+                "frame elements": null,
+                "lemma": "claim",
+                "reftype": "evoke",
+                "sentence": "36"
+            },
+            "t923": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Scrutiny",
+                "frame elements": null,
+                "lemma": "probe",
+                "reftype": "evoke",
+                "sentence": "42"
+            },
+            "t956": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Destroying",
+                "frame elements": [
+                    "Deny_or_grant_permission@Action",
+                    "Deciding@Decision"
+                ],
+                "lemma": "destroy",
+                "reftype": "evoke",
+                "sentence": "43",
+                "target phrase": "destroy Ukraine \u2019s air advantage over eastern Ukraine without the high level of"
+            },
+            "t973": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Deny_or_grant_permission",
+                "frame elements": null,
+                "lemma": "approval",
+                "reftype": "evoke",
+                "sentence": "43"
+            },
+            "t977": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Deciding",
+                "frame elements": null,
+                "lemma": "decision",
+                "reftype": "evoke",
+                "sentence": "44"
+            },
+            "t995": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Hostile_encounter",
+                "frame elements": null,
+                "lemma": "battle",
+                "reftype": "evoke",
+                "sentence": "45"
+            }
+        }
+    }
+}

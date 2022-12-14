@@ -1,0 +1,518 @@
+{
+    "Forensic Analysis of Satellite Images Released by the Russian Ministry of Defence": {
+        "fe's without links": {
+            "t137": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Make_cognitive_connection@Concept_1"
+                ],
+                "lemma": "Buks",
+                "sentence": "6",
+                "target phrase": "Ukrainian Buks"
+            },
+            "t40": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Discussion@Interlocutor_1"
+                ],
+                "lemma": "Ministry",
+                "sentence": "3",
+                "target phrase": "the russian Ministry of Defence"
+            },
+            "t440": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Breaking_apart@Pieces"
+                ],
+                "lemma": "debris",
+                "sentence": "23",
+                "target phrase": "debris from Flight MH17 as -PRON- break up over Ukraine"
+            },
+            "t488": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Giving@Theme"
+                ],
+                "lemma": "information",
+                "reftype": "evoke",
+                "sentence": "26",
+                "target phrase": "information publicly present by government since downing"
+            },
+            "t50": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Discussion@Interlocutor_2"
+                ],
+                "lemma": "press",
+                "sentence": "3",
+                "target phrase": "press"
+            },
+            "t511": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Attempt@Goal"
+                ],
+                "lemma": "deceive",
+                "sentence": "26",
+                "target phrase": "to deceive the public , global community"
+            },
+            "t513": {
+                "POS": "ADJ",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Giving@Recipient"
+                ],
+                "lemma": "public",
+                "sentence": "26",
+                "target phrase": "public"
+            },
+            "t61": {
+                "POS": "PROPN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Discussion@Interlocutor_1"
+                ],
+                "lemma": "MoD",
+                "sentence": "4",
+                "target phrase": "the Russian MoD"
+            },
+            "t65": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame elements": [
+                    "Discussion@Interlocutor_2"
+                ],
+                "lemma": "press",
+                "sentence": "4",
+                "target phrase": "press"
+            }
+        },
+        "frames/links": {
+            "Q159": {
+                "t494": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Giving@Donor"
+                    ],
+                    "lemma": "government",
+                    "reftype": "evoke",
+                    "sentence": "26",
+                    "target phrase": "the russian government"
+                },
+                "t509": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Attempt@Agent"
+                    ],
+                    "lemma": "government",
+                    "reftype": "evoke",
+                    "sentence": "26",
+                    "target phrase": "the russian government"
+                }
+            },
+            "Q1631025548534": {
+                "t525": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Catastrophe",
+                    "frame elements": [
+                        "Catastrophe@Patient"
+                    ],
+                    "lemma": "victim",
+                    "reftype": "evoke",
+                    "sentence": "26",
+                    "target phrase": "the Flight MH17 victim"
+                }
+            },
+            "Q1631864271612": {
+                "t143": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "6",
+                    "target phrase": "MH17"
+                },
+                "t423": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "22",
+                    "target phrase": "-PRON-"
+                },
+                "t445": {
+                    "POS": "PRON",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Breaking_apart@Whole"
+                    ],
+                    "lemma": "-PRON-",
+                    "sentence": "23",
+                    "target phrase": "-PRON-"
+                },
+                "t499": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "Flight",
+                    "sentence": "26",
+                    "target phrase": "Flight"
+                },
+                "t530": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "Flight",
+                    "sentence": "26",
+                    "target phrase": "Flight"
+                },
+                "t56": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "Flight",
+                    "sentence": "3",
+                    "target phrase": "Flight"
+                },
+                "t83": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "Flight",
+                    "sentence": "4",
+                    "target phrase": "Flight"
+                }
+            },
+            "Q1636580448374": {
+                "t75": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Intentionally_act@Agent"
+                    ],
+                    "lemma": "Ukraine",
+                    "sentence": "4",
+                    "target phrase": "Ukraine"
+                }
+            },
+            "Q17374096": {
+                "mw1": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Discussion@Topic"
+                    ],
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "4",
+                    "target phrase": "shoot down"
+                },
+                "mw2": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "22"
+                },
+                "mw3": {
+                    "POS": "VERB",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Catastrophe@Undesirable_event"
+                    ],
+                    "lemma": "shoot down",
+                    "reftype": "type",
+                    "sentence": "26",
+                    "target phrase": "shoot down"
+                },
+                "t141": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Make_cognitive_connection@Concept_2"
+                    ],
+                    "lemma": "downing",
+                    "reftype": "type",
+                    "sentence": "6",
+                    "target phrase": "the downing of MH17"
+                },
+                "t143": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "MH17",
+                    "sentence": "6",
+                    "target phrase": "MH17"
+                },
+                "t497": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": null,
+                    "lemma": "downing",
+                    "reftype": "type",
+                    "sentence": "26"
+                },
+                "t499": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "Flight",
+                    "sentence": "26",
+                    "target phrase": "Flight"
+                },
+                "t54": {
+                    "POS": "NOUN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": "Downing",
+                    "frame elements": [
+                        "Discussion@Topic"
+                    ],
+                    "lemma": "downing",
+                    "reftype": "type",
+                    "sentence": "3",
+                    "target phrase": "the downing of Flight MH17"
+                },
+                "t56": {
+                    "POS": "PROPN",
+                    "article": {
+                        "definite": null,
+                        "lemma": null
+                    },
+                    "frame": null,
+                    "frame elements": [
+                        "Downing@Patient"
+                    ],
+                    "lemma": "Flight",
+                    "sentence": "3",
+                    "target phrase": "Flight"
+                }
+            }
+        },
+        "historical distance": 318,
+        "implicated fe's": [
+            "Downing@Agent",
+            "Downing@Agent",
+            "Downing@Agent",
+            "Downing@Agent",
+            "Downing@Agent",
+            "Downing@Agent"
+        ],
+        "raw text": "Forensic Analysis of Satellite Images Released by the Russian Ministry of Defence.\n\nMH17 - Forensic Analysis of Satellite Images Released by the Russian Ministry of Defence In this new report Bellingcat examines satellite images released by the Russian Ministry of Defence as part of the July 21st 2014 press conference on the downing of Flight MH17. The Russian MoD stated at the press conference that the satellite photos show the activities of Ukraine\u2019s air defences on the day that Flight MH17 was shot down. In particular, the position of two Ukrainian Buk missile launchers south of the village Zaroschinskoe were shown to be within firing range of MH17. The Bellingcat investigation has found the following \u2013 \u2013 Satellite images presented by the Russian Ministry of Defence claiming to shown Ukrainian Buks linked to the downing of MH17 on July 14th and 17th are in fact older images from June 2014. \u2013 The discrepancies visible in the Russian MoD satellite map imagery which shows they are incorrectly dated are visible in publicly available imagery on Google Earth. \u2013 Error level analysis of the images also reveal the images have been edited. \u2013 This includes a Buk missile launcher that was removed to make it appear the Buk missile launcher was active on July 17th, and imagery where Buk missile launchers were added to make it appear they were within attack range of Flight MH17. Full versions of the report are available in Russian, German, and English. Images used in this report can be found here, and here without text.. With this new report all four major claims made at the Russian Ministry of Defence press conference have now been shown to be false: \u2013 The flight path was not altered in the way claimed by the Russian Ministry of Defence. Data from the Dutch Safety Board\u2019s preliminary report and other sources show Flight MH17 made no major course changes such as the one described in the Russian Ministry of Defence press conference. \u2013 The Russian Ministry of Defence claimed the video of the Buk missile launcher presented by the Ukrainian Ministry of Interior was filmed in the Ukrainian government control town of Krasnoarmeisk. This has been proven to be untrue, with analysis of the video showing it was filmed in the separatists controlled city of Luhansk. \u2013 Radar imagery was described as showing an aircraft close to Flight MH17 after it was shot down. Experts interviewed by various media organisations have stated this is almost certainly debris from Flight MH17 as it broke up over Eastern Ukraine. \u2013 Satellite imagery shows Ukrainian Buk activity around July 17th. As this report shows, those claims are untrue, and were based on fabricated satellite imagery. These claims, representing the majority of information publicly presented by the Russian government since the downing of Flight MH17, are a clear attempt by the Russian government to deceive the public, global community, and the families of the Flight MH17 victims, only days after Flight MH17 was shot down.\n",
+        "subevents": {
+            "t138": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Make_cognitive_connection",
+                "frame elements": null,
+                "lemma": "link",
+                "reftype": "type",
+                "sentence": "6"
+            },
+            "t446": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Breaking_apart",
+                "frame elements": null,
+                "lemma": "break",
+                "reftype": "type",
+                "sentence": "23"
+            },
+            "t490": {
+                "POS": "VERB",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Giving",
+                "frame elements": null,
+                "lemma": "present",
+                "reftype": "type",
+                "sentence": "26"
+            },
+            "t505": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Attempt",
+                "frame elements": null,
+                "lemma": "attempt",
+                "reftype": "evoke",
+                "sentence": "26"
+            },
+            "t51": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "3"
+            },
+            "t66": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Discussion",
+                "frame elements": null,
+                "lemma": "conference",
+                "reftype": "evoke",
+                "sentence": "4"
+            },
+            "t73": {
+                "POS": "NOUN",
+                "article": {
+                    "definite": null,
+                    "lemma": null
+                },
+                "frame": "Intentionally_act",
+                "frame elements": [
+                    "Intentionally_act@Act"
+                ],
+                "lemma": "activity",
+                "reftype": "evoke",
+                "sentence": "4",
+                "target phrase": "the activity of \u2019s air defence on the day"
+            }
+        }
+    }
+}
